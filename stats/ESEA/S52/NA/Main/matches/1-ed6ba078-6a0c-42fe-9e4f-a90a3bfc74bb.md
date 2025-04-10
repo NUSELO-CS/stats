@@ -2,7 +2,21 @@
 **Match Date**: 2025-03-03  
 **Teams**: jawgoo express vs Ghost Gaming  
 
-## **Map**: de_inferno - jawgoo express (9) vs Ghost Gaming (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Ghost Gaming | Banned | de_mirage |
+| 2 | jawgoo express | Banned | de_ancient |
+| 3 | jawgoo express | Banned | de_anubis |
+| 4 | Ghost Gaming | Banned | de_dust2 |
+| 5 | Ghost Gaming | Banned | de_train |
+| 6 | jawgoo express | Banned | de_nuke |
+| 7 | Ghost Gaming | Picked | de_inferno |
+
+---  
+
+### **Map**: de_inferno - jawgoo express (9) vs Ghost Gaming (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | 7licious           |     1.03     | 77.27 |        76.47         |                         100.00                         |           66.67           |                           100.00                            |          87.50           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **jawgoo express** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| 1HickMEISTER       |      25      |             8              |             12             |                 32                 |           12            |              48              |                4                |   14   |             21              |                 21                  |            0             |              64               |             14             |
-| jaw                |      14      |             7              |             21             |                 36                 |           29            |              57              |                7                |   18   |             28              |                 22                  |            6             |              61               |             6              |
-| goo                |      12      |             58             |             17             |                 42                 |            8            |              58              |               17                |   15   |             13              |                 20                  |            7             |              80               |             0              |
-| J13                |      10      |             10             |             20             |                 20                 |           20            |              60              |               10                |   18   |             11              |                 22                  |            0             |              72               |             11             |
-| R0cco              |      4       |             50             |             25             |                 0                  |            0            |              50              |                0                |   17   |             12              |                 24                  |            0             |              76               |             0              |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Ghost Gaming**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| EllieGGs           |      20      |             5              |             15             |                 50                 |           20            |              70              |               10                |   14   |              7              |                 21                  |            7             |              36               |             21             |
-| XPSAN              |      15      |             7              |             7              |                 40                 |           20            |              80              |                7                |   11   |              9              |                  9                  |            0             |              45               |             9              |
-| emuhleet64         |      18      |             17             |             28             |                 11                 |            6            |              78              |                6                |   14   |             21              |                 36                  |            14            |              71               |             7              |
-| Piggy-Kiki         |      15      |             20             |             20             |                 40                 |            7            |              73              |                0                |   13   |             31              |                 15                  |            0             |              62               |             0              |
-| 7licious           |      13      |             23             |             15             |                 31                 |            8            |              62              |                8                |   14   |             14              |                 21                  |            0             |              57               |             0              |
+| **jawgoo express** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| 1HickMEISTER       |      25      |             8              |             12             |                 32                 |           12            |              48              |                4                |                  12                   |         0          |     4     |
+| jaw                |      14      |             7              |             21             |                 36                 |           29            |              57              |                7                |                   0                   |         0          |     0     |
+| goo                |      12      |             58             |             17             |                 42                 |            8            |              58              |               17                |                   0                   |         0          |     1     |
+| J13                |      10      |             10             |             20             |                 20                 |           20            |              60              |               10                |                   0                   |         3          |     0     |
+| R0cco              |      4       |             50             |             25             |                 0                  |            0            |              50              |                0                |                   0                   |         0          |     1     |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Ghost Gaming**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| EllieGGs           |      20      |             5              |             15             |                 50                 |           20            |              70              |               10                |                   0                   |         2          |     0     |
+| XPSAN              |      15      |             7              |             7              |                 40                 |           20            |              80              |                7                |                   0                   |         0          |     1     |
+| emuhleet64         |      18      |             17             |             28             |                 11                 |            6            |              78              |                6                |                   0                   |         3          |     2     |
+| Piggy-Kiki         |      15      |             20             |             20             |                 40                 |            7            |              73              |                0                |                   7                   |         0          |     3     |
+| 7licious           |      13      |             23             |             15             |                 31                 |            8            |              62              |                8                |                   8                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **jawgoo express** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| 1HickMEISTER       |      14      |             21              |                21                 |            0             |              64               |             14             |             0             |       1       |
+| jaw                |      18      |             28              |                22                 |            6             |              61               |             6              |             6             |       0       |
+| goo                |      15      |             13              |                20                 |            7             |              80               |             0              |             7             |       2       |
+| J13                |      18      |             11              |                22                 |            0             |              72               |             11             |             0             |       1       |
+| R0cco              |      17      |             12              |                24                 |            0             |              76               |             0              |             0             |       1       |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+| **Ghost Gaming**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| EllieGGs           |      14      |              7              |                21                 |            7             |              36               |             21             |             0             |       1       |
+| XPSAN              |      11      |              9              |                 9                 |            0             |              45               |             9              |             0             |       0       |
+| emuhleet64         |      14      |             21              |                36                 |            14            |              71               |             7              |             7             |       0       |
+| Piggy-Kiki         |      13      |             31              |                15                 |            0             |              62               |             0              |            15             |       1       |
+| 7licious           |      14      |             14              |                21                 |            0             |              57               |             0              |             0             |       1       |

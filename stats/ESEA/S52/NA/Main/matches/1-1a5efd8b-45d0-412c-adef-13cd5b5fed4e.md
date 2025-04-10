@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-26  
 **Teams**: Amped Red vs Pigsty  
 
-## **Map**: de_anubis - Amped Red (13) vs Pigsty (16)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Pigsty | Banned | de_nuke |
+| 2 | Amped Red | Banned | de_dust2 |
+| 3 | Amped Red | Banned | de_ancient |
+| 4 | Pigsty | Banned | de_train |
+| 5 | Pigsty | Banned | de_inferno |
+| 6 | Amped Red | Banned | de_mirage |
+| 7 | Pigsty | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - Amped Red (13) vs Pigsty (16)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | _J4if         |     1.01     | 72.41 |        68.18         |                         93.75                          |           70.00           |                           100.00                            |          66.67           |                           88.89                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Amped Red** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Bankey_21     |      27      |             26             |             11             |                 37                 |            0            |              70              |                0                |   21   |             10              |                 14                  |            5             |              67               |             5              |
-| KennyT        |      23      |             22             |             17             |                 17                 |            9            |              57              |               13                |   23   |             35              |                 13                  |            0             |              83               |             9              |
-| SethP         |      19      |             32             |             47             |                 26                 |            0            |              47              |                0                |   28   |             29              |                 18                  |            4             |              50               |             18             |
-| crames_       |      14      |             21             |             14             |                 29                 |            7            |              86              |                0                |   21   |             29              |                 19                  |            5             |              81               |             5              |
-| DanielSw0w    |      14      |             29             |             14             |                 29                 |            7            |              64              |               14                |   21   |             24              |                 19                  |            5             |              52               |             14             |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Pigsty**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| B1gboss-      |      23      |             13             |             22             |                 43                 |           22            |              48              |               22                |   20   |             20              |                 25                  |            5             |              55               |             10             |
-| :)            |      27      |             11             |             30             |                 44                 |            7            |              70              |                7                |   21   |             43              |                 24                  |            14            |              62               |             0              |
-| soso          |      23      |             26             |             26             |                 9                  |            4            |              78              |                9                |   20   |             10              |                 25                  |            0             |              60               |             10             |
-| 08player      |      21      |             19             |             19             |                 19                 |            0            |              62              |               14                |   20   |             15              |                 25                  |            5             |              55               |             0              |
-| _J4if         |      18      |             6              |             39             |                 33                 |            6            |              72              |                0                |   18   |             17              |                 22                  |            0             |              83               |             6              |
+| **Amped Red** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Bankey_21     |      27      |             26             |             11             |                 37                 |            0            |              70              |                0                |                  11                   |         0          |     0     |
+| KennyT        |      23      |             22             |             17             |                 17                 |            9            |              57              |               13                |                   0                   |         8          |     3     |
+| SethP         |      19      |             32             |             47             |                 26                 |            0            |              47              |                0                |                   5                   |         0          |     0     |
+| crames_       |      14      |             21             |             14             |                 29                 |            7            |              86              |                0                |                   0                   |         0          |     0     |
+| DanielSw0w    |      14      |             29             |             14             |                 29                 |            7            |              64              |               14                |                   0                   |         0          |     0     |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Pigsty**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| B1gboss-      |      23      |             13             |             22             |                 43                 |           22            |              48              |               22                |                   4                   |         0          |     3     |
+| :)            |      27      |             11             |             30             |                 44                 |            7            |              70              |                7                |                   0                   |         0          |     2     |
+| soso          |      23      |             26             |             26             |                 9                  |            4            |              78              |                9                |                   0                   |         0          |     1     |
+| 08player      |      21      |             19             |             19             |                 19                 |            0            |              62              |               14                |                   5                   |         1          |     4     |
+| _J4if         |      18      |             6              |             39             |                 33                 |            6            |              72              |                0                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Amped Red** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player        |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Bankey_21     |      21      |             10              |                14                 |            5             |              67               |             5              |             0             |       1       |
+| KennyT        |      23      |             35              |                13                 |            0             |              83               |             9              |             0             |       0       |
+| SethP         |      28      |             29              |                18                 |            4             |              50               |             18             |             0             |       0       |
+| crames_       |      21      |             29              |                19                 |            5             |              81               |             5              |            10             |       0       |
+| DanielSw0w    |      21      |             24              |                19                 |            5             |              52               |             14             |             0             |       0       |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+| **Pigsty**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player        |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| B1gboss-      |      20      |             20              |                25                 |            5             |              55               |             10             |             5             |       1       |
+| :)            |      21      |             43              |                24                 |            14            |              62               |             0              |             5             |       3       |
+| soso          |      20      |             10              |                25                 |            0             |              60               |             10             |             0             |       2       |
+| 08player      |      20      |             15              |                25                 |            5             |              55               |             0              |             5             |       2       |
+| _J4if         |      18      |             17              |                22                 |            0             |              83               |             6              |             6             |       0       |

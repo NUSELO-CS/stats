@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-03  
 **Teams**: team_KWB7 vs BluRoze CS  
 
-## **Map**: de_anubis - team_KWB7 (8) vs BluRoze CS (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | team_KWB7 | Banned | de_nuke |
+| 2 | BluRoze CS | Banned | de_inferno |
+| 3 | BluRoze CS | Banned | de_train |
+| 4 | team_KWB7 | Banned | de_dust2 |
+| 5 | team_KWB7 | Banned | de_mirage |
+| 6 | BluRoze CS | Banned | de_ancient |
+| 7 | team_KWB7 | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - team_KWB7 (8) vs BluRoze CS (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Elcar0         |     1.16     | 85.71 |        66.67         |                         92.31                          |           62.50           |                           100.00                            |          70.00           |                           87.50                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **team_KWB7**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| olismartBTW    |      22      |             45             |             9              |                 18                 |            0            |              64              |                5                |   13   |             23              |                 23                  |            0             |              92               |             0              |
-| KWB7           |      15      |             33             |             40             |                 20                 |            0            |              53              |                0                |   17   |             47              |                 18                  |            0             |              53               |             0              |
-| Neeth24        |      10      |             30             |             50             |                 20                 |            0            |              40              |               20                |   14   |             29              |                  0                  |            0             |              71               |             0              |
-| Monkey0612     |      7       |             29             |             43             |                 14                 |            0            |              57              |                0                |   17   |             24              |                 12                  |            0             |              59               |             12             |
-| dbiggar71      |      5       |             0              |             40             |                 20                 |            0            |              60              |                0                |   16   |             25              |                 19                  |            0             |              63               |             6              |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **BluRoze CS** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| DigitalSiX     |      16      |             13             |             25             |                 50                 |           19            |              56              |               13                |   15   |             33              |                 47                  |            7             |              53               |             7              |
-| jonasen9       |      17      |             12             |             35             |                 41                 |            6            |              76              |                0                |   11   |             55              |                 45                  |            9             |              73               |             0              |
-| Triatomic      |      14      |             29             |             29             |                 21                 |            0            |              50              |                7                |   10   |             20              |                 30                  |            0             |              50               |             10             |
-| FemboyNova     |      16      |             31             |             31             |                 31                 |            0            |              69              |                0                |   13   |             15              |                 46                  |            0             |              38               |             0              |
-| Elcar0         |      13      |             38             |             23             |                 62                 |            0            |              77              |                0                |   11   |             18              |                 55                  |            9             |              55               |             9              |
+| **team_KWB7**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| olismartBTW    |      22      |             45             |             9              |                 18                 |            0            |              64              |                5                |                   0                   |         11         |     2     |
+| KWB7           |      15      |             33             |             40             |                 20                 |            0            |              53              |                0                |                   0                   |         0          |     4     |
+| Neeth24        |      10      |             30             |             50             |                 20                 |            0            |              40              |               20                |                   0                   |         0          |     2     |
+| Monkey0612     |      7       |             29             |             43             |                 14                 |            0            |              57              |                0                |                   0                   |         0          |     2     |
+| dbiggar71      |      5       |             0              |             40             |                 20                 |            0            |              60              |                0                |                   0                   |         0          |     0     |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **BluRoze CS** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| DigitalSiX     |      16      |             13             |             25             |                 50                 |           19            |              56              |               13                |                   0                   |         0          |     3     |
+| jonasen9       |      17      |             12             |             35             |                 41                 |            6            |              76              |                0                |                   6                   |         9          |     1     |
+| Triatomic      |      14      |             29             |             29             |                 21                 |            0            |              50              |                7                |                   0                   |         0          |     0     |
+| FemboyNova     |      16      |             31             |             31             |                 31                 |            0            |              69              |                0                |                   0                   |         0          |     0     |
+| Elcar0         |      13      |             38             |             23             |                 62                 |            0            |              77              |                0                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **team_KWB7**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| olismartBTW    |      13      |             23              |                23                 |            0             |              92               |             0              |             0             |       1       |
+| KWB7           |      17      |             47              |                18                 |            0             |              53               |             0              |             0             |       0       |
+| Neeth24        |      14      |             29              |                 0                 |            0             |              71               |             0              |             0             |       3       |
+| Monkey0612     |      17      |             24              |                12                 |            0             |              59               |             12             |             0             |       2       |
+| dbiggar71      |      16      |             25              |                19                 |            0             |              63               |             6              |             6             |       3       |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+| **BluRoze CS** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| DigitalSiX     |      15      |             33              |                47                 |            7             |              53               |             7              |             0             |       3       |
+| jonasen9       |      11      |             55              |                45                 |            9             |              73               |             0              |             0             |       2       |
+| Triatomic      |      10      |             20              |                30                 |            0             |              50               |             10             |             0             |       0       |
+| FemboyNova     |      13      |             15              |                46                 |            0             |              38               |             0              |             0             |       2       |
+| Elcar0         |      11      |             18              |                55                 |            9             |              55               |             9              |             0             |       4       |

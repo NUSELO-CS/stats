@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-24  
 **Teams**: MarcaRegistrada vs Tsunami  
 
-## **Map**: de_anubis - MarcaRegistrada (6) vs Tsunami (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Tsunami | Banned | de_inferno |
+| 2 | MarcaRegistrada | Banned | de_nuke |
+| 3 | MarcaRegistrada | Banned | de_train |
+| 4 | Tsunami | Banned | de_dust2 |
+| 5 | Tsunami | Banned | de_mirage |
+| 6 | MarcaRegistrada | Banned | de_ancient |
+| 7 | Tsunami | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - MarcaRegistrada (6) vs Tsunami (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | CAJUN--             |     1.12     | 78.95 |        80.00         |                         92.31                          |          100.00           |                           100.00                            |          70.00           |                           87.50                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **MarcaRegistrada** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Majesticzz          |      13      |             31             |             8              |                 38                 |            8            |              69              |                0                |   14   |             14              |                 29                  |            7             |              50               |             14             |
-| a_m_c               |      16      |             13             |             31             |                 44                 |           13            |              63              |                6                |   15   |             27              |                 20                  |            0             |              67               |             13             |
-| _Jardani            |      12      |             8              |             50             |                 17                 |            0            |              67              |                8                |   18   |             17              |                 28                  |            6             |              44               |             6              |
-| spamzzy             |      8       |             13             |             25             |                 63                 |           25            |              38              |               13                |   14   |              7              |                 21                  |            0             |              64               |             0              |
-| b1---               |      8       |             25             |             50             |                 38                 |            0            |              50              |               25                |   19   |             11              |                 26                  |            5             |              37               |             16             |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Tsunami**         | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Pose1doNN           |      18      |             22             |             11             |                 50                 |           11            |              56              |               11                |   11   |             27              |                 45                  |            9             |              64               |             0              |
-| CooIComs            |      18      |             22             |             6              |                 39                 |           11            |              39              |               22                |   10   |             30              |                 40                  |            10            |              80               |             0              |
-| FxRE                |      15      |             20             |             33             |                 53                 |           27            |              60              |                7                |   11   |             45              |                 27                  |            9             |              45               |             27             |
-| Dropcs              |      16      |             13             |             6              |                 25                 |            6            |              44              |                6                |   12   |             25              |                 50                  |            17            |              42               |             0              |
-| CAJUN--             |      13      |             15             |             23             |                 46                 |           23            |              54              |                0                |   13   |             31              |                 31                  |            8             |              62               |             15             |
+| **MarcaRegistrada** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Majesticzz          |      13      |             31             |             8              |                 38                 |            8            |              69              |                0                |                   0                   |         0          |     1     |
+| a_m_c               |      16      |             13             |             31             |                 44                 |           13            |              63              |                6                |                   0                   |         1          |     2     |
+| _Jardani            |      12      |             8              |             50             |                 17                 |            0            |              67              |                8                |                   0                   |         0          |     1     |
+| spamzzy             |      8       |             13             |             25             |                 63                 |           25            |              38              |               13                |                   0                   |         0          |     2     |
+| b1---               |      8       |             25             |             50             |                 38                 |            0            |              50              |               25                |                   0                   |         0          |     0     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Tsunami**         | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Pose1doNN           |      18      |             22             |             11             |                 50                 |           11            |              56              |               11                |                   0                   |         4          |     0     |
+| CooIComs            |      18      |             22             |             6              |                 39                 |           11            |              39              |               22                |                  11                   |         0          |     1     |
+| FxRE                |      15      |             20             |             33             |                 53                 |           27            |              60              |                7                |                   7                   |         0          |     2     |
+| Dropcs              |      16      |             13             |             6              |                 25                 |            6            |              44              |                6                |                  19                   |         0          |     3     |
+| CAJUN--             |      13      |             15             |             23             |                 46                 |           23            |              54              |                0                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **MarcaRegistrada** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Majesticzz          |      14      |             14              |                29                 |            7             |              50               |             14             |            21             |       0       |
+| a_m_c               |      15      |             27              |                20                 |            0             |              67               |             13             |             0             |       2       |
+| _Jardani            |      18      |             17              |                28                 |            6             |              44               |             6              |             6             |       1       |
+| spamzzy             |      14      |              7              |                21                 |            0             |              64               |             0              |             0             |       1       |
+| b1---               |      19      |             11              |                26                 |            5             |              37               |             16             |            11             |       0       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **Tsunami**         | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Pose1doNN           |      11      |             27              |                45                 |            9             |              64               |             0              |             0             |       0       |
+| CooIComs            |      10      |             30              |                40                 |            10            |              80               |             0              |             0             |       0       |
+| FxRE                |      11      |             45              |                27                 |            9             |              45               |             27             |             0             |       0       |
+| Dropcs              |      12      |             25              |                50                 |            17            |              42               |             0              |             0             |       0       |
+| CAJUN--             |      13      |             31              |                31                 |            8             |              62               |             15             |             0             |       1       |

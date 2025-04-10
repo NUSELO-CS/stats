@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-07  
 **Teams**: Rush3D vs Dire  
 
-## **Map**: de_anubis - Rush3D (5) vs Dire (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Dire | Banned | de_inferno |
+| 2 | Rush3D | Banned | de_ancient |
+| 3 | Rush3D | Banned | de_mirage |
+| 4 | Dire | Banned | de_train |
+| 5 | Dire | Banned | de_nuke |
+| 6 | Rush3D | Banned | de_dust2 |
+| 7 | Dire | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - Rush3D (5) vs Dire (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | bottl9      |     1.06     | 83.33 |        80.00         |                         92.31                          |          100.00           |                            83.33                            |          70.00           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Rush3D**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| cacao       |      12      |             0              |             42             |                 17                 |            0            |              75              |                0                |   12   |             17              |                  0                  |            0             |              75               |             17             |
-| niposuni666 |      16      |             0              |             25             |                 19                 |            0            |              63              |                6                |   16   |              0              |                  6                  |            0             |              69               |             0              |
-| peacedose-  |      10      |             30             |             40             |                 10                 |            0            |              80              |                0                |   14   |              7              |                  7                  |            0             |              79               |             0              |
-| Forp        |      7       |             29             |             86             |                 0                  |            0            |              43              |               14                |   15   |              7              |                  7                  |            0             |              40               |             0              |
-| CaH9_rPaHta |      6       |             17             |             50             |                 0                  |            0            |              83              |                0                |   15   |             20              |                  0                  |            0             |              40               |             7              |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Dire**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| doka        |      21      |             38             |             10             |                 52                 |           33            |              52              |                0                |   10   |             60              |                 10                  |            0             |              50               |             20             |
-| FevraLYX    |      14      |             36             |             0              |                 21                 |            0            |              64              |                0                |   7    |             43              |                  0                  |            0             |              86               |             0              |
-| sapphire    |      14      |             36             |             0              |                 14                 |            0            |              64              |                0                |   9    |             22              |                 11                  |            11            |              78               |             0              |
-| happy-      |      12      |             8              |             17             |                 8                  |            0            |              67              |               17                |   12   |             33              |                 17                  |            8             |              75               |             0              |
-| bottl9      |      11      |             18             |             27             |                 27                 |           27            |              55              |                9                |   13   |             54              |                 23                  |            8             |              62               |             0              |
+| **Rush3D**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| cacao       |      12      |             0              |             42             |                 17                 |            0            |              75              |                0                |                   0                   |         9          |     1     |
+| niposuni666 |      16      |             0              |             25             |                 19                 |            0            |              63              |                6                |                   0                   |         0          |     2     |
+| peacedose-  |      10      |             30             |             40             |                 10                 |            0            |              80              |                0                |                  10                   |         0          |     0     |
+| Forp        |      7       |             29             |             86             |                 0                  |            0            |              43              |               14                |                   0                   |         0          |     0     |
+| CaH9_rPaHta |      6       |             17             |             50             |                 0                  |            0            |              83              |                0                |                   0                   |         0          |     2     |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Dire**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| doka        |      21      |             38             |             10             |                 52                 |           33            |              52              |                0                |                   0                   |         0          |     2     |
+| FevraLYX    |      14      |             36             |             0              |                 21                 |            0            |              64              |                0                |                   0                   |         0          |     2     |
+| sapphire    |      14      |             36             |             0              |                 14                 |            0            |              64              |                0                |                   0                   |         6          |     3     |
+| happy-      |      12      |             8              |             17             |                 8                  |            0            |              67              |               17                |                   8                   |         0          |     1     |
+| bottl9      |      11      |             18             |             27             |                 27                 |           27            |              55              |                9                |                  18                   |         1          |     2     |
+## Extended Deaths Stats  
+
+| **Rush3D**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player      |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| cacao       |      12      |             17              |                 0                 |            0             |              75               |             17             |             8             |       2       |
+| niposuni666 |      16      |              0              |                 6                 |            0             |              69               |             0              |             0             |       2       |
+| peacedose-  |      14      |              7              |                 7                 |            0             |              79               |             0              |             7             |       1       |
+| Forp        |      15      |              7              |                 7                 |            0             |              40               |             0              |             0             |       1       |
+| CaH9_rPaHta |      15      |             20              |                 0                 |            0             |              40               |             7              |             7             |       1       |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+| **Dire**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player      |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| doka        |      10      |             60              |                10                 |            0             |              50               |             20             |             0             |       1       |
+| FevraLYX    |      7       |             43              |                 0                 |            0             |              86               |             0              |             0             |       1       |
+| sapphire    |      9       |             22              |                11                 |            11            |              78               |             0              |            11             |       2       |
+| happy-      |      12      |             33              |                17                 |            8             |              75               |             0              |             0             |       4       |
+| bottl9      |      13      |             54              |                23                 |            8             |              62               |             0              |             0             |       1       |

@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-28  
 **Teams**: Hot Loaders vs clowncar  
 
-## **Map**: de_mirage - Hot Loaders (7) vs clowncar (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Hot Loaders | Banned | de_anubis |
+| 2 | clowncar | Banned | de_inferno |
+| 3 | clowncar | Banned | de_dust2 |
+| 4 | Hot Loaders | Banned | de_nuke |
+| 5 | Hot Loaders | Banned | de_train |
+| 6 | clowncar | Banned | de_ancient |
+| 7 | Hot Loaders | Picked | de_mirage |
+
+---  
+
+### **Map**: de_mirage - Hot Loaders (7) vs clowncar (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | proto-          |     0.70     | 65.00 |        92.31         |                         92.31                          |          100.00           |                           100.00                            |          80.00           |                           80.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Hot Loaders** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Brod1220        |      22      |             18             |             32             |                 18                 |            9            |              55              |                0                |   13   |              8              |                 15                  |            0             |              54               |             8              |
-| Nosom           |      13      |             15             |             31             |                 38                 |           15            |              69              |                8                |   17   |             18              |                 18                  |            6             |              53               |             12             |
-| Ryduuur         |      14      |             21             |             14             |                 50                 |            7            |              86              |                0                |   18   |             17              |                 17                  |            0             |              72               |             11             |
-| pogersss        |      9       |             11             |             11             |                 22                 |            0            |              22              |               33                |   15   |             20              |                 13                  |            0             |              60               |             0              |
-| Yuenanimous     |      9       |             22             |             33             |                 0                  |            0            |              22              |                0                |   16   |             19              |                 13                  |            0             |              69               |             6              |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **clowncar**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| daverski        |      25      |             16             |             8              |                 28                 |           12            |              48              |               12                |   12   |             17              |                 17                  |            8             |              75               |             8              |
-| yurtbomb        |      17      |             24             |             24             |                 35                 |           18            |              76              |                6                |   11   |             27              |                  9                  |            9             |              55               |             9              |
-| NicJam          |      16      |             25             |             13             |                 44                 |           19            |              56              |               13                |   13   |             23              |                 23                  |            15            |              46               |             8              |
-| bud             |      13      |             15             |             23             |                 38                 |           23            |              69              |                0                |   15   |             27              |                 27                  |            7             |              60               |             0              |
-| proto-          |      8       |             13             |             25             |                 50                 |           38            |              63              |                0                |   16   |             31              |                 25                  |            6             |              50               |             6              |
+| **Hot Loaders** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Brod1220        |      22      |             18             |             32             |                 18                 |            9            |              55              |                0                |                   5                   |         0          |     3     |
+| Nosom           |      13      |             15             |             31             |                 38                 |           15            |              69              |                8                |                   0                   |         0          |     2     |
+| Ryduuur         |      14      |             21             |             14             |                 50                 |            7            |              86              |                0                |                  14                   |         4          |     2     |
+| pogersss        |      9       |             11             |             11             |                 22                 |            0            |              22              |               33                |                   0                   |         0          |     0     |
+| Yuenanimous     |      9       |             22             |             33             |                 0                  |            0            |              22              |                0                |                   0                   |         0          |     0     |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **clowncar**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| daverski        |      25      |             16             |             8              |                 28                 |           12            |              48              |               12                |                   0                   |         3          |     4     |
+| yurtbomb        |      17      |             24             |             24             |                 35                 |           18            |              76              |                6                |                   0                   |         0          |     3     |
+| NicJam          |      16      |             25             |             13             |                 44                 |           19            |              56              |               13                |                   0                   |         0          |     0     |
+| bud             |      13      |             15             |             23             |                 38                 |           23            |              69              |                0                |                   0                   |         3          |     0     |
+| proto-          |      8       |             13             |             25             |                 50                 |           38            |              63              |                0                |                  13                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Hot Loaders** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Brod1220        |      13      |              8              |                15                 |            0             |              54               |             8              |             0             |       1       |
+| Nosom           |      17      |             18              |                18                 |            6             |              53               |             12             |             0             |       1       |
+| Ryduuur         |      18      |             17              |                17                 |            0             |              72               |             11             |             0             |       0       |
+| pogersss        |      15      |             20              |                13                 |            0             |              60               |             0              |             7             |       1       |
+| Yuenanimous     |      16      |             19              |                13                 |            0             |              69               |             6              |             0             |       3       |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+| **clowncar**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| daverski        |      12      |             17              |                17                 |            8             |              75               |             8              |             8             |       1       |
+| yurtbomb        |      11      |             27              |                 9                 |            9             |              55               |             9              |             9             |       0       |
+| NicJam          |      13      |             23              |                23                 |            15            |              46               |             8              |             8             |       0       |
+| bud             |      15      |             27              |                27                 |            7             |              60               |             0              |             0             |       1       |
+| proto-          |      16      |             31              |                25                 |            6             |              50               |             6              |             0             |       2       |

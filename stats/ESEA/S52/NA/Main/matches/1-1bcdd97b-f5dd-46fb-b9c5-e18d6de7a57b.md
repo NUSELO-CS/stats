@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-19  
 **Teams**: Hot Loaders vs N w G  
 
-## **Map**: de_dust2 - Hot Loaders (7) vs N w G (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | N w G | Banned | de_ancient |
+| 2 | Hot Loaders | Banned | de_nuke |
+| 3 | Hot Loaders | Banned | de_anubis |
+| 4 | N w G | Banned | de_mirage |
+| 5 | N w G | Banned | de_inferno |
+| 6 | Hot Loaders | Banned | de_train |
+| 7 | N w G | Picked | de_dust2 |
+
+---  
+
+### **Map**: de_dust2 - Hot Loaders (7) vs N w G (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Ghostii         |     0.90     | 60.00 |        91.67         |                         84.62                          |          100.00           |                            85.71                            |          83.33           |                           83.33                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Hot Loaders** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Nosom           |      24      |             21             |             13             |                 38                 |            0            |              63              |                4                |   14   |              7              |                  0                  |            0             |              57               |             29             |
-| Yuenanimous     |      13      |             31             |             8              |                 15                 |            0            |              54              |                8                |   14   |             14              |                  7                  |            0             |              57               |             0              |
-| Brod1220        |      13      |             15             |             38             |                 15                 |            0            |              62              |                0                |   17   |             12              |                  6                  |            0             |              47               |             18             |
-| Ryduuur         |      11      |             9              |             18             |                 9                  |            0            |              55              |                9                |   17   |             29              |                  6                  |            0             |              65               |             0              |
-| pogersss        |      9       |             11             |             44             |                 11                 |            0            |              89              |               11                |   16   |             19              |                  6                  |            0             |              31               |             13             |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **N w G**       | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| sLi             |      23      |             22             |             17             |                 35                 |            9            |              30              |               13                |   13   |              8              |                 31                  |            8             |              54               |             0              |
-| KIRE            |      16      |             13             |             13             |                 31                 |            0            |              44              |               13                |   15   |             27              |                 33                  |            13            |              47               |             7              |
-| s0cx            |      13      |             15             |             15             |                 62                 |           15            |              69              |               15                |   13   |             31              |                 23                  |            8             |              85               |             0              |
-| Jacob-----      |      15      |             13             |             20             |                 53                 |           40            |              60              |               13                |   17   |             24              |                 29                  |            6             |              65               |             6              |
-| Ghostii         |      11      |             18             |             18             |                 27                 |            0            |              73              |                0                |   12   |             17              |                 25                  |            0             |              67               |             17             |
+| **Hot Loaders** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Nosom           |      24      |             21             |             13             |                 38                 |            0            |              63              |                4                |                   0                   |         2          |     2     |
+| Yuenanimous     |      13      |             31             |             8              |                 15                 |            0            |              54              |                8                |                   0                   |         0          |     1     |
+| Brod1220        |      13      |             15             |             38             |                 15                 |            0            |              62              |                0                |                   0                   |         0          |     0     |
+| Ryduuur         |      11      |             9              |             18             |                 9                  |            0            |              55              |                9                |                   0                   |         5          |     2     |
+| pogersss        |      9       |             11             |             44             |                 11                 |            0            |              89              |               11                |                   0                   |         0          |     3     |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **N w G**       | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| sLi             |      23      |             22             |             17             |                 35                 |            9            |              30              |               13                |                   9                   |         0          |     1     |
+| KIRE            |      16      |             13             |             13             |                 31                 |            0            |              44              |               13                |                   0                   |         3          |     0     |
+| s0cx            |      13      |             15             |             15             |                 62                 |           15            |              69              |               15                |                   0                   |         1          |     3     |
+| Jacob-----      |      15      |             13             |             20             |                 53                 |           40            |              60              |               13                |                   0                   |         0          |     0     |
+| Ghostii         |      11      |             18             |             18             |                 27                 |            0            |              73              |                0                |                   9                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **Hot Loaders** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Nosom           |      14      |              7              |                 0                 |            0             |              57               |             29             |             0             |       1       |
+| Yuenanimous     |      14      |             14              |                 7                 |            0             |              57               |             0              |             7             |       1       |
+| Brod1220        |      17      |             12              |                 6                 |            0             |              47               |             18             |             6             |       0       |
+| Ryduuur         |      17      |             29              |                 6                 |            0             |              65               |             0              |             0             |       1       |
+| pogersss        |      16      |             19              |                 6                 |            0             |              31               |             13             |             6             |       1       |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+| **N w G**       | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| sLi             |      13      |              8              |                31                 |            8             |              54               |             0              |             0             |       2       |
+| KIRE            |      15      |             27              |                33                 |            13            |              47               |             7              |             0             |       0       |
+| s0cx            |      13      |             31              |                23                 |            8             |              85               |             0              |             0             |       3       |
+| Jacob-----      |      17      |             24              |                29                 |            6             |              65               |             6              |             0             |       1       |
+| Ghostii         |      12      |             17              |                25                 |            0             |              67               |             17             |             0             |       1       |

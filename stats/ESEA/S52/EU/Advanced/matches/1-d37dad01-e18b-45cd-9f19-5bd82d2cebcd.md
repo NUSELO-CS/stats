@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-15  
 **Teams**: Need ORG - LFO vs ex-ihg  
 
-## **Map**: de_ancient - Need ORG - LFO (13) vs ex-ihg (4)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | ex-ihg | Banned | de_inferno |
+| 2 | Need ORG - LFO | Banned | de_dust2 |
+| 3 | Need ORG - LFO | Banned | de_mirage |
+| 4 | ex-ihg | Banned | de_train |
+| 5 | ex-ihg | Banned | de_nuke |
+| 6 | Need ORG - LFO | Banned | de_anubis |
+| 7 | ex-ihg | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - Need ORG - LFO (13) vs ex-ihg (4)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | twzxyolo           |     0.63     | 76.47 |        23.08         |                         75.00                          |           0.00            |                            0.00                             |          30.00           |                           75.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Need ORG - LFO** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| awpdotcom          |      22      |             18             |             41             |                 41                 |            5            |              59              |               18                |   11   |             27              |                 36                  |            9             |              73               |             0              |
-| stesso             |      16      |             13             |             38             |                 56                 |           13            |              69              |                0                |   10   |             30              |                 30                  |            0             |              60               |             10             |
-| gim44              |      12      |             17             |             25             |                 25                 |            8            |              58              |                0                |   9    |             33              |                 44                  |            0             |              78               |             11             |
-| w1dow-             |      11      |             27             |             27             |                 18                 |            0            |              55              |                0                |   11   |             55              |                 36                  |            0             |              64               |             0              |
-| BehinDx            |      11      |             18             |             9              |                 9                  |            0            |              64              |                9                |   9    |             22              |                 56                  |            11            |              44               |             11             |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **ex-ihg**         | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| SpavaQu            |      14      |             29             |             36             |                 14                 |            0            |              64              |                7                |   15   |             20              |                 33                  |            0             |              67               |             27             |
-| furland            |      9       |             22             |             22             |                 22                 |            0            |              89              |                0                |   13   |             23              |                 23                  |            0             |              54               |             8              |
-| AxEcHo             |      13      |             23             |             38             |                 23                 |            0            |              38              |                8                |   15   |             13              |                 27                  |            0             |              73               |             0              |
-| next1me            |      8       |             75             |             38             |                 13                 |            0            |              88              |                0                |   14   |             43              |                 21                  |            0             |              50               |             0              |
-| twzxyolo           |      6       |             50             |             33             |                 17                 |            0            |              50              |               17                |   15   |             53              |                 20                  |            0             |              67               |             0              |
+| **Need ORG - LFO** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| awpdotcom          |      22      |             18             |             41             |                 41                 |            5            |              59              |               18                |                   0                   |         5          |     3     |
+| stesso             |      16      |             13             |             38             |                 56                 |           13            |              69              |                0                |                   0                   |         0          |     3     |
+| gim44              |      12      |             17             |             25             |                 25                 |            8            |              58              |                0                |                   0                   |         0          |     0     |
+| w1dow-             |      11      |             27             |             27             |                 18                 |            0            |              55              |                0                |                   0                   |         0          |     2     |
+| BehinDx            |      11      |             18             |             9              |                 9                  |            0            |              64              |                9                |                   9                   |         0          |     2     |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **ex-ihg**         | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| SpavaQu            |      14      |             29             |             36             |                 14                 |            0            |              64              |                7                |                   7                   |         1          |     0     |
+| furland            |      9       |             22             |             22             |                 22                 |            0            |              89              |                0                |                   0                   |         0          |     4     |
+| AxEcHo             |      13      |             23             |             38             |                 23                 |            0            |              38              |                8                |                   0                   |         0          |     0     |
+| next1me            |      8       |             75             |             38             |                 13                 |            0            |              88              |                0                |                  13                   |         0          |     1     |
+| twzxyolo           |      6       |             50             |             33             |                 17                 |            0            |              50              |               17                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Need ORG - LFO** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| awpdotcom          |      11      |             27              |                36                 |            9             |              73               |             0              |             0             |       0       |
+| stesso             |      10      |             30              |                30                 |            0             |              60               |             10             |            20             |       0       |
+| gim44              |      9       |             33              |                44                 |            0             |              78               |             11             |             0             |       1       |
+| w1dow-             |      11      |             55              |                36                 |            0             |              64               |             0              |             0             |       0       |
+| BehinDx            |      9       |             22              |                56                 |            11            |              44               |             11             |             0             |       0       |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+| **ex-ihg**         | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| SpavaQu            |      15      |             20              |                33                 |            0             |              67               |             27             |             0             |       2       |
+| furland            |      13      |             23              |                23                 |            0             |              54               |             8              |             0             |       0       |
+| AxEcHo             |      15      |             13              |                27                 |            0             |              73               |             0              |             0             |       1       |
+| next1me            |      14      |             43              |                21                 |            0             |              50               |             0              |             0             |       0       |
+| twzxyolo           |      15      |             53              |                20                 |            0             |              67               |             0              |             7             |       2       |

@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-21  
 **Teams**: straykids vs KrakenSeasGG  
 
-## **Map**: de_mirage - straykids (3) vs KrakenSeasGG (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | KrakenSeasGG | Banned | de_nuke |
+| 2 | straykids | Banned | de_inferno |
+| 3 | straykids | Banned | de_train |
+| 4 | KrakenSeasGG | Banned | de_dust2 |
+| 5 | KrakenSeasGG | Banned | de_ancient |
+| 6 | straykids | Banned | de_anubis |
+| 7 | KrakenSeasGG | Picked | de_mirage |
+
+---  
+
+### **Map**: de_mirage - straykids (3) vs KrakenSeasGG (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | sh1rax           |     0.77     | 81.25 |        92.31         |                         92.31                          |          100.00           |                           100.00                            |          88.89           |                           88.89                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **straykids**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| nosaeR           |      11      |             27             |             27             |                 9                  |            0            |              64              |                0                |   13   |             15              |                  0                  |            0             |              69               |             15             |
-| doltn            |      11      |             36             |             18             |                 9                  |            0            |              45              |                0                |   15   |             20              |                  0                  |            0             |              67               |             7              |
-| flixxy           |      9       |             22             |             56             |                 0                  |            0            |              89              |                0                |   12   |              0              |                  0                  |            0             |              58               |             8              |
-| DJF              |      8       |             0              |             13             |                 25                 |            0            |              50              |                0                |   14   |              7              |                  0                  |            0             |              57               |             0              |
-| Zebra            |      5       |             0              |             40             |                 20                 |            0            |              40              |               20                |   14   |             36              |                  7                  |            0             |              79               |             7              |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **KrakenSeasGG** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Zoker            |      22      |             14             |             5              |                 41                 |           32            |              68              |                9                |   10   |             30              |                 30                  |            20            |              70               |             0              |
-| tanner           |      15      |             13             |             13             |                 27                 |            7            |              73              |                0                |   8    |             25              |                 25                  |            13            |              50               |             0              |
-| juice            |      13      |             15             |             8              |                 38                 |           15            |              54              |               15                |   8    |             25              |                 25                  |            25            |              63               |             0              |
-| sauce            |      14      |             21             |             43             |                 71                 |           29            |              71              |                0                |   10   |             40              |                 10                  |            0             |              70               |             10             |
-| sh1rax           |      4       |             25             |             25             |                 25                 |           25            |              50              |               25                |   8    |             25              |                  0                  |            0             |              63               |             0              |
+| **straykids**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| nosaeR           |      11      |             27             |             27             |                 9                  |            0            |              64              |                0                |                  27                   |         0          |     0     |
+| doltn            |      11      |             36             |             18             |                 9                  |            0            |              45              |                0                |                   0                   |         0          |     4     |
+| flixxy           |      9       |             22             |             56             |                 0                  |            0            |              89              |                0                |                  11                   |         4          |     0     |
+| DJF              |      8       |             0              |             13             |                 25                 |            0            |              50              |                0                |                  25                   |         0          |     1     |
+| Zebra            |      5       |             0              |             40             |                 20                 |            0            |              40              |               20                |                  20                   |         0          |     1     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **KrakenSeasGG** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Zoker            |      22      |             14             |             5              |                 41                 |           32            |              68              |                9                |                   0                   |         8          |     1     |
+| tanner           |      15      |             13             |             13             |                 27                 |            7            |              73              |                0                |                   7                   |         0          |     4     |
+| juice            |      13      |             15             |             8              |                 38                 |           15            |              54              |               15                |                   8                   |         0          |     2     |
+| sauce            |      14      |             21             |             43             |                 71                 |           29            |              71              |                0                |                   7                   |         0          |     1     |
+| sh1rax           |      4       |             25             |             25             |                 25                 |           25            |              50              |               25                |                   0                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **straykids**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| nosaeR           |      13      |             15              |                 0                 |            0             |              69               |             15             |             0             |       2       |
+| doltn            |      15      |             20              |                 0                 |            0             |              67               |             7              |            13             |       1       |
+| flixxy           |      12      |              0              |                 0                 |            0             |              58               |             8              |             8             |       3       |
+| DJF              |      14      |              7              |                 0                 |            0             |              57               |             0              |             0             |       1       |
+| Zebra            |      14      |             36              |                 7                 |            0             |              79               |             7              |             0             |       1       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **KrakenSeasGG** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Zoker            |      10      |             30              |                30                 |            20            |              70               |             0              |            10             |       0       |
+| tanner           |      8       |             25              |                25                 |            13            |              50               |             0              |            13             |       1       |
+| juice            |      8       |             25              |                25                 |            25            |              63               |             0              |            13             |       0       |
+| sauce            |      10      |             40              |                10                 |            0             |              70               |             10             |            30             |       1       |
+| sh1rax           |      8       |             25              |                 0                 |            0             |              63               |             0              |            13             |       2       |

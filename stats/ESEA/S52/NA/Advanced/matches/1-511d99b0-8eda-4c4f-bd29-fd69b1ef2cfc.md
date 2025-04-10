@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-23  
 **Teams**: Shimmer vs Team Hyper  
 
-## **Map**: de_dust2 - Shimmer (13) vs Team Hyper (7)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Team Hyper | Banned | de_mirage |
+| 2 | Shimmer | Banned | de_nuke |
+| 3 | Shimmer | Banned | de_train |
+| 4 | Team Hyper | Banned | de_ancient |
+| 5 | Team Hyper | Banned | de_anubis |
+| 6 | Shimmer | Banned | de_inferno |
+| 7 | Team Hyper | Picked | de_dust2 |
+
+---  
+
+### **Map**: de_dust2 - Shimmer (13) vs Team Hyper (7)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | warBlood-x-    |     0.66     | 55.00 |        58.33         |                         100.00                         |          100.00           |                           100.00                            |          28.57           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Shimmer**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Ridge          |      18      |             17             |             11             |                 22                 |            6            |              61              |                6                |   12   |             17              |                 33                  |            0             |              83               |             0              |
-| Serendipity    |      18      |             17             |             11             |                 39                 |           17            |              50              |                0                |   14   |             21              |                 29                  |            0             |              64               |             7              |
-| Stx            |      15      |             27             |             7              |                 47                 |            0            |              67              |                7                |   9    |             22              |                 11                  |            0             |              78               |             0              |
-| Fawx           |      13      |             8              |             23             |                 46                 |            8            |              69              |                8                |   14   |             21              |                 36                  |            7             |              79               |             14             |
-| raven          |      10      |             10             |             60             |                 20                 |            0            |              60              |                0                |   12   |             42              |                 25                  |            0             |              75               |             17             |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Team Hyper** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| intox_         |      17      |             18             |             24             |                 41                 |           18            |              65              |                0                |   13   |             15              |                  0                  |            0             |              69               |             8              |
-| waterfallez    |      12      |             25             |             17             |                 8                  |            8            |              83              |               17                |   16   |             31              |                  6                  |            0             |              75               |             0              |
-| Mustang_TV     |      12      |             33             |             25             |                 17                 |           17            |              83              |                8                |   16   |              6              |                  6                  |            6             |              56               |             0              |
-| hipposaver     |      11      |             9              |             55             |                 27                 |           18            |              82              |                9                |   17   |             35              |                 18                  |            12            |              65               |             6              |
-| warBlood-x-    |      7       |             57             |             14             |                 14                 |           14            |              86              |               14                |   14   |              7              |                  0                  |            0             |              36               |             7              |
+| **Shimmer**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Ridge          |      18      |             17             |             11             |                 22                 |            6            |              61              |                6                |                  28                   |         0          |     3     |
+| Serendipity    |      18      |             17             |             11             |                 39                 |           17            |              50              |                0                |                   6                   |         0          |     1     |
+| Stx            |      15      |             27             |             7              |                 47                 |            0            |              67              |                7                |                   0                   |         0          |     1     |
+| Fawx           |      13      |             8              |             23             |                 46                 |            8            |              69              |                8                |                  15                   |         5          |     2     |
+| raven          |      10      |             10             |             60             |                 20                 |            0            |              60              |                0                |                   0                   |         0          |     1     |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Team Hyper** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| intox_         |      17      |             18             |             24             |                 41                 |           18            |              65              |                0                |                   6                   |         0          |     0     |
+| waterfallez    |      12      |             25             |             17             |                 8                  |            8            |              83              |               17                |                   0                   |         0          |     2     |
+| Mustang_TV     |      12      |             33             |             25             |                 17                 |           17            |              83              |                8                |                   8                   |         1          |     0     |
+| hipposaver     |      11      |             9              |             55             |                 27                 |           18            |              82              |                9                |                   0                   |         0          |     1     |
+| warBlood-x-    |      7       |             57             |             14             |                 14                 |           14            |              86              |               14                |                   0                   |         0          |     4     |
+## Extended Deaths Stats  
+
+| **Shimmer**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Ridge          |      12      |             17              |                33                 |            0             |              83               |             0              |             0             |       0       |
+| Serendipity    |      14      |             21              |                29                 |            0             |              64               |             7              |             0             |       0       |
+| Stx            |      9       |             22              |                11                 |            0             |              78               |             0              |             0             |       0       |
+| Fawx           |      14      |             21              |                36                 |            7             |              79               |             14             |            14             |       0       |
+| raven          |      12      |             42              |                25                 |            0             |              75               |             17             |             0             |       1       |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+| **Team Hyper** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| intox_         |      13      |             15              |                 0                 |            0             |              69               |             8              |             0             |       2       |
+| waterfallez    |      16      |             31              |                 6                 |            0             |              75               |             0              |             0             |       1       |
+| Mustang_TV     |      16      |              6              |                 6                 |            6             |              56               |             0              |            19             |       1       |
+| hipposaver     |      17      |             35              |                18                 |            12            |              65               |             6              |            18             |       0       |
+| warBlood-x-    |      14      |              7              |                 0                 |            0             |              36               |             7              |            14             |       1       |

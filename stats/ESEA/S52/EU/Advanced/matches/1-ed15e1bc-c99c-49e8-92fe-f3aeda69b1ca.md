@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-28  
 **Teams**: SoulsHeart vs XPERION NXT  
 
-## **Map**: de_anubis - SoulsHeart (7) vs XPERION NXT (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | XPERION NXT | Banned | de_inferno |
+| 2 | SoulsHeart | Banned | de_mirage |
+| 3 | SoulsHeart | Banned | de_dust2 |
+| 4 | XPERION NXT | Banned | de_nuke |
+| 5 | XPERION NXT | Banned | de_train |
+| 6 | SoulsHeart | Banned | de_ancient |
+| 7 | XPERION NXT | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - SoulsHeart (7) vs XPERION NXT (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | sheezy          |     0.76     | 65.00 |        84.62         |                         84.62                          |           66.67           |                            66.67                            |          90.00           |                           90.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **SoulsHeart**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Rezst           |      18      |             17             |             39             |                 33                 |           17            |              61              |                0                |   16   |             13              |                  6                  |            0             |              56               |             19             |
-| bevve           |      12      |             17             |             25             |                 25                 |            8            |              75              |                8                |   12   |              0              |                  0                  |            0             |              58               |             17             |
-| yoomswa         |      10      |             10             |             40             |                 10                 |            0            |              50              |               10                |   15   |             27              |                  7                  |            0             |              80               |             13             |
-| Happyy          |      10      |             0              |             0              |                 30                 |           10            |              80              |                0                |   13   |              8              |                  8                  |            8             |              85               |             0              |
-| dobbo           |      8       |             25             |             75             |                 13                 |            0            |              50              |                0                |   16   |             13              |                  6                  |            0             |              81               |             0              |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **XPERION NXT** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Tr1cky999       |      23      |             22             |             13             |                 35                 |           13            |              65              |               13                |   10   |             30              |                 30                  |            0             |              50               |             0              |
-| Rhyzar          |      14      |             21             |             0              |                 21                 |            7            |              79              |               14                |   12   |             50              |                 33                  |            0             |              42               |             0              |
-| jansen          |      13      |             46             |             8              |                 62                 |            8            |              77              |                8                |   11   |             27              |                 18                  |            0             |              55               |             9              |
-| pxsl            |      12      |             25             |             0              |                 25                 |            0            |              75              |                8                |   10   |             20              |                 30                  |            0             |              100              |             0              |
-| sheezy          |      10      |             20             |             50             |                 20                 |            0            |              70              |                0                |   15   |             40              |                 20                  |            0             |              73               |             7              |
+| **SoulsHeart**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Rezst           |      18      |             17             |             39             |                 33                 |           17            |              61              |                0                |                  11                   |         0          |     0     |
+| bevve           |      12      |             17             |             25             |                 25                 |            8            |              75              |                8                |                   0                   |         0          |     0     |
+| yoomswa         |      10      |             10             |             40             |                 10                 |            0            |              50              |               10                |                   0                   |         0          |     3     |
+| Happyy          |      10      |             0              |             0              |                 30                 |           10            |              80              |                0                |                   0                   |         5          |     0     |
+| dobbo           |      8       |             25             |             75             |                 13                 |            0            |              50              |                0                |                  13                   |         1          |     1     |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **XPERION NXT** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Tr1cky999       |      23      |             22             |             13             |                 35                 |           13            |              65              |               13                |                   9                   |         0          |     4     |
+| Rhyzar          |      14      |             21             |             0              |                 21                 |            7            |              79              |               14                |                   0                   |         0          |     2     |
+| jansen          |      13      |             46             |             8              |                 62                 |            8            |              77              |                8                |                   0                   |         0          |     0     |
+| pxsl            |      12      |             25             |             0              |                 25                 |            0            |              75              |                8                |                   0                   |         7          |     2     |
+| sheezy          |      10      |             20             |             50             |                 20                 |            0            |              70              |                0                |                  20                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **SoulsHeart**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Rezst           |      16      |             13              |                 6                 |            0             |              56               |             19             |             6             |       0       |
+| bevve           |      12      |              0              |                 0                 |            0             |              58               |             17             |             0             |       0       |
+| yoomswa         |      15      |             27              |                 7                 |            0             |              80               |             13             |             7             |       1       |
+| Happyy          |      13      |              8              |                 8                 |            8             |              85               |             0              |            15             |       2       |
+| dobbo           |      16      |             13              |                 6                 |            0             |              81               |             0              |             0             |       4       |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+| **XPERION NXT** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Tr1cky999       |      10      |             30              |                30                 |            0             |              50               |             0              |             0             |       1       |
+| Rhyzar          |      12      |             50              |                33                 |            0             |              42               |             0              |             8             |       1       |
+| jansen          |      11      |             27              |                18                 |            0             |              55               |             9              |             9             |       2       |
+| pxsl            |      10      |             20              |                30                 |            0             |              100              |             0              |            10             |       1       |
+| sheezy          |      15      |             40              |                20                 |            0             |              73               |             7              |             0             |       1       |

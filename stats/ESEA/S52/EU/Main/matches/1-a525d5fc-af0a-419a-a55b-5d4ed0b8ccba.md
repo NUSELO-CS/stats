@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-25  
 **Teams**: Rush3D vs BWC  
 
-## **Map**: de_anubis - Rush3D (11) vs BWC (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | BWC | Banned | de_mirage |
+| 2 | Rush3D | Banned | de_ancient |
+| 3 | Rush3D | Banned | de_nuke |
+| 4 | BWC | Banned | de_dust2 |
+| 5 | BWC | Banned | de_train |
+| 6 | Rush3D | Banned | de_inferno |
+| 7 | BWC | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - Rush3D (11) vs BWC (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Yevtush     |     0.61     | 70.83 |        64.71         |                         84.62                          |           55.56           |                            83.33                            |          75.00           |                           85.71                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Rush3D**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| peacedose-  |      19      |             21             |             37             |                 32                 |            5            |              58              |                0                |   16   |             31              |                 13                  |            6             |              63               |             0              |
-| cacao       |      18      |             22             |             11             |                 44                 |           11            |              83              |                6                |   12   |              8              |                  0                  |            0             |              75               |             8              |
-| tock        |      16      |             6              |             44             |                 25                 |           13            |              50              |               13                |   18   |              6              |                 22                  |            6             |              67               |             11             |
-| CaH9_rPaHta |      13      |             23             |             46             |                 38                 |            8            |              77              |                8                |   18   |             22              |                 17                  |            6             |              67               |             0              |
-| niposuni666 |      14      |             21             |             57             |                 43                 |            7            |              43              |                0                |   20   |             20              |                 20                  |            0             |              75               |             5              |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **BWC**     | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| _Bart-_     |      26      |             19             |             23             |                 27                 |           12            |              62              |                8                |   16   |             50              |                  0                  |            0             |              50               |             6              |
-| MikT0r      |      17      |             35             |             6              |                 24                 |            0            |              76              |                0                |   15   |             40              |                  7                  |            0             |              67               |             7              |
-| kNx-17-     |      17      |             18             |             12             |                 29                 |            6            |              71              |               12                |   14   |             21              |                  0                  |            0             |              64               |             0              |
-| S1rk4       |      16      |             56             |             38             |                 13                 |            0            |              75              |                0                |   16   |             25              |                  0                  |            0             |              75               |             0              |
-| Yevtush     |      8       |             25             |             0              |                 25                 |           13            |              63              |                0                |   19   |             47              |                  5                  |            0             |              58               |             11             |
+| **Rush3D**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| peacedose-  |      19      |             21             |             37             |                 32                 |            5            |              58              |                0                |                  16                   |         0          |     2     |
+| cacao       |      18      |             22             |             11             |                 44                 |           11            |              83              |                6                |                   0                   |         11         |     2     |
+| tock        |      16      |             6              |             44             |                 25                 |           13            |              50              |               13                |                   0                   |         2          |     2     |
+| CaH9_rPaHta |      13      |             23             |             46             |                 38                 |            8            |              77              |                8                |                   8                   |         0          |     0     |
+| niposuni666 |      14      |             21             |             57             |                 43                 |            7            |              43              |                0                |                  14                   |         0          |     3     |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **BWC**     | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| _Bart-_     |      26      |             19             |             23             |                 27                 |           12            |              62              |                8                |                  12                   |         0          |     1     |
+| MikT0r      |      17      |             35             |             6              |                 24                 |            0            |              76              |                0                |                  12                   |         0          |     4     |
+| kNx-17-     |      17      |             18             |             12             |                 29                 |            6            |              71              |               12                |                   0                   |         11         |     2     |
+| S1rk4       |      16      |             56             |             38             |                 13                 |            0            |              75              |                0                |                   6                   |         0          |     2     |
+| Yevtush     |      8       |             25             |             0              |                 25                 |           13            |              63              |                0                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Rush3D**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player      |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| peacedose-  |      16      |             31              |                13                 |            6             |              63               |             0              |             6             |       2       |
+| cacao       |      12      |              8              |                 0                 |            0             |              75               |             8              |            17             |       0       |
+| tock        |      18      |              6              |                22                 |            6             |              67               |             11             |             6             |       2       |
+| CaH9_rPaHta |      18      |             22              |                17                 |            6             |              67               |             0              |             6             |       3       |
+| niposuni666 |      20      |             20              |                20                 |            0             |              75               |             5              |             5             |       4       |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+| **BWC**     | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player      |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| _Bart-_     |      16      |             50              |                 0                 |            0             |              50               |             6              |             6             |       3       |
+| MikT0r      |      15      |             40              |                 7                 |            0             |              67               |             7              |             7             |       2       |
+| kNx-17-     |      14      |             21              |                 0                 |            0             |              64               |             0              |             7             |       2       |
+| S1rk4       |      16      |             25              |                 0                 |            0             |              75               |             0              |             6             |       3       |
+| Yevtush     |      19      |             47              |                 5                 |            0             |              58               |             11             |            11             |       3       |

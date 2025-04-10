@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-03  
 **Teams**: PCIFIC ESPOR vs Need ORG - LFO  
 
-## **Map**: de_mirage - PCIFIC ESPOR (9) vs Need ORG - LFO (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Need ORG - LFO | Banned | de_inferno |
+| 2 | PCIFIC ESPOR | Banned | de_ancient |
+| 3 | PCIFIC ESPOR | Banned | de_nuke |
+| 4 | Need ORG - LFO | Banned | de_anubis |
+| 5 | Need ORG - LFO | Banned | de_dust2 |
+| 6 | PCIFIC ESPOR | Banned | de_train |
+| 7 | Need ORG - LFO | Picked | de_mirage |
+
+---  
+
+### **Map**: de_mirage - PCIFIC ESPOR (9) vs Need ORG - LFO (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | gim44              |     0.79     | 68.18 |        64.71         |                         84.62                          |           66.67           |                           100.00                            |          62.50           |                           71.43                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **PCIFIC ESPOR**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| scolleN            |      16      |             6              |             25             |                 6                  |            6            |              44              |               19                |   13   |             31              |                 15                  |            0             |              54               |             8              |
-| EMS7AR             |      13      |             38             |             23             |                 15                 |           15            |              85              |                8                |   14   |              0              |                 14                  |            0             |              50               |             21             |
-| jresy              |      14      |             7              |             14             |                 43                 |           36            |              57              |               14                |   15   |              7              |                 13                  |            0             |              67               |             13             |
-| eNs                |      10      |             30             |             30             |                 40                 |           30            |              60              |               30                |   15   |             20              |                 13                  |            0             |              67               |             13             |
-| lugseN             |      10      |             20             |             30             |                 40                 |           30            |              50              |               20                |   14   |             29              |                 14                  |            7             |              86               |             7              |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Need ORG - LFO** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Chill              |      17      |             0              |             24             |                 35                 |           12            |              82              |                6                |   14   |             21              |                  7                  |            7             |              64               |             14             |
-| awks               |      15      |             13             |             27             |                 33                 |            7            |              60              |                7                |   12   |             33              |                 25                  |            17            |              50               |             17             |
-| Matheos            |      17      |             35             |             6              |                 24                 |            6            |              53              |               24                |   11   |             18              |                 18                  |            9             |              64               |             18             |
-| BehinDx            |      13      |             31             |             15             |                 38                 |            8            |              77              |               15                |   14   |             29              |                 14                  |            7             |              57               |             29             |
-| gim44              |      9       |             11             |             11             |                 0                  |            0            |              44              |               22                |   12   |             17              |                 25                  |            8             |              58               |             17             |
+| **PCIFIC ESPOR**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| scolleN            |      16      |             6              |             25             |                 6                  |            6            |              44              |               19                |                   0                   |         0          |     3     |
+| EMS7AR             |      13      |             38             |             23             |                 15                 |           15            |              85              |                8                |                  15                   |         0          |     3     |
+| jresy              |      14      |             7              |             14             |                 43                 |           36            |              57              |               14                |                   7                   |         0          |     1     |
+| eNs                |      10      |             30             |             30             |                 40                 |           30            |              60              |               30                |                   0                   |         0          |     0     |
+| lugseN             |      10      |             20             |             30             |                 40                 |           30            |              50              |               20                |                   0                   |         6          |     0     |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Need ORG - LFO** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Chill              |      17      |             0              |             24             |                 35                 |           12            |              82              |                6                |                   0                   |         0          |     3     |
+| awks               |      15      |             13             |             27             |                 33                 |            7            |              60              |                7                |                   0                   |         8          |     1     |
+| Matheos            |      17      |             35             |             6              |                 24                 |            6            |              53              |               24                |                   6                   |         0          |     2     |
+| BehinDx            |      13      |             31             |             15             |                 38                 |            8            |              77              |               15                |                   0                   |         0          |     1     |
+| gim44              |      9       |             11             |             11             |                 0                  |            0            |              44              |               22                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **PCIFIC ESPOR**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| scolleN            |      13      |             31              |                15                 |            0             |              54               |             8              |             0             |       1       |
+| EMS7AR             |      14      |              0              |                14                 |            0             |              50               |             21             |             0             |       1       |
+| jresy              |      15      |              7              |                13                 |            0             |              67               |             13             |             0             |       3       |
+| eNs                |      15      |             20              |                13                 |            0             |              67               |             13             |             0             |       1       |
+| lugseN             |      14      |             29              |                14                 |            7             |              86               |             7              |             7             |       2       |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+| **Need ORG - LFO** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Chill              |      14      |             21              |                 7                 |            7             |              64               |             14             |             7             |       1       |
+| awks               |      12      |             33              |                25                 |            17            |              50               |             17             |             8             |       2       |
+| Matheos            |      11      |             18              |                18                 |            9             |              64               |             18             |             0             |       2       |
+| BehinDx            |      14      |             29              |                14                 |            7             |              57               |             29             |             7             |       1       |
+| gim44              |      12      |             17              |                25                 |            8             |              58               |             17             |             0             |       0       |

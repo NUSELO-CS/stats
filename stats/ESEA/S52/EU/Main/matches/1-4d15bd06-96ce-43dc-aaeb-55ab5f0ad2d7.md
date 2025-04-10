@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-20  
 **Teams**: LithuanianWolfs vs MySkill  
 
-## **Map**: de_ancient - LithuanianWolfs (16) vs MySkill (19)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | LithuanianWolfs | Banned | de_dust2 |
+| 2 | MySkill | Banned | de_anubis |
+| 3 | MySkill | Banned | de_nuke |
+| 4 | LithuanianWolfs | Banned | de_mirage |
+| 5 | LithuanianWolfs | Banned | de_inferno |
+| 6 | MySkill | Banned | de_train |
+| 7 | LithuanianWolfs | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - LithuanianWolfs (16) vs MySkill (19)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | fatestyoshi         |     1.19     | 88.57 |        58.06         |                         94.74                          |           68.75           |                           100.00                            |          46.67           |                           87.50                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **LithuanianWolfs** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| -Uzman              |      37      |             32             |             22             |                 11                 |            0            |              54              |                3                |   25   |             28              |                 12                  |            4             |              64               |             8              |
-| Berzius             |      23      |             39             |             22             |                 9                  |            0            |              83              |                0                |   24   |             25              |                 13                  |            0             |              88               |             0              |
-| OniX--              |      22      |             18             |             32             |                 36                 |            9            |              64              |                5                |   27   |             30              |                 15                  |            0             |              52               |             11             |
-| R3LiFwOw-           |      19      |             11             |             42             |                 16                 |            5            |              63              |                0                |   21   |             14              |                 14                  |            0             |              48               |             0              |
-| --Misterio-         |      14      |             21             |             7              |                 21                 |           21            |              79              |                0                |   25   |             24              |                 12                  |            0             |              68               |             4              |
-| --PoKe--            |      15      |             27             |             27             |                 20                 |            0            |              53              |                0                |   27   |             30              |                 11                  |            0             |              59               |             0              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **MySkill**         | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| yalldontfwme        |      32      |             19             |             16             |                 16                 |            9            |              59              |                9                |   20   |             20              |                 20                  |            0             |              60               |             5              |
-| -Aldikon            |      26      |             8              |             31             |                 15                 |            4            |              73              |                4                |   23   |             48              |                 17                  |            4             |              78               |             4              |
-| adai                |      27      |             22             |             22             |                 26                 |           11            |              74              |                7                |   23   |             17              |                 13                  |            0             |              61               |             0              |
-| fatestyoshi         |      24      |             38             |             33             |                 25                 |            8            |              58              |                0                |   24   |             13              |                 13                  |            0             |              75               |             0              |
+| **LithuanianWolfs** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| -Uzman              |      37      |             32             |             22             |                 11                 |            0            |              54              |                3                |                   5                   |         0          |     2     |
+| Berzius             |      23      |             39             |             22             |                 9                  |            0            |              83              |                0                |                   9                   |         12         |     3     |
+| OniX--              |      22      |             18             |             32             |                 36                 |            9            |              64              |                5                |                  18                   |         0          |     1     |
+| R3LiFwOw-           |      19      |             11             |             42             |                 16                 |            5            |              63              |                0                |                  11                   |         0          |     1     |
+| --Misterio-         |      14      |             21             |             7              |                 21                 |           21            |              79              |                0                |                   7                   |         0          |     0     |
+| --PoKe--            |      15      |             27             |             27             |                 20                 |            0            |              53              |                0                |                  13                   |         0          |     3     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **MySkill**         | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| yalldontfwme        |      32      |             19             |             16             |                 16                 |            9            |              59              |                9                |                   0                   |         0          |     2     |
+| -Aldikon            |      26      |             8              |             31             |                 15                 |            4            |              73              |                4                |                   0                   |         16         |     1     |
+| adai                |      27      |             22             |             22             |                 26                 |           11            |              74              |                7                |                  11                   |         0          |     1     |
+| fatestyoshi         |      24      |             38             |             33             |                 25                 |            8            |              58              |                0                |                   8                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **LithuanianWolfs** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| -Uzman              |      25      |             28              |                12                 |            4             |              64               |             8              |             0             |       6       |
+| Berzius             |      24      |             25              |                13                 |            0             |              88               |             0              |             4             |       3       |
+| OniX--              |      27      |             30              |                15                 |            0             |              52               |             11             |             0             |       4       |
+| R3LiFwOw-           |      21      |             14              |                14                 |            0             |              48               |             0              |            10             |       1       |
+| --Misterio-         |      25      |             24              |                12                 |            0             |              68               |             4              |             8             |       2       |
+| --PoKe--            |      27      |             30              |                11                 |            0             |              59               |             0              |            15             |       1       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **MySkill**         | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| yalldontfwme        |      20      |             20              |                20                 |            0             |              60               |             5              |            15             |       3       |
+| -Aldikon            |      23      |             48              |                17                 |            4             |              78               |             4              |             4             |       4       |
+| adai                |      23      |             17              |                13                 |            0             |              61               |             0              |             9             |       1       |
+| fatestyoshi         |      24      |             13              |                13                 |            0             |              75               |             0              |            13             |       3       |

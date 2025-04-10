@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-03  
 **Teams**: Imperial M3tric vs Soton Strikers  
 
-## **Map**: de_anubis - Imperial M3tric (10) vs Soton Strikers (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Soton Strikers | Banned | de_dust2 |
+| 2 | Imperial M3tric | Banned | de_nuke |
+| 3 | Soton Strikers | Banned | de_mirage |
+| 4 | Imperial M3tric | Banned | de_ancient |
+| 5 | Soton Strikers | Banned | de_train |
+| 6 | Imperial M3tric | Banned | de_inferno |
+| 7 | Imperial M3tric | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - Imperial M3tric (10) vs Soton Strikers (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Oskoskosk           |     0.81     | 69.57 |        75.00         |                         92.31                          |           55.56           |                            83.33                            |          100.00          |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Imperial M3tric** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| KFCWenger           |      19      |             5              |             5              |                 11                 |            5            |              47              |               16                |   18   |             33              |                 17                  |            0             |              61               |             6              |
-| TheCakeCore_        |      17      |             12             |             12             |                 35                 |           12            |              76              |                0                |   15   |             13              |                 13                  |            0             |              47               |             7              |
-| montp3              |      16      |             25             |             6              |                 38                 |            0            |              69              |                6                |   14   |             14              |                 14                  |            0             |              50               |             21             |
-| Cyt0siNe            |      15      |             40             |             20             |                 13                 |           13            |              73              |                7                |   17   |             12              |                 12                  |            0             |              94               |             0              |
-| StormRaider         |      9       |             11             |             33             |                 0                  |            0            |              67              |                0                |   18   |             22              |                 17                  |            0             |              61               |             6              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Soton Strikers**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| umersquared         |      24      |             8              |             13             |                 46                 |            0            |              71              |                4                |   16   |             25              |                 25                  |            0             |              69               |             6              |
-| bigoboyo            |      18      |             22             |             17             |                 28                 |            0            |              72              |               11                |   15   |              7              |                 20                  |            0             |              80               |             7              |
-| StWiseBen           |      14      |             7              |             43             |                 36                 |            0            |              43              |                7                |   15   |              0              |                 20                  |            0             |              67               |             7              |
-| MrTup               |      14      |             21             |             7              |                 29                 |            0            |              71              |                7                |   15   |             13              |                 27                  |            0             |              53               |             13             |
-| Oskoskosk           |      10      |             0              |             40             |                 0                  |            0            |              60              |               10                |   17   |             24              |                 29                  |            0             |              59               |             0              |
+| **Imperial M3tric** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| KFCWenger           |      19      |             5              |             5              |                 11                 |            5            |              47              |               16                |                   0                   |         0          |     5     |
+| TheCakeCore_        |      17      |             12             |             12             |                 35                 |           12            |              76              |                0                |                   6                   |         4          |     2     |
+| montp3              |      16      |             25             |             6              |                 38                 |            0            |              69              |                6                |                   0                   |         0          |     2     |
+| Cyt0siNe            |      15      |             40             |             20             |                 13                 |           13            |              73              |                7                |                   0                   |         0          |     0     |
+| StormRaider         |      9       |             11             |             33             |                 0                  |            0            |              67              |                0                |                  11                   |         0          |     1     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Soton Strikers**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| umersquared         |      24      |             8              |             13             |                 46                 |            0            |              71              |                4                |                   0                   |         0          |     0     |
+| bigoboyo            |      18      |             22             |             17             |                 28                 |            0            |              72              |               11                |                   0                   |         0          |     4     |
+| StWiseBen           |      14      |             7              |             43             |                 36                 |            0            |              43              |                7                |                   0                   |         0          |     0     |
+| MrTup               |      14      |             21             |             7              |                 29                 |            0            |              71              |                7                |                   0                   |         2          |     0     |
+| Oskoskosk           |      10      |             0              |             40             |                 0                  |            0            |              60              |               10                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Imperial M3tric** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| KFCWenger           |      18      |             33              |                17                 |            0             |              61               |             6              |             0             |       0       |
+| TheCakeCore_        |      15      |             13              |                13                 |            0             |              47               |             7              |             0             |       0       |
+| montp3              |      14      |             14              |                14                 |            0             |              50               |             21             |             0             |       0       |
+| Cyt0siNe            |      17      |             12              |                12                 |            0             |              94               |             0              |             0             |       1       |
+| StormRaider         |      18      |             22              |                17                 |            0             |              61               |             6              |             0             |       0       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **Soton Strikers**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| umersquared         |      16      |             25              |                25                 |            0             |              69               |             6              |             6             |       3       |
+| bigoboyo            |      15      |              7              |                20                 |            0             |              80               |             7              |             0             |       0       |
+| StWiseBen           |      15      |              0              |                20                 |            0             |              67               |             7              |             0             |       0       |
+| MrTup               |      15      |             13              |                27                 |            0             |              53               |             13             |             0             |       0       |
+| Oskoskosk           |      17      |             24              |                29                 |            0             |              59               |             0              |             6             |       2       |

@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-17  
 **Teams**: LODIS AC vs Diamant Esports  
 
-## **Map**: de_anubis - LODIS AC (13) vs Diamant Esports (9)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Diamant Esports | Banned | de_nuke |
+| 2 | LODIS AC | Banned | de_dust2 |
+| 3 | LODIS AC | Banned | de_train |
+| 4 | Diamant Esports | Banned | de_inferno |
+| 5 | Diamant Esports | Banned | de_ancient |
+| 6 | LODIS AC | Banned | de_mirage |
+| 7 | Diamant Esports | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - LODIS AC (13) vs Diamant Esports (9)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Destro_YD           |     0.78     | 72.73 |        50.00         |                         88.89                          |           57.14           |                           100.00                            |          44.44           |                           80.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **LODIS AC**        | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| olfiip              |      20      |             20             |             20             |                 35                 |           15            |              65              |               10                |   14   |              7              |                 14                  |            7             |              64               |             14             |
-| ANeraX              |      21      |             19             |             38             |                 29                 |           14            |              57              |               14                |   15   |             20              |                 27                  |            13            |              60               |             13             |
-| Pecaaa              |      19      |             21             |             11             |                 26                 |           11            |              37              |                5                |   14   |             21              |                 14                  |            0             |              64               |             14             |
-| glazeleq            |      13      |             15             |             46             |                 31                 |           15            |              69              |               23                |   19   |             37              |                 16                  |            0             |              58               |             11             |
-| stonko-             |      7       |             29             |             43             |                 14                 |            0            |              43              |                0                |   16   |             31              |                 19                  |            0             |              69               |             6              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Diamant Esports** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| JuN1                |      21      |             14             |             38             |                 24                 |           10            |              76              |                5                |   16   |             31              |                 19                  |            0             |              25               |             6              |
-| Jernejj             |      18      |             33             |             11             |                 11                 |            0            |              67              |                0                |   13   |             23              |                 23                  |            0             |              38               |             15             |
-| _Libraa             |      16      |             25             |             19             |                 25                 |           13            |              63              |               19                |   17   |             35              |                 12                  |            0             |              59               |             12             |
-| jkXy                |      11      |             27             |             27             |                 36                 |           18            |              45              |               18                |   15   |             20              |                 27                  |            7             |              67               |             7              |
-| Destro_YD           |      12      |             25             |             25             |                 33                 |           25            |              50              |               25                |   19   |             32              |                 21                  |            5             |              79               |             16             |
+| **LODIS AC**        | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| olfiip              |      20      |             20             |             20             |                 35                 |           15            |              65              |               10                |                   0                   |         0          |     1     |
+| ANeraX              |      21      |             19             |             38             |                 29                 |           14            |              57              |               14                |                   0                   |         0          |     1     |
+| Pecaaa              |      19      |             21             |             11             |                 26                 |           11            |              37              |                5                |                   0                   |         0          |     5     |
+| glazeleq            |      13      |             15             |             46             |                 31                 |           15            |              69              |               23                |                   0                   |         0          |     1     |
+| stonko-             |      7       |             29             |             43             |                 14                 |            0            |              43              |                0                |                   0                   |         0          |     0     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Diamant Esports** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| JuN1                |      21      |             14             |             38             |                 24                 |           10            |              76              |                5                |                  14                   |         0          |     1     |
+| Jernejj             |      18      |             33             |             11             |                 11                 |            0            |              67              |                0                |                   0                   |         0          |     6     |
+| _Libraa             |      16      |             25             |             19             |                 25                 |           13            |              63              |               19                |                   0                   |         0          |     1     |
+| jkXy                |      11      |             27             |             27             |                 36                 |           18            |              45              |               18                |                   0                   |         5          |     0     |
+| Destro_YD           |      12      |             25             |             25             |                 33                 |           25            |              50              |               25                |                   0                   |         1          |     1     |
+## Extended Deaths Stats  
+
+| **LODIS AC**        | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| olfiip              |      14      |              7              |                14                 |            7             |              64               |             14             |             0             |       2       |
+| ANeraX              |      15      |             20              |                27                 |            13            |              60               |             13             |             7             |       0       |
+| Pecaaa              |      14      |             21              |                14                 |            0             |              64               |             14             |             0             |       0       |
+| glazeleq            |      19      |             37              |                16                 |            0             |              58               |             11             |             0             |       3       |
+| stonko-             |      16      |             31              |                19                 |            0             |              69               |             6              |            13             |       1       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **Diamant Esports** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| JuN1                |      16      |             31              |                19                 |            0             |              25               |             6              |             0             |       0       |
+| Jernejj             |      13      |             23              |                23                 |            0             |              38               |             15             |             0             |       0       |
+| _Libraa             |      17      |             35              |                12                 |            0             |              59               |             12             |             0             |       0       |
+| jkXy                |      15      |             20              |                27                 |            7             |              67               |             7              |             0             |       0       |
+| Destro_YD           |      19      |             32              |                21                 |            5             |              79               |             16             |             0             |       0       |

@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-21  
 **Teams**: benched vs TGM  
 
-## **Map**: de_mirage - benched (16) vs TGM (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | benched | Banned | de_nuke |
+| 2 | TGM | Banned | de_inferno |
+| 3 | TGM | Banned | de_train |
+| 4 | benched | Banned | de_anubis |
+| 5 | benched | Banned | de_dust2 |
+| 6 | TGM | Banned | de_ancient |
+| 7 | benched | Picked | de_mirage |
+
+---  
+
+### **Map**: de_mirage - benched (16) vs TGM (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | speed4k      |     0.78     | 55.17 |        68.75         |                         84.62                          |           66.67           |                           100.00                            |          71.43           |                           71.43                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **benched**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| sstiNiX      |      34      |             12             |             26             |                 32                 |            3            |              59              |                3                |   23   |             17              |                 26                  |            4             |              65               |             13             |
-| HeaveN       |      20      |             10             |             10             |                 30                 |           10            |              70              |                5                |   21   |             29              |                 14                  |            0             |              76               |             5              |
-| malinov-     |      17      |             12             |             18             |                 24                 |            0            |              53              |               12                |   22   |             18              |                 23                  |            5             |              45               |             5              |
-| z1k4-        |      16      |             44             |             19             |                 19                 |            0            |              81              |               13                |   21   |             14              |                 14                  |            0             |              67               |             0              |
-| FinigaN      |      15      |             20             |             33             |                 20                 |            0            |              60              |                7                |   23   |             13              |                 22                  |            4             |              57               |             9              |
-|              |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|              |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|              |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **TGM**      | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| -finW        |      27      |             22             |             19             |                 37                 |           11            |              48              |                4                |   21   |             10              |                 19                  |            0             |              76               |             10             |
-| jakekeS      |      23      |             22             |             13             |                 22                 |           13            |              48              |               13                |   17   |             35              |                 29                  |            6             |              71               |             0              |
-| Carnivore--  |      24      |             25             |             33             |                 29                 |            4            |              67              |                8                |   22   |             18              |                 32                  |            14            |              68               |             9              |
-| RihitoBahha- |      19      |             5              |             21             |                 21                 |            5            |              79              |                5                |   21   |             29              |                 19                  |            0             |              48               |             14             |
-| speed4k      |      17      |             12             |             0              |                 29                 |            6            |              71              |                0                |   21   |             19              |                 24                  |            5             |              71               |             0              |
+| **benched**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| sstiNiX      |      34      |             12             |             26             |                 32                 |            3            |              59              |                3                |                   6                   |         0          |     0     |
+| HeaveN       |      20      |             10             |             10             |                 30                 |           10            |              70              |                5                |                   0                   |         0          |     1     |
+| malinov-     |      17      |             12             |             18             |                 24                 |            0            |              53              |               12                |                   6                   |         0          |     1     |
+| z1k4-        |      16      |             44             |             19             |                 19                 |            0            |              81              |               13                |                   0                   |         5          |     4     |
+| FinigaN      |      15      |             20             |             33             |                 20                 |            0            |              60              |                7                |                   7                   |         0          |     2     |
+|              |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|              |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|              |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **TGM**      | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| -finW        |      27      |             22             |             19             |                 37                 |           11            |              48              |                4                |                   4                   |         0          |     1     |
+| jakekeS      |      23      |             22             |             13             |                 22                 |           13            |              48              |               13                |                  17                   |         0          |     3     |
+| Carnivore--  |      24      |             25             |             33             |                 29                 |            4            |              67              |                8                |                   0                   |         3          |     2     |
+| RihitoBahha- |      19      |             5              |             21             |                 21                 |            5            |              79              |                5                |                   5                   |         0          |     3     |
+| speed4k      |      17      |             12             |             0              |                 29                 |            6            |              71              |                0                |                   0                   |         5          |     0     |
+## Extended Deaths Stats  
+
+| **benched**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player       |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| sstiNiX      |      23      |             17              |                26                 |            4             |              65               |             13             |            13             |       1       |
+| HeaveN       |      21      |             29              |                14                 |            0             |              76               |             5              |             5             |       2       |
+| malinov-     |      22      |             18              |                23                 |            5             |              45               |             5              |             5             |       0       |
+| z1k4-        |      21      |             14              |                14                 |            0             |              67               |             0              |             5             |       2       |
+| FinigaN      |      23      |             13              |                22                 |            4             |              57               |             9              |             0             |       3       |
+|              |              |                             |                                   |                          |                               |                            |                           |               |
+|              |              |                             |                                   |                          |                               |                            |                           |               |
+|              |              |                             |                                   |                          |                               |                            |                           |               |
+| **TGM**      | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player       |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| -finW        |      21      |             10              |                19                 |            0             |              76               |             10             |             0             |       3       |
+| jakekeS      |      17      |             35              |                29                 |            6             |              71               |             0              |             6             |       0       |
+| Carnivore--  |      22      |             18              |                32                 |            14            |              68               |             9              |             0             |       2       |
+| RihitoBahha- |      21      |             29              |                19                 |            0             |              48               |             14             |            10             |       0       |
+| speed4k      |      21      |             19              |                24                 |            5             |              71               |             0              |             5             |       0       |

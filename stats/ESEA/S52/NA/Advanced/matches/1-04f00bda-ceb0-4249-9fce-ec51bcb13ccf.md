@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-13  
 **Teams**: Junga vs HOMYNO  
 
-## **Map**: de_dust2 - Junga (14) vs HOMYNO (16)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | HOMYNO | Banned | de_ancient |
+| 2 | Junga | Banned | de_nuke |
+| 3 | Junga | Banned | de_inferno |
+| 4 | HOMYNO | Banned | de_train |
+| 5 | HOMYNO | Banned | de_anubis |
+| 6 | Junga | Banned | de_mirage |
+| 7 | HOMYNO | Picked | de_dust2 |
+
+---  
+
+### **Map**: de_dust2 - Junga (14) vs HOMYNO (16)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | sup3rant     |     0.82     | 60.00 |        83.33         |                         93.75                          |           84.62           |                           100.00                            |          80.00           |                           80.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Junga**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| supasmo      |      23      |             17             |             26             |                 13                 |            4            |              48              |                9                |   24   |             13              |                 17                  |            0             |              38               |             13             |
-| seNsite      |      24      |             13             |             21             |                 29                 |           17            |              79              |                4                |   20   |             25              |                 15                  |            0             |              85               |             0              |
-| magic1an-_-  |      22      |             14             |             23             |                 32                 |            0            |              55              |                5                |   19   |             16              |                 11                  |            0             |              79               |             0              |
-| braindead333 |      22      |             9              |             45             |                 41                 |            9            |              68              |                5                |   21   |             33              |                 19                  |            0             |              86               |             0              |
-| SlooKy_-     |      17      |             29             |             24             |                 35                 |           18            |              53              |               18                |   23   |             13              |                 17                  |            9             |              61               |             9              |
-|              |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|              |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|              |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **HOMYNO**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| YuZ          |      31      |             19             |             16             |                 26                 |            3            |              55              |                6                |   24   |             21              |                  8                  |            4             |              54               |             13             |
-| J0LZ         |      22      |             36             |             23             |                 23                 |            9            |              86              |                0                |   20   |             20              |                 15                  |            5             |              60               |             0              |
-| Gabie        |      22      |             27             |             14             |                 32                 |            5            |              64              |                5                |   20   |             40              |                 10                  |            0             |              80               |             0              |
-| Melio        |      15      |             13             |             20             |                 13                 |            7            |              80              |                7                |   24   |             29              |                 17                  |            4             |              50               |             13             |
-| sup3rant     |      17      |             24             |             29             |                 6                  |            0            |              65              |                6                |   20   |             30              |                 15                  |            0             |              65               |             10             |
+| **Junga**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| supasmo      |      23      |             17             |             26             |                 13                 |            4            |              48              |                9                |                   9                   |         1          |     4     |
+| seNsite      |      24      |             13             |             21             |                 29                 |           17            |              79              |                4                |                   8                   |         14         |     3     |
+| magic1an-_-  |      22      |             14             |             23             |                 32                 |            0            |              55              |                5                |                   0                   |         0          |     1     |
+| braindead333 |      22      |             9              |             45             |                 41                 |            9            |              68              |                5                |                  14                   |         0          |     1     |
+| SlooKy_-     |      17      |             29             |             24             |                 35                 |           18            |              53              |               18                |                   0                   |         0          |     1     |
+|              |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|              |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|              |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **HOMYNO**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| YuZ          |      31      |             19             |             16             |                 26                 |            3            |              55              |                6                |                  10                   |         0          |     1     |
+| J0LZ         |      22      |             36             |             23             |                 23                 |            9            |              86              |                0                |                   5                   |         0          |     0     |
+| Gabie        |      22      |             27             |             14             |                 32                 |            5            |              64              |                5                |                   0                   |         2          |     1     |
+| Melio        |      15      |             13             |             20             |                 13                 |            7            |              80              |                7                |                   7                   |         10         |     1     |
+| sup3rant     |      17      |             24             |             29             |                 6                  |            0            |              65              |                6                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Junga**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player       |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| supasmo      |      24      |             13              |                17                 |            0             |              38               |             13             |             4             |       5       |
+| seNsite      |      20      |             25              |                15                 |            0             |              85               |             0              |             0             |       4       |
+| magic1an-_-  |      19      |             16              |                11                 |            0             |              79               |             0              |             0             |       2       |
+| braindead333 |      21      |             33              |                19                 |            0             |              86               |             0              |            14             |       0       |
+| SlooKy_-     |      23      |             13              |                17                 |            9             |              61               |             9              |             4             |       1       |
+|              |              |                             |                                   |                          |                               |                            |                           |               |
+|              |              |                             |                                   |                          |                               |                            |                           |               |
+|              |              |                             |                                   |                          |                               |                            |                           |               |
+| **HOMYNO**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player       |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| YuZ          |      24      |             21              |                 8                 |            4             |              54               |             13             |             8             |       4       |
+| J0LZ         |      20      |             20              |                15                 |            5             |              60               |             0              |             5             |       1       |
+| Gabie        |      20      |             40              |                10                 |            0             |              80               |             0              |            10             |       3       |
+| Melio        |      24      |             29              |                17                 |            4             |              50               |             13             |             4             |       4       |
+| sup3rant     |      20      |             30              |                15                 |            0             |              65               |             10             |             5             |       3       |

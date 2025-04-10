@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-11  
 **Teams**: vibe vs Fisher College  
 
-## **Map**: de_anubis - vibe (6) vs Fisher College (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Fisher College | Banned | de_dust2 |
+| 2 | vibe | Banned | de_inferno |
+| 3 | vibe | Banned | de_nuke |
+| 4 | Fisher College | Banned | de_train |
+| 5 | Fisher College | Banned | de_mirage |
+| 6 | vibe | Banned | de_ancient |
+| 7 | Fisher College | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - vibe (6) vs Fisher College (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | tatm               |     0.58     | 63.16 |        91.67         |                         84.62                          |           80.00           |                           100.00                            |          100.00          |                           77.78                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **vibe**           | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| niise              |      17      |             6              |             18             |                 12                 |            0            |              65              |               18                |   13   |             31              |                  8                  |            0             |              85               |             8              |
-| GRAPE--            |      16      |             44             |             13             |                 0                  |            0            |              63              |                6                |   14   |             14              |                  7                  |            0             |              64               |             0              |
-| Pol0               |      15      |             13             |             20             |                 27                 |           20            |              67              |                0                |   14   |             14              |                  7                  |            0             |              64               |             0              |
-| legacyxc           |      8       |             25             |             0              |                 25                 |           25            |              88              |                0                |   15   |             33              |                  7                  |            0             |              73               |             13             |
-| FUGI               |      4       |             0              |             75             |                 0                  |            0            |              75              |                0                |   14   |             29              |                  7                  |            0             |              50               |             14             |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Fisher College** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| AAlekSS            |      19      |             11             |             26             |                 26                 |            0            |              63              |                5                |   10   |              0              |                 10                  |            0             |              80               |             10             |
-| corn               |      17      |             35             |             24             |                 12                 |            0            |              82              |               12                |   9    |              0              |                 11                  |            0             |              100              |             0              |
-| CrePoW             |      16      |             25             |             25             |                 38                 |            6            |              69              |                6                |   13   |             15              |                 15                  |            8             |              46               |             8              |
-| nilsje             |      10      |             0              |             30             |                 30                 |            0            |              70              |               10                |   14   |             29              |                 21                  |            7             |              57               |             14             |
-| tatm               |      7       |             0              |             14             |                 43                 |            0            |              57              |                0                |   15   |             33              |                 27                  |            7             |              73               |             0              |
+| **vibe**           | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| niise              |      17      |             6              |             18             |                 12                 |            0            |              65              |               18                |                   6                   |         0          |     0     |
+| GRAPE--            |      16      |             44             |             13             |                 0                  |            0            |              63              |                6                |                   6                   |         0          |     5     |
+| Pol0               |      15      |             13             |             20             |                 27                 |           20            |              67              |                0                |                   7                   |         0          |     1     |
+| legacyxc           |      8       |             25             |             0              |                 25                 |           25            |              88              |                0                |                   0                   |         2          |     0     |
+| FUGI               |      4       |             0              |             75             |                 0                  |            0            |              75              |                0                |                   0                   |         0          |     2     |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Fisher College** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| AAlekSS            |      19      |             11             |             26             |                 26                 |            0            |              63              |                5                |                   0                   |         0          |     2     |
+| corn               |      17      |             35             |             24             |                 12                 |            0            |              82              |               12                |                   0                   |         0          |     4     |
+| CrePoW             |      16      |             25             |             25             |                 38                 |            6            |              69              |                6                |                  19                   |         0          |     1     |
+| nilsje             |      10      |             0              |             30             |                 30                 |            0            |              70              |               10                |                  10                   |         0          |     0     |
+| tatm               |      7       |             0              |             14             |                 43                 |            0            |              57              |                0                |                   0                   |         1          |     2     |
+## Extended Deaths Stats  
+
+| **vibe**           | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| niise              |      13      |             31              |                 8                 |            0             |              85               |             8              |             0             |       0       |
+| GRAPE--            |      14      |             14              |                 7                 |            0             |              64               |             0              |             7             |       0       |
+| Pol0               |      14      |             14              |                 7                 |            0             |              64               |             0              |             7             |       0       |
+| legacyxc           |      15      |             33              |                 7                 |            0             |              73               |             13             |             7             |       0       |
+| FUGI               |      14      |             29              |                 7                 |            0             |              50               |             14             |             7             |       1       |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+| **Fisher College** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| AAlekSS            |      10      |              0              |                10                 |            0             |              80               |             10             |            10             |       0       |
+| corn               |      9       |              0              |                11                 |            0             |              100              |             0              |             0             |       0       |
+| CrePoW             |      13      |             15              |                15                 |            8             |              46               |             8              |             8             |       0       |
+| nilsje             |      14      |             29              |                21                 |            7             |              57               |             14             |             7             |       0       |
+| tatm               |      15      |             33              |                27                 |            7             |              73               |             0              |             0             |       2       |

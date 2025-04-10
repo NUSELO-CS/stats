@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-21  
 **Teams**: Wanted Goons vs Straight2Killin  
 
-## **Map**: de_mirage - Wanted Goons (8) vs Straight2Killin (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Wanted Goons | Banned | de_train |
+| 2 | Straight2Killin | Banned | de_ancient |
+| 3 | Straight2Killin | Banned | de_anubis |
+| 4 | Wanted Goons | Banned | de_dust2 |
+| 5 | Wanted Goons | Banned | de_nuke |
+| 6 | Straight2Killin | Banned | de_inferno |
+| 7 | Wanted Goons | Picked | de_mirage |
+
+---  
+
+### **Map**: de_mirage - Wanted Goons (8) vs Straight2Killin (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | -VulcaN-            |     0.97     | 71.43 |        66.67         |                         76.92                          |           80.00           |                            66.67                            |          60.00           |                           85.71                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Wanted Goons**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Magic_KS            |      19      |             26             |             42             |                 26                 |           11            |              47              |                5                |   17   |             24              |                 29                  |            6             |              82               |             6              |
-| Feb                 |      15      |             7              |             33             |                 13                 |            0            |              73              |                0                |   17   |             24              |                 29                  |            6             |              59               |             12             |
-| killerPandas        |      14      |             29             |             29             |                 36                 |           14            |              71              |                0                |   15   |             33              |                 27                  |            7             |              53               |             7              |
-| -AGB-               |      13      |             15             |             23             |                 23                 |            8            |              69              |                0                |   17   |             18              |                 24                  |            0             |              65               |             0              |
-| Johan               |      10      |             40             |             10             |                 40                 |           30            |              90              |                0                |   15   |              7              |                 27                  |            0             |              47               |             7              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Straight2Killin** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Brashi              |      23      |             22             |             22             |                 48                 |           35            |              70              |                0                |   15   |             47              |                 27                  |            7             |              60               |             0              |
-| Elxhin              |      17      |             24             |             6              |                 29                 |           12            |              76              |                6                |   13   |             23              |                 23                  |            8             |              92               |             0              |
-| malfik              |      17      |             18             |             24             |                 53                 |           12            |              41              |                6                |   14   |             29              |                 29                  |            21            |              71               |             7              |
-| zyz                 |      12      |             25             |             25             |                 33                 |           25            |              67              |                8                |   14   |             43              |                 29                  |            0             |              50               |             0              |
-| -VulcaN-            |      12      |             42             |             33             |                 33                 |            0            |              50              |               17                |   15   |              7              |                 20                  |            7             |              67               |             0              |
+| **Wanted Goons**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Magic_KS            |      19      |             26             |             42             |                 26                 |           11            |              47              |                5                |                   5                   |         0          |     2     |
+| Feb                 |      15      |             7              |             33             |                 13                 |            0            |              73              |                0                |                   0                   |         0          |     1     |
+| killerPandas        |      14      |             29             |             29             |                 36                 |           14            |              71              |                0                |                  14                   |         4          |     2     |
+| -AGB-               |      13      |             15             |             23             |                 23                 |            8            |              69              |                0                |                   0                   |         1          |     0     |
+| Johan               |      10      |             40             |             10             |                 40                 |           30            |              90              |                0                |                   0                   |         0          |     1     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Straight2Killin** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Brashi              |      23      |             22             |             22             |                 48                 |           35            |              70              |                0                |                   0                   |         0          |     2     |
+| Elxhin              |      17      |             24             |             6              |                 29                 |           12            |              76              |                6                |                   6                   |         0          |     2     |
+| malfik              |      17      |             18             |             24             |                 53                 |           12            |              41              |                6                |                   0                   |         0          |     3     |
+| zyz                 |      12      |             25             |             25             |                 33                 |           25            |              67              |                8                |                   0                   |         0          |     2     |
+| -VulcaN-            |      12      |             42             |             33             |                 33                 |            0            |              50              |               17                |                   0                   |         2          |     1     |
+## Extended Deaths Stats  
+
+| **Wanted Goons**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Magic_KS            |      17      |             24              |                29                 |            6             |              82               |             6              |             6             |       1       |
+| Feb                 |      17      |             24              |                29                 |            6             |              59               |             12             |             0             |       0       |
+| killerPandas        |      15      |             33              |                27                 |            7             |              53               |             7              |             0             |       0       |
+| -AGB-               |      17      |             18              |                24                 |            0             |              65               |             0              |             0             |       1       |
+| Johan               |      15      |              7              |                27                 |            0             |              47               |             7              |             0             |       0       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **Straight2Killin** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Brashi              |      15      |             47              |                27                 |            7             |              60               |             0              |             0             |       0       |
+| Elxhin              |      13      |             23              |                23                 |            8             |              92               |             0              |             8             |       1       |
+| malfik              |      14      |             29              |                29                 |            21            |              71               |             7              |             0             |       2       |
+| zyz                 |      14      |             43              |                29                 |            0             |              50               |             0              |            14             |       1       |
+| -VulcaN-            |      15      |              7              |                20                 |            7             |              67               |             0              |             0             |       1       |

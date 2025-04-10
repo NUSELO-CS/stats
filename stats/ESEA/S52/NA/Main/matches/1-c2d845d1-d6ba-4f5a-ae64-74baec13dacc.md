@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-28  
 **Teams**: Instant Crush vs PROJECT D  
 
-## **Map**: de_nuke - Instant Crush (13) vs PROJECT D (10)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | PROJECT D | Banned | de_ancient |
+| 2 | Instant Crush | Banned | de_anubis |
+| 3 | Instant Crush | Banned | de_mirage |
+| 4 | PROJECT D | Banned | de_inferno |
+| 5 | PROJECT D | Banned | de_train |
+| 6 | Instant Crush | Banned | de_dust2 |
+| 7 | PROJECT D | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - Instant Crush (13) vs PROJECT D (10)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Exzotiikk         |     0.75     | 69.57 |        56.25         |                         90.00                          |           75.00           |                           100.00                            |          37.50           |                           75.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Instant Crush** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| peepeebutt        |      24      |             8              |             17             |                 38                 |           13            |              58              |               13                |   15   |             27              |                 20                  |            0             |              67               |             7              |
-| KazuhasToes       |      22      |             36             |             27             |                 36                 |           14            |              64              |                0                |   16   |             19              |                 31                  |            0             |              50               |             13             |
-| Darnell           |      15      |             7              |             13             |                 27                 |           13            |              60              |               13                |   13   |             31              |                 23                  |            0             |              38               |             8              |
-| krohl             |      12      |             17             |             25             |                 25                 |            0            |              50              |               17                |   20   |             20              |                 25                  |            5             |              60               |             5              |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **PROJECT D**     | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| seffuh            |      25      |             24             |             36             |                 36                 |           12            |              56              |                4                |   18   |             28              |                 22                  |            6             |              67               |             11             |
-| L-ws              |      17      |             35             |             24             |                 41                 |           12            |              65              |               12                |   16   |             38              |                 25                  |            0             |              69               |             13             |
-| cdb               |      18      |             28             |             17             |                 33                 |            6            |              50              |               11                |   18   |             11              |                 22                  |            11            |              50               |             17             |
-| r-e-n             |      14      |             21             |             14             |                 29                 |           14            |              50              |                0                |   17   |             29              |                 24                  |            6             |              53               |             6              |
-| gNat-             |      12      |             25             |             25             |                 33                 |            0            |              75              |                8                |   19   |             16              |                 21                  |            11            |              53               |             16             |
-| Exzotiikk         |      11      |             9              |             36             |                 27                 |           18            |              64              |               27                |   18   |             22              |                 17                  |            6             |              78               |             0              |
+| **Instant Crush** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| peepeebutt        |      24      |             8              |             17             |                 38                 |           13            |              58              |               13                |                   0                   |         0          |     3     |
+| KazuhasToes       |      22      |             36             |             27             |                 36                 |           14            |              64              |                0                |                   0                   |         0          |     3     |
+| Darnell           |      15      |             7              |             13             |                 27                 |           13            |              60              |               13                |                   0                   |         0          |     1     |
+| krohl             |      12      |             17             |             25             |                 25                 |            0            |              50              |               17                |                   0                   |         0          |     0     |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **PROJECT D**     | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| seffuh            |      25      |             24             |             36             |                 36                 |           12            |              56              |                4                |                   0                   |         0          |     1     |
+| L-ws              |      17      |             35             |             24             |                 41                 |           12            |              65              |               12                |                   0                   |         3          |     2     |
+| cdb               |      18      |             28             |             17             |                 33                 |            6            |              50              |               11                |                   0                   |         0          |     3     |
+| r-e-n             |      14      |             21             |             14             |                 29                 |           14            |              50              |                0                |                   0                   |         0          |     1     |
+| gNat-             |      12      |             25             |             25             |                 33                 |            0            |              75              |                8                |                   0                   |         0          |     1     |
+| Exzotiikk         |      11      |             9              |             36             |                 27                 |           18            |              64              |               27                |                   0                   |         4          |     0     |
+## Extended Deaths Stats  
+
+| **Instant Crush** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| peepeebutt        |      15      |             27              |                20                 |            0             |              67               |             7              |             0             |       0       |
+| KazuhasToes       |      16      |             19              |                31                 |            0             |              50               |             13             |             0             |       1       |
+| Darnell           |      13      |             31              |                23                 |            0             |              38               |             8              |             0             |       1       |
+| krohl             |      20      |             20              |                25                 |            5             |              60               |             5              |             0             |       2       |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+| **PROJECT D**     | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| seffuh            |      18      |             28              |                22                 |            6             |              67               |             11             |             0             |       1       |
+| L-ws              |      16      |             38              |                25                 |            0             |              69               |             13             |             0             |       0       |
+| cdb               |      18      |             11              |                22                 |            11            |              50               |             17             |             0             |       2       |
+| r-e-n             |      17      |             29              |                24                 |            6             |              53               |             6              |             0             |       0       |
+| gNat-             |      19      |             16              |                21                 |            11            |              53               |             16             |             0             |       0       |
+| Exzotiikk         |      18      |             22              |                17                 |            6             |              78               |             0              |             0             |       0       |

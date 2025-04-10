@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-29  
 **Teams**: Dogs vs WongDong Dragon  
 
-## **Map**: de_nuke - Dogs (13) vs WongDong Dragon (4)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | WongDong Dragon | Banned | de_anubis |
+| 2 | Dogs | Banned | de_inferno |
+| 3 | Dogs | Banned | de_ancient |
+| 4 | WongDong Dragon | Banned | de_train |
+| 5 | WongDong Dragon | Banned | de_dust2 |
+| 6 | Dogs | Banned | de_mirage |
+| 7 | WongDong Dragon | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - Dogs (13) vs WongDong Dragon (4)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | isaiah              |     0.54     | 47.06  |        37.50         |                         75.00                          |           66.67           |                           100.00                            |          20.00           |                           50.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Dogs**            | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| yup--               |      21      |             29             |             5              |                 24                 |           10            |              81              |                0                |   6    |             33              |                 33                  |            0             |              50               |             0              |
-| _zyn                |      19      |             16             |             26             |                 37                 |            5            |              63              |                5                |   10   |             50              |                 10                  |            0             |              60               |             30             |
-| Bub__               |      15      |             40             |             27             |                 20                 |            7            |              67              |                7                |   9    |             67              |                 11                  |            0             |              67               |             0              |
-| jase                |      14      |             21             |             7              |                 43                 |           21            |              86              |                0                |   7    |             71              |                 14                  |            14            |              57               |             0              |
-| Dannyh_             |      9       |             22             |             33             |                 33                 |           22            |              67              |               11                |   11   |             36              |                  9                  |            9             |              64               |             9              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **WongDong Dragon** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Clive               |      10      |             30             |             50             |                 20                 |            0            |              80              |                0                |   15   |             13              |                  7                  |            0             |              80               |             0              |
-| YASR                |      9       |             56             |             33             |                 22                 |            0            |              44              |               11                |   16   |             13              |                 13                  |            0             |              63               |             6              |
-| Chongares           |      9       |             33             |             67             |                 0                  |            0            |              44              |               11                |   15   |             13              |                 13                  |            0             |              73               |             7              |
-| tranq               |      7       |             29             |             71             |                 14                 |            0            |              43              |               29                |   17   |             35              |                 12                  |            0             |              88               |             6              |
-| isaiah              |      8       |             0              |             38             |                 13                 |            0            |              88              |                0                |   15   |             13              |                 13                  |            0             |              67               |             0              |
+| **Dogs**            | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| yup--               |      21      |             29             |             5              |                 24                 |           10            |              81              |                0                |                   0                   |         13         |     1     |
+| _zyn                |      19      |             16             |             26             |                 37                 |            5            |              63              |                5                |                   0                   |         0          |     4     |
+| Bub__               |      15      |             40             |             27             |                 20                 |            7            |              67              |                7                |                  13                   |         0          |     5     |
+| jase                |      14      |             21             |             7              |                 43                 |           21            |              86              |                0                |                   0                   |         8          |     0     |
+| Dannyh_             |      9       |             22             |             33             |                 33                 |           22            |              67              |               11                |                   0                   |         0          |     0     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **WongDong Dragon** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Clive               |      10      |             30             |             50             |                 20                 |            0            |              80              |                0                |                  10                   |         0          |     3     |
+| YASR                |      9       |             56             |             33             |                 22                 |            0            |              44              |               11                |                   0                   |         2          |     0     |
+| Chongares           |      9       |             33             |             67             |                 0                  |            0            |              44              |               11                |                   0                   |         0          |     2     |
+| tranq               |      7       |             29             |             71             |                 14                 |            0            |              43              |               29                |                   0                   |         0          |     0     |
+| isaiah              |      8       |             0              |             38             |                 13                 |            0            |              88              |                0                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Dogs**            | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| yup--               |      6       |             33              |                33                 |            0             |              50               |             0              |             0             |       0       |
+| _zyn                |      10      |             50              |                10                 |            0             |              60               |             30             |             0             |       0       |
+| Bub__               |      9       |             67              |                11                 |            0             |              67               |             0              |            11             |       1       |
+| jase                |      7       |             71              |                14                 |            14            |              57               |             0              |             0             |       0       |
+| Dannyh_             |      11      |             36              |                 9                 |            9             |              64               |             9              |             0             |       1       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **WongDong Dragon** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Clive               |      15      |             13              |                 7                 |            0             |              80               |             0              |             0             |       4       |
+| YASR                |      16      |             13              |                13                 |            0             |              63               |             6              |             6             |       4       |
+| Chongares           |      15      |             13              |                13                 |            0             |              73               |             7              |             7             |       3       |
+| tranq               |      17      |             35              |                12                 |            0             |              88               |             6              |             0             |       5       |
+| isaiah              |      15      |             13              |                13                 |            0             |              67               |             0              |             0             |       5       |

@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-21  
 **Teams**: Zealous vs cash cows  
 
-## **Map**: de_inferno - Zealous (11) vs cash cows (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Zealous | Banned | de_dust2 |
+| 2 | cash cows | Banned | de_train |
+| 3 | cash cows | Banned | de_ancient |
+| 4 | Zealous | Banned | de_nuke |
+| 5 | Zealous | Banned | de_mirage |
+| 6 | cash cows | Banned | de_anubis |
+| 7 | Zealous | Picked | de_inferno |
+
+---  
+
+### **Map**: de_inferno - Zealous (11) vs cash cows (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Nabaki        |     1.00     | 75.00 |        68.42         |                         100.00                         |           70.00           |                           100.00                            |          66.67           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Zealous**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Naz_Reid      |      21      |             19             |             24             |                 24                 |            0            |              62              |                5                |   17   |             12              |                 18                  |            0             |              35               |             6              |
-| YaboDuulio    |      20      |             25             |             30             |                 45                 |            0            |              55              |               20                |   20   |             20              |                 25                  |            0             |              60               |             10             |
-| borb_         |      17      |             41             |             12             |                 35                 |            0            |              65              |                0                |   17   |             24              |                 18                  |            0             |              59               |             6              |
-| nKg-          |      13      |             8              |             62             |                 8                  |            0            |              46              |               23                |   19   |             37              |                 21                  |            0             |              58               |             5              |
-| BOTTOMTOPPER  |      9       |             33             |             11             |                 33                 |            0            |              67              |                0                |   18   |             22              |                 22                  |            0             |              67               |             6              |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **cash cows** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| quesakilla    |      23      |             17             |             17             |                 35                 |           22            |              52              |                9                |   17   |             29              |                 18                  |            0             |              65               |             6              |
-| kenny         |      20      |             35             |             30             |                 30                 |            0            |              65              |                5                |   17   |             35              |                 24                  |            0             |              47               |             12             |
-| Crawfish      |      17      |             12             |             29             |                 18                 |            0            |              53              |               12                |   14   |             21              |                 14                  |            7             |              57               |             7              |
-| verde         |      16      |             31             |             31             |                 38                 |           13            |              56              |                6                |   17   |             29              |                 18                  |            6             |              65               |             12             |
-| Nabaki        |      14      |             21             |             14             |                 36                 |           21            |              64              |                0                |   16   |             25              |                 19                  |            0             |              63               |             13             |
+| **Zealous**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Naz_Reid      |      21      |             19             |             24             |                 24                 |            0            |              62              |                5                |                   0                   |         0          |     0     |
+| YaboDuulio    |      20      |             25             |             30             |                 45                 |            0            |              55              |               20                |                   5                   |         0          |     1     |
+| borb_         |      17      |             41             |             12             |                 35                 |            0            |              65              |                0                |                   0                   |         9          |     1     |
+| nKg-          |      13      |             8              |             62             |                 8                  |            0            |              46              |               23                |                   8                   |         0          |     1     |
+| BOTTOMTOPPER  |      9       |             33             |             11             |                 33                 |            0            |              67              |                0                |                   0                   |         0          |     3     |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **cash cows** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| quesakilla    |      23      |             17             |             17             |                 35                 |           22            |              52              |                9                |                   4                   |         3          |     5     |
+| kenny         |      20      |             35             |             30             |                 30                 |            0            |              65              |                5                |                   0                   |         0          |     2     |
+| Crawfish      |      17      |             12             |             29             |                 18                 |            0            |              53              |               12                |                   0                   |         0          |     1     |
+| verde         |      16      |             31             |             31             |                 38                 |           13            |              56              |                6                |                   0                   |         0          |     0     |
+| Nabaki        |      14      |             21             |             14             |                 36                 |           21            |              64              |                0                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Zealous**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player        |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Naz_Reid      |      17      |             12              |                18                 |            0             |              35               |             6              |             6             |       0       |
+| YaboDuulio    |      20      |             20              |                25                 |            0             |              60               |             10             |             0             |       1       |
+| borb_         |      17      |             24              |                18                 |            0             |              59               |             6              |             0             |       1       |
+| nKg-          |      19      |             37              |                21                 |            0             |              58               |             5              |             0             |       0       |
+| BOTTOMTOPPER  |      18      |             22              |                22                 |            0             |              67               |             6              |             0             |       1       |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+| **cash cows** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player        |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| quesakilla    |      17      |             29              |                18                 |            0             |              65               |             6              |             0             |       3       |
+| kenny         |      17      |             35              |                24                 |            0             |              47               |             12             |             0             |       2       |
+| Crawfish      |      14      |             21              |                14                 |            7             |              57               |             7              |             0             |       1       |
+| verde         |      17      |             29              |                18                 |            6             |              65               |             12             |             0             |       2       |
+| Nabaki        |      16      |             25              |                19                 |            0             |              63               |             13             |            13             |       1       |

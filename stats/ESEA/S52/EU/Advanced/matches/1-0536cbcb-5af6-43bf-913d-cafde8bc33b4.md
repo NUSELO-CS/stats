@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-22  
 **Teams**: NEVERMORE vs QUAZAR x 44  
 
-## **Map**: de_inferno - NEVERMORE (13) vs QUAZAR x 44 (4)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | QUAZAR x 44 | Banned | de_ancient |
+| 2 | NEVERMORE | Banned | de_nuke |
+| 3 | NEVERMORE | Banned | de_mirage |
+| 4 | QUAZAR x 44 | Banned | de_train |
+| 5 | QUAZAR x 44 | Banned | de_dust2 |
+| 6 | NEVERMORE | Banned | de_anubis |
+| 7 | QUAZAR x 44 | Picked | de_inferno |
+
+---  
+
+### **Map**: de_inferno - NEVERMORE (13) vs QUAZAR x 44 (4)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | n4mb3r5         |     0.42     | 47.06  |        44.44         |                         100.00                         |           75.00           |                           100.00                            |          20.00           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **NEVERMORE**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| neiter          |      16      |             19             |             44             |                 56                 |           19            |              75              |                6                |   8    |             50              |                 25                  |            0             |              100              |             0              |
-| MUV41K          |      15      |             13             |             33             |                 47                 |            0            |              67              |               13                |   10   |             20              |                 40                  |            10            |              60               |             0              |
-| hodix           |      16      |             31             |             19             |                 44                 |           13            |              69              |                6                |   11   |             36              |                 18                  |            9             |              82               |             0              |
-| jackast         |      12      |             0              |             0              |                 25                 |            0            |              58              |                0                |   7    |             71              |                 29                  |            14            |              71               |             0              |
-| Donii           |      12      |             25             |             0              |                 33                 |            0            |              58              |                0                |   4    |             25              |                  0                  |            0             |              75               |             0              |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **QUAZAR x 44** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| -whisper666     |      12      |             17             |             33             |                 8                  |            0            |              83              |                0                |   14   |             14              |                 14                  |            0             |              64               |             7              |
-| tommy171        |      8       |             13             |             63             |                 38                 |            0            |              75              |                0                |   15   |             40              |                 13                  |            0             |              67               |             7              |
-| gehji           |      6       |             33             |             17             |                 50                 |            0            |             100              |                0                |   14   |             29              |                 14                  |            0             |              50               |             7              |
-| Fleer--         |      8       |             50             |             50             |                 63                 |            0            |              63              |                0                |   14   |              7              |                  7                  |            0             |              86               |             7              |
-| n4mb3r5         |      6       |             33             |             33             |                 33                 |            0            |              67              |                0                |   14   |             14              |                 14                  |            0             |              64               |             0              |
+| **NEVERMORE**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| neiter          |      16      |             19             |             44             |                 56                 |           19            |              75              |                6                |                   6                   |         0          |     2     |
+| MUV41K          |      15      |             13             |             33             |                 47                 |            0            |              67              |               13                |                  13                   |         0          |     1     |
+| hodix           |      16      |             31             |             19             |                 44                 |           13            |              69              |                6                |                   6                   |         7          |     2     |
+| jackast         |      12      |             0              |             0              |                 25                 |            0            |              58              |                0                |                   0                   |         0          |     2     |
+| Donii           |      12      |             25             |             0              |                 33                 |            0            |              58              |                0                |                   0                   |         0          |     0     |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **QUAZAR x 44** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| -whisper666     |      12      |             17             |             33             |                 8                  |            0            |              83              |                0                |                   0                   |         0          |     4     |
+| tommy171        |      8       |             13             |             63             |                 38                 |            0            |              75              |                0                |                   0                   |         2          |     1     |
+| gehji           |      6       |             33             |             17             |                 50                 |            0            |             100              |                0                |                   0                   |         0          |     2     |
+| Fleer--         |      8       |             50             |             50             |                 63                 |            0            |              63              |                0                |                  13                   |         0          |     0     |
+| n4mb3r5         |      6       |             33             |             33             |                 33                 |            0            |              67              |                0                |                  17                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **NEVERMORE**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| neiter          |      8       |             50              |                25                 |            0             |              100              |             0              |             0             |       1       |
+| MUV41K          |      10      |             20              |                40                 |            10            |              60               |             0              |            10             |       0       |
+| hodix           |      11      |             36              |                18                 |            9             |              82               |             0              |             0             |       1       |
+| jackast         |      7       |             71              |                29                 |            14            |              71               |             0              |             0             |       0       |
+| Donii           |      4       |             25              |                 0                 |            0             |              75               |             0              |            25             |       0       |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+| **QUAZAR x 44** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| -whisper666     |      14      |             14              |                14                 |            0             |              64               |             7              |            14             |       1       |
+| tommy171        |      15      |             40              |                13                 |            0             |              67               |             7              |             0             |       2       |
+| gehji           |      14      |             29              |                14                 |            0             |              50               |             7              |             7             |       0       |
+| Fleer--         |      14      |              7              |                 7                 |            0             |              86               |             7              |             7             |       2       |
+| n4mb3r5         |      14      |             14              |                14                 |            0             |              64               |             0              |             0             |       2       |

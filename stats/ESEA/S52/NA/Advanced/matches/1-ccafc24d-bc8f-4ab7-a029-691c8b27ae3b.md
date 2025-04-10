@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-14  
 **Teams**: Holly Molly vs BigBrain No Aim  
 
-## **Map**: de_nuke - Holly Molly (13) vs BigBrain No Aim (11)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | BigBrain No Aim | Banned | de_anubis |
+| 2 | Holly Molly | Banned | de_inferno |
+| 3 | Holly Molly | Banned | de_mirage |
+| 4 | BigBrain No Aim | Banned | de_dust2 |
+| 5 | BigBrain No Aim | Banned | de_train |
+| 6 | Holly Molly | Banned | de_ancient |
+| 7 | BigBrain No Aim | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - Holly Molly (13) vs BigBrain No Aim (11)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Fortune_-           |     0.85     | 54.17 |        61.54         |                         72.73                          |           42.86           |                           100.00                            |          83.33           |                           62.50                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Holly Molly**     | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| emblem              |      19      |             21             |             16             |                 37                 |           21            |              68              |               11                |   14   |             21              |                 21                  |            0             |              57               |             7              |
-| FlashET             |      19      |             11             |             11             |                 47                 |           21            |              68              |               11                |   19   |             26              |                 26                  |            5             |              47               |             11             |
-| omoo                |      19      |             16             |             21             |                 21                 |           21            |              58              |                5                |   17   |             24              |                 24                  |            6             |              71               |             12             |
-| 1PandaTM            |      21      |             24             |             19             |                 33                 |           14            |              62              |                0                |   18   |             22              |                 11                  |            0             |              72               |             6              |
-| sveetea             |      18      |             22             |             22             |                 28                 |            0            |              72              |               11                |   15   |             20              |                 13                  |            0             |              67               |             0              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **BigBrain No Aim** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| bgmx                |      20      |             30             |             25             |                 50                 |           15            |              60              |                5                |   18   |             28              |                 22                  |            6             |              78               |             6              |
-| -_-Kiri             |      19      |             5              |             26             |                 32                 |           21            |              68              |               16                |   21   |             24              |                 29                  |            10            |              71               |             0              |
-| -cando              |      15      |             40             |             13             |                 27                 |            0            |              60              |                0                |   17   |             12              |                 18                  |            6             |              53               |             6              |
-| RoughFire           |      13      |             23             |             38             |                 38                 |           15            |              46              |                0                |   21   |             19              |                 29                  |            10            |              62               |             14             |
-| Fortune_-           |      16      |             6              |             13             |                 44                 |           25            |              75              |               13                |   19   |              5              |                 26                  |            5             |              68               |             11             |
+| **Holly Molly**     | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| emblem              |      19      |             21             |             16             |                 37                 |           21            |              68              |               11                |                   0                   |         0          |     0     |
+| FlashET             |      19      |             11             |             11             |                 47                 |           21            |              68              |               11                |                   0                   |         0          |     3     |
+| omoo                |      19      |             16             |             21             |                 21                 |           21            |              58              |                5                |                   0                   |         4          |     4     |
+| 1PandaTM            |      21      |             24             |             19             |                 33                 |           14            |              62              |                0                |                   5                   |         0          |     2     |
+| sveetea             |      18      |             22             |             22             |                 28                 |            0            |              72              |               11                |                   0                   |         0          |     1     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **BigBrain No Aim** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| bgmx                |      20      |             30             |             25             |                 50                 |           15            |              60              |                5                |                   0                   |         1          |     0     |
+| -_-Kiri             |      19      |             5              |             26             |                 32                 |           21            |              68              |               16                |                   0                   |         0          |     1     |
+| -cando              |      15      |             40             |             13             |                 27                 |            0            |              60              |                0                |                   0                   |         0          |     1     |
+| RoughFire           |      13      |             23             |             38             |                 38                 |           15            |              46              |                0                |                   0                   |         0          |     2     |
+| Fortune_-           |      16      |             6              |             13             |                 44                 |           25            |              75              |               13                |                   0                   |         7          |     0     |
+## Extended Deaths Stats  
+
+| **Holly Molly**     | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| emblem              |      14      |             21              |                21                 |            0             |              57               |             7              |             0             |       2       |
+| FlashET             |      19      |             26              |                26                 |            5             |              47               |             11             |             0             |       2       |
+| omoo                |      17      |             24              |                24                 |            6             |              71               |             12             |             0             |       1       |
+| 1PandaTM            |      18      |             22              |                11                 |            0             |              72               |             6              |             0             |       2       |
+| sveetea             |      15      |             20              |                13                 |            0             |              67               |             0              |             0             |       1       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **BigBrain No Aim** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| bgmx                |      18      |             28              |                22                 |            6             |              78               |             6              |             0             |       0       |
+| -_-Kiri             |      21      |             24              |                29                 |            10            |              71               |             0              |             5             |       1       |
+| -cando              |      17      |             12              |                18                 |            6             |              53               |             6              |             0             |       0       |
+| RoughFire           |      21      |             19              |                29                 |            10            |              62               |             14             |             0             |       2       |
+| Fortune_-           |      19      |              5              |                26                 |            5             |              68               |             11             |             0             |       1       |

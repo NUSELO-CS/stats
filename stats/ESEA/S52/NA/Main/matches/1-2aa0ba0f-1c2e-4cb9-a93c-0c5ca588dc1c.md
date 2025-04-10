@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-14  
 **Teams**: Quebon vs iLLustrious  
 
-## **Map**: de_ancient - Quebon (9) vs iLLustrious (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | iLLustrious | Banned | de_mirage |
+| 2 | Quebon | Banned | de_inferno |
+| 3 | Quebon | Banned | de_nuke |
+| 4 | iLLustrious | Banned | de_train |
+| 5 | iLLustrious | Banned | de_dust2 |
+| 6 | Quebon | Banned | de_anubis |
+| 7 | iLLustrious | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - Quebon (9) vs iLLustrious (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | J13K            |     0.98     | 77.27 |        70.59         |                         92.31                          |           66.67           |                           100.00                            |          72.73           |                           88.89                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Quebon**      | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| PNDLM           |      17      |             29             |             35             |                 35                 |           12            |              35              |                6                |   18   |             28              |                 11                  |            11            |              56               |             6              |
-| PALADIN---      |      17      |             12             |             41             |                 12                 |            6            |              71              |                0                |   14   |             36              |                  0                  |            0             |              64               |             0              |
-| Scottiyio       |      16      |             19             |             25             |                 31                 |           19            |              50              |               19                |   14   |             14              |                  7                  |            0             |              71               |             0              |
-| Fr3nk1e         |      15      |             27             |             40             |                 13                 |            7            |              40              |                7                |   18   |             17              |                 17                  |            6             |              44               |             6              |
-| praze1          |      13      |             23             |             31             |                 38                 |           23            |              31              |               15                |   18   |             28              |                  6                  |            6             |              56               |             0              |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **iLLustrious** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Bruse           |      21      |             43             |             33             |                 33                 |           10            |              71              |                0                |   18   |             28              |                 28                  |            0             |              56               |             11             |
-| m4rley          |      19      |             37             |             11             |                 58                 |            0            |              68              |                5                |   14   |             29              |                 36                  |            7             |              36               |             0              |
-| tate            |      13      |             23             |             38             |                 38                 |            0            |              23              |                8                |   15   |             47              |                 27                  |            0             |               7               |             13             |
-| tangz           |      15      |             33             |             20             |                 33                 |           13            |              47              |                0                |   16   |             19              |                 44                  |            0             |              56               |             13             |
-| J13K            |      13      |             8              |             15             |                 23                 |            0            |              54              |                0                |   16   |             44              |                 38                  |            0             |              69               |             6              |
+| **Quebon**      | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| PNDLM           |      17      |             29             |             35             |                 35                 |           12            |              35              |                6                |                  18                   |         0          |     0     |
+| PALADIN---      |      17      |             12             |             41             |                 12                 |            6            |              71              |                0                |                   0                   |         0          |     4     |
+| Scottiyio       |      16      |             19             |             25             |                 31                 |           19            |              50              |               19                |                   6                   |         0          |     0     |
+| Fr3nk1e         |      15      |             27             |             40             |                 13                 |            7            |              40              |                7                |                   0                   |         3          |     2     |
+| praze1          |      13      |             23             |             31             |                 38                 |           23            |              31              |               15                |                   0                   |         1          |     0     |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **iLLustrious** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Bruse           |      21      |             43             |             33             |                 33                 |           10            |              71              |                0                |                  10                   |         0          |     4     |
+| m4rley          |      19      |             37             |             11             |                 58                 |            0            |              68              |                5                |                  11                   |         0          |     0     |
+| tate            |      13      |             23             |             38             |                 38                 |            0            |              23              |                8                |                   0                   |         0          |     2     |
+| tangz           |      15      |             33             |             20             |                 33                 |           13            |              47              |                0                |                   0                   |         0          |     1     |
+| J13K            |      13      |             8              |             15             |                 23                 |            0            |              54              |                0                |                  15                   |         4          |     2     |
+## Extended Deaths Stats  
+
+| **Quebon**      | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| PNDLM           |      18      |             28              |                11                 |            11            |              56               |             6              |             6             |       0       |
+| PALADIN---      |      14      |             36              |                 0                 |            0             |              64               |             0              |            14             |       0       |
+| Scottiyio       |      14      |             14              |                 7                 |            0             |              71               |             0              |             0             |       1       |
+| Fr3nk1e         |      18      |             17              |                17                 |            6             |              44               |             6              |             6             |       0       |
+| praze1          |      18      |             28              |                 6                 |            6             |              56               |             0              |            11             |       3       |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+| **iLLustrious** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Bruse           |      18      |             28              |                28                 |            0             |              56               |             11             |             0             |       1       |
+| m4rley          |      14      |             29              |                36                 |            7             |              36               |             0              |             0             |       1       |
+| tate            |      15      |             47              |                27                 |            0             |               7               |             13             |             7             |       1       |
+| tangz           |      16      |             19              |                44                 |            0             |              56               |             13             |             6             |       0       |
+| J13K            |      16      |             44              |                38                 |            0             |              69               |             6              |            13             |       1       |

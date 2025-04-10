@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-14  
 **Teams**: Fredding4Frag vs Velox eSports  
 
-## **Map**: de_ancient - Fredding4Frag (13) vs Velox eSports (9)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Fredding4Frag | Banned | de_dust2 |
+| 2 | Velox eSports | Banned | de_anubis |
+| 3 | Velox eSports | Banned | de_inferno |
+| 4 | Fredding4Frag | Banned | de_mirage |
+| 5 | Fredding4Frag | Banned | de_train |
+| 6 | Velox eSports | Banned | de_nuke |
+| 7 | Fredding4Frag | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - Fredding4Frag (13) vs Velox eSports (9)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Zano              |     0.52     | 54.55 |        58.33         |                         77.78                          |           50.00           |                            66.67                            |          62.50           |                           83.33                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Fredding4Frag** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Fictionul         |      22      |             27             |             5              |                 64                 |            9            |              50              |                9                |   13   |              8              |                 31                  |            0             |              62               |             0              |
-| DanieIH           |      17      |             12             |             0              |                 35                 |            6            |              47              |                0                |   12   |             25              |                 50                  |            0             |              42               |             8              |
-| Penske            |      19      |             11             |             21             |                 47                 |            5            |              58              |               11                |   15   |             27              |                 40                  |            0             |              53               |             0              |
-| LollypopTV        |      16      |             19             |             25             |                 63                 |            0            |              63              |               25                |   16   |             25              |                 38                  |            0             |              56               |             0              |
-| Sithiss           |      15      |             7              |             20             |                 40                 |            7            |              47              |                0                |   12   |             17              |                 42                  |            0             |              33               |             8              |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Velox eSports** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| jdwede            |      20      |             5              |             20             |                 20                 |            5            |              55              |                0                |   14   |             21              |                 21                  |            0             |              79               |             7              |
-| Quigs25           |      15      |             33             |             13             |                 13                 |            0            |              73              |               13                |   18   |             11              |                  6                  |            0             |              61               |             6              |
-| ariae             |      13      |             15             |             23             |                 31                 |           31            |              46              |                0                |   18   |             11              |                 11                  |            0             |              44               |             6              |
-| --Jon             |      12      |             17             |             25             |                 0                  |            0            |              33              |                0                |   20   |             15              |                 10                  |            0             |              45               |             20             |
-| Zano              |      8       |             25             |             25             |                 13                 |            0            |              50              |                0                |   19   |             11              |                  5                  |            0             |              58               |             5              |
+| **Fredding4Frag** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Fictionul         |      22      |             27             |             5              |                 64                 |            9            |              50              |                9                |                   0                   |         0          |     1     |
+| DanieIH           |      17      |             12             |             0              |                 35                 |            6            |              47              |                0                |                   0                   |         0          |     1     |
+| Penske            |      19      |             11             |             21             |                 47                 |            5            |              58              |               11                |                   0                   |         0          |     2     |
+| LollypopTV        |      16      |             19             |             25             |                 63                 |            0            |              63              |               25                |                   0                   |         0          |     1     |
+| Sithiss           |      15      |             7              |             20             |                 40                 |            7            |              47              |                0                |                   0                   |         0          |     2     |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Velox eSports** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| jdwede            |      20      |             5              |             20             |                 20                 |            5            |              55              |                0                |                   0                   |         0          |     1     |
+| Quigs25           |      15      |             33             |             13             |                 13                 |            0            |              73              |               13                |                  13                   |         0          |     4     |
+| ariae             |      13      |             15             |             23             |                 31                 |           31            |              46              |                0                |                   0                   |         0          |     1     |
+| --Jon             |      12      |             17             |             25             |                 0                  |            0            |              33              |                0                |                   0                   |         4          |     2     |
+| Zano              |      8       |             25             |             25             |                 13                 |            0            |              50              |                0                |                   0                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **Fredding4Frag** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Fictionul         |      13      |              8              |                31                 |            0             |              62               |             0              |             8             |       0       |
+| DanieIH           |      12      |             25              |                50                 |            0             |              42               |             8              |             0             |       1       |
+| Penske            |      15      |             27              |                40                 |            0             |              53               |             0              |             0             |       1       |
+| LollypopTV        |      16      |             25              |                38                 |            0             |              56               |             0              |             6             |       1       |
+| Sithiss           |      12      |             17              |                42                 |            0             |              33               |             8              |             0             |       1       |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+| **Velox eSports** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| jdwede            |      14      |             21              |                21                 |            0             |              79               |             7              |             0             |       0       |
+| Quigs25           |      18      |             11              |                 6                 |            0             |              61               |             6              |             0             |       0       |
+| ariae             |      18      |             11              |                11                 |            0             |              44               |             6              |             0             |       0       |
+| --Jon             |      20      |             15              |                10                 |            0             |              45               |             20             |             0             |       0       |
+| Zano              |      19      |             11              |                 5                 |            0             |              58               |             5              |             0             |       0       |

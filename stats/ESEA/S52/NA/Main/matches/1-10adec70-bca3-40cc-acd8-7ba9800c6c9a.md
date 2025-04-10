@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-21  
 **Teams**: Kahoot Squad vs James Bond Bois  
 
-## **Map**: de_inferno - Kahoot Squad (13) vs James Bond Bois (11)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | James Bond Bois | Banned | de_nuke |
+| 2 | Kahoot Squad | Banned | de_ancient |
+| 3 | Kahoot Squad | Banned | de_anubis |
+| 4 | James Bond Bois | Banned | de_train |
+| 5 | James Bond Bois | Banned | de_mirage |
+| 6 | Kahoot Squad | Banned | de_dust2 |
+| 7 | James Bond Bois | Picked | de_inferno |
+
+---  
+
+### **Map**: de_inferno - Kahoot Squad (13) vs James Bond Bois (11)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Floamy              |     0.97     | 62.50 |        66.67         |                         90.91                          |           71.43           |                           100.00                            |          62.50           |                           83.33                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Kahoot Squad**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| COMRADSNIPER        |      21      |             19             |             29             |                 48                 |            5            |              62              |               14                |   19   |             11              |                 21                  |            0             |              68               |             11             |
-| teejhey             |      16      |             25             |             19             |                 38                 |           25            |              56              |                6                |   16   |             44              |                 13                  |            6             |              88               |             0              |
-| Dark_Potato         |      17      |             29             |             29             |                 35                 |           18            |              47              |               24                |   17   |             18              |                 12                  |            0             |              71               |             0              |
-| itzshifty           |      15      |             13             |             13             |                 27                 |           13            |              60              |               13                |   15   |             33              |                  7                  |            0             |              93               |             0              |
-| Crisis              |      13      |             38             |             8              |                 23                 |            0            |              46              |                0                |   17   |             29              |                 12                  |            6             |              53               |             6              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **James Bond Bois** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| siN_ZJ              |      20      |             25             |             40             |                 40                 |            5            |              75              |                5                |   16   |             13              |                 19                  |            0             |              56               |             0              |
-| pharaohz            |      15      |             7              |             27             |                 40                 |            7            |              73              |                0                |   16   |             19              |                 13                  |            0             |              56               |             6              |
-| Mayhem_ZJ           |      16      |             25             |             31             |                 38                 |            0            |              69              |                6                |   17   |             24              |                 18                  |            0             |              65               |             12             |
-| AMPedd              |      18      |             17             |             22             |                 44                 |           11            |              78              |                6                |   18   |             22              |                 17                  |            0             |              44               |             22             |
-| Floamy              |      15      |             13             |             7              |                 33                 |            7            |              67              |                0                |   15   |             27              |                 27                  |            0             |              53               |             20             |
+| **Kahoot Squad**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| COMRADSNIPER        |      21      |             19             |             29             |                 48                 |            5            |              62              |               14                |                   0                   |         0          |     1     |
+| teejhey             |      16      |             25             |             19             |                 38                 |           25            |              56              |                6                |                   6                   |         0          |     0     |
+| Dark_Potato         |      17      |             29             |             29             |                 35                 |           18            |              47              |               24                |                   6                   |         0          |     0     |
+| itzshifty           |      15      |             13             |             13             |                 27                 |           13            |              60              |               13                |                  13                   |         0          |     1     |
+| Crisis              |      13      |             38             |             8              |                 23                 |            0            |              46              |                0                |                   8                   |         0          |     3     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **James Bond Bois** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| siN_ZJ              |      20      |             25             |             40             |                 40                 |            5            |              75              |                5                |                   5                   |         1          |     2     |
+| pharaohz            |      15      |             7              |             27             |                 40                 |            7            |              73              |                0                |                   0                   |         0          |     1     |
+| Mayhem_ZJ           |      16      |             25             |             31             |                 38                 |            0            |              69              |                6                |                   6                   |         0          |     0     |
+| AMPedd              |      18      |             17             |             22             |                 44                 |           11            |              78              |                6                |                   0                   |         0          |     2     |
+| Floamy              |      15      |             13             |             7              |                 33                 |            7            |              67              |                0                |                   0                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **Kahoot Squad**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| COMRADSNIPER        |      19      |             11              |                21                 |            0             |              68               |             11             |             0             |       0       |
+| teejhey             |      16      |             44              |                13                 |            6             |              88               |             0              |             0             |       0       |
+| Dark_Potato         |      17      |             18              |                12                 |            0             |              71               |             0              |             0             |       0       |
+| itzshifty           |      15      |             33              |                 7                 |            0             |              93               |             0              |            13             |       1       |
+| Crisis              |      17      |             29              |                12                 |            6             |              53               |             6              |             0             |       0       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **James Bond Bois** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| siN_ZJ              |      16      |             13              |                19                 |            0             |              56               |             0              |             6             |       0       |
+| pharaohz            |      16      |             19              |                13                 |            0             |              56               |             6              |             0             |       0       |
+| Mayhem_ZJ           |      17      |             24              |                18                 |            0             |              65               |             12             |            12             |       0       |
+| AMPedd              |      18      |             22              |                17                 |            0             |              44               |             22             |            11             |       0       |
+| Floamy              |      15      |             27              |                27                 |            0             |              53               |             20             |             0             |       0       |

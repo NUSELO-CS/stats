@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-25  
 **Teams**: ProCamp UA vs XGod Arena  
 
-## **Map**: de_dust2 - ProCamp UA (13) vs XGod Arena (9)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | XGod Arena | Banned | de_ancient |
+| 2 | ProCamp UA | Banned | de_nuke |
+| 3 | ProCamp UA | Banned | de_mirage |
+| 4 | XGod Arena | Banned | de_inferno |
+| 5 | XGod Arena | Banned | de_anubis |
+| 6 | ProCamp UA | Banned | de_train |
+| 7 | XGod Arena | Picked | de_dust2 |
+
+---  
+
+### **Map**: de_dust2 - ProCamp UA (13) vs XGod Arena (9)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | VoukGG         |     0.64     | 50.00 |        63.64         |                         77.78                          |           66.67           |                            80.00                            |          60.00           |                           75.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **ProCamp UA** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| akjio          |      21      |             19             |             10             |                 33                 |            0            |              76              |                0                |   12   |             17              |                 42                  |            0             |              67               |             17             |
-| KaSmA-         |      22      |             9              |             18             |                 59                 |            0            |              45              |                9                |   15   |             20              |                 47                  |            0             |              47               |             0              |
-| Naginat-       |      19      |             21             |             26             |                 53                 |            0            |              68              |                5                |   15   |             20              |                 47                  |            0             |              67               |             0              |
-| imawashi       |      13      |             0              |             0              |                 46                 |            0            |              46              |               23                |   16   |             31              |                 31                  |            0             |              56               |             0              |
-| cr1stalg0d     |      10      |             40             |             10             |                 40                 |            0            |              50              |                0                |   15   |             20              |                 40                  |            0             |              67               |             13             |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **XGod Arena** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| t1murj4N-      |      21      |             5              |             19             |                 19                 |            5            |              62              |                0                |   16   |             19              |                 25                  |            13            |              81               |             13             |
-| klydeep-       |      12      |             8              |             17             |                 67                 |           33            |              67              |                8                |   15   |             13              |                 20                  |            0             |              53               |             7              |
-| LECY           |      14      |             21             |             21             |                 29                 |           14            |              71              |               14                |   18   |             22              |                 28                  |            17            |              56               |             11             |
-| -mowel         |      15      |             13             |             27             |                 33                 |           33            |              40              |                7                |   19   |             11              |                 26                  |            11            |              68               |             0              |
-| VoukGG         |      11      |             18             |             27             |                 36                 |           27            |              64              |                0                |   17   |              6              |                 24                  |            6             |              35               |             6              |
+| **ProCamp UA** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| akjio          |      21      |             19             |             10             |                 33                 |            0            |              76              |                0                |                   5                   |         4          |     3     |
+| KaSmA-         |      22      |             9              |             18             |                 59                 |            0            |              45              |                9                |                   0                   |         15         |     0     |
+| Naginat-       |      19      |             21             |             26             |                 53                 |            0            |              68              |                5                |                   5                   |         1          |     2     |
+| imawashi       |      13      |             0              |             0              |                 46                 |            0            |              46              |               23                |                  15                   |         2          |     1     |
+| cr1stalg0d     |      10      |             40             |             10             |                 40                 |            0            |              50              |                0                |                  10                   |         0          |     0     |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **XGod Arena** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| t1murj4N-      |      21      |             5              |             19             |                 19                 |            5            |              62              |                0                |                   0                   |         5          |     5     |
+| klydeep-       |      12      |             8              |             17             |                 67                 |           33            |              67              |                8                |                   0                   |         0          |     0     |
+| LECY           |      14      |             21             |             21             |                 29                 |           14            |              71              |               14                |                   0                   |         0          |     1     |
+| -mowel         |      15      |             13             |             27             |                 33                 |           33            |              40              |                7                |                  13                   |         0          |     0     |
+| VoukGG         |      11      |             18             |             27             |                 36                 |           27            |              64              |                0                |                   9                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **ProCamp UA** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| akjio          |      12      |             17              |                42                 |            0             |              67               |             17             |             8             |       1       |
+| KaSmA-         |      15      |             20              |                47                 |            0             |              47               |             0              |             0             |       1       |
+| Naginat-       |      15      |             20              |                47                 |            0             |              67               |             0              |             0             |       1       |
+| imawashi       |      16      |             31              |                31                 |            0             |              56               |             0              |            13             |       1       |
+| cr1stalg0d     |      15      |             20              |                40                 |            0             |              67               |             13             |             0             |       1       |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+| **XGod Arena** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| t1murj4N-      |      16      |             19              |                25                 |            13            |              81               |             13             |             0             |       3       |
+| klydeep-       |      15      |             13              |                20                 |            0             |              53               |             7              |             0             |       2       |
+| LECY           |      18      |             22              |                28                 |            17            |              56               |             11             |             6             |       6       |
+| -mowel         |      19      |             11              |                26                 |            11            |              68               |             0              |             5             |       5       |
+| VoukGG         |      17      |              6              |                24                 |            6             |              35               |             6              |            18             |       6       |

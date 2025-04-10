@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-12  
 **Teams**: deluxe vs N w G  
 
-## **Map**: de_anubis - deluxe (1) vs N w G (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | N w G | Banned | de_mirage |
+| 2 | deluxe | Banned | de_nuke |
+| 3 | deluxe | Banned | de_train |
+| 4 | N w G | Banned | de_ancient |
+| 5 | N w G | Banned | de_inferno |
+| 6 | deluxe | Banned | de_dust2 |
+| 7 | N w G | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - deluxe (1) vs N w G (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Jacob----- |     1.05     | 71.43 |        90.00         |                         69.23                          |          100.00           |                           100.00                            |          87.50           |                           63.64                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **deluxe** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player     |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| BodGless   |      10      |             30             |             40             |                 10                 |            0            |              40              |               20                |   14   |             14              |                  7                  |            0             |              71               |             0              |
-| Meatball   |      9       |             11             |             22             |                 22                 |            0            |              89              |                0                |   13   |             15              |                  8                  |            0             |              69               |             0              |
-| ree5e      |      8       |             13             |             13             |                 13                 |            0            |              75              |                0                |   14   |              0              |                  7                  |            0             |              71               |             7              |
-| anita_lay  |      4       |             25             |             75             |                 0                  |            0            |              50              |               25                |   13   |              8              |                  8                  |            0             |              92               |             0              |
-| wo0dz      |      3       |             33             |             0              |                 0                  |            0            |              0               |                0                |   13   |             23              |                  8                  |            0             |              54               |             8              |
-|            |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|            |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|            |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **N w G**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player     |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| s0cx       |      19      |             16             |             11             |                 68                 |           11            |              63              |                5                |   7    |             71              |                 71                  |            0             |              29               |             43             |
-| sLi        |      14      |             21             |             0              |                 50                 |            7            |              86              |                7                |   4    |              0              |                 75                  |            0             |              50               |             0              |
-| codeylans  |      16      |             25             |             13             |                 94                 |           25            |              88              |                0                |   6    |              0              |                 50                  |            0             |              100              |             0              |
-| KIRE       |      9       |             0              |             0              |                 67                 |           11            |              67              |                0                |   7    |             29              |                 71                  |            0             |              57               |             0              |
-| Jacob----- |      9       |             0              |             44             |                 67                 |           22            |              44              |                0                |   10   |             30              |                 80                  |            0             |              60               |             0              |
+| **deluxe** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player     |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| BodGless   |      10      |             30             |             40             |                 10                 |            0            |              40              |               20                |                   0                   |         0          |     0     |
+| Meatball   |      9       |             11             |             22             |                 22                 |            0            |              89              |                0                |                   0                   |         0          |     2     |
+| ree5e      |      8       |             13             |             13             |                 13                 |            0            |              75              |                0                |                   0                   |         1          |     0     |
+| anita_lay  |      4       |             25             |             75             |                 0                  |            0            |              50              |               25                |                   0                   |         0          |     0     |
+| wo0dz      |      3       |             33             |             0              |                 0                  |            0            |              0               |                0                |                   0                   |         0          |     0     |
+|            |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|            |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|            |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **N w G**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player     |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| s0cx       |      19      |             16             |             11             |                 68                 |           11            |              63              |                5                |                   5                   |         0          |     2     |
+| sLi        |      14      |             21             |             0              |                 50                 |            7            |              86              |                7                |                   7                   |         0          |     4     |
+| codeylans  |      16      |             25             |             13             |                 94                 |           25            |              88              |                0                |                   6                   |         0          |     0     |
+| KIRE       |      9       |             0              |             0              |                 67                 |           11            |              67              |                0                |                   0                   |         3          |     2     |
+| Jacob----- |      9       |             0              |             44             |                 67                 |           22            |              44              |                0                |                   0                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **deluxe** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player     |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| BodGless   |      14      |             14              |                 7                 |            0             |              71               |             0              |             0             |       0       |
+| Meatball   |      13      |             15              |                 8                 |            0             |              69               |             0              |             8             |       1       |
+| ree5e      |      14      |              0              |                 7                 |            0             |              71               |             7              |             0             |       0       |
+| anita_lay  |      13      |              8              |                 8                 |            0             |              92               |             0              |             8             |       1       |
+| wo0dz      |      13      |             23              |                 8                 |            0             |              54               |             8              |             8             |       1       |
+|            |              |                             |                                   |                          |                               |                            |                           |               |
+|            |              |                             |                                   |                          |                               |                            |                           |               |
+|            |              |                             |                                   |                          |                               |                            |                           |               |
+| **N w G**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player     |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| s0cx       |      7       |             71              |                71                 |            0             |              29               |             43             |             0             |       0       |
+| sLi        |      4       |              0              |                75                 |            0             |              50               |             0              |             0             |       1       |
+| codeylans  |      6       |              0              |                50                 |            0             |              100              |             0              |             0             |       0       |
+| KIRE       |      7       |             29              |                71                 |            0             |              57               |             0              |             0             |       0       |
+| Jacob----- |      10      |             30              |                80                 |            0             |              60               |             0              |             0             |       0       |

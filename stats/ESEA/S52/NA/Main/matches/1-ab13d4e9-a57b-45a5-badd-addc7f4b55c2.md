@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-14  
 **Teams**: PROJECT-1 vs Ghost Gaming  
 
-## **Map**: de_inferno - PROJECT-1 (13) vs Ghost Gaming (11)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | PROJECT-1 | Banned | de_train |
+| 2 | Ghost Gaming | Banned | de_mirage |
+| 3 | Ghost Gaming | Banned | de_dust2 |
+| 4 | PROJECT-1 | Banned | de_nuke |
+| 5 | PROJECT-1 | Banned | de_anubis |
+| 6 | Ghost Gaming | Banned | de_ancient |
+| 7 | PROJECT-1 | Picked | de_inferno |
+
+---  
+
+### **Map**: de_inferno - PROJECT-1 (13) vs Ghost Gaming (11)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | emuhleet64       |     0.79     | 70.83 |        64.71         |                         100.00                         |           55.56           |                           100.00                            |          75.00           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **PROJECT-1**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| TEVOZA           |      22      |             18             |             18             |                 45                 |           14            |              59              |                0                |   15   |             20              |                 20                  |            7             |              60               |             0              |
-| sunny            |      20      |             20             |             15             |                 25                 |           15            |              50              |                0                |   18   |             17              |                 17                  |            0             |              44               |             11             |
-| PretzelHugs      |      11      |             18             |             18             |                 18                 |            9            |              36              |               27                |   14   |             43              |                 21                  |            0             |              29               |             21             |
-| kono             |      15      |             27             |             20             |                 13                 |           13            |              73              |                7                |   19   |             26              |                 32                  |            11            |              84               |             11             |
-| daws             |      13      |             31             |             31             |                 31                 |            8            |              69              |                0                |   17   |             18              |                 29                  |            6             |              59               |             6              |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Ghost Gaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Piggy-Kiki       |      22      |             14             |             27             |                 27                 |            9            |              59              |               18                |   16   |             31              |                 13                  |            0             |              50               |             6              |
-| XPSAN            |      22      |             18             |             27             |                 32                 |           14            |              59              |                9                |   18   |             11              |                 22                  |            11            |              78               |             0              |
-| EllieGGs         |      16      |             19             |             31             |                 38                 |           13            |              56              |               13                |   17   |             41              |                  6                  |            0             |              59               |             0              |
-| 7licious         |      12      |             8              |             17             |                 25                 |            0            |              50              |                0                |   16   |              6              |                 13                  |            6             |              50               |             6              |
-| emuhleet64       |      10      |             40             |             10             |                 10                 |            0            |              50              |                0                |   15   |              7              |                 13                  |            0             |              47               |             13             |
+| **PROJECT-1**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| TEVOZA           |      22      |             18             |             18             |                 45                 |           14            |              59              |                0                |                   0                   |         5          |     1     |
+| sunny            |      20      |             20             |             15             |                 25                 |           15            |              50              |                0                |                   0                   |         1          |     4     |
+| PretzelHugs      |      11      |             18             |             18             |                 18                 |            9            |              36              |               27                |                   0                   |         0          |     1     |
+| kono             |      15      |             27             |             20             |                 13                 |           13            |              73              |                7                |                   7                   |         2          |     2     |
+| daws             |      13      |             31             |             31             |                 31                 |            8            |              69              |                0                |                   0                   |         0          |     2     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Ghost Gaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Piggy-Kiki       |      22      |             14             |             27             |                 27                 |            9            |              59              |               18                |                  14                   |         0          |     3     |
+| XPSAN            |      22      |             18             |             27             |                 32                 |           14            |              59              |                9                |                   0                   |         0          |     2     |
+| EllieGGs         |      16      |             19             |             31             |                 38                 |           13            |              56              |               13                |                   0                   |         0          |     1     |
+| 7licious         |      12      |             8              |             17             |                 25                 |            0            |              50              |                0                |                   0                   |         0          |     0     |
+| emuhleet64       |      10      |             40             |             10             |                 10                 |            0            |              50              |                0                |                   0                   |         4          |     0     |
+## Extended Deaths Stats  
+
+| **PROJECT-1**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| TEVOZA           |      15      |             20              |                20                 |            7             |              60               |             0              |             0             |       0       |
+| sunny            |      18      |             17              |                17                 |            0             |              44               |             11             |             0             |       0       |
+| PretzelHugs      |      14      |             43              |                21                 |            0             |              29               |             21             |             0             |       1       |
+| kono             |      19      |             26              |                32                 |            11            |              84               |             11             |             5             |       1       |
+| daws             |      17      |             18              |                29                 |            6             |              59               |             6              |            12             |       2       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **Ghost Gaming** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Piggy-Kiki       |      16      |             31              |                13                 |            0             |              50               |             6              |             6             |       1       |
+| XPSAN            |      18      |             11              |                22                 |            11            |              78               |             0              |             0             |       1       |
+| EllieGGs         |      17      |             41              |                 6                 |            0             |              59               |             0              |             0             |       0       |
+| 7licious         |      16      |              6              |                13                 |            6             |              50               |             6              |             0             |       3       |
+| emuhleet64       |      15      |              7              |                13                 |            0             |              47               |             13             |             0             |       3       |

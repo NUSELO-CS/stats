@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-10  
 **Teams**: BluRoze CS vs team_SpecterUK  
 
-## **Map**: de_anubis - BluRoze CS (13) vs team_SpecterUK (11)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | team_SpecterUK | Banned | de_train |
+| 2 | BluRoze CS | Banned | de_mirage |
+| 3 | BluRoze CS | Banned | de_dust2 |
+| 4 | team_SpecterUK | Banned | de_nuke |
+| 5 | team_SpecterUK | Banned | de_inferno |
+| 6 | BluRoze CS | Banned | de_ancient |
+| 7 | team_SpecterUK | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - BluRoze CS (13) vs team_SpecterUK (11)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | panth              |     0.88     | 83.33 |        50.00         |                         90.91                          |           41.67           |                           100.00                            |          62.50           |                           83.33                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **BluRoze CS**     | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| DigitalSiX         |      20      |             20             |             15             |                 20                 |           10            |              60              |                0                |   14   |             21              |                 14                  |            0             |              57               |             7              |
-| FemboyNova         |      20      |             20             |             15             |                 20                 |            5            |              60              |                0                |   15   |             20              |                 20                  |            0             |              73               |             0              |
-| Elcar0             |      16      |             13             |             31             |                 31                 |           13            |              50              |                6                |   17   |             18              |                 18                  |            0             |              47               |             6              |
-| Triatomic          |      11      |             9              |             45             |                 27                 |            0            |              27              |               27                |   15   |             33              |                 13                  |            0             |              53               |             13             |
-| mjb                |      10      |             20             |             20             |                 0                  |            0            |              40              |               30                |   14   |              7              |                 21                  |            0             |              50               |             14             |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **team_SpecterUK** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| -Smokey            |      16      |             25             |             25             |                 38                 |           13            |              69              |                6                |   15   |             33              |                 13                  |            7             |              67               |             7              |
-| _albertuz          |      17      |             12             |             12             |                 29                 |           12            |              76              |                0                |   16   |             25              |                 19                  |            6             |              44               |             19             |
-| SpecterUK          |      17      |             24             |             29             |                 24                 |           12            |              47              |                0                |   17   |             24              |                  6                  |            6             |              53               |             6              |
-| Iske               |      14      |             29             |             7              |                 29                 |           29            |              43              |               14                |   14   |             14              |                  7                  |            0             |              50               |             0              |
-| panth              |      10      |             40             |             30             |                 10                 |            0            |              50              |               30                |   16   |             19              |                 13                  |            6             |              44               |             13             |
+| **BluRoze CS**     | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| DigitalSiX         |      20      |             20             |             15             |                 20                 |           10            |              60              |                0                |                  10                   |         0          |     3     |
+| FemboyNova         |      20      |             20             |             15             |                 20                 |            5            |              60              |                0                |                   0                   |         0          |     0     |
+| Elcar0             |      16      |             13             |             31             |                 31                 |           13            |              50              |                6                |                   0                   |         0          |     3     |
+| Triatomic          |      11      |             9              |             45             |                 27                 |            0            |              27              |               27                |                   0                   |         0          |     0     |
+| mjb                |      10      |             20             |             20             |                 0                  |            0            |              40              |               30                |                   0                   |         1          |     1     |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **team_SpecterUK** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| -Smokey            |      16      |             25             |             25             |                 38                 |           13            |              69              |                6                |                   0                   |         0          |     1     |
+| _albertuz          |      17      |             12             |             12             |                 29                 |           12            |              76              |                0                |                   0                   |         0          |     3     |
+| SpecterUK          |      17      |             24             |             29             |                 24                 |           12            |              47              |                0                |                   0                   |         0          |     2     |
+| Iske               |      14      |             29             |             7              |                 29                 |           29            |              43              |               14                |                   0                   |         1          |     1     |
+| panth              |      10      |             40             |             30             |                 10                 |            0            |              50              |               30                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **BluRoze CS**     | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| DigitalSiX         |      14      |             21              |                14                 |            0             |              57               |             7              |             0             |       1       |
+| FemboyNova         |      15      |             20              |                20                 |            0             |              73               |             0              |             0             |       0       |
+| Elcar0             |      17      |             18              |                18                 |            0             |              47               |             6              |             0             |       0       |
+| Triatomic          |      15      |             33              |                13                 |            0             |              53               |             13             |             0             |       0       |
+| mjb                |      14      |              7              |                21                 |            0             |              50               |             14             |             0             |       0       |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+| **team_SpecterUK** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| -Smokey            |      15      |             33              |                13                 |            7             |              67               |             7              |             7             |       0       |
+| _albertuz          |      16      |             25              |                19                 |            6             |              44               |             19             |             0             |       0       |
+| SpecterUK          |      17      |             24              |                 6                 |            6             |              53               |             6              |             0             |       0       |
+| Iske               |      14      |             14              |                 7                 |            0             |              50               |             0              |             7             |       0       |
+| panth              |      16      |             19              |                13                 |            6             |              44               |             13             |             0             |       1       |

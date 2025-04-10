@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-26  
 **Teams**: Money Men vs Lotus  
 
-## **Map**: de_ancient - Money Men (16) vs Lotus (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Lotus | Banned | de_dust2 |
+| 2 | Money Men | Banned | de_train |
+| 3 | Money Men | Banned | de_inferno |
+| 4 | Lotus | Banned | de_nuke |
+| 5 | Lotus | Banned | de_mirage |
+| 6 | Money Men | Banned | de_anubis |
+| 7 | Lotus | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - Money Men (16) vs Lotus (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | cass          |     0.86     | 68.97 |        65.00         |                         100.00                         |           75.00           |                           100.00                            |          50.00           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Money Men** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| messizombi    |      25      |             12             |             12             |                 40                 |           20            |              68              |                0                |   16   |              6              |                 13                  |            0             |              50               |             13             |
-| djswang       |      25      |             24             |             28             |                 20                 |            8            |              60              |                8                |   22   |              9              |                 18                  |            5             |              73               |             5              |
-| Eniman        |      18      |             11             |             11             |                 33                 |           28            |              67              |                6                |   17   |             35              |                 18                  |            6             |              65               |             12             |
-| aaronsfury    |      16      |             19             |             25             |                 19                 |           13            |              75              |                0                |   16   |             25              |                 13                  |            6             |              69               |             6              |
-| dEnZa         |      18      |             22             |             22             |                 17                 |            6            |              61              |                6                |   21   |             19              |                 10                  |            0             |              52               |             5              |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Lotus**     | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| gadflyy       |      21      |             19             |             19             |                 14                 |            5            |              43              |               10                |   23   |             26              |                 17                  |            9             |              48               |             4              |
-| infave        |      22      |             23             |             18             |                 14                 |            9            |              64              |                9                |   20   |             20              |                 20                  |            5             |              70               |             0              |
-| blegh         |      15      |             27             |             27             |                 20                 |           13            |              67              |                7                |   19   |             21              |                 21                  |            11            |              58               |             0              |
-| Zazu          |      18      |             22             |             17             |                 11                 |           11            |              78              |                6                |   20   |             10              |                 15                  |            5             |              80               |             10             |
-| cass          |      15      |             13             |             20             |                 33                 |            7            |              73              |                7                |   21   |             24              |                 14                  |            5             |              76               |             5              |
+| **Money Men** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| messizombi    |      25      |             12             |             12             |                 40                 |           20            |              68              |                0                |                   8                   |         0          |     5     |
+| djswang       |      25      |             24             |             28             |                 20                 |            8            |              60              |                8                |                   0                   |         1          |     1     |
+| Eniman        |      18      |             11             |             11             |                 33                 |           28            |              67              |                6                |                  11                   |         0          |     0     |
+| aaronsfury    |      16      |             19             |             25             |                 19                 |           13            |              75              |                0                |                   0                   |         10         |     1     |
+| dEnZa         |      18      |             22             |             22             |                 17                 |            6            |              61              |                6                |                   6                   |         3          |     0     |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Lotus**     | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| gadflyy       |      21      |             19             |             19             |                 14                 |            5            |              43              |               10                |                   0                   |         0          |     2     |
+| infave        |      22      |             23             |             18             |                 14                 |            9            |              64              |                9                |                   5                   |         3          |     3     |
+| blegh         |      15      |             27             |             27             |                 20                 |           13            |              67              |                7                |                   7                   |         0          |     1     |
+| Zazu          |      18      |             22             |             17             |                 11                 |           11            |              78              |                6                |                   0                   |         0          |     3     |
+| cass          |      15      |             13             |             20             |                 33                 |            7            |              73              |                7                |                   7                   |         3          |     0     |
+## Extended Deaths Stats  
+
+| **Money Men** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player        |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| messizombi    |      16      |              6              |                13                 |            0             |              50               |             13             |             6             |       2       |
+| djswang       |      22      |              9              |                18                 |            5             |              73               |             5              |             9             |       2       |
+| Eniman        |      17      |             35              |                18                 |            6             |              65               |             12             |             0             |       1       |
+| aaronsfury    |      16      |             25              |                13                 |            6             |              69               |             6              |             0             |       1       |
+| dEnZa         |      21      |             19              |                10                 |            0             |              52               |             5              |             0             |       0       |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+| **Lotus**     | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player        |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| gadflyy       |      23      |             26              |                17                 |            9             |              48               |             4              |             4             |       2       |
+| infave        |      20      |             20              |                20                 |            5             |              70               |             0              |            10             |       4       |
+| blegh         |      19      |             21              |                21                 |            11            |              58               |             0              |            11             |       3       |
+| Zazu          |      20      |             10              |                15                 |            5             |              80               |             10             |             0             |       3       |
+| cass          |      21      |             24              |                14                 |            5             |              76               |             5              |             0             |       2       |

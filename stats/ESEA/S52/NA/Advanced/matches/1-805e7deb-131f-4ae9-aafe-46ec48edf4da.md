@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-28  
 **Teams**: Okay Synergy vs Holly Molly  
 
-## **Map**: de_anubis - Okay Synergy (3) vs Holly Molly (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Holly Molly | Banned | de_dust2 |
+| 2 | Okay Synergy | Banned | de_ancient |
+| 3 | Okay Synergy | Banned | de_nuke |
+| 4 | Holly Molly | Banned | de_mirage |
+| 5 | Holly Molly | Banned | de_inferno |
+| 6 | Okay Synergy | Banned | de_train |
+| 7 | Holly Molly | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - Okay Synergy (3) vs Holly Molly (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | FlashET          |     0.78     | 75.00 |        83.33         |                         76.92                          |          100.00           |                           100.00                            |          75.00           |                           66.67                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Okay Synergy** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| BananaFishCS     |      13      |             15             |             31             |                 8                  |            0            |              46              |                8                |   13   |              8              |                  8                  |            0             |              85               |             0              |
-| kdog-            |      10      |             20             |             20             |                 0                  |            0            |              60              |                0                |   14   |              7              |                  7                  |            0             |              79               |             14             |
-| wdog-            |      7       |             14             |             14             |                 0                  |            0            |              71              |                0                |   14   |             29              |                  7                  |            0             |              36               |             7              |
-| OkayKris         |      8       |             0              |             38             |                 13                 |            0            |              63              |                0                |   14   |             14              |                  7                  |            0             |              71               |             7              |
-| suds             |      6       |             50             |             67             |                 0                  |            0            |              33              |                0                |   14   |              7              |                  7                  |            0             |              64               |             7              |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Holly Molly**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| sveetea          |      17      |             18             |             12             |                 29                 |            6            |              59              |               12                |   7    |             43              |                 14                  |            0             |              43               |             0              |
-| 1PandaTM         |      18      |             17             |             6              |                 56                 |           17            |              72              |                0                |   9    |             33              |                 33                  |            11            |              89               |             0              |
-| omoo             |      16      |             25             |             19             |                 31                 |           19            |              75              |               19                |   10   |             10              |                 20                  |            0             |              60               |             0              |
-| emblem           |      12      |             17             |             17             |                 50                 |            8            |              58              |                0                |   8    |             38              |                 13                  |            0             |              13               |             13             |
-| FlashET          |      6       |             17             |             17             |                 67                 |           33            |              67              |                0                |   10   |             40              |                 10                  |            0             |              70               |             0              |
+| **Okay Synergy** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| BananaFishCS     |      13      |             15             |             31             |                 8                  |            0            |              46              |                8                |                   0                   |         0          |     3     |
+| kdog-            |      10      |             20             |             20             |                 0                  |            0            |              60              |                0                |                   0                   |         5          |     2     |
+| wdog-            |      7       |             14             |             14             |                 0                  |            0            |              71              |                0                |                   0                   |         0          |     0     |
+| OkayKris         |      8       |             0              |             38             |                 13                 |            0            |              63              |                0                |                   0                   |         0          |     1     |
+| suds             |      6       |             50             |             67             |                 0                  |            0            |              33              |                0                |                   0                   |         0          |     0     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Holly Molly**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| sveetea          |      17      |             18             |             12             |                 29                 |            6            |              59              |               12                |                   0                   |         0          |     7     |
+| 1PandaTM         |      18      |             17             |             6              |                 56                 |           17            |              72              |                0                |                  17                   |         0          |     0     |
+| omoo             |      16      |             25             |             19             |                 31                 |           19            |              75              |               19                |                  13                   |         5          |     2     |
+| emblem           |      12      |             17             |             17             |                 50                 |            8            |              58              |                0                |                   0                   |         0          |     1     |
+| FlashET          |      6       |             17             |             17             |                 67                 |           33            |              67              |                0                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Okay Synergy** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| BananaFishCS     |      13      |              8              |                 8                 |            0             |              85               |             0              |             0             |       1       |
+| kdog-            |      14      |              7              |                 7                 |            0             |              79               |             14             |             7             |       1       |
+| wdog-            |      14      |             29              |                 7                 |            0             |              36               |             7              |             0             |       0       |
+| OkayKris         |      14      |             14              |                 7                 |            0             |              71               |             7              |            14             |       1       |
+| suds             |      14      |              7              |                 7                 |            0             |              64               |             7              |            14             |       2       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **Holly Molly**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| sveetea          |      7       |             43              |                14                 |            0             |              43               |             0              |             0             |       1       |
+| 1PandaTM         |      9       |             33              |                33                 |            11            |              89               |             0              |             0             |       1       |
+| omoo             |      10      |             10              |                20                 |            0             |              60               |             0              |             0             |       1       |
+| emblem           |      8       |             38              |                13                 |            0             |              13               |             13             |             0             |       0       |
+| FlashET          |      10      |             40              |                10                 |            0             |              70               |             0              |             0             |       2       |

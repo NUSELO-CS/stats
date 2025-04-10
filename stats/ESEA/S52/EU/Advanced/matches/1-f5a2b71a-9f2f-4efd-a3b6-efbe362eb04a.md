@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-18  
 **Teams**: ALASKA vs NoOrg  
 
-## **Map**: de_ancient - ALASKA (13) vs NoOrg (11)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | NoOrg | Banned | de_nuke |
+| 2 | ALASKA | Banned | de_inferno |
+| 3 | ALASKA | Banned | de_mirage |
+| 4 | NoOrg | Banned | de_dust2 |
+| 5 | NoOrg | Banned | de_train |
+| 6 | ALASKA | Banned | de_anubis |
+| 7 | NoOrg | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - ALASKA (13) vs NoOrg (11)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Bambosh      |     0.65     | 75.00 |        61.11         |                         100.00                         |           42.86           |                           100.00                            |          72.73           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **ALASKA**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| ArTLanM4shad |      26      |             8              |             4              |                 19                 |           15            |              65              |                4                |   13   |              0              |                  8                  |            0             |              77               |             0              |
-| Tree60       |      19      |             21             |             42             |                 16                 |            0            |              74              |                0                |   16   |              6              |                  6                  |            0             |              63               |             0              |
-| Girafffe     |      16      |             6              |             25             |                 13                 |            6            |              56              |                6                |   16   |             44              |                 13                  |            0             |              50               |             13             |
-| Extinct      |      14      |             43             |             0              |                 7                  |            0            |              79              |                0                |   15   |              7              |                  7                  |            0             |              53               |             0              |
-| Vacancy      |      8       |             13             |             38             |                 0                  |            0            |              63              |                0                |   17   |             29              |                  6                  |            0             |              71               |             12             |
-|              |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|              |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|              |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **NoOrg**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| marlboroclub |      25      |             16             |             16             |                 24                 |            0            |              64              |                4                |   15   |              7              |                 20                  |            0             |              73               |             0              |
-| -ERSIN       |      17      |             24             |             12             |                 35                 |           18            |              47              |                0                |   17   |             18              |                 18                  |            0             |              47               |             6              |
-| Tr0ublE--    |      17      |             6              |             18             |                 24                 |            6            |              82              |               12                |   16   |             19              |                 19                  |            0             |              100              |             0              |
-| Polbandana   |      11      |             36             |             18             |                 27                 |            9            |              73              |                0                |   17   |             29              |                 24                  |            6             |              65               |             6              |
-| Bambosh      |      7       |             0              |             43             |                 14                 |            0            |              29              |               14                |   18   |             22              |                 22                  |            0             |              56               |             0              |
+| **ALASKA**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| ArTLanM4shad |      26      |             8              |             4              |                 19                 |           15            |              65              |                4                |                  15                   |         14         |     4     |
+| Tree60       |      19      |             21             |             42             |                 16                 |            0            |              74              |                0                |                   0                   |         0          |     3     |
+| Girafffe     |      16      |             6              |             25             |                 13                 |            6            |              56              |                6                |                  31                   |         0          |     1     |
+| Extinct      |      14      |             43             |             0              |                 7                  |            0            |              79              |                0                |                  14                   |         1          |     1     |
+| Vacancy      |      8       |             13             |             38             |                 0                  |            0            |              63              |                0                |                   0                   |         0          |     0     |
+|              |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|              |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|              |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **NoOrg**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| marlboroclub |      25      |             16             |             16             |                 24                 |            0            |              64              |                4                |                   4                   |         0          |     4     |
+| -ERSIN       |      17      |             24             |             12             |                 35                 |           18            |              47              |                0                |                   6                   |         0          |     0     |
+| Tr0ublE--    |      17      |             6              |             18             |                 24                 |            6            |              82              |               12                |                   0                   |         12         |     1     |
+| Polbandana   |      11      |             36             |             18             |                 27                 |            9            |              73              |                0                |                   0                   |         0          |     2     |
+| Bambosh      |      7       |             0              |             43             |                 14                 |            0            |              29              |               14                |                   0                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **ALASKA**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player       |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| ArTLanM4shad |      13      |              0              |                 8                 |            0             |              77               |             0              |             0             |       5       |
+| Tree60       |      16      |              6              |                 6                 |            0             |              63               |             0              |             6             |       1       |
+| Girafffe     |      16      |             44              |                13                 |            0             |              50               |             13             |             0             |       3       |
+| Extinct      |      15      |              7              |                 7                 |            0             |              53               |             0              |             7             |       1       |
+| Vacancy      |      17      |             29              |                 6                 |            0             |              71               |             12             |             0             |       2       |
+|              |              |                             |                                   |                          |                               |                            |                           |               |
+|              |              |                             |                                   |                          |                               |                            |                           |               |
+|              |              |                             |                                   |                          |                               |                            |                           |               |
+| **NoOrg**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player       |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| marlboroclub |      15      |              7              |                20                 |            0             |              73               |             0              |             7             |       3       |
+| -ERSIN       |      17      |             18              |                18                 |            0             |              47               |             6              |            12             |       6       |
+| Tr0ublE--    |      16      |             19              |                19                 |            0             |              100              |             0              |            13             |       0       |
+| Polbandana   |      17      |             29              |                24                 |            6             |              65               |             6              |            24             |       3       |
+| Bambosh      |      18      |             22              |                22                 |            0             |              56               |             0              |            11             |       3       |

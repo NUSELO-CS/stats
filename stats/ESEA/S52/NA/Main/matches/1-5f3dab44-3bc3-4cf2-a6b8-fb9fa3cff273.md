@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-07  
 **Teams**: Millennium 7 vs big water  
 
-## **Map**: de_anubis - Millennium 7 (8) vs big water (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | big water | Banned | de_train |
+| 2 | Millennium 7 | Banned | de_mirage |
+| 3 | Millennium 7 | Banned | de_nuke |
+| 4 | big water | Banned | de_inferno |
+| 5 | big water | Banned | de_dust2 |
+| 6 | Millennium 7 | Banned | de_ancient |
+| 7 | big water | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - Millennium 7 (8) vs big water (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Sweau            |     1.03     | 66.67 |        86.67         |                         100.00                         |          100.00           |                           100.00                            |          80.00           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Millennium 7** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| spenny6          |      19      |             16             |             16             |                 21                 |            5            |              63              |                5                |   17   |             24              |                 18                  |            12            |              59               |             18             |
-| Sinfull          |      14      |             29             |             36             |                 7                  |            7            |              50              |                7                |   15   |             27              |                 20                  |            7             |              73               |             0              |
-| Jaidan           |      11      |             9              |             27             |                 9                  |            9            |              36              |                0                |   16   |             13              |                 13                  |            6             |              69               |             6              |
-| tyco1            |      10      |             30             |             30             |                 40                 |           40            |              60              |               20                |   18   |             22              |                 17                  |            6             |              67               |             0              |
-| -Dylan--         |      7       |             14             |             14             |                 57                 |           14            |              71              |                0                |   15   |             13              |                 13                  |            7             |              47               |             7              |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **big water**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| sqroobz          |      21      |             24             |             19             |                 43                 |            0            |              81              |                0                |   11   |             18              |                 55                  |            9             |              45               |             9              |
-| Hedge            |      18      |             33             |             22             |                 56                 |           11            |              61              |               11                |   13   |             15              |                 54                  |            0             |              62               |             8              |
-| trad             |      18      |             11             |             22             |                 33                 |           11            |              44              |               11                |   15   |             40              |                 47                  |            0             |              60               |             0              |
-| Failology        |      11      |             0              |             27             |                 36                 |            0            |              73              |                0                |   12   |             33              |                 50                  |            0             |              33               |             8              |
-| Sweau            |      12      |             8              |             8              |                 58                 |           50            |              50              |                8                |   11   |              9              |                 45                  |            0             |              64               |             9              |
+| **Millennium 7** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| spenny6          |      19      |             16             |             16             |                 21                 |            5            |              63              |                5                |                   0                   |         0          |     3     |
+| Sinfull          |      14      |             29             |             36             |                 7                  |            7            |              50              |                7                |                   0                   |         0          |     1     |
+| Jaidan           |      11      |             9              |             27             |                 9                  |            9            |              36              |                0                |                   0                   |         0          |     1     |
+| tyco1            |      10      |             30             |             30             |                 40                 |           40            |              60              |               20                |                   0                   |         0          |     1     |
+| -Dylan--         |      7       |             14             |             14             |                 57                 |           14            |              71              |                0                |                   0                   |         1          |     0     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **big water**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| sqroobz          |      21      |             24             |             19             |                 43                 |            0            |              81              |                0                |                   0                   |         0          |     4     |
+| Hedge            |      18      |             33             |             22             |                 56                 |           11            |              61              |               11                |                   0                   |         0          |     1     |
+| trad             |      18      |             11             |             22             |                 33                 |           11            |              44              |               11                |                   0                   |         4          |     3     |
+| Failology        |      11      |             0              |             27             |                 36                 |            0            |              73              |                0                |                   0                   |         0          |     0     |
+| Sweau            |      12      |             8              |             8              |                 58                 |           50            |              50              |                8                |                   0                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **Millennium 7** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| spenny6          |      17      |             24              |                18                 |            12            |              59               |             18             |             0             |       2       |
+| Sinfull          |      15      |             27              |                20                 |            7             |              73               |             0              |             0             |       0       |
+| Jaidan           |      16      |             13              |                13                 |            6             |              69               |             6              |             0             |       0       |
+| tyco1            |      18      |             22              |                17                 |            6             |              67               |             0              |             0             |       0       |
+| -Dylan--         |      15      |             13              |                13                 |            7             |              47               |             7              |             0             |       2       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **big water**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| sqroobz          |      11      |             18              |                55                 |            9             |              45               |             9              |             0             |       1       |
+| Hedge            |      13      |             15              |                54                 |            0             |              62               |             8              |             0             |       0       |
+| trad             |      15      |             40              |                47                 |            0             |              60               |             0              |             0             |       0       |
+| Failology        |      12      |             33              |                50                 |            0             |              33               |             8              |             0             |       0       |
+| Sweau            |      11      |              9              |                45                 |            0             |              64               |             9              |             0             |       0       |

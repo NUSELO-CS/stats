@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-26  
 **Teams**: Omen 1800 Gang vs Glizzy Gobblers  
 
-## **Map**: de_ancient - Omen 1800 Gang (13) vs Glizzy Gobblers (11)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Omen 1800 Gang | Banned | de_train |
+| 2 | Glizzy Gobblers | Banned | de_mirage |
+| 3 | Glizzy Gobblers | Banned | de_inferno |
+| 4 | Omen 1800 Gang | Banned | de_dust2 |
+| 5 | Omen 1800 Gang | Banned | de_nuke |
+| 6 | Glizzy Gobblers | Banned | de_anubis |
+| 7 | Omen 1800 Gang | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - Omen 1800 Gang (13) vs Glizzy Gobblers (11)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Hyper_Tophat        |     0.60     | 66.67 |        50.00         |                         72.73                          |           25.00           |                            66.67                            |          75.00           |                           75.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Omen 1800 Gang**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Limiwinks           |      20      |             25             |             15             |                 30                 |           15            |              65              |                5                |   16   |             50              |                 19                  |            0             |              50               |             19             |
-| 1Kz7                |      20      |             30             |             15             |                 35                 |            0            |              60              |                5                |   20   |             30              |                 30                  |            10            |              45               |             15             |
-| anthonyy            |      17      |             24             |             35             |                 41                 |           12            |              59              |                0                |   15   |             13              |                 27                  |            7             |              60               |             7              |
-| ChrisDogLips        |      14      |             14             |             43             |                 29                 |            7            |              86              |                0                |   15   |             20              |                 27                  |            7             |              73               |             7              |
-| Teeler              |      14      |             14             |             36             |                 36                 |           14            |              57              |                0                |   15   |             20              |                 20                  |            7             |              60               |             13             |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Glizzy Gobblers** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Parchie             |      20      |             15             |             30             |                 20                 |           10            |              60              |               10                |   17   |             29              |                 18                  |            6             |              59               |             6              |
-| Snoww               |      19      |             16             |             32             |                 32                 |           21            |              53              |               21                |   18   |             22              |                 17                  |            0             |              72               |             0              |
-| PRIMETIME47         |      18      |             33             |             17             |                 22                 |           11            |              50              |               11                |   16   |              0              |                 19                  |            6             |              56               |             0              |
-| Makzwell            |      15      |             47             |             33             |                 27                 |            7            |              67              |               13                |   16   |             25              |                 19                  |            13            |              69               |             0              |
-| Hyper_Tophat        |      8       |             13             |             13             |                 25                 |           13            |              50              |                0                |   19   |             47              |                 26                  |            11            |              58               |             5              |
+| **Omen 1800 Gang**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Limiwinks           |      20      |             25             |             15             |                 30                 |           15            |              65              |                5                |                   0                   |         0          |     1     |
+| 1Kz7                |      20      |             30             |             15             |                 35                 |            0            |              60              |                5                |                  10                   |         0          |     3     |
+| anthonyy            |      17      |             24             |             35             |                 41                 |           12            |              59              |                0                |                   0                   |         0          |     1     |
+| ChrisDogLips        |      14      |             14             |             43             |                 29                 |            7            |              86              |                0                |                   0                   |         0          |     0     |
+| Teeler              |      14      |             14             |             36             |                 36                 |           14            |              57              |                0                |                   0                   |         0          |     1     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Glizzy Gobblers** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Parchie             |      20      |             15             |             30             |                 20                 |           10            |              60              |               10                |                   0                   |         1          |     3     |
+| Snoww               |      19      |             16             |             32             |                 32                 |           21            |              53              |               21                |                   5                   |         2          |     3     |
+| PRIMETIME47         |      18      |             33             |             17             |                 22                 |           11            |              50              |               11                |                   6                   |         0          |     2     |
+| Makzwell            |      15      |             47             |             33             |                 27                 |            7            |              67              |               13                |                   0                   |         0          |     1     |
+| Hyper_Tophat        |      8       |             13             |             13             |                 25                 |           13            |              50              |                0                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Omen 1800 Gang**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Limiwinks           |      16      |             50              |                19                 |            0             |              50               |             19             |             0             |       0       |
+| 1Kz7                |      20      |             30              |                30                 |            10            |              45               |             15             |             5             |       2       |
+| anthonyy            |      15      |             13              |                27                 |            7             |              60               |             7              |             7             |       1       |
+| ChrisDogLips        |      15      |             20              |                27                 |            7             |              73               |             7              |             0             |       0       |
+| Teeler              |      15      |             20              |                20                 |            7             |              60               |             13             |             0             |       0       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **Glizzy Gobblers** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Parchie             |      17      |             29              |                18                 |            6             |              59               |             6              |             0             |       0       |
+| Snoww               |      18      |             22              |                17                 |            0             |              72               |             0              |             0             |       0       |
+| PRIMETIME47         |      16      |              0              |                19                 |            6             |              56               |             0              |             0             |       0       |
+| Makzwell            |      16      |             25              |                19                 |            13            |              69               |             0              |             0             |       0       |
+| Hyper_Tophat        |      19      |             47              |                26                 |            11            |              58               |             5              |            11             |       0       |

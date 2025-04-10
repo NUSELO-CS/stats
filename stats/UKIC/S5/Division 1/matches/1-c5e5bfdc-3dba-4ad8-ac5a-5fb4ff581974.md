@@ -2,7 +2,21 @@
 **Match Date**: 2025-03-03  
 **Teams**: ReasonGaming vs ANTARCTICA  
 
-## **Map**: de_anubis - ReasonGaming (13) vs ANTARCTICA (10)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | ANTARCTICA | Banned | de_mirage |
+| 2 | ReasonGaming | Banned | de_nuke |
+| 3 | ReasonGaming | Banned | de_train |
+| 4 | ANTARCTICA | Banned | de_dust2 |
+| 5 | ANTARCTICA | Banned | de_ancient |
+| 6 | ReasonGaming | Banned | de_inferno |
+| 7 | ANTARCTICA | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - ReasonGaming (13) vs ANTARCTICA (10)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Ehgren           |     0.71     | 69.57 |        56.25         |                         90.00                          |           75.00           |                            75.00                            |          50.00           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **ReasonGaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| cJeCS            |      23      |             17             |             13             |                 39                 |            9            |              57              |               13                |   16   |             25              |                 19                  |            0             |              63               |             0              |
-| m1she4ka         |      21      |             24             |             14             |                 48                 |            5            |              57              |               14                |   13   |             23              |                 15                  |            0             |              38               |             8              |
-| Flicky           |      16      |             19             |             25             |                 19                 |           13            |              69              |                6                |   13   |             38              |                 15                  |            0             |              69               |             23             |
-| v1ze666          |      13      |             31             |             31             |                 23                 |            0            |              69              |                0                |   14   |             14              |                 29                  |            0             |              36               |             14             |
-| FincHY-          |      9       |             22             |             56             |                 11                 |            0            |              67              |               22                |   18   |             28              |                 22                  |            0             |              56               |             6              |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **ANTARCTICA**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Cher1on          |      26      |             15             |             15             |                 27                 |           15            |              46              |                4                |   14   |             36              |                  7                  |            0             |              71               |             14             |
-| joeski           |      15      |             20             |             13             |                 27                 |           20            |              53              |                7                |   18   |             11              |                 11                  |            6             |              50               |             11             |
-| Fizzy-           |      13      |             46             |             54             |                 15                 |            8            |              77              |               23                |   20   |             10              |                 15                  |            5             |              65               |             15             |
-| Igorek322        |      10      |             30             |             20             |                 20                 |           10            |              50              |               10                |   15   |             27              |                 13                  |            7             |              60               |             7              |
-| Ehgren           |      9       |             22             |             44             |                 11                 |            0            |              44              |               22                |   16   |             38              |                 19                  |            6             |              63               |             13             |
+| **ReasonGaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| cJeCS            |      23      |             17             |             13             |                 39                 |            9            |              57              |               13                |                   0                   |         0          |     4     |
+| m1she4ka         |      21      |             24             |             14             |                 48                 |            5            |              57              |               14                |                   0                   |         0          |     3     |
+| Flicky           |      16      |             19             |             25             |                 19                 |           13            |              69              |                6                |                   6                   |         10         |     0     |
+| v1ze666          |      13      |             31             |             31             |                 23                 |            0            |              69              |                0                |                   8                   |         3          |     2     |
+| FincHY-          |      9       |             22             |             56             |                 11                 |            0            |              67              |               22                |                   0                   |         0          |     0     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **ANTARCTICA**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Cher1on          |      26      |             15             |             15             |                 27                 |           15            |              46              |                4                |                   8                   |         0          |     2     |
+| joeski           |      15      |             20             |             13             |                 27                 |           20            |              53              |                7                |                   7                   |         0          |     3     |
+| Fizzy-           |      13      |             46             |             54             |                 15                 |            8            |              77              |               23                |                   8                   |         0          |     1     |
+| Igorek322        |      10      |             30             |             20             |                 20                 |           10            |              50              |               10                |                   0                   |         5          |     0     |
+| Ehgren           |      9       |             22             |             44             |                 11                 |            0            |              44              |               22                |                  22                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **ReasonGaming** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| cJeCS            |      16      |             25              |                19                 |            0             |              63               |             0              |             0             |       1       |
+| m1she4ka         |      13      |             23              |                15                 |            0             |              38               |             8              |             0             |       1       |
+| Flicky           |      13      |             38              |                15                 |            0             |              69               |             23             |            15             |       1       |
+| v1ze666          |      14      |             14              |                29                 |            0             |              36               |             14             |             7             |       2       |
+| FincHY-          |      18      |             28              |                22                 |            0             |              56               |             6              |            17             |       0       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **ANTARCTICA**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Cher1on          |      14      |             36              |                 7                 |            0             |              71               |             14             |             0             |       0       |
+| joeski           |      18      |             11              |                11                 |            6             |              50               |             11             |             6             |       3       |
+| Fizzy-           |      20      |             10              |                15                 |            5             |              65               |             15             |             0             |       6       |
+| Igorek322        |      15      |             27              |                13                 |            7             |              60               |             7              |             7             |       2       |
+| Ehgren           |      16      |             38              |                19                 |            6             |              63               |             13             |             0             |       2       |

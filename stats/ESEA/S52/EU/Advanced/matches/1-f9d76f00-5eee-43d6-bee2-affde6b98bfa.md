@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-12  
 **Teams**: Virtual Cottage vs NEVERMORE  
 
-## **Map**: de_ancient - Virtual Cottage (12) vs NEVERMORE (16)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | NEVERMORE | Banned | de_anubis |
+| 2 | Virtual Cottage | Banned | de_inferno |
+| 3 | Virtual Cottage | Banned | de_train |
+| 4 | NEVERMORE | Banned | de_nuke |
+| 5 | NEVERMORE | Banned | de_dust2 |
+| 6 | Virtual Cottage | Banned | de_mirage |
+| 7 | NEVERMORE | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - Virtual Cottage (12) vs NEVERMORE (16)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | MUV41K              |     0.80     | 60.71 |        76.47         |                         81.25                          |           77.78           |                           100.00                            |          75.00           |                           66.67                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Virtual Cottage** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| SungJinwooXO        |      22      |             27             |             9              |                 5                  |            0            |              50              |                0                |   19   |             16              |                 21                  |            5             |              47               |             16             |
-| EspiranTo           |      22      |             14             |             32             |                 36                 |           18            |              64              |                5                |   22   |             27              |                  9                  |            0             |              77               |             0              |
-| spardasosa          |      22      |             23             |             18             |                 36                 |           18            |              64              |                0                |   21   |             24              |                 10                  |            0             |              57               |             10             |
-| aidKiT              |      17      |             12             |             12             |                 6                  |            0            |              88              |                0                |   18   |             17              |                 11                  |            0             |              89               |             6              |
-| amanek              |      13      |             15             |             8              |                 62                 |           15            |              54              |               15                |   18   |             22              |                 11                  |            0             |              83               |             0              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **NEVERMORE**       | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Donii               |      28      |             32             |             21             |                 7                  |            7            |              68              |                4                |   20   |              5              |                 10                  |            5             |              45               |             0              |
-| jackast             |      17      |             0              |             18             |                 29                 |           24            |              65              |               12                |   18   |             17              |                 11                  |            6             |              56               |             0              |
-| neiter              |      19      |             11             |             32             |                 21                 |           16            |              84              |                5                |   19   |             32              |                  5                  |            0             |              84               |             5              |
-| hodix               |      19      |             11             |             21             |                 16                 |           16            |              53              |                5                |   19   |             11              |                  5                  |            0             |              84               |             0              |
-| MUV41K              |      15      |             13             |             13             |                 7                  |            7            |              73              |                7                |   20   |             20              |                 10                  |            5             |              60               |             10             |
+| **Virtual Cottage** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| SungJinwooXO        |      22      |             27             |             9              |                 5                  |            0            |              50              |                0                |                  14                   |         1          |     4     |
+| EspiranTo           |      22      |             14             |             32             |                 36                 |           18            |              64              |                5                |                  23                   |         0          |     3     |
+| spardasosa          |      22      |             23             |             18             |                 36                 |           18            |              64              |                0                |                   0                   |         0          |     1     |
+| aidKiT              |      17      |             12             |             12             |                 6                  |            0            |              88              |                0                |                   6                   |         11         |     1     |
+| amanek              |      13      |             15             |             8              |                 62                 |           15            |              54              |               15                |                   8                   |         0          |     0     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **NEVERMORE**       | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Donii               |      28      |             32             |             21             |                 7                  |            7            |              68              |                4                |                   4                   |         0          |     4     |
+| jackast             |      17      |             0              |             18             |                 29                 |           24            |              65              |               12                |                   6                   |         0          |     0     |
+| neiter              |      19      |             11             |             32             |                 21                 |           16            |              84              |                5                |                   0                   |         1          |     0     |
+| hodix               |      19      |             11             |             21             |                 16                 |           16            |              53              |                5                |                   5                   |         9          |     1     |
+| MUV41K              |      15      |             13             |             13             |                 7                  |            7            |              73              |                7                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Virtual Cottage** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| SungJinwooXO        |      19      |             16              |                21                 |            5             |              47               |             16             |             0             |       1       |
+| EspiranTo           |      22      |             27              |                 9                 |            0             |              77               |             0              |             5             |       1       |
+| spardasosa          |      21      |             24              |                10                 |            0             |              57               |             10             |            10             |       3       |
+| aidKiT              |      18      |             17              |                11                 |            0             |              89               |             6              |             0             |       3       |
+| amanek              |      18      |             22              |                11                 |            0             |              83               |             0              |             0             |       2       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **NEVERMORE**       | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Donii               |      20      |              5              |                10                 |            5             |              45               |             0              |             5             |       0       |
+| jackast             |      18      |             17              |                11                 |            6             |              56               |             0              |             6             |       1       |
+| neiter              |      19      |             32              |                 5                 |            0             |              84               |             5              |            21             |       2       |
+| hodix               |      19      |             11              |                 5                 |            0             |              84               |             0              |            16             |       5       |
+| MUV41K              |      20      |             20              |                10                 |            5             |              60               |             10             |             5             |       4       |

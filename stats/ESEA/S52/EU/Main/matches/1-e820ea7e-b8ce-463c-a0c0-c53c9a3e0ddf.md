@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-20  
 **Teams**: BAKS ESPORTS vs POOHANK  
 
-## **Map**: de_ancient - BAKS ESPORTS (5) vs POOHANK (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | POOHANK | Banned | de_nuke |
+| 2 | BAKS ESPORTS | Banned | de_anubis |
+| 3 | BAKS ESPORTS | Banned | de_mirage |
+| 4 | POOHANK | Banned | de_inferno |
+| 5 | POOHANK | Banned | de_dust2 |
+| 6 | BAKS ESPORTS | Banned | de_train |
+| 7 | POOHANK | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - BAKS ESPORTS (5) vs POOHANK (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Aura-            |     0.92     | 72.22 |        92.31         |                         92.31                          |          100.00           |                           100.00                            |          85.71           |                           85.71                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **BAKS ESPORTS** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Due1yant         |      19      |             37             |             37             |                 21                 |            0            |              58              |                0                |   12   |             17              |                  8                  |            0             |              75               |             0              |
-| Sa1nTy           |      8       |             25             |             13             |                 0                  |            0            |              50              |                0                |   15   |             33              |                 13                  |            0             |              60               |             7              |
-| Greatest333      |      8       |             50             |             0              |                 38                 |            0            |              75              |                0                |   14   |             21              |                 14                  |            0             |              71               |             7              |
-| swetsi7          |      9       |             44             |             33             |                 44                 |            0            |              78              |               11                |   17   |             18              |                 18                  |            0             |              71               |             6              |
-| MrTrelog         |      3       |             33             |             67             |                 67                 |            0            |             100              |                0                |   15   |             47              |                 20                  |            0             |              73               |             0              |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **POOHANK**      | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| hey666           |      19      |             21             |             32             |                 32                 |            0            |              74              |                0                |   11   |             36              |                 27                  |            9             |              55               |             0              |
-| -boZZo           |      18      |             28             |             17             |                 39                 |            6            |              56              |                6                |   9    |              0              |                 11                  |            0             |              78               |             0              |
-| berkaNbey        |      14      |             7              |             43             |                 29                 |           14            |              71              |                7                |   9    |             22              |                 22                  |            0             |              67               |             0              |
-| KatzRead         |      14      |             7              |             29             |                 50                 |           14            |              79              |                7                |   9    |             44              |                 11                  |            0             |              56               |             11             |
-| Aura-            |      8       |             13             |             13             |                 75                 |            0            |              75              |                0                |   9    |             33              |                  0                  |            0             |              89               |             0              |
+| **BAKS ESPORTS** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Due1yant         |      19      |             37             |             37             |                 21                 |            0            |              58              |                0                |                   0                   |         0          |     3     |
+| Sa1nTy           |      8       |             25             |             13             |                 0                  |            0            |              50              |                0                |                   0                   |         1          |     1     |
+| Greatest333      |      8       |             50             |             0              |                 38                 |            0            |              75              |                0                |                   0                   |         0          |     1     |
+| swetsi7          |      9       |             44             |             33             |                 44                 |            0            |              78              |               11                |                  11                   |         1          |     0     |
+| MrTrelog         |      3       |             33             |             67             |                 67                 |            0            |             100              |                0                |                   0                   |         0          |     0     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **POOHANK**      | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| hey666           |      19      |             21             |             32             |                 32                 |            0            |              74              |                0                |                   0                   |         4          |     3     |
+| -boZZo           |      18      |             28             |             17             |                 39                 |            6            |              56              |                6                |                   6                   |         0          |     1     |
+| berkaNbey        |      14      |             7              |             43             |                 29                 |           14            |              71              |                7                |                   7                   |         0          |     1     |
+| KatzRead         |      14      |             7              |             29             |                 50                 |           14            |              79              |                7                |                   0                   |         0          |     2     |
+| Aura-            |      8       |             13             |             13             |                 75                 |            0            |              75              |                0                |                  13                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **BAKS ESPORTS** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Due1yant         |      12      |             17              |                 8                 |            0             |              75               |             0              |             0             |       0       |
+| Sa1nTy           |      15      |             33              |                13                 |            0             |              60               |             7              |            13             |       3       |
+| Greatest333      |      14      |             21              |                14                 |            0             |              71               |             7              |             0             |       1       |
+| swetsi7          |      17      |             18              |                18                 |            0             |              71               |             6              |             6             |       0       |
+| MrTrelog         |      15      |             47              |                20                 |            0             |              73               |             0              |             0             |       0       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **POOHANK**      | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| hey666           |      11      |             36              |                27                 |            9             |              55               |             0              |             0             |       0       |
+| -boZZo           |      9       |              0              |                11                 |            0             |              78               |             0              |             0             |       1       |
+| berkaNbey        |      9       |             22              |                22                 |            0             |              67               |             0              |             0             |       0       |
+| KatzRead         |      9       |             44              |                11                 |            0             |              56               |             11             |            11             |       0       |
+| Aura-            |      9       |             33              |                 0                 |            0             |              89               |             0              |             0             |       1       |

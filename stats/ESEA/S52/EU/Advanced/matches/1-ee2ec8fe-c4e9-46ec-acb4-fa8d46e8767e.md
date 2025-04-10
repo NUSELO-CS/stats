@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-26  
 **Teams**: PCIFIC ESPOR vs 777 Esport  
 
-## **Map**: de_mirage - PCIFIC ESPOR (13) vs 777 Esport (3)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | PCIFIC ESPOR | Banned | de_ancient |
+| 2 | 777 Esport | Banned | de_dust2 |
+| 3 | 777 Esport | Banned | de_inferno |
+| 4 | PCIFIC ESPOR | Banned | de_train |
+| 5 | PCIFIC ESPOR | Banned | de_nuke |
+| 6 | 777 Esport | Banned | de_anubis |
+| 7 | PCIFIC ESPOR | Picked | de_mirage |
+
+---  
+
+### **Map**: de_mirage - PCIFIC ESPOR (13) vs 777 Esport (3)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Hagmeister       |     0.33     | 37.50  |        33.33         |                         66.67                          |           0.00            |                            0.00                             |          33.33           |                           66.67                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **PCIFIC ESPOR** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| jresy            |      25      |             8              |             20             |                 28                 |           12            |              64              |                0                |   9    |             33              |                 22                  |            0             |              33               |             33             |
-| lugseN           |      14      |             14             |             14             |                 43                 |            0            |              86              |                0                |   6    |             17              |                 17                  |            0             |              67               |             33             |
-| scolleN          |      12      |             25             |             17             |                 58                 |           25            |              58              |                8                |   6    |              0              |                  0                  |            0             |              67               |             0              |
-| eNs              |      8       |             13             |             13             |                 50                 |           25            |              38              |               13                |   6    |             17              |                 17                  |            0             |              67               |             17             |
-| EMS7AR           |      10      |             0              |             20             |                 50                 |           20            |              80              |                0                |   12   |             42              |                 25                  |            0             |              67               |             0              |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **777 Esport**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| MadeInRed        |      11      |             27             |             36             |                 0                  |            0            |              82              |                0                |   14   |             29              |                  7                  |            7             |              71               |             7              |
-| qzr              |      9       |             22             |             11             |                 11                 |           11            |              56              |               22                |   14   |              7              |                  0                  |            0             |              57               |             0              |
-| Viktha           |      7       |             43             |             43             |                 14                 |           14            |              29              |               14                |   15   |             13              |                  0                  |            0             |              53               |             0              |
-| Affava           |      5       |             40             |             40             |                 40                 |           40            |              80              |               20                |   14   |             21              |                  0                  |            0             |              79               |             7              |
-| Hagmeister       |      6       |             33             |             0              |                 33                 |           33            |              67              |               33                |   13   |             15              |                  8                  |            0             |              77               |             0              |
+| **PCIFIC ESPOR** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| jresy            |      25      |             8              |             20             |                 28                 |           12            |              64              |                0                |                   4                   |         1          |     5     |
+| lugseN           |      14      |             14             |             14             |                 43                 |            0            |              86              |                0                |                   0                   |         7          |     1     |
+| scolleN          |      12      |             25             |             17             |                 58                 |           25            |              58              |                8                |                   0                   |         0          |     0     |
+| eNs              |      8       |             13             |             13             |                 50                 |           25            |              38              |               13                |                   0                   |         0          |     2     |
+| EMS7AR           |      10      |             0              |             20             |                 50                 |           20            |              80              |                0                |                   0                   |         0          |     1     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **777 Esport**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| MadeInRed        |      11      |             27             |             36             |                 0                  |            0            |              82              |                0                |                   9                   |         2          |     3     |
+| qzr              |      9       |             22             |             11             |                 11                 |           11            |              56              |               22                |                   0                   |         0          |     2     |
+| Viktha           |      7       |             43             |             43             |                 14                 |           14            |              29              |               14                |                   0                   |         0          |     0     |
+| Affava           |      5       |             40             |             40             |                 40                 |           40            |              80              |               20                |                   0                   |         0          |     1     |
+| Hagmeister       |      6       |             33             |             0              |                 33                 |           33            |              67              |               33                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **PCIFIC ESPOR** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| jresy            |      9       |             33              |                22                 |            0             |              33               |             33             |             0             |       1       |
+| lugseN           |      6       |             17              |                17                 |            0             |              67               |             33             |             0             |       1       |
+| scolleN          |      6       |              0              |                 0                 |            0             |              67               |             0              |             0             |       0       |
+| eNs              |      6       |             17              |                17                 |            0             |              67               |             17             |             0             |       0       |
+| EMS7AR           |      12      |             42              |                25                 |            0             |              67               |             0              |             8             |       0       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **777 Esport**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| MadeInRed        |      14      |             29              |                 7                 |            7             |              71               |             7              |             0             |       2       |
+| qzr              |      14      |              7              |                 0                 |            0             |              57               |             0              |             0             |       2       |
+| Viktha           |      15      |             13              |                 0                 |            0             |              53               |             0              |             7             |       0       |
+| Affava           |      14      |             21              |                 0                 |            0             |              79               |             7              |             0             |       2       |
+| Hagmeister       |      13      |             15              |                 8                 |            0             |              77               |             0              |             0             |       2       |

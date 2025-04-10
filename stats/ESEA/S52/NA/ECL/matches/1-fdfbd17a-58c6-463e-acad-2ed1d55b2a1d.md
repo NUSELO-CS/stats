@@ -2,7 +2,21 @@
 **Match Date**: 2025-03-26  
 **Teams**: NRG vs InControl  
 
-## **Map**: de_mirage - NRG (13) vs InControl (9)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | InControl | Banned | de_dust2 |
+| 2 | NRG | Banned | de_ancient |
+| 3 | NRG | Banned | de_train |
+| 4 | InControl | Banned | de_inferno |
+| 5 | InControl | Banned | de_anubis |
+| 6 | NRG | Banned | de_nuke |
+| 7 | InControl | Picked | de_mirage |
+
+---  
+
+### **Map**: de_mirage - NRG (13) vs InControl (9)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | ---Beast      |     0.68     | 63.64 |        64.29         |                         100.00                         |           66.67           |                           100.00                            |          62.50           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **NRG**       | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| HexT          |      17      |             24             |             12             |                 24                 |            6            |              65              |                0                |   10   |             40              |                 20                  |            0             |              70               |             0              |
-| oSee          |      19      |             11             |             5              |                 26                 |            5            |              79              |                5                |   13   |             31              |                  8                  |            0             |              46               |             23             |
-| jeorge        |      15      |             0              |             7              |                 33                 |            0            |              53              |               13                |   11   |             27              |                  9                  |            0             |              45               |             18             |
-| -_BR0         |      15      |             13             |             20             |                 47                 |           13            |              73              |                7                |   15   |             13              |                 13                  |            0             |              67               |             13             |
-| nitr0         |      10      |             30             |             20             |                 20                 |           10            |              60              |                0                |   13   |              0              |                  8                  |            0             |              46               |             23             |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **InControl** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Scorchyy      |      13      |             15             |             38             |                 8                  |            0            |              62              |                8                |   13   |              8              |                 15                  |            0             |              85               |             0              |
-| 1TyRa         |      14      |             7              |             43             |                 50                 |           14            |              50              |               14                |   19   |             21              |                 21                  |            5             |              63               |             0              |
-| jsfeltner     |      14      |             14             |             0              |                 29                 |            7            |              50              |               21                |   14   |             21              |                 21                  |            7             |              71               |             7              |
-| Oczarka       |      12      |             17             |             0              |                 33                 |            8            |              58              |               25                |   13   |              8              |                 15                  |            0             |              38               |             8              |
-| ---Beast      |      9       |             11             |             22             |                 11                 |           11            |              56              |               11                |   17   |              0              |                 18                  |            0             |              76               |             12             |
+| **NRG**       | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| HexT          |      17      |             24             |             12             |                 24                 |            6            |              65              |                0                |                   6                   |         0          |     2     |
+| oSee          |      19      |             11             |             5              |                 26                 |            5            |              79              |                5                |                   5                   |         4          |     3     |
+| jeorge        |      15      |             0              |             7              |                 33                 |            0            |              53              |               13                |                   7                   |         0          |     1     |
+| -_BR0         |      15      |             13             |             20             |                 47                 |           13            |              73              |                7                |                  20                   |         0          |     2     |
+| nitr0         |      10      |             30             |             20             |                 20                 |           10            |              60              |                0                |                  10                   |         0          |     2     |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **InControl** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Scorchyy      |      13      |             15             |             38             |                 8                  |            0            |              62              |                8                |                   0                   |         5          |     2     |
+| 1TyRa         |      14      |             7              |             43             |                 50                 |           14            |              50              |               14                |                   0                   |         0          |     0     |
+| jsfeltner     |      14      |             14             |             0              |                 29                 |            7            |              50              |               21                |                   0                   |         0          |     0     |
+| Oczarka       |      12      |             17             |             0              |                 33                 |            8            |              58              |               25                |                   8                   |         0          |     0     |
+| ---Beast      |      9       |             11             |             22             |                 11                 |           11            |              56              |               11                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **NRG**       | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player        |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| HexT          |      10      |             40              |                20                 |            0             |              70               |             0              |             0             |       0       |
+| oSee          |      13      |             31              |                 8                 |            0             |              46               |             23             |             0             |       0       |
+| jeorge        |      11      |             27              |                 9                 |            0             |              45               |             18             |             0             |       0       |
+| -_BR0         |      15      |             13              |                13                 |            0             |              67               |             13             |             7             |       4       |
+| nitr0         |      13      |              0              |                 8                 |            0             |              46               |             23             |             0             |       1       |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+| **InControl** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player        |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Scorchyy      |      13      |              8              |                15                 |            0             |              85               |             0              |            15             |       1       |
+| 1TyRa         |      19      |             21              |                21                 |            5             |              63               |             0              |             5             |       2       |
+| jsfeltner     |      14      |             21              |                21                 |            7             |              71               |             7              |             7             |       1       |
+| Oczarka       |      13      |              8              |                15                 |            0             |              38               |             8              |            15             |       0       |
+| ---Beast      |      17      |              0              |                18                 |            0             |              76               |             12             |             6             |       0       |

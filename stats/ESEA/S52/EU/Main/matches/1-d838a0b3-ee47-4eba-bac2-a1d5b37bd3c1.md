@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-12  
 **Teams**: MASONIC vs LithuanianWolfs  
 
-## **Map**: de_nuke - MASONIC (13) vs LithuanianWolfs (3)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | LithuanianWolfs | Banned | de_dust2 |
+| 2 | MASONIC | Banned | de_ancient |
+| 3 | MASONIC | Banned | de_anubis |
+| 4 | LithuanianWolfs | Banned | de_train |
+| 5 | LithuanianWolfs | Banned | de_inferno |
+| 6 | MASONIC | Banned | de_mirage |
+| 7 | LithuanianWolfs | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - MASONIC (13) vs LithuanianWolfs (3)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Berzius             |     0.39     | 50.00  |        42.86         |                         100.00                         |           0.00            |                            0.00                             |          75.00           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **MASONIC**         | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Botman              |      21      |             14             |             24             |                 67                 |           19            |              67              |                0                |   7    |             29              |                 14                  |            0             |              43               |             0              |
-| Noruyp              |      19      |             16             |             21             |                 42                 |           11            |              68              |                0                |   8    |             25              |                 50                  |            13            |              38               |             13             |
-| Bukhavez-           |      11      |             9              |             27             |                 45                 |           18            |              73              |                9                |   8    |             13              |                 38                  |            0             |              75               |             13             |
-| grumpy9             |      11      |             27             |             27             |                 64                 |           27            |              36              |                9                |   7    |             43              |                 43                  |            29            |              57               |             14             |
-| ChenHassan          |      10      |             10             |             20             |                 60                 |           40            |              70              |               10                |   6    |             50              |                 50                  |            0             |              33               |             17             |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **LithuanianWolfs** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| OniX--              |      9       |             44             |             22             |                 0                  |            0            |              67              |               11                |   15   |             33              |                  7                  |            0             |              60               |             0              |
-| -Uzman              |      8       |             25             |             38             |                 0                  |            0            |              13              |               25                |   14   |             21              |                  7                  |            0             |              79               |             14             |
-| --PoKe--            |      5       |             80             |             60             |                 20                 |            0            |              80              |               20                |   14   |             14              |                  7                  |            0             |              36               |             0              |
-| --Misterio-         |      7       |             43             |             14             |                 0                  |            0            |              57              |                0                |   15   |             27              |                  7                  |            0             |              73               |             7              |
-| Berzius             |      6       |             17             |             33             |                 0                  |            0            |              67              |                0                |   15   |             20              |                  7                  |            0             |              87               |             0              |
+| **MASONIC**         | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Botman              |      21      |             14             |             24             |                 67                 |           19            |              67              |                0                |                   0                   |         0          |     3     |
+| Noruyp              |      19      |             16             |             21             |                 42                 |           11            |              68              |                0                |                   0                   |         12         |     3     |
+| Bukhavez-           |      11      |             9              |             27             |                 45                 |           18            |              73              |                9                |                   0                   |         0          |     1     |
+| grumpy9             |      11      |             27             |             27             |                 64                 |           27            |              36              |                9                |                   0                   |         0          |     0     |
+| ChenHassan          |      10      |             10             |             20             |                 60                 |           40            |              70              |               10                |                   0                   |         0          |     0     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **LithuanianWolfs** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| OniX--              |      9       |             44             |             22             |                 0                  |            0            |              67              |               11                |                   0                   |         0          |     3     |
+| -Uzman              |      8       |             25             |             38             |                 0                  |            0            |              13              |               25                |                  25                   |         0          |     2     |
+| --PoKe--            |      5       |             80             |             60             |                 20                 |            0            |              80              |               20                |                   0                   |         0          |     0     |
+| --Misterio-         |      7       |             43             |             14             |                 0                  |            0            |              57              |                0                |                  14                   |         0          |     1     |
+| Berzius             |      6       |             17             |             33             |                 0                  |            0            |              67              |                0                |                   0                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **MASONIC**         | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Botman              |      7       |             29              |                14                 |            0             |              43               |             0              |            14             |       0       |
+| Noruyp              |      8       |             25              |                50                 |            13            |              38               |             13             |             0             |       0       |
+| Bukhavez-           |      8       |             13              |                38                 |            0             |              75               |             13             |             0             |       0       |
+| grumpy9             |      7       |             43              |                43                 |            29            |              57               |             14             |            14             |       0       |
+| ChenHassan          |      6       |             50              |                50                 |            0             |              33               |             17             |            17             |       0       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **LithuanianWolfs** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| OniX--              |      15      |             33              |                 7                 |            0             |              60               |             0              |             0             |       2       |
+| -Uzman              |      14      |             21              |                 7                 |            0             |              79               |             14             |             0             |       2       |
+| --PoKe--            |      14      |             14              |                 7                 |            0             |              36               |             0              |             0             |       2       |
+| --Misterio-         |      15      |             27              |                 7                 |            0             |              73               |             7              |             0             |       5       |
+| Berzius             |      15      |             20              |                 7                 |            0             |              87               |             0              |             0             |       1       |

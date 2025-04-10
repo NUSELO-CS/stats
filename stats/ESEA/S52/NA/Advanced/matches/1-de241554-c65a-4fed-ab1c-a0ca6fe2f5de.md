@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-06  
 **Teams**: Royal vs Wanted Goons  
 
-## **Map**: de_ancient - Royal (19) vs Wanted Goons (17)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Royal | Banned | de_mirage |
+| 2 | Wanted Goons | Banned | de_anubis |
+| 3 | Wanted Goons | Banned | de_train |
+| 4 | Royal | Banned | de_dust2 |
+| 5 | Royal | Banned | de_inferno |
+| 6 | Wanted Goons | Banned | de_nuke |
+| 7 | Royal | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - Royal (19) vs Wanted Goons (17)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Johan            |     0.83     | 72.22 |        61.54         |                         94.12                          |           63.64           |                           100.00                            |          60.00           |                           90.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Royal**        | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| -Dodge-          |      34      |             12             |             24             |                 21                 |           12            |              53              |                3                |   26   |              4              |                  8                  |            0             |              42               |             8              |
-| Kolsy            |      28      |             11             |             11             |                 21                 |            4            |              82              |                0                |   20   |             15              |                 15                  |            0             |              45               |             15             |
-| Vu1can           |      30      |             17             |             30             |                 17                 |           10            |              57              |               17                |   27   |             11              |                 15                  |            4             |              56               |             7              |
-| _D1abetic_       |      18      |             17             |             11             |                 17                 |            0            |              56              |               17                |   24   |             29              |                  8                  |            0             |              42               |             13             |
-| spAZsy           |      16      |             13             |             31             |                 13                 |            0            |              75              |                6                |   23   |             22              |                  9                  |            0             |              61               |             13             |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Wanted Goons** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| -AGB-            |      29      |             14             |             7              |                 17                 |           17            |              52              |               14                |   25   |             24              |                 24                  |            0             |              64               |             4              |
-| Feb              |      24      |             13             |             25             |                 25                 |            4            |              29              |               13                |   26   |             35              |                 23                  |            8             |              65               |             8              |
-| Magic_KS         |      27      |             22             |             26             |                 15                 |            0            |              48              |               15                |   27   |              7              |                 22                  |            7             |              56               |             11             |
-| killerPandas     |      25      |             20             |             4              |                 32                 |           12            |              60              |                0                |   26   |             23              |                  8                  |            0             |              81               |             12             |
-| Johan            |      15      |             40             |             20             |                 40                 |            7            |              47              |               13                |   22   |             18              |                  9                  |            5             |              59               |             5              |
+| **Royal**        | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| -Dodge-          |      34      |             12             |             24             |                 21                 |           12            |              53              |                3                |                   0                   |         0          |     2     |
+| Kolsy            |      28      |             11             |             11             |                 21                 |            4            |              82              |                0                |                   4                   |         21         |     0     |
+| Vu1can           |      30      |             17             |             30             |                 17                 |           10            |              57              |               17                |                  10                   |         0          |     2     |
+| _D1abetic_       |      18      |             17             |             11             |                 17                 |            0            |              56              |               17                |                  17                   |         0          |     0     |
+| spAZsy           |      16      |             13             |             31             |                 13                 |            0            |              75              |                6                |                   6                   |         0          |     1     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Wanted Goons** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| -AGB-            |      29      |             14             |             7              |                 17                 |           17            |              52              |               14                |                   0                   |         4          |     2     |
+| Feb              |      24      |             13             |             25             |                 25                 |            4            |              29              |               13                |                   4                   |         1          |     2     |
+| Magic_KS         |      27      |             22             |             26             |                 15                 |            0            |              48              |               15                |                  15                   |         0          |     2     |
+| killerPandas     |      25      |             20             |             4              |                 32                 |           12            |              60              |                0                |                   0                   |         6          |     4     |
+| Johan            |      15      |             40             |             20             |                 40                 |            7            |              47              |               13                |                   7                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Royal**        | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| -Dodge-          |      26      |              4              |                 8                 |            0             |              42               |             8              |             0             |       4       |
+| Kolsy            |      20      |             15              |                15                 |            0             |              45               |             15             |            10             |       2       |
+| Vu1can           |      27      |             11              |                15                 |            4             |              56               |             7              |             7             |       2       |
+| _D1abetic_       |      24      |             29              |                 8                 |            0             |              42               |             13             |             4             |       3       |
+| spAZsy           |      23      |             22              |                 9                 |            0             |              61               |             13             |             4             |       0       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **Wanted Goons** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| -AGB-            |      25      |             24              |                24                 |            0             |              64               |             4              |             4             |       4       |
+| Feb              |      26      |             35              |                23                 |            8             |              65               |             8              |             0             |       4       |
+| Magic_KS         |      27      |              7              |                22                 |            7             |              56               |             11             |             4             |       3       |
+| killerPandas     |      26      |             23              |                 8                 |            0             |              81               |             12             |            15             |       6       |
+| Johan            |      22      |             18              |                 9                 |            5             |              59               |             5              |             9             |       4       |

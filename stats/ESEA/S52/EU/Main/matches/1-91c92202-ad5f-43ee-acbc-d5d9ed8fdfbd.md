@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-13  
 **Teams**: Anatolian Foxes vs San Marino Team  
 
-## **Map**: de_anubis - Anatolian Foxes (13) vs San Marino Team (16)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Anatolian Foxes | Banned | de_ancient |
+| 2 | San Marino Team | Banned | de_dust2 |
+| 3 | San Marino Team | Banned | de_mirage |
+| 4 | Anatolian Foxes | Banned | de_inferno |
+| 5 | Anatolian Foxes | Banned | de_nuke |
+| 6 | San Marino Team | Banned | de_train |
+| 7 | Anatolian Foxes | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - Anatolian Foxes (13) vs San Marino Team (16)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Woocashko           |     0.89     | 79.31 |        60.87         |                         87.50                          |           45.45           |                           100.00                            |          75.00           |                           81.82                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Anatolian Foxes** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| cagen               |      23      |             30             |             30             |                 13                 |            0            |              65              |                4                |   22   |             14              |                 14                  |            0             |              55               |             14             |
-| davycs              |      23      |             30             |             35             |                 22                 |            9            |              43              |                9                |   23   |             26              |                 17                  |            0             |              61               |             9              |
-| -pl3x               |      19      |             32             |             47             |                 16                 |            5            |              42              |               11                |   21   |             33              |                 19                  |            5             |              62               |             10             |
-| JeanX_              |      18      |             39             |             39             |                 17                 |            0            |              67              |               11                |   25   |             24              |                 16                  |            4             |              56               |             4              |
-| descmonster         |      11      |             0              |             27             |                 18                 |            0            |              64              |                0                |   22   |             23              |                 14                  |            0             |              73               |             9              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **San Marino Team** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| djabeu              |      29      |             31             |             24             |                 7                  |            3            |              52              |                7                |   18   |             28              |                 11                  |            0             |              61               |             6              |
-| Geratis             |      26      |             27             |             19             |                 19                 |           12            |              62              |                4                |   15   |             33              |                 13                  |            7             |              53               |             13             |
-| Wierzba             |      20      |             40             |             30             |                 10                 |            5            |              60              |               20                |   20   |             50              |                  5                  |            0             |              30               |             10             |
-| wsc_                |      22      |             23             |             14             |                 14                 |            0            |              68              |                9                |   17   |             35              |                  6                  |            0             |              71               |             6              |
-| Woocashko           |      16      |             19             |             38             |                 38                 |           31            |              69              |                6                |   24   |             33              |                 13                  |            4             |              63               |             4              |
+| **Anatolian Foxes** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| cagen               |      23      |             30             |             30             |                 13                 |            0            |              65              |                4                |                   0                   |         0          |     2     |
+| davycs              |      23      |             30             |             35             |                 22                 |            9            |              43              |                9                |                   4                   |         0          |     1     |
+| -pl3x               |      19      |             32             |             47             |                 16                 |            5            |              42              |               11                |                   5                   |         0          |     1     |
+| JeanX_              |      18      |             39             |             39             |                 17                 |            0            |              67              |               11                |                   6                   |         0          |     2     |
+| descmonster         |      11      |             0              |             27             |                 18                 |            0            |              64              |                0                |                   0                   |         4          |     1     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **San Marino Team** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| djabeu              |      29      |             31             |             24             |                 7                  |            3            |              52              |                7                |                  10                   |         0          |     4     |
+| Geratis             |      26      |             27             |             19             |                 19                 |           12            |              62              |                4                |                   8                   |         0          |     0     |
+| Wierzba             |      20      |             40             |             30             |                 10                 |            5            |              60              |               20                |                   0                   |         0          |     3     |
+| wsc_                |      22      |             23             |             14             |                 14                 |            0            |              68              |                9                |                  14                   |         10         |     2     |
+| Woocashko           |      16      |             19             |             38             |                 38                 |           31            |              69              |                6                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Anatolian Foxes** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| cagen               |      22      |             14              |                14                 |            0             |              55               |             14             |             9             |       4       |
+| davycs              |      23      |             26              |                17                 |            0             |              61               |             9              |             0             |       0       |
+| -pl3x               |      21      |             33              |                19                 |            5             |              62               |             10             |            10             |       1       |
+| JeanX_              |      25      |             24              |                16                 |            4             |              56               |             4              |             4             |       2       |
+| descmonster         |      22      |             23              |                14                 |            0             |              73               |             9              |            14             |       3       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **San Marino Team** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| djabeu              |      18      |             28              |                11                 |            0             |              61               |             6              |             0             |       2       |
+| Geratis             |      15      |             33              |                13                 |            7             |              53               |             13             |             0             |       1       |
+| Wierzba             |      20      |             50              |                 5                 |            0             |              30               |             10             |             0             |       1       |
+| wsc_                |      17      |             35              |                 6                 |            0             |              71               |             6              |            12             |       0       |
+| Woocashko           |      24      |             33              |                13                 |            4             |              63               |             4              |             4             |       0       |

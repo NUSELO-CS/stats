@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-27  
 **Teams**: AnnexEsports vs LODIS AC  
 
-## **Map**: de_mirage - AnnexEsports (13) vs LODIS AC (6)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | AnnexEsports | Banned | de_anubis |
+| 2 | LODIS AC | Banned | de_dust2 |
+| 3 | LODIS AC | Banned | de_inferno |
+| 4 | AnnexEsports | Banned | de_ancient |
+| 5 | AnnexEsports | Banned | de_train |
+| 6 | LODIS AC | Banned | de_nuke |
+| 7 | AnnexEsports | Picked | de_mirage |
+
+---  
+
+### **Map**: de_mirage - AnnexEsports (13) vs LODIS AC (6)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | stonko-          |     0.46     | 47.37 |        55.56         |                         83.33                          |          100.00           |                           100.00                            |          33.33           |                           66.67                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **AnnexEsports** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| DagThePimple     |      21      |             29             |             14             |                 43                 |            5            |              71              |                0                |   10   |              0              |                 30                  |            0             |              60               |             0              |
-| godkU            |      19      |             5              |             5              |                 47                 |           16            |              68              |                5                |   14   |             29              |                 43                  |            0             |              64               |             0              |
-| Rhyza            |      14      |             21             |             29             |                 71                 |            0            |              64              |                0                |   12   |             33              |                 33                  |            0             |              58               |             8              |
-| AliBond          |      10      |             10             |             30             |                 60                 |            0            |              60              |               20                |   10   |             40              |                 40                  |            0             |              50               |             0              |
-| Chowm1nt         |      13      |             8              |             31             |                 62                 |            8            |              77              |                8                |   13   |             31              |                 38                  |            0             |              46               |             15             |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **LODIS AC**     | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Pecaaa           |      20      |             10             |             25             |                 40                 |            0            |              55              |                5                |   14   |              7              |                 29                  |            0             |              79               |             0              |
-| ANeraX           |      11      |             45             |             45             |                 73                 |            0            |              64              |               18                |   17   |             24              |                 29                  |            0             |              76               |             0              |
-| olfiip           |      11      |             45             |             18             |                 27                 |            0            |              64              |                0                |   15   |             13              |                 33                  |            0             |              80               |             0              |
-| smooho           |      9       |             0              |             11             |                 44                 |            0            |              67              |                0                |   16   |             31              |                 31                  |            0             |              50               |             13             |
-| stonko-          |      7       |             14             |             43             |                 14                 |            0            |              43              |                0                |   16   |             19              |                 25                  |            0             |              63               |             13             |
+| **AnnexEsports** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| DagThePimple     |      21      |             29             |             14             |                 43                 |            5            |              71              |                0                |                   5                   |         3          |     3     |
+| godkU            |      19      |             5              |             5              |                 47                 |           16            |              68              |                5                |                   0                   |         0          |     0     |
+| Rhyza            |      14      |             21             |             29             |                 71                 |            0            |              64              |                0                |                   0                   |         0          |     0     |
+| AliBond          |      10      |             10             |             30             |                 60                 |            0            |              60              |               20                |                   0                   |         0          |     2     |
+| Chowm1nt         |      13      |             8              |             31             |                 62                 |            8            |              77              |                8                |                   0                   |         0          |     0     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **LODIS AC**     | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Pecaaa           |      20      |             10             |             25             |                 40                 |            0            |              55              |                5                |                   0                   |         0          |     1     |
+| ANeraX           |      11      |             45             |             45             |                 73                 |            0            |              64              |               18                |                   0                   |         0          |     1     |
+| olfiip           |      11      |             45             |             18             |                 27                 |            0            |              64              |                0                |                  18                   |         0          |     0     |
+| smooho           |      9       |             0              |             11             |                 44                 |            0            |              67              |                0                |                   0                   |         0          |     1     |
+| stonko-          |      7       |             14             |             43             |                 14                 |            0            |              43              |                0                |                   0                   |         0          |     3     |
+## Extended Deaths Stats  
+
+| **AnnexEsports** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| DagThePimple     |      10      |              0              |                30                 |            0             |              60               |             0              |             0             |       0       |
+| godkU            |      14      |             29              |                43                 |            0             |              64               |             0              |             0             |       0       |
+| Rhyza            |      12      |             33              |                33                 |            0             |              58               |             8              |             0             |       0       |
+| AliBond          |      10      |             40              |                40                 |            0             |              50               |             0              |            20             |       0       |
+| Chowm1nt         |      13      |             31              |                38                 |            0             |              46               |             15             |             0             |       0       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **LODIS AC**     | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Pecaaa           |      14      |              7              |                29                 |            0             |              79               |             0              |             0             |       0       |
+| ANeraX           |      17      |             24              |                29                 |            0             |              76               |             0              |             0             |       1       |
+| olfiip           |      15      |             13              |                33                 |            0             |              80               |             0              |             7             |       2       |
+| smooho           |      16      |             31              |                31                 |            0             |              50               |             13             |             0             |       0       |
+| stonko-          |      16      |             19              |                25                 |            0             |              63               |             13             |             0             |       0       |

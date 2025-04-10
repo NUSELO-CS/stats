@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-21  
 **Teams**: Peekers Adv vs Insiders  
 
-## **Map**: de_anubis - Peekers Adv (16) vs Insiders (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Insiders | Banned | de_ancient |
+| 2 | Peekers Adv | Banned | de_mirage |
+| 3 | Peekers Adv | Banned | de_inferno |
+| 4 | Insiders | Banned | de_train |
+| 5 | Insiders | Banned | de_nuke |
+| 6 | Peekers Adv | Banned | de_dust2 |
+| 7 | Insiders | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - Peekers Adv (16) vs Insiders (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | NoJohns         |     0.59     | 68.97 |        60.00         |                         92.31                          |           40.00           |                            80.00                            |          80.00           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Peekers Adv** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| XYoshiZ         |      30      |             30             |             17             |                 27                 |           10            |              70              |                3                |   16   |             19              |                 19                  |            0             |              81               |             0              |
-| rock            |      30      |             23             |             13             |                 27                 |            7            |              67              |               10                |   20   |             30              |                 15                  |            5             |              65               |             10             |
-| zws             |      21      |             10             |             24             |                 10                 |            0            |              67              |                5                |   23   |             39              |                 22                  |            4             |              57               |             0              |
-| evo3K           |      16      |             13             |             31             |                 13                 |            0            |              38              |               13                |   20   |             40              |                 15                  |            0             |              70               |             5              |
-| salsa_-         |      14      |             29             |             14             |                 7                  |            0            |              79              |                0                |   19   |              5              |                 16                  |            0             |              32               |             0              |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Insiders**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Destro          |      34      |             21             |             18             |                 26                 |           15            |              59              |                0                |   22   |             23              |                 27                  |            5             |              68               |             14             |
-| Spectur-        |      21      |             29             |             33             |                 24                 |            0            |              62              |                0                |   22   |             18              |                 18                  |            5             |              36               |             5              |
-| aeroJ           |      19      |             11             |             32             |                 16                 |           16            |              63              |               11                |   23   |             13              |                 17                  |            4             |              83               |             4              |
-| jrose           |      14      |             29             |             21             |                 21                 |           14            |              64              |                0                |   20   |             15              |                 15                  |            0             |              60               |             10             |
-| NoJohns         |      10      |             20             |             50             |                 20                 |            0            |              50              |               10                |   24   |             25              |                 13                  |            0             |              79               |             0              |
+| **Peekers Adv** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| XYoshiZ         |      30      |             30             |             17             |                 27                 |           10            |              70              |                3                |                   0                   |         18         |     2     |
+| rock            |      30      |             23             |             13             |                 27                 |            7            |              67              |               10                |                   3                   |         0          |     4     |
+| zws             |      21      |             10             |             24             |                 10                 |            0            |              67              |                5                |                   0                   |         1          |     2     |
+| evo3K           |      16      |             13             |             31             |                 13                 |            0            |              38              |               13                |                  13                   |         0          |     0     |
+| salsa_-         |      14      |             29             |             14             |                 7                  |            0            |              79              |                0                |                   0                   |         0          |     0     |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Insiders**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Destro          |      34      |             21             |             18             |                 26                 |           15            |              59              |                0                |                   0                   |         2          |     1     |
+| Spectur-        |      21      |             29             |             33             |                 24                 |            0            |              62              |                0                |                   5                   |         0          |     3     |
+| aeroJ           |      19      |             11             |             32             |                 16                 |           16            |              63              |               11                |                  11                   |         9          |     2     |
+| jrose           |      14      |             29             |             21             |                 21                 |           14            |              64              |                0                |                  14                   |         4          |     1     |
+| NoJohns         |      10      |             20             |             50             |                 20                 |            0            |              50              |               10                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Peekers Adv** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| XYoshiZ         |      16      |             19              |                19                 |            0             |              81               |             0              |             0             |       5       |
+| rock            |      20      |             30              |                15                 |            5             |              65               |             10             |             0             |       4       |
+| zws             |      23      |             39              |                22                 |            4             |              57               |             0              |             4             |       4       |
+| evo3K           |      20      |             40              |                15                 |            0             |              70               |             5              |            15             |       1       |
+| salsa_-         |      19      |              5              |                16                 |            0             |              32               |             0              |             5             |       1       |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+| **Insiders**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Destro          |      22      |             23              |                27                 |            5             |              68               |             14             |             0             |       3       |
+| Spectur-        |      22      |             18              |                18                 |            5             |              36               |             5              |             9             |       3       |
+| aeroJ           |      23      |             13              |                17                 |            4             |              83               |             4              |             4             |       6       |
+| jrose           |      20      |             15              |                15                 |            0             |              60               |             10             |             0             |       3       |
+| NoJohns         |      24      |             25              |                13                 |            0             |              79               |             0              |             0             |       4       |

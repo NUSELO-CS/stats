@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-29  
 **Teams**: Nouns Esports vs Aetheris  
 
-## **Map**: de_ancient - Nouns Esports (13) vs Aetheris (2)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Aetheris | Banned | de_inferno |
+| 2 | Nouns Esports | Banned | de_nuke |
+| 3 | Nouns Esports | Banned | de_anubis |
+| 4 | Aetheris | Banned | de_mirage |
+| 5 | Aetheris | Banned | de_dust2 |
+| 6 | Nouns Esports | Banned | de_train |
+| 7 | Aetheris | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - Nouns Esports (13) vs Aetheris (2)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | xsany272          |     0.22     | 40.00  |        16.67         |                         50.00                          |           50.00           |                            50.00                            |           0.00           |                            0.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Nouns Esports** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| 1junior           |      16      |             31             |             19             |                 25                 |            6            |              81              |                0                |   6    |             33              |                 50                  |            17            |              83               |             0              |
-| Peeping           |      14      |             21             |             21             |                 43                 |           14            |              64              |               14                |   6    |             33              |                 17                  |            0             |              17               |             0              |
-| cJ-dA-K1nG        |      14      |             7              |             29             |                 50                 |            0            |              50              |                7                |   8    |             38              |                 25                  |            0             |              75               |             0              |
-| Cryptic           |      12      |             0              |             17             |                 8                  |            0            |              42              |                8                |   5    |             40              |                  0                  |            0             |              80               |             20             |
-| RUSH              |      12      |             17             |             8              |                 58                 |           17            |              58              |                8                |   7    |             57              |                  0                  |            0             |              57               |             0              |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Aetheris**      | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| karv3r            |      10      |             30             |             30             |                 20                 |           20            |              60              |                0                |   14   |             36              |                  7                  |            7             |              50               |             21             |
-| s1renaa           |      8       |             13             |             38             |                 13                 |           13            |              75              |                0                |   13   |             23              |                  0                  |            0             |              69               |             0              |
-| RuIik             |      5       |             60             |             40             |                 20                 |           20            |             100              |                0                |   13   |             15              |                  0                  |            0             |              54               |             8              |
-| noto-             |      5       |             60             |             40             |                 0                  |            0            |              20              |               20                |   14   |              7              |                  0                  |            0             |              64               |             7              |
-| xsany272          |      4       |             25             |             75             |                 25                 |           25            |              50              |                0                |   14   |             14              |                  0                  |            0             |              64               |             0              |
+| **Nouns Esports** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| 1junior           |      16      |             31             |             19             |                 25                 |            6            |              81              |                0                |                   6                   |         4          |     2     |
+| Peeping           |      14      |             21             |             21             |                 43                 |           14            |              64              |               14                |                   7                   |         0          |     0     |
+| cJ-dA-K1nG        |      14      |             7              |             29             |                 50                 |            0            |              50              |                7                |                   7                   |         0          |     2     |
+| Cryptic           |      12      |             0              |             17             |                 8                  |            0            |              42              |                8                |                   0                   |         0          |     1     |
+| RUSH              |      12      |             17             |             8              |                 58                 |           17            |              58              |                8                |                  42                   |         0          |     2     |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Aetheris**      | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| karv3r            |      10      |             30             |             30             |                 20                 |           20            |              60              |                0                |                  20                   |         0          |     3     |
+| s1renaa           |      8       |             13             |             38             |                 13                 |           13            |              75              |                0                |                   0                   |         0          |     2     |
+| RuIik             |      5       |             60             |             40             |                 20                 |           20            |             100              |                0                |                  20                   |         0          |     2     |
+| noto-             |      5       |             60             |             40             |                 0                  |            0            |              20              |               20                |                   0                   |         0          |     1     |
+| xsany272          |      4       |             25             |             75             |                 25                 |           25            |              50              |                0                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Nouns Esports** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| 1junior           |      6       |             33              |                50                 |            17            |              83               |             0              |             0             |       0       |
+| Peeping           |      6       |             33              |                17                 |            0             |              17               |             0              |             0             |       0       |
+| cJ-dA-K1nG        |      8       |             38              |                25                 |            0             |              75               |             0              |            13             |       0       |
+| Cryptic           |      5       |             40              |                 0                 |            0             |              80               |             20             |            20             |       0       |
+| RUSH              |      7       |             57              |                 0                 |            0             |              57               |             0              |            14             |       0       |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+| **Aetheris**      | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| karv3r            |      14      |             36              |                 7                 |            7             |              50               |             21             |             7             |       2       |
+| s1renaa           |      13      |             23              |                 0                 |            0             |              69               |             0              |             0             |       0       |
+| RuIik             |      13      |             15              |                 0                 |            0             |              54               |             8              |            23             |       0       |
+| noto-             |      14      |              7              |                 0                 |            0             |              64               |             7              |            14             |       2       |
+| xsany272          |      14      |             14              |                 0                 |            0             |              64               |             0              |            14             |       0       |

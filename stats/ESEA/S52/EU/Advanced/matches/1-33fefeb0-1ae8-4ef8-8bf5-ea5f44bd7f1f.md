@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-12  
 **Teams**: Virtual Cottage vs Lazer Cats  
 
-## **Map**: de_mirage - Virtual Cottage (1) vs Lazer Cats (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Lazer Cats | Banned | de_ancient |
+| 2 | Virtual Cottage | Banned | de_inferno |
+| 3 | Virtual Cottage | Banned | de_nuke |
+| 4 | Lazer Cats | Banned | de_dust2 |
+| 5 | Lazer Cats | Banned | de_anubis |
+| 6 | Virtual Cottage | Banned | de_train |
+| 7 | Lazer Cats | Picked | de_mirage |
+
+---  
+
+### **Map**: de_mirage - Virtual Cottage (1) vs Lazer Cats (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | nikitea             |     1.37     | 85.71 |        91.67         |                         84.62                          |          100.00           |                            50.00                            |          90.91           |                           90.91                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Virtual Cottage** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| spardasosa          |      10      |             30             |             50             |                 0                  |            0            |              70              |                0                |   12   |              0              |                  0                  |            0             |              42               |             0              |
-| EspiranTo           |      7       |             0              |             29             |                 0                  |            0            |              71              |                0                |   13   |              8              |                  0                  |            0             |              54               |             23             |
-| amanek              |      8       |             13             |             63             |                 0                  |            0            |              63              |                0                |   14   |              7              |                  0                  |            0             |              50               |             0              |
-| aidKiT              |      8       |             0              |             25             |                 0                  |            0            |              88              |                0                |   12   |              8              |                  0                  |            0             |              67               |             8              |
-| SungJinwooXO        |      5       |             20             |             40             |                 0                  |            0            |              60              |               20                |   13   |             15              |                  0                  |            0             |              54               |             8              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Lazer Cats**      | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| -Magic888           |      14      |             14             |             7              |                 21                 |            0            |              57              |                7                |   5    |             40              |                 60                  |            0             |              100              |             0              |
-| MAGILA              |      13      |             0              |             8              |                 46                 |           23            |              46              |                0                |   9    |             67              |                 56                  |            0             |              67               |             0              |
-| Templl              |      14      |             21             |             7              |                 64                 |           14            |              64              |               14                |   9    |             22              |                 33                  |            0             |              78               |             11             |
-| yab0ku              |      12      |             42             |             0              |                 50                 |            0            |              58              |                0                |   7    |             57              |                 57                  |            0             |              86               |             0              |
-| nikitea             |      11      |             27             |             18             |                 64                 |            0            |              36              |               18                |   8    |             25              |                 50                  |            0             |              50               |             0              |
+| **Virtual Cottage** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| spardasosa          |      10      |             30             |             50             |                 0                  |            0            |              70              |                0                |                   0                   |         0          |     4     |
+| EspiranTo           |      7       |             0              |             29             |                 0                  |            0            |              71              |                0                |                   0                   |         0          |     1     |
+| amanek              |      8       |             13             |             63             |                 0                  |            0            |              63              |                0                |                   0                   |         0          |     2     |
+| aidKiT              |      8       |             0              |             25             |                 0                  |            0            |              88              |                0                |                  13                   |         3          |     0     |
+| SungJinwooXO        |      5       |             20             |             40             |                 0                  |            0            |              60              |               20                |                   0                   |         0          |     0     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Lazer Cats**      | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| -Magic888           |      14      |             14             |             7              |                 21                 |            0            |              57              |                7                |                   0                   |         4          |     6     |
+| MAGILA              |      13      |             0              |             8              |                 46                 |           23            |              46              |                0                |                   0                   |         0          |     2     |
+| Templl              |      14      |             21             |             7              |                 64                 |           14            |              64              |               14                |                   0                   |         0          |     0     |
+| yab0ku              |      12      |             42             |             0              |                 50                 |            0            |              58              |                0                |                   8                   |         0          |     1     |
+| nikitea             |      11      |             27             |             18             |                 64                 |            0            |              36              |               18                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Virtual Cottage** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| spardasosa          |      12      |              0              |                 0                 |            0             |              42               |             0              |             8             |       0       |
+| EspiranTo           |      13      |              8              |                 0                 |            0             |              54               |             23             |             0             |       1       |
+| amanek              |      14      |              7              |                 0                 |            0             |              50               |             0              |             0             |       2       |
+| aidKiT              |      12      |              8              |                 0                 |            0             |              67               |             8              |             0             |       0       |
+| SungJinwooXO        |      13      |             15              |                 0                 |            0             |              54               |             8              |             0             |       1       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **Lazer Cats**      | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| -Magic888           |      5       |             40              |                60                 |            0             |              100              |             0              |             0             |       1       |
+| MAGILA              |      9       |             67              |                56                 |            0             |              67               |             0              |             0             |       0       |
+| Templl              |      9       |             22              |                33                 |            0             |              78               |             11             |            11             |       1       |
+| yab0ku              |      7       |             57              |                57                 |            0             |              86               |             0              |             0             |       1       |
+| nikitea             |      8       |             25              |                50                 |            0             |              50               |             0              |             0             |       0       |

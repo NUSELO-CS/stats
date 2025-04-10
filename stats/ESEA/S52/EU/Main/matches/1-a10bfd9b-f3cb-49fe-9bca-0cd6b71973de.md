@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-20  
 **Teams**: ruvious vs GENESIS  
 
-## **Map**: de_anubis - ruvious (13) vs GENESIS (4)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | GENESIS | Banned | de_dust2 |
+| 2 | ruvious | Banned | de_ancient |
+| 3 | ruvious | Banned | de_inferno |
+| 4 | GENESIS | Banned | de_mirage |
+| 5 | GENESIS | Banned | de_nuke |
+| 6 | ruvious | Banned | de_train |
+| 7 | GENESIS | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - ruvious (13) vs GENESIS (4)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | -Cuba       |     0.18     | 41.18  |        42.86         |                         75.00                          |           66.67           |                           100.00                            |          25.00           |                           50.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **ruvious** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| connex---   |      20      |             20             |             20             |                 35                 |           15            |              75              |                0                |   8    |             50              |                 25                  |            0             |              50               |             0              |
-| Arox0x0     |      17      |             18             |             0              |                 47                 |            6            |              65              |                0                |   4    |             25              |                  0                  |            0             |              75               |             0              |
-| Nucleonz    |      18      |             22             |             6              |                 28                 |            0            |              50              |               17                |   6    |             17              |                 17                  |            0             |              67               |             0              |
-| kuzmanNnNn  |      13      |             0              |             31             |                 54                 |            0            |              54              |                8                |   8    |             38              |                 25                  |            13            |              50               |             0              |
-| g0d_help_me |      9       |             0              |             33             |                 89                 |           11            |              33              |               11                |   9    |             33              |                 22                  |            0             |              56               |             11             |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **GENESIS** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Kiriku      |      10      |             30             |             40             |                 20                 |            0            |              60              |               10                |   14   |             14              |                  7                  |            0             |              57               |             7              |
-| M4rdik      |      8       |             38             |             38             |                 0                  |            0            |              75              |                0                |   15   |             20              |                 13                  |            0             |              67               |             7              |
-| rikzz-      |      7       |             43             |             14             |                 43                 |            0            |              43              |                0                |   14   |             14              |                  7                  |            0             |              79               |             0              |
-| Nunnn       |      6       |             17             |             33             |                 17                 |            0            |              67              |                0                |   17   |             18              |                 12                  |            0             |              35               |             6              |
-| -Cuba       |      4       |             25             |             50             |                 0                  |            0            |              25              |                0                |   17   |             12              |                 12                  |            0             |              59               |             12             |
+| **ruvious** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| connex---   |      20      |             20             |             20             |                 35                 |           15            |              75              |                0                |                  15                   |         6          |     7     |
+| Arox0x0     |      17      |             18             |             0              |                 47                 |            6            |              65              |                0                |                   0                   |         0          |     0     |
+| Nucleonz    |      18      |             22             |             6              |                 28                 |            0            |              50              |               17                |                  11                   |         0          |     0     |
+| kuzmanNnNn  |      13      |             0              |             31             |                 54                 |            0            |              54              |                8                |                   8                   |         0          |     0     |
+| g0d_help_me |      9       |             0              |             33             |                 89                 |           11            |              33              |               11                |                   0                   |         0          |     0     |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **GENESIS** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Kiriku      |      10      |             30             |             40             |                 20                 |            0            |              60              |               10                |                   0                   |         0          |     2     |
+| M4rdik      |      8       |             38             |             38             |                 0                  |            0            |              75              |                0                |                   0                   |         0          |     0     |
+| rikzz-      |      7       |             43             |             14             |                 43                 |            0            |              43              |                0                |                   0                   |         1          |     2     |
+| Nunnn       |      6       |             17             |             33             |                 17                 |            0            |              67              |                0                |                   0                   |         0          |     0     |
+| -Cuba       |      4       |             25             |             50             |                 0                  |            0            |              25              |                0                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **ruvious** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player      |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| connex---   |      8       |             50              |                25                 |            0             |              50               |             0              |             0             |       0       |
+| Arox0x0     |      4       |             25              |                 0                 |            0             |              75               |             0              |             0             |       0       |
+| Nucleonz    |      6       |             17              |                17                 |            0             |              67               |             0              |             0             |       0       |
+| kuzmanNnNn  |      8       |             38              |                25                 |            13            |              50               |             0              |             0             |       0       |
+| g0d_help_me |      9       |             33              |                22                 |            0             |              56               |             11             |             0             |       1       |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+| **GENESIS** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player      |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Kiriku      |      14      |             14              |                 7                 |            0             |              57               |             7              |             7             |       2       |
+| M4rdik      |      15      |             20              |                13                 |            0             |              67               |             7              |            13             |       1       |
+| rikzz-      |      14      |             14              |                 7                 |            0             |              79               |             0              |             7             |       2       |
+| Nunnn       |      17      |             18              |                12                 |            0             |              35               |             6              |             6             |       0       |
+| -Cuba       |      17      |             12              |                12                 |            0             |              59               |             12             |             6             |       1       |

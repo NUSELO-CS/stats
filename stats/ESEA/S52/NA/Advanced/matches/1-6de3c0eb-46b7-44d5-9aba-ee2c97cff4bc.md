@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-20  
 **Teams**: Zomblers vs HoleSmokers  
 
-## **Map**: de_mirage - Zomblers (6) vs HoleSmokers (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Zomblers | Banned | de_train |
+| 2 | HoleSmokers | Banned | de_ancient |
+| 3 | HoleSmokers | Banned | de_inferno |
+| 4 | Zomblers | Banned | de_nuke |
+| 5 | Zomblers | Banned | de_dust2 |
+| 6 | HoleSmokers | Banned | de_anubis |
+| 7 | Zomblers | Picked | de_mirage |
+
+---  
+
+### **Map**: de_mirage - Zomblers (6) vs HoleSmokers (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Dantes_Oni      |     1.11     | 89.47 |        76.47         |                         100.00                         |           57.14           |                           100.00                            |          90.00           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Zomblers**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| JAM             |      15      |             7              |             20             |                 7                  |            0            |              67              |               13                |   15   |             13              |                  7                  |            0             |              87               |             7              |
-| KURIMAKOV       |      11      |             9              |             36             |                 27                 |            0            |              82              |                0                |   13   |             15              |                  8                  |            0             |              54               |             15             |
-| -Nks            |      11      |             18             |             27             |                 27                 |            0            |              55              |                9                |   17   |             12              |                  6                  |            0             |              76               |             6              |
-| 1rabbit         |      9       |             56             |             22             |                 0                  |            0            |              56              |               33                |   14   |             14              |                 14                  |            0             |              64               |             14             |
-| jBREEEZY        |      5       |             0              |             0              |                 20                 |            0            |              80              |                0                |   19   |             21              |                 11                  |            0             |              68               |             11             |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **HoleSmokers** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| gloRinsz        |      19      |             11             |             47             |                 47                 |           16            |              68              |               11                |   12   |             17              |                 33                  |            0             |              50               |             8              |
-| oreosss         |      19      |             21             |             0              |                 53                 |           21            |              79              |               11                |   9    |             11              |                 11                  |            0             |              89               |             11             |
-| roca            |      15      |             7              |             7              |                 47                 |            7            |              60              |               13                |   8    |             25              |                  0                  |            0             |              75               |             13             |
-| S5J             |      14      |             21             |             7              |                 7                  |            7            |              64              |               14                |   8    |             13              |                 38                  |            0             |              75               |             0              |
-| Dantes_Oni      |      11      |             9              |             9              |                 27                 |            9            |              82              |                0                |   14   |             43              |                 36                  |            7             |              71               |             21             |
+| **Zomblers**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| JAM             |      15      |             7              |             20             |                 7                  |            0            |              67              |               13                |                   0                   |         9          |     0     |
+| KURIMAKOV       |      11      |             9              |             36             |                 27                 |            0            |              82              |                0                |                   9                   |         0          |     0     |
+| -Nks            |      11      |             18             |             27             |                 27                 |            0            |              55              |                9                |                   9                   |         0          |     1     |
+| 1rabbit         |      9       |             56             |             22             |                 0                  |            0            |              56              |               33                |                   0                   |         0          |     1     |
+| jBREEEZY        |      5       |             0              |             0              |                 20                 |            0            |              80              |                0                |                   0                   |         0          |     0     |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **HoleSmokers** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| gloRinsz        |      19      |             11             |             47             |                 47                 |           16            |              68              |               11                |                   0                   |         0          |     1     |
+| oreosss         |      19      |             21             |             0              |                 53                 |           21            |              79              |               11                |                   0                   |         6          |     2     |
+| roca            |      15      |             7              |             7              |                 47                 |            7            |              60              |               13                |                   0                   |         0          |     2     |
+| S5J             |      14      |             21             |             7              |                 7                  |            7            |              64              |               14                |                  14                   |         0          |     4     |
+| Dantes_Oni      |      11      |             9              |             9              |                 27                 |            9            |              82              |                0                |                   9                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Zomblers**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| JAM             |      15      |             13              |                 7                 |            0             |              87               |             7              |             7             |       1       |
+| KURIMAKOV       |      13      |             15              |                 8                 |            0             |              54               |             15             |             0             |       1       |
+| -Nks            |      17      |             12              |                 6                 |            0             |              76               |             6              |             0             |       2       |
+| 1rabbit         |      14      |             14              |                14                 |            0             |              64               |             14             |             0             |       1       |
+| jBREEEZY        |      19      |             21              |                11                 |            0             |              68               |             11             |            11             |       1       |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+| **HoleSmokers** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| gloRinsz        |      12      |             17              |                33                 |            0             |              50               |             8              |             0             |       1       |
+| oreosss         |      9       |             11              |                11                 |            0             |              89               |             11             |             0             |       2       |
+| roca            |      8       |             25              |                 0                 |            0             |              75               |             13             |            13             |       3       |
+| S5J             |      8       |             13              |                38                 |            0             |              75               |             0              |             0             |       1       |
+| Dantes_Oni      |      14      |             43              |                36                 |            7             |              71               |             21             |             7             |       2       |

@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-27  
 **Teams**: vibe vs MCS Gaming  
 
-## **Map**: de_ancient - vibe (13) vs MCS Gaming (9)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | vibe | Banned | de_nuke |
+| 2 | MCS Gaming | Banned | de_inferno |
+| 3 | MCS Gaming | Banned | de_train |
+| 4 | vibe | Banned | de_anubis |
+| 5 | vibe | Banned | de_dust2 |
+| 6 | MCS Gaming | Banned | de_mirage |
+| 7 | vibe | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - vibe (13) vs MCS Gaming (9)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Scorchyy       |     0.87     | 77.27 |        52.94         |                         100.00                         |           37.50           |                           100.00                            |          66.67           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **vibe**       | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| niise          |      22      |             41             |             14             |                 32                 |            5            |              73              |                5                |   12   |             33              |                 17                  |            0             |              50               |             8              |
-| legacyxc       |      17      |             47             |             18             |                 18                 |            0            |              71              |                0                |   15   |             47              |                 27                  |            0             |              80               |             0              |
-| FUGI           |      16      |             31             |             19             |                 31                 |            0            |              69              |                0                |   16   |             50              |                 19                  |            0             |              63               |             0              |
-| GRAPE--        |      14      |             14             |             14             |                 43                 |           14            |              57              |                0                |   13   |             38              |                 31                  |            0             |              69               |             0              |
-| Pol0           |      15      |             20             |             60             |                 33                 |           13            |              53              |                7                |   19   |             37              |                 26                  |            5             |              47               |             5              |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **MCS Gaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| snufaffu       |      18      |             33             |             39             |                 39                 |           11            |              72              |                0                |   17   |             24              |                 24                  |            0             |              41               |             12             |
-| Oczarka        |      15      |             20             |             53             |                 33                 |            7            |              67              |                7                |   20   |             30              |                 25                  |            5             |              70               |             0              |
-| Go0dby3        |      14      |             29             |             64             |                 21                 |           14            |              57              |                7                |   19   |             21              |                 26                  |            5             |              68               |             0              |
-| ogura-         |      14      |             21             |             36             |                 50                 |            0            |              50              |                0                |   16   |              6              |                 13                  |            0             |              69               |             0              |
-| Scorchyy       |      11      |             27             |             18             |                 36                 |            0            |              73              |                0                |   15   |             33              |                 20                  |            0             |              73               |             0              |
+| **vibe**       | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| niise          |      22      |             41             |             14             |                 32                 |            5            |              73              |                5                |                   0                   |         0          |     4     |
+| legacyxc       |      17      |             47             |             18             |                 18                 |            0            |              71              |                0                |                  12                   |         3          |     0     |
+| FUGI           |      16      |             31             |             19             |                 31                 |            0            |              69              |                0                |                   6                   |         1          |     3     |
+| GRAPE--        |      14      |             14             |             14             |                 43                 |           14            |              57              |                0                |                  14                   |         0          |     1     |
+| Pol0           |      15      |             20             |             60             |                 33                 |           13            |              53              |                7                |                   0                   |         0          |     2     |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **MCS Gaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| snufaffu       |      18      |             33             |             39             |                 39                 |           11            |              72              |                0                |                   0                   |         0          |     1     |
+| Oczarka        |      15      |             20             |             53             |                 33                 |            7            |              67              |                7                |                   7                   |         0          |     0     |
+| Go0dby3        |      14      |             29             |             64             |                 21                 |           14            |              57              |                7                |                   7                   |         0          |     1     |
+| ogura-         |      14      |             21             |             36             |                 50                 |            0            |              50              |                0                |                   0                   |         0          |     2     |
+| Scorchyy       |      11      |             27             |             18             |                 36                 |            0            |              73              |                0                |                   0                   |         5          |     1     |
+## Extended Deaths Stats  
+
+| **vibe**       | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| niise          |      12      |             33              |                17                 |            0             |              50               |             8              |             8             |       0       |
+| legacyxc       |      15      |             47              |                27                 |            0             |              80               |             0              |             7             |       0       |
+| FUGI           |      16      |             50              |                19                 |            0             |              63               |             0              |             0             |       1       |
+| GRAPE--        |      13      |             38              |                31                 |            0             |              69               |             0              |             0             |       1       |
+| Pol0           |      19      |             37              |                26                 |            5             |              47               |             5              |             0             |       2       |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+| **MCS Gaming** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| snufaffu       |      17      |             24              |                24                 |            0             |              41               |             12             |             0             |       1       |
+| Oczarka        |      20      |             30              |                25                 |            5             |              70               |             0              |            10             |       2       |
+| Go0dby3        |      19      |             21              |                26                 |            5             |              68               |             0              |             0             |       0       |
+| ogura-         |      16      |              6              |                13                 |            0             |              69               |             0              |            19             |       1       |
+| Scorchyy       |      15      |             33              |                20                 |            0             |              73               |             0              |             0             |       1       |

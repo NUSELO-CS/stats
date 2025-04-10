@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-14  
 **Teams**: Dogs vs MF  
 
-## **Map**: de_train - Dogs (13) vs MF (10)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Dogs | Banned | de_inferno |
+| 2 | MF | Banned | de_ancient |
+| 3 | MF | Banned | de_anubis |
+| 4 | Dogs | Banned | de_nuke |
+| 5 | Dogs | Banned | de_mirage |
+| 6 | MF | Banned | de_dust2 |
+| 7 | Dogs | Picked | de_train |
+
+---  
+
+### **Map**: de_train - Dogs (13) vs MF (10)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | mfFrosty    |     0.58     | 52.17 |        75.00         |                         90.00                          |           50.00           |                            66.67                            |          87.50           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Dogs**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| yup--       |      28      |             21             |             4              |                 11                 |            7            |              64              |                0                |   13   |             38              |                 46                  |            15            |              69               |             8              |
-| Dannyh_     |      19      |             37             |             11             |                 32                 |           16            |              68              |               16                |   13   |             31              |                 31                  |            8             |              85               |             0              |
-| jase        |      11      |             45             |             36             |                 45                 |           18            |              36              |                0                |   15   |             27              |                 33                  |            13            |              53               |             13             |
-| _zyn        |      13      |             8              |             31             |                 46                 |           23            |              85              |                8                |   16   |             25              |                 31                  |            13            |              75               |             0              |
-| Bub__       |      10      |             20             |             50             |                 30                 |           10            |              50              |               10                |   16   |             19              |                 31                  |            6             |              88               |             6              |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **MF**      | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| schism      |      23      |             17             |             26             |                 22                 |           13            |              65              |                4                |   17   |             12              |                 18                  |            6             |              41               |             12             |
-| Diabeto666  |      16      |             19             |             31             |                 19                 |            0            |              69              |                6                |   16   |             19              |                 13                  |            6             |              81               |             6              |
-| MRB0MBPLANT |      12      |             8              |             25             |                 17                 |            8            |              75              |                0                |   17   |             41              |                 24                  |            6             |              71               |             0              |
-| nevaluggy   |      10      |             30             |             30             |                 30                 |           10            |              80              |               10                |   17   |             18              |                 18                  |            12            |              41               |             12             |
-| mfFrosty    |      9       |             22             |             44             |                 56                 |           22            |             133              |               11                |   17   |             12              |                 12                  |            6             |              76               |             0              |
+| **Dogs**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| yup--       |      28      |             21             |             4              |                 11                 |            7            |              64              |                0                |                   4                   |         12         |     5     |
+| Dannyh_     |      19      |             37             |             11             |                 32                 |           16            |              68              |               16                |                  11                   |         0          |     2     |
+| jase        |      11      |             45             |             36             |                 45                 |           18            |              36              |                0                |                   9                   |         0          |     1     |
+| _zyn        |      13      |             8              |             31             |                 46                 |           23            |              85              |                8                |                  15                   |         0          |     2     |
+| Bub__       |      10      |             20             |             50             |                 30                 |           10            |              50              |               10                |                   0                   |         0          |     0     |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **MF**      | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| schism      |      23      |             17             |             26             |                 22                 |           13            |              65              |                4                |                   0                   |         0          |     0     |
+| Diabeto666  |      16      |             19             |             31             |                 19                 |            0            |              69              |                6                |                   0                   |         0          |     1     |
+| MRB0MBPLANT |      12      |             8              |             25             |                 17                 |            8            |              75              |                0                |                   0                   |         2          |     1     |
+| nevaluggy   |      10      |             30             |             30             |                 30                 |           10            |              80              |               10                |                   0                   |         0          |     0     |
+| mfFrosty    |      9       |             22             |             44             |                 56                 |           22            |             133              |               11                |                  11                   |         3          |     2     |
+## Extended Deaths Stats  
+
+| **Dogs**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player      |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| yup--       |      13      |             38              |                46                 |            15            |              69               |             8              |             0             |       0       |
+| Dannyh_     |      13      |             31              |                31                 |            8             |              85               |             0              |             0             |       1       |
+| jase        |      15      |             27              |                33                 |            13            |              53               |             13             |             0             |       2       |
+| _zyn        |      16      |             25              |                31                 |            13            |              75               |             0              |             6             |       1       |
+| Bub__       |      16      |             19              |                31                 |            6             |              88               |             6              |             0             |       1       |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+| **MF**      | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player      |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| schism      |      17      |             12              |                18                 |            6             |              41               |             12             |             6             |       2       |
+| Diabeto666  |      16      |             19              |                13                 |            6             |              81               |             6              |             6             |       2       |
+| MRB0MBPLANT |      17      |             41              |                24                 |            6             |              71               |             0              |             6             |       3       |
+| nevaluggy   |      17      |             18              |                18                 |            12            |              41               |             12             |            12             |       2       |
+| mfFrosty    |      17      |             12              |                12                 |            6             |              76               |             0              |             6             |       3       |

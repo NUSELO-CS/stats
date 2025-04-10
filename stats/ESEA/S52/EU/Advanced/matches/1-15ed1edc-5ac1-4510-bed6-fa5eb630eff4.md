@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-17  
 **Teams**: ZennoX vs 777 Esport  
 
-## **Map**: de_ancient - ZennoX (13) vs 777 Esport (11)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | ZennoX | Banned | de_train |
+| 2 | 777 Esport | Banned | de_dust2 |
+| 3 | 777 Esport | Banned | de_anubis |
+| 4 | ZennoX | Banned | de_inferno |
+| 5 | ZennoX | Banned | de_nuke |
+| 6 | 777 Esport | Banned | de_mirage |
+| 7 | ZennoX | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - ZennoX (13) vs 777 Esport (11)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Hagmeister     |     0.83     | 62.50 |        56.25         |                         81.82                          |           62.50           |                            83.33                            |          50.00           |                           80.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **ZennoX**     | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| FAZERY-_       |      25      |             20             |             8              |                 20                 |            0            |              72              |                8                |   15   |             40              |                 27                  |            0             |              67               |             7              |
-| m0nsterr--     |      20      |             20             |             15             |                 45                 |           10            |              65              |               10                |   16   |             19              |                 25                  |            6             |              75               |             6              |
-| crazyy         |      17      |             12             |             12             |                 35                 |           18            |              76              |                0                |   17   |             29              |                 24                  |            0             |              71               |             6              |
-| Blackchaser    |      14      |             29             |             50             |                 36                 |            0            |              50              |               21                |   18   |             11              |                 17                  |            0             |              56               |             11             |
-| kjuk           |      11      |             27             |             9              |                 73                 |           45            |              73              |                9                |   18   |             22              |                 22                  |            0             |              61               |             6              |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **777 Esport** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Viktha         |      18      |             6              |             22             |                 33                 |            0            |              61              |                6                |   16   |             31              |                 13                  |            0             |              69               |             6              |
-| qzr            |      21      |             29             |             29             |                 33                 |            0            |              57              |               10                |   20   |             10              |                 15                  |            0             |              75               |             5              |
-| Affava         |      15      |             27             |             27             |                 33                 |            0            |              47              |                7                |   16   |             13              |                  6                  |            0             |              88               |             13             |
-| MadeInRed      |      17      |             6              |             12             |                 18                 |           12            |              94              |                6                |   18   |             22              |                 11                  |            0             |              56               |             11             |
-| Hagmeister     |      13      |             15             |             31             |                 46                 |           23            |              54              |                8                |   17   |             12              |                 18                  |            0             |              59               |             12             |
+| **ZennoX**     | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| FAZERY-_       |      25      |             20             |             8              |                 20                 |            0            |              72              |                8                |                   8                   |         0          |     4     |
+| m0nsterr--     |      20      |             20             |             15             |                 45                 |           10            |              65              |               10                |                   5                   |         5          |     1     |
+| crazyy         |      17      |             12             |             12             |                 35                 |           18            |              76              |                0                |                  12                   |         0          |     4     |
+| Blackchaser    |      14      |             29             |             50             |                 36                 |            0            |              50              |               21                |                   7                   |         0          |     1     |
+| kjuk           |      11      |             27             |             9              |                 73                 |           45            |              73              |                9                |                   9                   |         0          |     0     |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **777 Esport** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Viktha         |      18      |             6              |             22             |                 33                 |            0            |              61              |                6                |                   0                   |         0          |     0     |
+| qzr            |      21      |             29             |             29             |                 33                 |            0            |              57              |               10                |                  24                   |         0          |     3     |
+| Affava         |      15      |             27             |             27             |                 33                 |            0            |              47              |                7                |                   0                   |         0          |     1     |
+| MadeInRed      |      17      |             6              |             12             |                 18                 |           12            |              94              |                6                |                   0                   |         4          |     1     |
+| Hagmeister     |      13      |             15             |             31             |                 46                 |           23            |              54              |                8                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **ZennoX**     | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| FAZERY-_       |      15      |             40              |                27                 |            0             |              67               |             7              |             0             |       0       |
+| m0nsterr--     |      16      |             19              |                25                 |            6             |              75               |             6              |             0             |       1       |
+| crazyy         |      17      |             29              |                24                 |            0             |              71               |             6              |             6             |       1       |
+| Blackchaser    |      18      |             11              |                17                 |            0             |              56               |             11             |            11             |       1       |
+| kjuk           |      18      |             22              |                22                 |            0             |              61               |             6              |            11             |       1       |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+| **777 Esport** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Viktha         |      16      |             31              |                13                 |            0             |              69               |             6              |            13             |       0       |
+| qzr            |      20      |             10              |                15                 |            0             |              75               |             5              |             5             |       1       |
+| Affava         |      16      |             13              |                 6                 |            0             |              88               |             13             |             0             |       1       |
+| MadeInRed      |      18      |             22              |                11                 |            0             |              56               |             11             |            22             |       1       |
+| Hagmeister     |      17      |             12              |                18                 |            0             |              59               |             12             |             0             |       2       |

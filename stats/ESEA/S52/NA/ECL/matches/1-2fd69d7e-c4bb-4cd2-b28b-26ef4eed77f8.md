@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-22  
 **Teams**: Akimbo vs Party Astronauts  
 
-## **Map**: de_ancient - Akimbo (8) vs Party Astronauts (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Akimbo | Banned | de_nuke |
+| 2 | Party Astronauts | Banned | de_train |
+| 3 | Party Astronauts | Banned | de_dust2 |
+| 4 | Akimbo | Banned | de_inferno |
+| 5 | Akimbo | Banned | de_anubis |
+| 6 | Party Astronauts | Banned | de_mirage |
+| 7 | Akimbo | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - Akimbo (8) vs Party Astronauts (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Walco                |     1.05     | 76.19 |        68.75         |                         84.62                          |           75.00           |                            85.71                            |          62.50           |                           83.33                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Akimbo**           | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player               |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| -zy-                 |      17      |             12             |             29             |                 35                 |            0            |              65              |               12                |   17   |             24              |                 24                  |            0             |              65               |             6              |
-| kmrn                 |      14      |             14             |             21             |                 7                  |            0            |              64              |                0                |   14   |             14              |                 29                  |            0             |              64               |             21             |
-| laxiee-              |      14      |             36             |             21             |                 36                 |            0            |              64              |                7                |   17   |              6              |                 18                  |            0             |              82               |             0              |
-| obi1337-             |      11      |             36             |             27             |                 18                 |            0            |              45              |                9                |   17   |             24              |                 18                  |            0             |              59               |             6              |
-| N2o                  |      11      |             27             |             27             |                 36                 |            0            |              36              |                9                |   21   |             29              |                 24                  |            0             |              52               |             5              |
-|                      |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                      |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                      |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Party Astronauts** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player               |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| FaNg                 |      26      |             19             |             19             |                 46                 |           15            |              65              |               12                |   14   |             14              |                 36                  |            0             |              50               |             0              |
-| viz                  |      17      |             18             |             35             |                 18                 |            0            |              71              |                6                |   13   |             38              |                 38                  |            0             |              38               |             15             |
-| ogwizard             |      17      |             12             |             6              |                 24                 |            6            |              65              |                0                |   12   |             33              |                 33                  |            0             |              75               |             0              |
-| ben1337              |      14      |             29             |             29             |                 43                 |            0            |              64              |                0                |   15   |             20              |                 20                  |            0             |              53               |             13             |
-| Walco                |      12      |             17             |             8              |                 17                 |            0            |              42              |               17                |   13   |             23              |                 38                  |            8             |              69               |             8              |
+| **Akimbo**           | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player               |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| -zy-                 |      17      |             12             |             29             |                 35                 |            0            |              65              |               12                |                   6                   |         0          |     1     |
+| kmrn                 |      14      |             14             |             21             |                 7                  |            0            |              64              |                0                |                   0                   |         0          |     2     |
+| laxiee-              |      14      |             36             |             21             |                 36                 |            0            |              64              |                7                |                   0                   |         0          |     1     |
+| obi1337-             |      11      |             36             |             27             |                 18                 |            0            |              45              |                9                |                   0                   |         4          |     1     |
+| N2o                  |      11      |             27             |             27             |                 36                 |            0            |              36              |                9                |                   9                   |         0          |     0     |
+|                      |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                      |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                      |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Party Astronauts** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player               |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| FaNg                 |      26      |             19             |             19             |                 46                 |           15            |              65              |               12                |                   8                   |         0          |     2     |
+| viz                  |      17      |             18             |             35             |                 18                 |            0            |              71              |                6                |                   6                   |         0          |     1     |
+| ogwizard             |      17      |             12             |             6              |                 24                 |            6            |              65              |                0                |                   6                   |         3          |     2     |
+| ben1337              |      14      |             29             |             29             |                 43                 |            0            |              64              |                0                |                   0                   |         0          |     3     |
+| Walco                |      12      |             17             |             8              |                 17                 |            0            |              42              |               17                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Akimbo**           | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player               |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| -zy-                 |      17      |             24              |                24                 |            0             |              65               |             6              |             6             |       1       |
+| kmrn                 |      14      |             14              |                29                 |            0             |              64               |             21             |             0             |       0       |
+| laxiee-              |      17      |              6              |                18                 |            0             |              82               |             0              |             6             |       0       |
+| obi1337-             |      17      |             24              |                18                 |            0             |              59               |             6              |            12             |       0       |
+| N2o                  |      21      |             29              |                24                 |            0             |              52               |             5              |             0             |       2       |
+|                      |              |                             |                                   |                          |                               |                            |                           |               |
+|                      |              |                             |                                   |                          |                               |                            |                           |               |
+|                      |              |                             |                                   |                          |                               |                            |                           |               |
+| **Party Astronauts** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player               |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| FaNg                 |      14      |             14              |                36                 |            0             |              50               |             0              |             0             |       1       |
+| viz                  |      13      |             38              |                38                 |            0             |              38               |             15             |             8             |       0       |
+| ogwizard             |      12      |             33              |                33                 |            0             |              75               |             0              |             8             |       0       |
+| ben1337              |      15      |             20              |                20                 |            0             |              53               |             13             |             0             |       2       |
+| Walco                |      13      |             23              |                38                 |            8             |              69               |             8              |             0             |       1       |

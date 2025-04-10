@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-27  
 **Teams**: hypewrld vs 8morts 6blesses  
 
-## **Map**: de_nuke - hypewrld (13) vs 8morts 6blesses (6)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | 8morts 6blesses | Banned | de_ancient |
+| 2 | hypewrld | Banned | de_inferno |
+| 3 | hypewrld | Banned | de_train |
+| 4 | 8morts 6blesses | Banned | de_mirage |
+| 5 | 8morts 6blesses | Banned | de_anubis |
+| 6 | hypewrld | Banned | de_dust2 |
+| 7 | 8morts 6blesses | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - hypewrld (13) vs 8morts 6blesses (6)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | RMEAN-              |     0.66     | 68.42 |        46.15         |                         100.00                         |           40.00           |                           100.00                            |          50.00           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **hypewrld**        | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| discplex            |      21      |             5              |             38             |                 33                 |           10            |              57              |               14                |   14   |             21              |                 36                  |            7             |              71               |             0              |
-| ChipaaN             |      16      |             13             |             0              |                 69                 |           19            |              81              |               13                |   6    |             33              |                 17                  |            0             |              100              |             0              |
-| danss               |      18      |             11             |             28             |                 50                 |           11            |              61              |               11                |   12   |             17              |                 50                  |            8             |              67               |             8              |
-| silrak              |      12      |             67             |             25             |                 58                 |            8            |              67              |                8                |   10   |             10              |                 50                  |            20            |              70               |             0              |
-| Frip_               |      12      |             8              |             17             |                 42                 |           17            |              83              |                0                |   17   |             47              |                 41                  |            12            |              59               |             0              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **8morts 6blesses** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Nicetankjaiz        |      15      |             27             |             33             |                 13                 |           13            |              67              |                7                |   16   |             13              |                  6                  |            0             |              75               |             6              |
-| weaveN              |      15      |             33             |             27             |                 13                 |            0            |              60              |                0                |   13   |              0              |                  0                  |            0             |              77               |             15             |
-| nueve_              |      11      |             27             |             36             |                 18                 |            9            |              73              |                0                |   17   |             41              |                 12                  |            6             |              59               |             12             |
-| m3ussa              |      11      |             9              |             18             |                 9                  |            9            |              73              |                0                |   17   |             35              |                 12                  |            6             |              65               |             12             |
-| RMEAN-              |      7       |             14             |             14             |                 43                 |           14            |              71              |                0                |   16   |             19              |                  6                  |            0             |              75               |             6              |
+| **hypewrld**        | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| discplex            |      21      |             5              |             38             |                 33                 |           10            |              57              |               14                |                   5                   |         0          |     1     |
+| ChipaaN             |      16      |             13             |             0              |                 69                 |           19            |              81              |               13                |                   0                   |         8          |     0     |
+| danss               |      18      |             11             |             28             |                 50                 |           11            |              61              |               11                |                  11                   |         0          |     0     |
+| silrak              |      12      |             67             |             25             |                 58                 |            8            |              67              |                8                |                   0                   |         0          |     1     |
+| Frip_               |      12      |             8              |             17             |                 42                 |           17            |              83              |                0                |                   0                   |         0          |     2     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **8morts 6blesses** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Nicetankjaiz        |      15      |             27             |             33             |                 13                 |           13            |              67              |                7                |                   0                   |         0          |     1     |
+| weaveN              |      15      |             33             |             27             |                 13                 |            0            |              60              |                0                |                   0                   |         6          |     2     |
+| nueve_              |      11      |             27             |             36             |                 18                 |            9            |              73              |                0                |                   0                   |         0          |     1     |
+| m3ussa              |      11      |             9              |             18             |                 9                  |            9            |              73              |                0                |                   0                   |         0          |     4     |
+| RMEAN-              |      7       |             14             |             14             |                 43                 |           14            |              71              |                0                |                  14                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **hypewrld**        | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| discplex            |      14      |             21              |                36                 |            7             |              71               |             0              |             0             |       2       |
+| ChipaaN             |      6       |             33              |                17                 |            0             |              100              |             0              |             0             |       2       |
+| danss               |      12      |             17              |                50                 |            8             |              67               |             8              |             8             |       1       |
+| silrak              |      10      |             10              |                50                 |            20            |              70               |             0              |             0             |       0       |
+| Frip_               |      17      |             47              |                41                 |            12            |              59               |             0              |             0             |       1       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **8morts 6blesses** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Nicetankjaiz        |      16      |             13              |                 6                 |            0             |              75               |             6              |             6             |       0       |
+| weaveN              |      13      |              0              |                 0                 |            0             |              77               |             15             |             0             |       4       |
+| nueve_              |      17      |             41              |                12                 |            6             |              59               |             12             |             0             |       0       |
+| m3ussa              |      17      |             35              |                12                 |            6             |              65               |             12             |             6             |       2       |
+| RMEAN-              |      16      |             19              |                 6                 |            0             |              75               |             6              |             6             |       2       |

@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-28  
 **Teams**: PARTIZAN vs Haspers LFO  
 
-## **Map**: de_inferno - PARTIZAN (13) vs Haspers LFO (7)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Haspers LFO | Banned | de_dust2 |
+| 2 | PARTIZAN | Banned | de_nuke |
+| 3 | PARTIZAN | Banned | de_mirage |
+| 4 | Haspers LFO | Banned | de_train |
+| 5 | Haspers LFO | Banned | de_ancient |
+| 6 | PARTIZAN | Banned | de_anubis |
+| 7 | Haspers LFO | Picked | de_inferno |
+
+---  
+
+### **Map**: de_inferno - PARTIZAN (13) vs Haspers LFO (7)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | kAdZiu-         |     0.44     | 50.00 |        63.64         |                         100.00                         |           40.00           |                           100.00                            |          83.33           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **PARTIZAN**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Z1W0W666        |      16      |             19             |             13             |                 19                 |           13            |              56              |                6                |   9    |             22              |                 22                  |            11            |              56               |             22             |
-| delus1onn-      |      17      |             29             |             6              |                 29                 |            6            |              59              |                6                |   8    |             25              |                 13                  |            0             |              88               |             0              |
-| AJlkaW          |      17      |             6              |             29             |                 29                 |           18            |              71              |               12                |   15   |             40              |                 27                  |            0             |              40               |             13             |
-| uglycrueI       |      16      |             19             |             38             |                 31                 |           13            |              75              |                0                |   12   |             25              |                 25                  |            8             |              75               |             8              |
-| FREXEMP         |      15      |             13             |             20             |                 53                 |           13            |              73              |                7                |   11   |             27              |                  9                  |            0             |              55               |             0              |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Haspers LFO** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| tudsoN          |      14      |             36             |             21             |                 7                  |            0            |              57              |                7                |   14   |             14              |                  7                  |            0             |              71               |             14             |
-| Dr3nquu         |      14      |             21             |             29             |                 7                  |            0            |              64              |                7                |   16   |             25              |                 13                  |            0             |              69               |             0              |
-| Klameczka       |      10      |             40             |             30             |                 10                 |            0            |              50              |               10                |   17   |             12              |                 12                  |            0             |              53               |             6              |
-| s0ki-           |      10      |             0              |             20             |                 40                 |            0            |              60              |               20                |   17   |             29              |                 12                  |            0             |              88               |             0              |
-| kAdZiu-         |      7       |             43             |             57             |                 14                 |            0            |              57              |                0                |   17   |             24              |                 18                  |            0             |              53               |             12             |
+| **PARTIZAN**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Z1W0W666        |      16      |             19             |             13             |                 19                 |           13            |              56              |                6                |                  13                   |         0          |     2     |
+| delus1onn-      |      17      |             29             |             6              |                 29                 |            6            |              59              |                6                |                   0                   |         7          |     1     |
+| AJlkaW          |      17      |             6              |             29             |                 29                 |           18            |              71              |               12                |                   0                   |         0          |     3     |
+| uglycrueI       |      16      |             19             |             38             |                 31                 |           13            |              75              |                0                |                  13                   |         0          |     3     |
+| FREXEMP         |      15      |             13             |             20             |                 53                 |           13            |              73              |                7                |                   0                   |         0          |     0     |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Haspers LFO** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| tudsoN          |      14      |             36             |             21             |                 7                  |            0            |              57              |                7                |                   7                   |         2          |     3     |
+| Dr3nquu         |      14      |             21             |             29             |                 7                  |            0            |              64              |                7                |                  14                   |         0          |     4     |
+| Klameczka       |      10      |             40             |             30             |                 10                 |            0            |              50              |               10                |                   0                   |         0          |     0     |
+| s0ki-           |      10      |             0              |             20             |                 40                 |            0            |              60              |               20                |                   0                   |         0          |     0     |
+| kAdZiu-         |      7       |             43             |             57             |                 14                 |            0            |              57              |                0                |                  14                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **PARTIZAN**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Z1W0W666        |      9       |             22              |                22                 |            11            |              56               |             22             |            22             |       0       |
+| delus1onn-      |      8       |             25              |                13                 |            0             |              88               |             0              |            13             |       0       |
+| AJlkaW          |      15      |             40              |                27                 |            0             |              40               |             13             |             0             |       0       |
+| uglycrueI       |      12      |             25              |                25                 |            8             |              75               |             8              |             0             |       0       |
+| FREXEMP         |      11      |             27              |                 9                 |            0             |              55               |             0              |             9             |       2       |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+| **Haspers LFO** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| tudsoN          |      14      |             14              |                 7                 |            0             |              71               |             14             |             0             |       1       |
+| Dr3nquu         |      16      |             25              |                13                 |            0             |              69               |             0              |            13             |       2       |
+| Klameczka       |      17      |             12              |                12                 |            0             |              53               |             6              |             0             |       2       |
+| s0ki-           |      17      |             29              |                12                 |            0             |              88               |             0              |            12             |       1       |
+| kAdZiu-         |      17      |             24              |                18                 |            0             |              53               |             12             |             0             |       1       |

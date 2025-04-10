@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-27  
 **Teams**: ZennoX vs Heimo  
 
-## **Map**: de_mirage - ZennoX (6) vs Heimo (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | ZennoX | Banned | de_nuke |
+| 2 | Heimo | Banned | de_dust2 |
+| 3 | Heimo | Banned | de_train |
+| 4 | ZennoX | Banned | de_inferno |
+| 5 | ZennoX | Banned | de_ancient |
+| 6 | Heimo | Banned | de_anubis |
+| 7 | ZennoX | Picked | de_mirage |
+
+---  
+
+### **Map**: de_mirage - ZennoX (6) vs Heimo (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | -jape       |     0.91     | 73.68 |        78.57         |                         84.62                          |           80.00           |                            80.00                            |          77.78           |                           87.50                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **ZennoX**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| crazyy      |      16      |             44             |             38             |                 19                 |            0            |              75              |                0                |   15   |             13              |                 27                  |            0             |              60               |             0              |
-| m0nsterr--  |      16      |             19             |             19             |                 38                 |            0            |              75              |               13                |   12   |             25              |                 25                  |            0             |              75               |             8              |
-| kjuk        |      11      |             18             |             36             |                 36                 |            0            |              64              |               18                |   16   |             19              |                 19                  |            0             |              81               |             0              |
-| FAZERY-_    |      11      |             9              |             0              |                 9                  |            0            |              82              |                0                |   17   |             35              |                 18                  |            0             |              94               |             0              |
-| Blackchaser |      2       |             0              |             0              |                 0                  |            0            |             100              |                0                |   15   |             13              |                 20                  |            0             |              60               |             7              |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|             |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Heimo**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| oopee       |      20      |             20             |             10             |                 50                 |           25            |              75              |                0                |   13   |              8              |                 15                  |            8             |              69               |             8              |
-| arvid       |      15      |             20             |             13             |                 27                 |           20            |              60              |                0                |   10   |             10              |                 10                  |            0             |              80               |             0              |
-| welhob0y    |      15      |             13             |             13             |                 20                 |            7            |              87              |                0                |   9    |             22              |                 22                  |            11            |              44               |             22             |
-| ykis        |      15      |             7              |             27             |                 13                 |            7            |              73              |                7                |   11   |             55              |                  9                  |            9             |              91               |             0              |
-| -jape       |      10      |             10             |             60             |                 20                 |            0            |              80              |               10                |   13   |             23              |                  8                  |            0             |              85               |             8              |
+| **ZennoX**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| crazyy      |      16      |             44             |             38             |                 19                 |            0            |              75              |                0                |                   0                   |         0          |     3     |
+| m0nsterr--  |      16      |             19             |             19             |                 38                 |            0            |              75              |               13                |                   6                   |         9          |     0     |
+| kjuk        |      11      |             18             |             36             |                 36                 |            0            |              64              |               18                |                   9                   |         0          |     1     |
+| FAZERY-_    |      11      |             9              |             0              |                 9                  |            0            |              82              |                0                |                   9                   |         0          |     0     |
+| Blackchaser |      2       |             0              |             0              |                 0                  |            0            |             100              |                0                |                   0                   |         0          |     0     |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|             |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Heimo**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player      |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| oopee       |      20      |             20             |             10             |                 50                 |           25            |              75              |                0                |                   5                   |         0          |     1     |
+| arvid       |      15      |             20             |             13             |                 27                 |           20            |              60              |                0                |                   0                   |         0          |     1     |
+| welhob0y    |      15      |             13             |             13             |                 20                 |            7            |              87              |                0                |                  13                   |         0          |     2     |
+| ykis        |      15      |             7              |             27             |                 13                 |            7            |              73              |                7                |                  13                   |         4          |     2     |
+| -jape       |      10      |             10             |             60             |                 20                 |            0            |              80              |               10                |                   0                   |         0          |     4     |
+## Extended Deaths Stats  
+
+| **ZennoX**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player      |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| crazyy      |      15      |             13              |                27                 |            0             |              60               |             0              |             0             |       1       |
+| m0nsterr--  |      12      |             25              |                25                 |            0             |              75               |             8              |             0             |       0       |
+| kjuk        |      16      |             19              |                19                 |            0             |              81               |             0              |             6             |       0       |
+| FAZERY-_    |      17      |             35              |                18                 |            0             |              94               |             0              |            12             |       2       |
+| Blackchaser |      15      |             13              |                20                 |            0             |              60               |             7              |            13             |       1       |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+|             |              |                             |                                   |                          |                               |                            |                           |               |
+| **Heimo**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player      |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| oopee       |      13      |              8              |                15                 |            8             |              69               |             8              |             0             |       1       |
+| arvid       |      10      |             10              |                10                 |            0             |              80               |             0              |             0             |       1       |
+| welhob0y    |      9       |             22              |                22                 |            11            |              44               |             22             |            11             |       2       |
+| ykis        |      11      |             55              |                 9                 |            9             |              91               |             0              |             9             |       1       |
+| -jape       |      13      |             23              |                 8                 |            0             |              85               |             8              |             8             |       4       |

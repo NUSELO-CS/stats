@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-13  
 **Teams**: REDACTED vs Team Lemon  
 
-## **Map**: de_mirage - REDACTED (5) vs Team Lemon (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Team Lemon | Banned | de_ancient |
+| 2 | REDACTED | Banned | de_dust2 |
+| 3 | REDACTED | Banned | de_inferno |
+| 4 | Team Lemon | Banned | de_nuke |
+| 5 | Team Lemon | Banned | de_anubis |
+| 6 | REDACTED | Banned | de_train |
+| 7 | Team Lemon | Picked | de_mirage |
+
+---  
+
+### **Map**: de_mirage - REDACTED (5) vs Team Lemon (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | asphyxia       |     1.19     | 77.78 |        85.71         |                         92.31                          |           83.33           |                           100.00                            |          87.50           |                           87.50                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **REDACTED**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| d0k            |      14      |             36             |             7              |                 14                 |            7            |              79              |                7                |   14   |             21              |                  0                  |            0             |              71               |             7              |
-| Benjy          |      11      |             9              |             36             |                 9                  |            9            |              73              |                0                |   15   |             20              |                  7                  |            0             |              60               |             7              |
-| Snow5          |      10      |             50             |             30             |                 10                 |            0            |              70              |                0                |   13   |             23              |                  0                  |            0             |              62               |             15             |
-| tua            |      10      |             10             |             60             |                 0                  |            0            |              70              |                0                |   16   |             19              |                  6                  |            0             |              44               |             13             |
-| jmzr           |      10      |             20             |             30             |                 30                 |           30            |              60              |                0                |   17   |             29              |                 12                  |            6             |              65               |             18             |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Team Lemon** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Jimmeh         |      17      |             24             |             6              |                 53                 |           29            |              76              |               12                |   8    |             25              |                 25                  |            0             |              88               |             0              |
-| Sergz          |      16      |             31             |             38             |                 44                 |            6            |              44              |               19                |   12   |             42              |                 33                  |            8             |              58               |             0              |
-| TheMemeBeam    |      15      |             20             |             13             |                 27                 |            0            |              80              |                0                |   11   |             27              |                 18                  |            0             |              91               |             0              |
-| _kyouki        |      14      |             21             |             36             |                 43                 |           14            |              43              |               29                |   12   |             33              |                 25                  |            0             |              75               |             0              |
-| asphyxia       |      13      |             8              |             23             |                 23                 |           15            |              54              |                0                |   12   |             25              |                 25                  |            0             |              67               |             8              |
+| **REDACTED**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| d0k            |      14      |             36             |             7              |                 14                 |            7            |              79              |                7                |                   0                   |         6          |     0     |
+| Benjy          |      11      |             9              |             36             |                 9                  |            9            |              73              |                0                |                   0                   |         0          |     0     |
+| Snow5          |      10      |             50             |             30             |                 10                 |            0            |              70              |                0                |                   0                   |         0          |     1     |
+| tua            |      10      |             10             |             60             |                 0                  |            0            |              70              |                0                |                   0                   |         0          |     2     |
+| jmzr           |      10      |             20             |             30             |                 30                 |           30            |              60              |                0                |                  10                   |         0          |     3     |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Team Lemon** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Jimmeh         |      17      |             24             |             6              |                 53                 |           29            |              76              |               12                |                   0                   |         0          |     3     |
+| Sergz          |      16      |             31             |             38             |                 44                 |            6            |              44              |               19                |                   0                   |         0          |     2     |
+| TheMemeBeam    |      15      |             20             |             13             |                 27                 |            0            |              80              |                0                |                   0                   |         7          |     1     |
+| _kyouki        |      14      |             21             |             36             |                 43                 |           14            |              43              |               29                |                   0                   |         0          |     1     |
+| asphyxia       |      13      |             8              |             23             |                 23                 |           15            |              54              |                0                |                   0                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **REDACTED**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| d0k            |      14      |             21              |                 0                 |            0             |              71               |             7              |             0             |       2       |
+| Benjy          |      15      |             20              |                 7                 |            0             |              60               |             7              |             0             |       1       |
+| Snow5          |      13      |             23              |                 0                 |            0             |              62               |             15             |             0             |       1       |
+| tua            |      16      |             19              |                 6                 |            0             |              44               |             13             |             0             |       2       |
+| jmzr           |      17      |             29              |                12                 |            6             |              65               |             18             |             0             |       1       |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+| **Team Lemon** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Jimmeh         |      8       |             25              |                25                 |            0             |              88               |             0              |            13             |       0       |
+| Sergz          |      12      |             42              |                33                 |            8             |              58               |             0              |             0             |       1       |
+| TheMemeBeam    |      11      |             27              |                18                 |            0             |              91               |             0              |             0             |       1       |
+| _kyouki        |      12      |             33              |                25                 |            0             |              75               |             0              |             0             |       2       |
+| asphyxia       |      12      |             25              |                25                 |            0             |              67               |             8              |             0             |       2       |

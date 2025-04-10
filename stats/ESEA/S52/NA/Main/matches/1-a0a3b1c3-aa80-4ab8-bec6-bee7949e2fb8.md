@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-14  
 **Teams**: Millennium 7 vs SuperDink  
 
-## **Map**: de_ancient - Millennium 7 (13) vs SuperDink (6)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | SuperDink | Banned | de_inferno |
+| 2 | Millennium 7 | Banned | de_nuke |
+| 3 | Millennium 7 | Banned | de_mirage |
+| 4 | SuperDink | Banned | de_train |
+| 5 | SuperDink | Banned | de_dust2 |
+| 6 | Millennium 7 | Banned | de_anubis |
+| 7 | SuperDink | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - Millennium 7 (13) vs SuperDink (6)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Bohammer         |     0.41     | 52.63 |        60.00         |                         100.00                         |           0.00            |                            0.00                             |          85.71           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Millennium 7** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| tyco1            |      18      |             17             |             22             |                 56                 |            6            |              61              |                6                |   9    |              0              |                 22                  |            0             |              67               |             0              |
-| spenny6          |      15      |             13             |             13             |                 47                 |            0            |              53              |                7                |   9    |             22              |                 11                  |            0             |              56               |             11             |
-| Sinfull          |      14      |             36             |             14             |                 29                 |            7            |              71              |                0                |   12   |             33              |                 42                  |            0             |              75               |             0              |
-| -Dylan--         |      14      |             21             |             7              |                 36                 |            7            |              79              |                7                |   9    |             44              |                 33                  |            0             |              67               |             0              |
-| Jaidan           |      12      |             0              |             8              |                 42                 |           17            |              58              |               17                |   12   |             25              |                 25                  |            0             |              67               |             8              |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **SuperDink**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Ryougi           |      17      |             6              |             18             |                 12                 |            0            |              76              |                0                |   12   |              0              |                  8                  |            8             |              50               |             17             |
-| N1dd_            |      14      |             21             |             29             |                 29                 |            7            |              57              |                7                |   16   |             13              |                 13                  |            6             |              69               |             6              |
-| Loop2098         |      8       |             50             |             25             |                 50                 |           13            |              63              |                0                |   15   |             20              |                  0                  |            0             |              80               |             0              |
-| CleGar           |      7       |             14             |             29             |                 14                 |            0            |              57              |               14                |   15   |              7              |                  0                  |            0             |              67               |             7              |
-| Bohammer         |      5       |             0              |             40             |                 40                 |           20            |              40              |                0                |   15   |             27              |                  7                  |            7             |              53               |             7              |
+| **Millennium 7** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| tyco1            |      18      |             17             |             22             |                 56                 |            6            |              61              |                6                |                   0                   |         1          |     1     |
+| spenny6          |      15      |             13             |             13             |                 47                 |            0            |              53              |                7                |                  13                   |         0          |     3     |
+| Sinfull          |      14      |             36             |             14             |                 29                 |            7            |              71              |                0                |                   0                   |         1          |     3     |
+| -Dylan--         |      14      |             21             |             7              |                 36                 |            7            |              79              |                7                |                   0                   |         4          |     0     |
+| Jaidan           |      12      |             0              |             8              |                 42                 |           17            |              58              |               17                |                   0                   |         0          |     1     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **SuperDink**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Ryougi           |      17      |             6              |             18             |                 12                 |            0            |              76              |                0                |                   0                   |         7          |     0     |
+| N1dd_            |      14      |             21             |             29             |                 29                 |            7            |              57              |                7                |                   0                   |         0          |     4     |
+| Loop2098         |      8       |             50             |             25             |                 50                 |           13            |              63              |                0                |                   0                   |         0          |     1     |
+| CleGar           |      7       |             14             |             29             |                 14                 |            0            |              57              |               14                |                   0                   |         0          |     1     |
+| Bohammer         |      5       |             0              |             40             |                 40                 |           20            |              40              |                0                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Millennium 7** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| tyco1            |      9       |              0              |                22                 |            0             |              67               |             0              |             0             |       1       |
+| spenny6          |      9       |             22              |                11                 |            0             |              56               |             11             |             0             |       2       |
+| Sinfull          |      12      |             33              |                42                 |            0             |              75               |             0              |             0             |       2       |
+| -Dylan--         |      9       |             44              |                33                 |            0             |              67               |             0              |             0             |       0       |
+| Jaidan           |      12      |             25              |                25                 |            0             |              67               |             8              |             0             |       2       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **SuperDink**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Ryougi           |      12      |              0              |                 8                 |            8             |              50               |             17             |             0             |       0       |
+| N1dd_            |      16      |             13              |                13                 |            6             |              69               |             6              |             6             |       0       |
+| Loop2098         |      15      |             20              |                 0                 |            0             |              80               |             0              |             0             |       2       |
+| CleGar           |      15      |              7              |                 0                 |            0             |              67               |             7              |             0             |       2       |
+| Bohammer         |      15      |             27              |                 7                 |            7             |              53               |             7              |             7             |       2       |

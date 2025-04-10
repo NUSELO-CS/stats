@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-25  
 **Teams**: Wily Ninjas vs James Bond Bois  
 
-## **Map**: de_ancient - Wily Ninjas (8) vs James Bond Bois (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | James Bond Bois | Banned | de_mirage |
+| 2 | Wily Ninjas | Banned | de_anubis |
+| 3 | Wily Ninjas | Banned | de_inferno |
+| 4 | James Bond Bois | Banned | de_train |
+| 5 | James Bond Bois | Banned | de_nuke |
+| 6 | Wily Ninjas | Banned | de_dust2 |
+| 7 | James Bond Bois | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - Wily Ninjas (8) vs James Bond Bois (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | pharaohz            |     1.14     | 76.19  |        75.00         |                         92.31                          |           57.14           |                           100.00                            |          88.89           |                           88.89                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Wily Ninjas**     | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| cor_vo              |      20      |             15             |             35             |                 25                 |           10            |              70              |               10                |   15   |              0              |                 13                  |            7             |              40               |             20             |
-| eutopia             |      18      |             17             |             28             |                 17                 |           11            |              61              |                6                |   17   |             18              |                  6                  |            6             |              71               |             0              |
-| Kr0wbar             |      10      |             10             |             20             |                 10                 |           10            |              50              |                0                |   14   |              7              |                  0                  |            0             |              79               |             14             |
-| -jP-                |      6       |             33             |             33             |                 0                  |            0            |              50              |                0                |   18   |             17              |                 11                  |            6             |              56               |             6              |
-| replacedcar         |      7       |             29             |             43             |                 0                  |            0            |              43              |               29                |   21   |             19              |                 10                  |            5             |              81               |             10             |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **James Bond Bois** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Mayhem_ZJ           |      18      |             22             |             6              |                 17                 |            6            |              67              |               11                |   11   |             27              |                 18                  |            0             |              64               |             18             |
-| Floamy              |      21      |             24             |             14             |                 19                 |           19            |              76              |               10                |   14   |             43              |                 21                  |            7             |              50               |             14             |
-| siN_ZJ              |      20      |             20             |             10             |                 35                 |           10            |              80              |                0                |   14   |             36              |                 21                  |            7             |              50               |             7              |
-| AMPedd              |      13      |             15             |             31             |                 46                 |           15            |              62              |               15                |   11   |             18              |                 27                  |            18            |              64               |             0              |
-| pharaohz            |      13      |             8              |             8              |                 62                 |            8            |              31              |               15                |   11   |             27              |                  9                  |            0             |              73               |             0              |
+| **Wily Ninjas**     | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| cor_vo              |      20      |             15             |             35             |                 25                 |           10            |              70              |               10                |                   0                   |         0          |     3     |
+| eutopia             |      18      |             17             |             28             |                 17                 |           11            |              61              |                6                |                   0                   |         0          |     2     |
+| Kr0wbar             |      10      |             10             |             20             |                 10                 |           10            |              50              |                0                |                   0                   |         4          |     2     |
+| -jP-                |      6       |             33             |             33             |                 0                  |            0            |              50              |                0                |                  17                   |         0          |     0     |
+| replacedcar         |      7       |             29             |             43             |                 0                  |            0            |              43              |               29                |                   0                   |         0          |     1     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **James Bond Bois** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Mayhem_ZJ           |      18      |             22             |             6              |                 17                 |            6            |              67              |               11                |                   6                   |         0          |     2     |
+| Floamy              |      21      |             24             |             14             |                 19                 |           19            |              76              |               10                |                   5                   |         0          |     5     |
+| siN_ZJ              |      20      |             20             |             10             |                 35                 |           10            |              80              |                0                |                   5                   |         4          |     0     |
+| AMPedd              |      13      |             15             |             31             |                 46                 |           15            |              62              |               15                |                   0                   |         0          |     1     |
+| pharaohz            |      13      |             8              |             8              |                 62                 |            8            |              31              |               15                |                   0                   |         1          |     0     |
+## Extended Deaths Stats  
+
+| **Wily Ninjas**     | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| cor_vo              |      15      |              0              |                13                 |            7             |              40               |             20             |             0             |       0       |
+| eutopia             |      17      |             18              |                 6                 |            6             |              71               |             0              |             6             |       3       |
+| Kr0wbar             |      14      |              7              |                 0                 |            0             |              79               |             14             |             7             |       1       |
+| -jP-                |      18      |             17              |                11                 |            6             |              56               |             6              |             0             |       0       |
+| replacedcar         |      21      |             19              |                10                 |            5             |              81               |             10             |             5             |       1       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **James Bond Bois** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Mayhem_ZJ           |      11      |             27              |                18                 |            0             |              64               |             18             |             9             |       1       |
+| Floamy              |      14      |             43              |                21                 |            7             |              50               |             14             |             0             |       0       |
+| siN_ZJ              |      14      |             36              |                21                 |            7             |              50               |             7              |             0             |       1       |
+| AMPedd              |      11      |             18              |                27                 |            18            |              64               |             0              |             0             |       0       |
+| pharaohz            |      11      |             27              |                 9                 |            0             |              73               |             0              |             0             |       2       |

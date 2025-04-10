@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-19  
 **Teams**: RadiantKeysUS vs Priority  
 
-## **Map**: de_ancient - RadiantKeysUS (13) vs Priority (1)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Priority | Banned | de_anubis |
+| 2 | RadiantKeysUS | Banned | de_train |
+| 3 | RadiantKeysUS | Banned | de_nuke |
+| 4 | Priority | Banned | de_inferno |
+| 5 | Priority | Banned | de_dust2 |
+| 6 | RadiantKeysUS | Banned | de_mirage |
+| 7 | Priority | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - RadiantKeysUS (13) vs Priority (1)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Rage_LH           |     0.31     | 57.14  |        12.50         |                         100.00                         |           0.00            |                            0.00                             |          12.50           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **RadiantKeysUS** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| carszin           |      16      |             19             |             19             |                 56                 |            0            |              56              |                6                |   7    |             43              |                 43                  |            0             |              43               |             14             |
-| 1Autumn           |      15      |             33             |             13             |                 27                 |            0            |              73              |                0                |   4    |             75              |                 50                  |            0             |              50               |             0              |
-| gaijin            |      17      |             12             |             24             |                 29                 |            0            |              65              |                6                |   9    |             33              |                 33                  |            0             |              67               |             22             |
-| Axessor           |      11      |             9              |             36             |                 45                 |            0            |              73              |                9                |   9    |             33              |                 22                  |            0             |              56               |             11             |
-| RMV1207           |      8       |             25             |             25             |                 25                 |            0            |              63              |               13                |   7    |             29              |                 29                  |            0             |              86               |             0              |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Priority**      | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| daNpY             |      11      |             18             |             9              |                 0                  |            0            |              55              |                0                |   12   |             25              |                  0                  |            0             |              108              |             0              |
-| C0br4             |      9       |             33             |             56             |                 0                  |            0            |              56              |               22                |   14   |             36              |                  0                  |            0             |              50               |             0              |
-| ApolloZ           |      9       |             33             |             44             |                 0                  |            0            |              67              |               11                |   13   |              0              |                  0                  |            0             |              62               |             0              |
-| Ascension         |      3       |             33             |             67             |                 0                  |            0            |              67              |               33                |   14   |             21              |                  0                  |            0             |              57               |             21             |
-| Rage_LH           |      4       |             75             |             50             |                 0                  |            0            |              50              |                0                |   14   |             29              |                  0                  |            0             |              79               |             7              |
+| **RadiantKeysUS** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| carszin           |      16      |             19             |             19             |                 56                 |            0            |              56              |                6                |                   0                   |         0          |     1     |
+| 1Autumn           |      15      |             33             |             13             |                 27                 |            0            |              73              |                0                |                   0                   |         6          |     4     |
+| gaijin            |      17      |             12             |             24             |                 29                 |            0            |              65              |                6                |                   6                   |         0          |     2     |
+| Axessor           |      11      |             9              |             36             |                 45                 |            0            |              73              |                9                |                   0                   |         0          |     1     |
+| RMV1207           |      8       |             25             |             25             |                 25                 |            0            |              63              |               13                |                   0                   |         0          |     1     |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Priority**      | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| daNpY             |      11      |             18             |             9              |                 0                  |            0            |              55              |                0                |                   0                   |         0          |     3     |
+| C0br4             |      9       |             33             |             56             |                 0                  |            0            |              56              |               22                |                   0                   |         0          |     1     |
+| ApolloZ           |      9       |             33             |             44             |                 0                  |            0            |              67              |               11                |                   0                   |         0          |     2     |
+| Ascension         |      3       |             33             |             67             |                 0                  |            0            |              67              |               33                |                   0                   |         0          |     0     |
+| Rage_LH           |      4       |             75             |             50             |                 0                  |            0            |              50              |                0                |                   0                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **RadiantKeysUS** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| carszin           |      7       |             43              |                43                 |            0             |              43               |             14             |             0             |       0       |
+| 1Autumn           |      4       |             75              |                50                 |            0             |              50               |             0              |             0             |       0       |
+| gaijin            |      9       |             33              |                33                 |            0             |              67               |             22             |             0             |       0       |
+| Axessor           |      9       |             33              |                22                 |            0             |              56               |             11             |             0             |       0       |
+| RMV1207           |      7       |             29              |                29                 |            0             |              86               |             0              |             0             |       0       |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+| **Priority**      | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| daNpY             |      12      |             25              |                 0                 |            0             |              108              |             0              |             0             |       1       |
+| C0br4             |      14      |             36              |                 0                 |            0             |              50               |             0              |             0             |       2       |
+| ApolloZ           |      13      |              0              |                 0                 |            0             |              62               |             0              |             0             |       1       |
+| Ascension         |      14      |             21              |                 0                 |            0             |              57               |             21             |             7             |       0       |
+| Rage_LH           |      14      |             29              |                 0                 |            0             |              79               |             7              |             0             |       2       |

@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-23  
 **Teams**: Roots Gaming vs Rush3D  
 
-## **Map**: de_inferno - Roots Gaming (11) vs Rush3D (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Roots Gaming | Banned | de_anubis |
+| 2 | Rush3D | Banned | de_nuke |
+| 3 | Rush3D | Banned | de_ancient |
+| 4 | Roots Gaming | Banned | de_dust2 |
+| 5 | Roots Gaming | Banned | de_mirage |
+| 6 | Rush3D | Banned | de_train |
+| 7 | Roots Gaming | Picked | de_inferno |
+
+---  
+
+### **Map**: de_inferno - Roots Gaming (11) vs Rush3D (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | niposuni666      |     0.93     | 75.00 |        66.67         |                         92.31                          |           63.64           |                            87.50                            |          71.43           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Roots Gaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| -_Styx_-         |      21      |             10             |             19             |                 33                 |            5            |              48              |               10                |   15   |              7              |                 20                  |            0             |              33               |             13             |
-| Makkoo           |      20      |             30             |             30             |                 30                 |           10            |              85              |                5                |   18   |             22              |                 17                  |            0             |              78               |             6              |
-| asku             |      16      |             6              |             19             |                 31                 |           13            |              88              |                0                |   17   |             18              |                 18                  |            0             |              88               |             6              |
-| quisma           |      15      |             27             |             33             |                 27                 |            0            |              60              |                7                |   20   |             25              |                 20                  |            0             |              55               |             5              |
-| AhMa-            |      13      |             23             |             23             |                 23                 |            0            |              54              |                0                |   18   |             28              |                 17                  |            0             |              72               |             6              |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Rush3D**       | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| cacao            |      23      |             17             |             9              |                 43                 |           17            |              61              |                4                |   14   |             29              |                  0                  |            0             |              86               |             0              |
-| Forp             |      18      |             11             |             28             |                 28                 |            6            |              72              |                6                |   19   |             21              |                 21                  |            11            |              74               |             0              |
-| peacedose-       |      19      |             26             |             26             |                 11                 |            5            |              63              |               11                |   18   |             11              |                 17                  |            6             |              72               |             11             |
-| CaH9_rPaHta      |      16      |             31             |             19             |                 31                 |            6            |              63              |                6                |   16   |             38              |                  6                  |            0             |              50               |             6              |
-| niposuni666      |      12      |             25             |             25             |                 17                 |           17            |              67              |                8                |   18   |             28              |                 17                  |            6             |              61               |             6              |
+| **Roots Gaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| -_Styx_-         |      21      |             10             |             19             |                 33                 |            5            |              48              |               10                |                  14                   |         0          |     0     |
+| Makkoo           |      20      |             30             |             30             |                 30                 |           10            |              85              |                5                |                   0                   |         0          |     1     |
+| asku             |      16      |             6              |             19             |                 31                 |           13            |              88              |                0                |                  13                   |         8          |     1     |
+| quisma           |      15      |             27             |             33             |                 27                 |            0            |              60              |                7                |                  20                   |         0          |     2     |
+| AhMa-            |      13      |             23             |             23             |                 23                 |            0            |              54              |                0                |                   8                   |         0          |     2     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Rush3D**       | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| cacao            |      23      |             17             |             9              |                 43                 |           17            |              61              |                4                |                   0                   |         8          |     2     |
+| Forp             |      18      |             11             |             28             |                 28                 |            6            |              72              |                6                |                   6                   |         2          |     0     |
+| peacedose-       |      19      |             26             |             26             |                 11                 |            5            |              63              |               11                |                   0                   |         0          |     2     |
+| CaH9_rPaHta      |      16      |             31             |             19             |                 31                 |            6            |              63              |                6                |                   0                   |         0          |     4     |
+| niposuni666      |      12      |             25             |             25             |                 17                 |           17            |              67              |                8                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Roots Gaming** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| -_Styx_-         |      15      |              7              |                20                 |            0             |              33               |             13             |             0             |       1       |
+| Makkoo           |      18      |             22              |                17                 |            0             |              78               |             6              |             0             |       2       |
+| asku             |      17      |             18              |                18                 |            0             |              88               |             6              |             0             |       3       |
+| quisma           |      20      |             25              |                20                 |            0             |              55               |             5              |             0             |       2       |
+| AhMa-            |      18      |             28              |                17                 |            0             |              72               |             6              |             6             |       2       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **Rush3D**       | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| cacao            |      14      |             29              |                 0                 |            0             |              86               |             0              |             7             |       2       |
+| Forp             |      19      |             21              |                21                 |            11            |              74               |             0              |            11             |       3       |
+| peacedose-       |      18      |             11              |                17                 |            6             |              72               |             11             |            11             |       2       |
+| CaH9_rPaHta      |      16      |             38              |                 6                 |            0             |              50               |             6              |            19             |       0       |
+| niposuni666      |      18      |             28              |                17                 |            6             |              61               |             6              |             6             |       1       |

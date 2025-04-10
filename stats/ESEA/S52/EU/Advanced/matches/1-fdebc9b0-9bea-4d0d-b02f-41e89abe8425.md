@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-18  
 **Teams**: NewBALLS vs Insilio  
 
-## **Map**: de_dust2 - NewBALLS (11) vs Insilio (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Insilio | Banned | de_inferno |
+| 2 | NewBALLS | Banned | de_ancient |
+| 3 | NewBALLS | Banned | de_nuke |
+| 4 | Insilio | Banned | de_train |
+| 5 | Insilio | Banned | de_anubis |
+| 6 | NewBALLS | Banned | de_mirage |
+| 7 | Insilio | Picked | de_dust2 |
+
+---  
+
+### **Map**: de_dust2 - NewBALLS (11) vs Insilio (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | dwushka      |     0.73     | 58.33 |        78.57         |                         84.62                          |           83.33           |                            83.33                            |          75.00           |                           85.71                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **NewBALLS** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| torox        |      22      |             5              |             5              |                 14                 |           14            |              73              |                9                |   11   |             18              |                 27                  |            0             |              73               |             9              |
-| Ban4ik007    |      17      |             12             |             18             |                 6                  |            0            |              47              |                6                |   14   |             21              |                 21                  |            0             |              64               |             14             |
-| strixxxzz    |      10      |             50             |             0              |                 40                 |           20            |              90              |               10                |   13   |             23              |                 23                  |            0             |              38               |             38             |
-| 4X1s         |      15      |             7              |             33             |                 27                 |           13            |              73              |                0                |   18   |             11              |                 17                  |            0             |              61               |             6              |
-| deeN--       |      12      |             17             |             8              |                 67                 |           25            |              83              |                8                |   15   |             20              |                 13                  |            0             |              67               |             0              |
-|              |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|              |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|              |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Insilio**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| sugaR7       |      18      |             17             |             11             |                 33                 |            6            |              67              |               17                |   14   |             29              |                  7                  |            0             |              71               |             7              |
-| -FpSSSSSSSSS |      18      |             11             |             28             |                 17                 |           11            |              61              |                0                |   15   |              7              |                  7                  |            7             |              67               |             13             |
-| faydett-     |      14      |             7              |             14             |                 21                 |            7            |              57              |               21                |   13   |              8              |                 15                  |            0             |              69               |             0              |
-| kelieN       |      9       |             11             |             33             |                 22                 |            0            |              56              |               22                |   16   |             19              |                 13                  |            0             |              88               |             6              |
-| dwushka      |      12      |             17             |             8              |                 25                 |            8            |              58              |                8                |   18   |              6              |                 11                  |            6             |              61               |             6              |
+| **NewBALLS** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| torox        |      22      |             5              |             5              |                 14                 |           14            |              73              |                9                |                   0                   |         8          |     2     |
+| Ban4ik007    |      17      |             12             |             18             |                 6                  |            0            |              47              |                6                |                   0                   |         0          |     2     |
+| strixxxzz    |      10      |             50             |             0              |                 40                 |           20            |              90              |               10                |                   0                   |         0          |     2     |
+| 4X1s         |      15      |             7              |             33             |                 27                 |           13            |              73              |                0                |                   7                   |         0          |     1     |
+| deeN--       |      12      |             17             |             8              |                 67                 |           25            |              83              |                8                |                   0                   |         0          |     1     |
+|              |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|              |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|              |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Insilio**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player       |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| sugaR7       |      18      |             17             |             11             |                 33                 |            6            |              67              |               17                |                   6                   |         0          |     4     |
+| -FpSSSSSSSSS |      18      |             11             |             28             |                 17                 |           11            |              61              |                0                |                  11                   |         10         |     2     |
+| faydett-     |      14      |             7              |             14             |                 21                 |            7            |              57              |               21                |                   7                   |         0          |     0     |
+| kelieN       |      9       |             11             |             33             |                 22                 |            0            |              56              |               22                |                   0                   |         0          |     0     |
+| dwushka      |      12      |             17             |             8              |                 25                 |            8            |              58              |                8                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **NewBALLS** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player       |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| torox        |      11      |             18              |                27                 |            0             |              73               |             9              |             0             |       1       |
+| Ban4ik007    |      14      |             21              |                21                 |            0             |              64               |             14             |             0             |       1       |
+| strixxxzz    |      13      |             23              |                23                 |            0             |              38               |             38             |            15             |       0       |
+| 4X1s         |      18      |             11              |                17                 |            0             |              61               |             6              |             6             |       4       |
+| deeN--       |      15      |             20              |                13                 |            0             |              67               |             0              |             7             |       4       |
+|              |              |                             |                                   |                          |                               |                            |                           |               |
+|              |              |                             |                                   |                          |                               |                            |                           |               |
+|              |              |                             |                                   |                          |                               |                            |                           |               |
+| **Insilio**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player       |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| sugaR7       |      14      |             29              |                 7                 |            0             |              71               |             7              |             7             |       2       |
+| -FpSSSSSSSSS |      15      |              7              |                 7                 |            7             |              67               |             13             |             0             |       4       |
+| faydett-     |      13      |              8              |                15                 |            0             |              69               |             0              |             0             |       0       |
+| kelieN       |      16      |             19              |                13                 |            0             |              88               |             6              |             0             |       1       |
+| dwushka      |      18      |              6              |                11                 |            6             |              61               |             6              |             0             |       1       |

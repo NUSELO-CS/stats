@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-14  
 **Teams**: Sacred vs antigrind  
 
-## **Map**: de_anubis - Sacred (8) vs antigrind (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Sacred | Banned | de_train |
+| 2 | antigrind | Banned | de_nuke |
+| 3 | antigrind | Banned | de_dust2 |
+| 4 | Sacred | Banned | de_inferno |
+| 5 | Sacred | Banned | de_ancient |
+| 6 | antigrind | Banned | de_mirage |
+| 7 | Sacred | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - Sacred (8) vs antigrind (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | 5LAZY         |     0.67     | 57.14 |        83.33         |                         76.92                          |           75.00           |                            85.71                            |          100.00          |                           66.67                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Sacred**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| NoobLess      |      17      |             0              |             35             |                 18                 |           18            |              47              |                6                |   17   |             35              |                 12                  |            6             |              59               |             6              |
-| DCReaper      |      17      |             12             |             18             |                 35                 |           12            |              59              |                0                |   14   |             14              |                  7                  |            0             |              79               |             0              |
-| LauraBailey   |      17      |             35             |             24             |                 24                 |           18            |              65              |                0                |   16   |              6              |                 13                  |            6             |              56               |             6              |
-| twigs         |      9       |             11             |             44             |                 11                 |           11            |              56              |                0                |   14   |              7              |                 14                  |            7             |              71               |             7              |
-| 1shawta       |      10      |             20             |             30             |                 20                 |           10            |              50              |                0                |   16   |              6              |                 13                  |            6             |              69               |             6              |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **antigrind** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| knifa         |      21      |             19             |             10             |                 43                 |           19            |              71              |                0                |   14   |             50              |                 14                  |            7             |              79               |             0              |
-| Kelawesome    |      19      |             32             |             5              |                 32                 |            5            |              47              |                0                |   11   |              9              |                  9                  |            0             |              36               |             0              |
-| AbbyDog       |      14      |             29             |             21             |                 36                 |           21            |              71              |               14                |   13   |             23              |                 15                  |            0             |              69               |             0              |
-| infidelete    |      15      |             13             |             27             |                 60                 |           13            |              87              |                7                |   17   |             35              |                 24                  |            12            |              41               |             6              |
-| 5LAZY         |      8       |             13             |             13             |                 13                 |            0            |              50              |               13                |   15   |             20              |                 27                  |            7             |              53               |             0              |
+| **Sacred**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| NoobLess      |      17      |             0              |             35             |                 18                 |           18            |              47              |                6                |                  18                   |         0          |     1     |
+| DCReaper      |      17      |             12             |             18             |                 35                 |           12            |              59              |                0                |                   0                   |         8          |     1     |
+| LauraBailey   |      17      |             35             |             24             |                 24                 |           18            |              65              |                0                |                   0                   |         0          |     0     |
+| twigs         |      9       |             11             |             44             |                 11                 |           11            |              56              |                0                |                   0                   |         0          |     2     |
+| 1shawta       |      10      |             20             |             30             |                 20                 |           10            |              50              |                0                |                  10                   |         6          |     1     |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **antigrind** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| knifa         |      21      |             19             |             10             |                 43                 |           19            |              71              |                0                |                  14                   |         1          |     2     |
+| Kelawesome    |      19      |             32             |             5              |                 32                 |            5            |              47              |                0                |                   0                   |         0          |     2     |
+| AbbyDog       |      14      |             29             |             21             |                 36                 |           21            |              71              |               14                |                   7                   |         1          |     2     |
+| infidelete    |      15      |             13             |             27             |                 60                 |           13            |              87              |                7                |                   0                   |         0          |     2     |
+| 5LAZY         |      8       |             13             |             13             |                 13                 |            0            |              50              |               13                |                   0                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **Sacred**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player        |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| NoobLess      |      17      |             35              |                12                 |            6             |              59               |             6              |             6             |       0       |
+| DCReaper      |      14      |             14              |                 7                 |            0             |              79               |             0              |            14             |       0       |
+| LauraBailey   |      16      |              6              |                13                 |            6             |              56               |             6              |             0             |       1       |
+| twigs         |      14      |              7              |                14                 |            7             |              71               |             7              |             7             |       0       |
+| 1shawta       |      16      |              6              |                13                 |            6             |              69               |             6              |             0             |       1       |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+| **antigrind** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player        |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| knifa         |      14      |             50              |                14                 |            7             |              79               |             0              |             0             |       3       |
+| Kelawesome    |      11      |              9              |                 9                 |            0             |              36               |             0              |             0             |       1       |
+| AbbyDog       |      13      |             23              |                15                 |            0             |              69               |             0              |            15             |       4       |
+| infidelete    |      17      |             35              |                24                 |            12            |              41               |             6              |            12             |       3       |
+| 5LAZY         |      15      |             20              |                27                 |            7             |              53               |             0              |             0             |       3       |

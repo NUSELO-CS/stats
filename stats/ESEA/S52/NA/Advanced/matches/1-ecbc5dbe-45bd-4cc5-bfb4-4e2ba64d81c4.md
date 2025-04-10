@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-21  
 **Teams**: Flourish Gaming vs Luigis Mansion  
 
-## **Map**: de_dust2 - Flourish Gaming (11) vs Luigis Mansion (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Luigis Mansion | Banned | de_ancient |
+| 2 | Flourish Gaming | Banned | de_train |
+| 3 | Flourish Gaming | Banned | de_nuke |
+| 4 | Luigis Mansion | Banned | de_mirage |
+| 5 | Luigis Mansion | Banned | de_inferno |
+| 6 | Flourish Gaming | Banned | de_anubis |
+| 7 | Luigis Mansion | Picked | de_dust2 |
+
+---  
+
+### **Map**: de_dust2 - Flourish Gaming (11) vs Luigis Mansion (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | SEAN                |     0.82     | 70.83 |        76.47         |                         100.00                         |           75.00           |                           100.00                            |          77.78           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Flourish Gaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| -rain-              |      21      |             29             |             43             |                 10                 |           10            |              67              |                5                |   18   |             17              |                  6                  |            6             |              78               |             0              |
-| Tar1us666           |      18      |             28             |             33             |                 6                  |            6            |              50              |               11                |   16   |              0              |                  0                  |            0             |              44               |             19             |
-| NONAME-             |      18      |             11             |             28             |                 33                 |           33            |              56              |               11                |   17   |             24              |                 12                  |            12            |              94               |             0              |
-| Edbooo              |      11      |             9              |             27             |                 18                 |           18            |              82              |                9                |   17   |             12              |                  0                  |            0             |              76               |             6              |
-| 11aM-               |      11      |             9              |             18             |                 18                 |           18            |              64              |                0                |   20   |             35              |                  0                  |            0             |              80               |             5              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Luigis Mansion**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| QihaoWei            |      26      |             19             |             15             |                 42                 |            8            |              73              |                4                |   17   |             47              |                 24                  |            6             |              71               |             0              |
-| caustic             |      17      |             29             |             6              |                 12                 |           12            |              71              |                6                |   16   |             44              |                 25                  |            6             |              44               |             13             |
-| Gurtz               |      17      |             29             |             24             |                 35                 |            6            |              65              |               12                |   16   |             13              |                 13                  |            0             |              56               |             19             |
-| duckyCS2            |      17      |             29             |             12             |                 35                 |            6            |              76              |                6                |   14   |             29              |                 14                  |            0             |              64               |             7              |
-| SEAN                |      11      |             18             |             45             |                 45                 |           36            |              91              |                0                |   16   |             25              |                 31                  |            13            |              75               |             0              |
+| **Flourish Gaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| -rain-              |      21      |             29             |             43             |                 10                 |           10            |              67              |                5                |                   0                   |         0          |     0     |
+| Tar1us666           |      18      |             28             |             33             |                 6                  |            6            |              50              |               11                |                   6                   |         0          |     0     |
+| NONAME-             |      18      |             11             |             28             |                 33                 |           33            |              56              |               11                |                   6                   |         0          |     0     |
+| Edbooo              |      11      |             9              |             27             |                 18                 |           18            |              82              |                9                |                   0                   |         0          |     1     |
+| 11aM-               |      11      |             9              |             18             |                 18                 |           18            |              64              |                0                |                   0                   |         7          |     1     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Luigis Mansion**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| QihaoWei            |      26      |             19             |             15             |                 42                 |            8            |              73              |                4                |                   0                   |         16         |     3     |
+| caustic             |      17      |             29             |             6              |                 12                 |           12            |              71              |                6                |                  12                   |         0          |     3     |
+| Gurtz               |      17      |             29             |             24             |                 35                 |            6            |              65              |               12                |                   0                   |         0          |     3     |
+| duckyCS2            |      17      |             29             |             12             |                 35                 |            6            |              76              |                6                |                   6                   |         0          |     1     |
+| SEAN                |      11      |             18             |             45             |                 45                 |           36            |              91              |                0                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Flourish Gaming** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| -rain-              |      18      |             17              |                 6                 |            6             |              78               |             0              |             6             |       4       |
+| Tar1us666           |      16      |              0              |                 0                 |            0             |              44               |             19             |             6             |       5       |
+| NONAME-             |      17      |             24              |                12                 |            12            |              94               |             0              |             0             |       2       |
+| Edbooo              |      17      |             12              |                 0                 |            0             |              76               |             6              |             6             |       2       |
+| 11aM-               |      20      |             35              |                 0                 |            0             |              80               |             5              |             0             |       3       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **Luigis Mansion**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| QihaoWei            |      17      |             47              |                24                 |            6             |              71               |             0              |             0             |       1       |
+| caustic             |      16      |             44              |                25                 |            6             |              44               |             13             |             0             |       1       |
+| Gurtz               |      16      |             13              |                13                 |            0             |              56               |             19             |             6             |       2       |
+| duckyCS2            |      14      |             29              |                14                 |            0             |              64               |             7              |             7             |       1       |
+| SEAN                |      16      |             25              |                31                 |            13            |              75               |             0              |             0             |       2       |

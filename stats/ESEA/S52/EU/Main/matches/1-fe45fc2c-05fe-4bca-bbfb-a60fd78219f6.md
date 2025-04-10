@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-18  
 **Teams**: 1337 vs Project HW  
 
-## **Map**: de_dust2 - 1337 (9) vs Project HW (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | 1337 | Banned | de_ancient |
+| 2 | Project HW | Banned | de_nuke |
+| 3 | Project HW | Banned | de_inferno |
+| 4 | 1337 | Banned | de_anubis |
+| 5 | 1337 | Banned | de_mirage |
+| 6 | Project HW | Banned | de_train |
+| 7 | 1337 | Picked | de_dust2 |
+
+---  
+
+### **Map**: de_dust2 - 1337 (9) vs Project HW (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Ag3NtK         |     0.99     | 68.18 |        73.33         |                         84.62                          |           40.00           |                            66.67                            |          90.00           |                           90.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **1337**       | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| v4syaaan       |      18      |             17             |             50             |                 17                 |            0            |              28              |                6                |   17   |              6              |                 18                  |            0             |              59               |             12             |
-| PANAMA         |      15      |             27             |             33             |                 13                 |            7            |              87              |                7                |   18   |             22              |                 22                  |            0             |              67               |             6              |
-| _En1GmA_       |      16      |             38             |             6              |                 31                 |           13            |              69              |                6                |   16   |             19              |                 19                  |            6             |              81               |             0              |
-| -ElaSt1k       |      12      |             25             |             8              |                 50                 |           17            |              67              |                8                |   17   |             47              |                 12                  |            0             |              53               |             12             |
-| LEET           |      12      |             33             |             25             |                 33                 |            0            |              50              |               25                |   17   |             24              |                  6                  |            6             |              76               |             6              |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Project HW** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| sako           |      23      |             4              |             17             |                 35                 |           17            |              61              |                4                |   14   |             21              |                 36                  |            7             |              57               |             7              |
-| adh4rt         |      19      |             37             |             32             |                 42                 |            5            |              74              |                5                |   17   |             35              |                 35                  |            12            |              47               |             12             |
-| Rafex78        |      16      |             19             |             19             |                 19                 |            6            |              69              |               13                |   13   |             31              |                 54                  |            8             |              69               |             0              |
-| James8K        |      13      |             15             |             31             |                 62                 |            8            |              77              |                0                |   15   |             33              |                 33                  |            7             |              47               |             13             |
-| Ag3NtK         |      13      |             8              |             23             |                 54                 |           23            |              54              |               15                |   15   |              7              |                 33                  |            0             |              73               |             13             |
+| **1337**       | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| v4syaaan       |      18      |             17             |             50             |                 17                 |            0            |              28              |                6                |                   0                   |         0          |     1     |
+| PANAMA         |      15      |             27             |             33             |                 13                 |            7            |              87              |                7                |                   0                   |         0          |     2     |
+| _En1GmA_       |      16      |             38             |             6              |                 31                 |           13            |              69              |                6                |                   0                   |         0          |     2     |
+| -ElaSt1k       |      12      |             25             |             8              |                 50                 |           17            |              67              |                8                |                   0                   |         0          |     3     |
+| LEET           |      12      |             33             |             25             |                 33                 |            0            |              50              |               25                |                   0                   |         0          |     2     |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Project HW** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| sako           |      23      |             4              |             17             |                 35                 |           17            |              61              |                4                |                   4                   |         13         |     2     |
+| adh4rt         |      19      |             37             |             32             |                 42                 |            5            |              74              |                5                |                  16                   |         0          |     1     |
+| Rafex78        |      16      |             19             |             19             |                 19                 |            6            |              69              |               13                |                  31                   |         0          |     2     |
+| James8K        |      13      |             15             |             31             |                 62                 |            8            |              77              |                0                |                   0                   |         1          |     1     |
+| Ag3NtK         |      13      |             8              |             23             |                 54                 |           23            |              54              |               15                |                   8                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **1337**       | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| v4syaaan       |      17      |              6              |                18                 |            0             |              59               |             12             |            18             |       2       |
+| PANAMA         |      18      |             22              |                22                 |            0             |              67               |             6              |            11             |       3       |
+| _En1GmA_       |      16      |             19              |                19                 |            6             |              81               |             0              |             0             |       2       |
+| -ElaSt1k       |      17      |             47              |                12                 |            0             |              53               |             12             |            24             |       4       |
+| LEET           |      17      |             24              |                 6                 |            6             |              76               |             6              |             6             |       3       |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+| **Project HW** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| sako           |      14      |             21              |                36                 |            7             |              57               |             7              |             0             |       0       |
+| adh4rt         |      17      |             35              |                35                 |            12            |              47               |             12             |             0             |       0       |
+| Rafex78        |      13      |             31              |                54                 |            8             |              69               |             0              |             0             |       0       |
+| James8K        |      15      |             33              |                33                 |            7             |              47               |             13             |             0             |       0       |
+| Ag3NtK         |      15      |              7              |                33                 |            0             |              73               |             13             |             0             |       0       |

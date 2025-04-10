@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-18  
 **Teams**: Aegis vs IntoTheBrunk  
 
-## **Map**: de_nuke - Aegis (8) vs IntoTheBrunk (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | IntoTheBrunk | Banned | de_dust2 |
+| 2 | Aegis | Banned | de_train |
+| 3 | IntoTheBrunk | Banned | de_mirage |
+| 4 | Aegis | Banned | de_ancient |
+| 5 | IntoTheBrunk | Banned | de_inferno |
+| 6 | Aegis | Banned | de_anubis |
+| 7 | Aegis | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - Aegis (8) vs IntoTheBrunk (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | orlando          |     0.96     | 76.19 |        75.00         |                         92.31                          |           66.67           |                           100.00                            |          80.00           |                           88.89                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Aegis**        | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| marilik          |      16      |             19             |             44             |                 19                 |           19            |              75              |                0                |   17   |             29              |                  0                  |            0             |              65               |             18             |
-| leuc             |      14      |             7              |             14             |                 0                  |            0            |              86              |                0                |   11   |              9              |                  0                  |            0             |              82               |             0              |
-| Senity23-        |      13      |             0              |             8              |                 23                 |           15            |              85              |                8                |   13   |             15              |                  0                  |            0             |              54               |             0              |
-| DukTox1c         |      11      |             9              |             18             |                 0                  |            0            |              55              |                0                |   14   |              7              |                  0                  |            0             |              93               |             7              |
-| sl-e-e-py        |      12      |             33             |             33             |                 8                  |            0            |              83              |                8                |   16   |              6              |                  6                  |            0             |              75               |             6              |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **IntoTheBrunk** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| BiS64            |      17      |             24             |             6              |                 12                 |            0            |              88              |                6                |   12   |             25              |                 17                  |            0             |              83               |             0              |
-| Dill             |      16      |             6              |             6              |                 44                 |           13            |              63              |               19                |   13   |              8              |                 15                  |            0             |              92               |             0              |
-| maxkc            |      14      |             29             |             21             |                 50                 |           14            |              64              |                7                |   13   |             23              |                 23                  |            0             |              77               |             0              |
-| Brung666         |      12      |             33             |             17             |                 17                 |            0            |              75              |                0                |   15   |             33              |                 20                  |            0             |              80               |             7              |
-| orlando          |      11      |             18             |             27             |                 27                 |            9            |              73              |                0                |   14   |             29              |                 21                  |            0             |              57               |             7              |
+| **Aegis**        | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| marilik          |      16      |             19             |             44             |                 19                 |           19            |              75              |                0                |                   0                   |         0          |     3     |
+| leuc             |      14      |             7              |             14             |                 0                  |            0            |              86              |                0                |                   7                   |         3          |     4     |
+| Senity23-        |      13      |             0              |             8              |                 23                 |           15            |              85              |                8                |                   8                   |         0          |     2     |
+| DukTox1c         |      11      |             9              |             18             |                 0                  |            0            |              55              |                0                |                   0                   |         0          |     0     |
+| sl-e-e-py        |      12      |             33             |             33             |                 8                  |            0            |              83              |                8                |                   0                   |         0          |     0     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **IntoTheBrunk** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| BiS64            |      17      |             24             |             6              |                 12                 |            0            |              88              |                6                |                   0                   |         0          |     0     |
+| Dill             |      16      |             6              |             6              |                 44                 |           13            |              63              |               19                |                   0                   |         4          |     0     |
+| maxkc            |      14      |             29             |             21             |                 50                 |           14            |              64              |                7                |                   0                   |         0          |     1     |
+| Brung666         |      12      |             33             |             17             |                 17                 |            0            |              75              |                0                |                   0                   |         0          |     3     |
+| orlando          |      11      |             18             |             27             |                 27                 |            9            |              73              |                0                |                   9                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **Aegis**        | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| marilik          |      17      |             29              |                 0                 |            0             |              65               |             18             |             0             |       2       |
+| leuc             |      11      |              9              |                 0                 |            0             |              82               |             0              |             0             |       1       |
+| Senity23-        |      13      |             15              |                 0                 |            0             |              54               |             0              |             0             |       1       |
+| DukTox1c         |      14      |              7              |                 0                 |            0             |              93               |             7              |             0             |       0       |
+| sl-e-e-py        |      16      |              6              |                 6                 |            0             |              75               |             6              |             6             |       0       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **IntoTheBrunk** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| BiS64            |      12      |             25              |                17                 |            0             |              83               |             0              |             8             |       2       |
+| Dill             |      13      |              8              |                15                 |            0             |              92               |             0              |             0             |       0       |
+| maxkc            |      13      |             23              |                23                 |            0             |              77               |             0              |             8             |       0       |
+| Brung666         |      15      |             33              |                20                 |            0             |              80               |             7              |             0             |       1       |
+| orlando          |      14      |             29              |                21                 |            0             |              57               |             7              |             0             |       0       |

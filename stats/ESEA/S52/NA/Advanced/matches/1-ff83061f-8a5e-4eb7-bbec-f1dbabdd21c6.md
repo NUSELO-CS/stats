@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-23  
 **Teams**: Flourish Gaming vs regain  
 
-## **Map**: de_anubis - Flourish Gaming (6) vs regain (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | regain | Banned | de_dust2 |
+| 2 | Flourish Gaming | Banned | de_inferno |
+| 3 | Flourish Gaming | Banned | de_nuke |
+| 4 | regain | Banned | de_train |
+| 5 | regain | Banned | de_mirage |
+| 6 | Flourish Gaming | Banned | de_ancient |
+| 7 | regain | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - Flourish Gaming (6) vs regain (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | fuz3Nk0             |     1.17     | 84.21 |        75.00         |                         92.31                          |          100.00           |                            80.00                            |          66.67           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Flourish Gaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| NONAME-             |      15      |             0              |             40             |                 13                 |            7            |              87              |                7                |   16   |             25              |                 13                  |            6             |              69               |             0              |
-| -rain-              |      13      |             15             |             23             |                 46                 |           31            |              62              |                8                |   15   |             20              |                  0                  |            0             |              47               |             13             |
-| Edbooo              |      13      |             31             |             31             |                 15                 |            8            |              46              |               23                |   16   |             25              |                  6                  |            0             |              69               |             0              |
-| Tar1us666           |      10      |             20             |             20             |                 40                 |           30            |              70              |               10                |   15   |             13              |                  7                  |            0             |              67               |             13             |
-| alwayslost          |      6       |             50             |             33             |                 17                 |           17            |              50              |               17                |   14   |              0              |                  0                  |            0             |              43               |             7              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **regain**          | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Halen               |      18      |             28             |             28             |                 72                 |           17            |              56              |                6                |   11   |             27              |                 45                  |            0             |              55               |             18             |
-| Zucar               |      18      |             17             |             17             |                 50                 |           11            |              44              |               11                |   14   |             36              |                 43                  |            7             |              71               |             0              |
-| sasha               |      14      |             21             |             7              |                 50                 |            7            |              64              |                0                |   10   |             10              |                 40                  |            10            |              60               |             20             |
-| 1dvrk               |      13      |             15             |             15             |                 62                 |           15            |              85              |                8                |   12   |             42              |                 42                  |            0             |              67               |             8              |
-| fuz3Nk0             |      12      |             17             |             17             |                 42                 |           17            |              50              |                8                |   11   |             27              |                 36                  |            0             |              55               |             18             |
+| **Flourish Gaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| NONAME-             |      15      |             0              |             40             |                 13                 |            7            |              87              |                7                |                   0                   |         0          |     4     |
+| -rain-              |      13      |             15             |             23             |                 46                 |           31            |              62              |                8                |                   8                   |         0          |     0     |
+| Edbooo              |      13      |             31             |             31             |                 15                 |            8            |              46              |               23                |                   0                   |         0          |     1     |
+| Tar1us666           |      10      |             20             |             20             |                 40                 |           30            |              70              |               10                |                  10                   |         0          |     0     |
+| alwayslost          |      6       |             50             |             33             |                 17                 |           17            |              50              |               17                |                   0                   |         1          |     0     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **regain**          | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Halen               |      18      |             28             |             28             |                 72                 |           17            |              56              |                6                |                   0                   |         0          |     0     |
+| Zucar               |      18      |             17             |             17             |                 50                 |           11            |              44              |               11                |                   6                   |         0          |     4     |
+| sasha               |      14      |             21             |             7              |                 50                 |            7            |              64              |                0                |                   0                   |         0          |     0     |
+| 1dvrk               |      13      |             15             |             15             |                 62                 |           15            |              85              |                8                |                   8                   |         4          |     1     |
+| fuz3Nk0             |      12      |             17             |             17             |                 42                 |           17            |              50              |                8                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Flourish Gaming** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| NONAME-             |      16      |             25              |                13                 |            6             |              69               |             0              |             0             |       1       |
+| -rain-              |      15      |             20              |                 0                 |            0             |              47               |             13             |            13             |       1       |
+| Edbooo              |      16      |             25              |                 6                 |            0             |              69               |             0              |             0             |       1       |
+| Tar1us666           |      15      |             13              |                 7                 |            0             |              67               |             13             |             0             |       0       |
+| alwayslost          |      14      |              0              |                 0                 |            0             |              43               |             7              |             0             |       1       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **regain**          | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Halen               |      11      |             27              |                45                 |            0             |              55               |             18             |             0             |       0       |
+| Zucar               |      14      |             36              |                43                 |            7             |              71               |             0              |             7             |       1       |
+| sasha               |      10      |             10              |                40                 |            10            |              60               |             20             |             0             |       0       |
+| 1dvrk               |      12      |             42              |                42                 |            0             |              67               |             8              |             0             |       0       |
+| fuz3Nk0             |      11      |             27              |                36                 |            0             |              55               |             18             |             9             |       0       |

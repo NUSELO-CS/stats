@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-04  
 **Teams**: ZOTIX vs Roots Gaming  
 
-## **Map**: de_inferno - ZOTIX (13) vs Roots Gaming (7)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Roots Gaming | Banned | de_anubis |
+| 2 | ZOTIX | Banned | de_nuke |
+| 3 | ZOTIX | Banned | de_mirage |
+| 4 | Roots Gaming | Banned | de_dust2 |
+| 5 | Roots Gaming | Banned | de_train |
+| 6 | ZOTIX | Banned | de_ancient |
+| 7 | Roots Gaming | Picked | de_inferno |
+
+---  
+
+### **Map**: de_inferno - ZOTIX (13) vs Roots Gaming (7)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | quisma           |     0.46     | 55.00 |        50.00         |                         85.71                          |           40.00           |                           100.00                            |          57.14           |                           80.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **ZOTIX**        | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| -h1glaiN-        |      21      |             19             |             14             |                 33                 |           19            |              48              |                5                |   9    |              0              |                 11                  |            0             |              56               |             0              |
-| Leha2077         |      15      |             7              |             20             |                 40                 |           20            |              80              |                0                |   8    |             13              |                 25                  |            25            |              75               |             13             |
-| mnchh            |      16      |             19             |             13             |                 31                 |           25            |              50              |                0                |   11   |             18              |                 36                  |            18            |              82               |             18             |
-| ink-mate         |      11      |             0              |             18             |                 36                 |           27            |              73              |               18                |   8    |             13              |                 25                  |            25            |              75               |             13             |
-| --shen           |      5       |             0              |             40             |                 20                 |            0            |              60              |                0                |   9    |             56              |                 11                  |            11            |              78               |             0              |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Roots Gaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| asku             |      11      |             36             |             36             |                 9                  |            9            |              64              |                9                |   13   |             15              |                  8                  |            8             |              54               |             15             |
-| AhMa-            |      10      |             10             |             0              |                 10                 |           10            |              70              |               10                |   14   |             29              |                  7                  |            0             |              86               |             0              |
-| Makkoo           |      12      |             25             |             17             |                 8                  |            8            |              67              |               17                |   14   |              7              |                  7                  |            0             |              71               |             0              |
-| -_Styx_-         |      7       |             14             |             14             |                 14                 |           14            |              86              |                0                |   14   |             14              |                  0                  |            0             |              36               |             7              |
-| quisma           |      5       |             20             |             40             |                 40                 |           20            |              40              |                0                |   13   |             23              |                 15                  |            8             |              85               |             0              |
+| **ZOTIX**        | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| -h1glaiN-        |      21      |             19             |             14             |                 33                 |           19            |              48              |                5                |                   0                   |         0          |     1     |
+| Leha2077         |      15      |             7              |             20             |                 40                 |           20            |              80              |                0                |                   7                   |         0          |     1     |
+| mnchh            |      16      |             19             |             13             |                 31                 |           25            |              50              |                0                |                   0                   |         0          |     1     |
+| ink-mate         |      11      |             0              |             18             |                 36                 |           27            |              73              |               18                |                   0                   |         1          |     3     |
+| --shen           |      5       |             0              |             40             |                 20                 |            0            |              60              |                0                |                   0                   |         3          |     0     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Roots Gaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| asku             |      11      |             36             |             36             |                 9                  |            9            |              64              |                9                |                   9                   |         2          |     0     |
+| AhMa-            |      10      |             10             |             0              |                 10                 |           10            |              70              |               10                |                  20                   |         0          |     4     |
+| Makkoo           |      12      |             25             |             17             |                 8                  |            8            |              67              |               17                |                   8                   |         1          |     0     |
+| -_Styx_-         |      7       |             14             |             14             |                 14                 |           14            |              86              |                0                |                  29                   |         0          |     1     |
+| quisma           |      5       |             20             |             40             |                 40                 |           20            |              40              |                0                |                   0                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **ZOTIX**        | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| -h1glaiN-        |      9       |              0              |                11                 |            0             |              56               |             0              |            11             |       0       |
+| Leha2077         |      8       |             13              |                25                 |            25            |              75               |             13             |            38             |       1       |
+| mnchh            |      11      |             18              |                36                 |            18            |              82               |             18             |             0             |       1       |
+| ink-mate         |      8       |             13              |                25                 |            25            |              75               |             13             |            13             |       0       |
+| --shen           |      9       |             56              |                11                 |            11            |              78               |             0              |            11             |       1       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **Roots Gaming** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| asku             |      13      |             15              |                 8                 |            8             |              54               |             15             |             0             |       0       |
+| AhMa-            |      14      |             29              |                 7                 |            0             |              86               |             0              |             7             |       2       |
+| Makkoo           |      14      |              7              |                 7                 |            0             |              71               |             0              |             0             |       0       |
+| -_Styx_-         |      14      |             14              |                 0                 |            0             |              36               |             7              |             0             |       2       |
+| quisma           |      13      |             23              |                15                 |            8             |              85               |             0              |             0             |       0       |

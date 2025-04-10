@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-27  
 **Teams**: 1WIN vs LEON  
 
-## **Map**: de_anubis - 1WIN (10) vs LEON (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | LEON | Banned | de_train |
+| 2 | 1WIN | Banned | de_nuke |
+| 3 | 1WIN | Banned | de_inferno |
+| 4 | LEON | Banned | de_dust2 |
+| 5 | LEON | Banned | de_mirage |
+| 6 | 1WIN | Banned | de_ancient |
+| 7 | LEON | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - 1WIN (10) vs LEON (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | facecrack- |     0.82     | 60.87 |        85.71         |                         92.31                          |           66.67           |                            80.00                            |          100.00          |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **1WIN**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player     |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| oz1k       |      23      |             30             |             17             |                 30                 |           13            |              57              |               17                |   16   |              6              |                 19                  |            0             |              63               |             0              |
-| cronuss    |      16      |             38             |             13             |                 44                 |           31            |              75              |                0                |   15   |             20              |                 13                  |            0             |              60               |             7              |
-| hobbitzce  |      15      |             13             |             27             |                 13                 |            0            |              53              |                7                |   18   |             33              |                 22                  |            11            |              50               |             6              |
-| egobaby    |      15      |             20             |             20             |                 13                 |            0            |              80              |                7                |   15   |             40              |                 20                  |            0             |              87               |             0              |
-| sh1geo     |      7       |             14             |             0              |                 57                 |           29            |              57              |               14                |   16   |             31              |                 19                  |            6             |              50               |             25             |
-|            |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|            |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|            |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **LEON**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player     |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| xxxRaijin  |      21      |             19             |             19             |                 24                 |            0            |              62              |                5                |   14   |             14              |                 36                  |            0             |              64               |             21             |
-| w1ssely    |      18      |             6              |             17             |                 22                 |            6            |              44              |                6                |   14   |             21              |                 29                  |            0             |              36               |             7              |
-| yngsamurai |      12      |             33             |             33             |                 42                 |            0            |              75              |                0                |   10   |             20              |                 40                  |            0             |              90               |             10             |
-| RaY5ive    |      15      |             7              |             47             |                 27                 |            7            |              67              |                7                |   19   |             11              |                 26                  |            0             |              63               |             5              |
-| facecrack- |      14      |             7              |             21             |                 50                 |            7            |              64              |               21                |   19   |             21              |                 26                  |            5             |              79               |             5              |
+| **1WIN**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player     |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| oz1k       |      23      |             30             |             17             |                 30                 |           13            |              57              |               17                |                   0                   |         0          |     1     |
+| cronuss    |      16      |             38             |             13             |                 44                 |           31            |              75              |                0                |                   0                   |         0          |     0     |
+| hobbitzce  |      15      |             13             |             27             |                 13                 |            0            |              53              |                7                |                   0                   |         0          |     4     |
+| egobaby    |      15      |             20             |             20             |                 13                 |            0            |              80              |                7                |                   0                   |         11         |     1     |
+| sh1geo     |      7       |             14             |             0              |                 57                 |           29            |              57              |               14                |                  14                   |         0          |     0     |
+|            |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|            |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|            |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **LEON**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player     |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| xxxRaijin  |      21      |             19             |             19             |                 24                 |            0            |              62              |                5                |                   5                   |         0          |     2     |
+| w1ssely    |      18      |             6              |             17             |                 22                 |            6            |              44              |                6                |                   6                   |         0          |     3     |
+| yngsamurai |      12      |             33             |             33             |                 42                 |            0            |              75              |                0                |                   0                   |         8          |     1     |
+| RaY5ive    |      15      |             7              |             47             |                 27                 |            7            |              67              |                7                |                   0                   |         0          |     3     |
+| facecrack- |      14      |             7              |             21             |                 50                 |            7            |              64              |               21                |                   7                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **1WIN**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player     |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| oz1k       |      16      |              6              |                19                 |            0             |              63               |             0              |            13             |       2       |
+| cronuss    |      15      |             20              |                13                 |            0             |              60               |             7              |             0             |       1       |
+| hobbitzce  |      18      |             33              |                22                 |            11            |              50               |             6              |             6             |       3       |
+| egobaby    |      15      |             40              |                20                 |            0             |              87               |             0              |             0             |       0       |
+| sh1geo     |      16      |             31              |                19                 |            6             |              50               |             25             |             0             |       2       |
+|            |              |                             |                                   |                          |                               |                            |                           |               |
+|            |              |                             |                                   |                          |                               |                            |                           |               |
+|            |              |                             |                                   |                          |                               |                            |                           |               |
+| **LEON**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player     |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| xxxRaijin  |      14      |             14              |                36                 |            0             |              64               |             21             |             0             |       1       |
+| w1ssely    |      14      |             21              |                29                 |            0             |              36               |             7              |             0             |       1       |
+| yngsamurai |      10      |             20              |                40                 |            0             |              90               |             10             |             0             |       2       |
+| RaY5ive    |      19      |             11              |                26                 |            0             |              63               |             5              |             0             |       3       |
+| facecrack- |      19      |             21              |                26                 |            5             |              79               |             5              |             5             |       4       |

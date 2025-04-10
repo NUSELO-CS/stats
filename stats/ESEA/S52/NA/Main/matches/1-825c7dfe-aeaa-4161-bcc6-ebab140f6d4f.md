@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-21  
 **Teams**: 10 yrs of main vs Eternal Valor  
 
-## **Map**: de_ancient - 10 yrs of main (6) vs Eternal Valor (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Eternal Valor | Banned | de_train |
+| 2 | 10 yrs of main | Banned | de_inferno |
+| 3 | 10 yrs of main | Banned | de_anubis |
+| 4 | Eternal Valor | Banned | de_mirage |
+| 5 | Eternal Valor | Banned | de_dust2 |
+| 6 | 10 yrs of main | Banned | de_nuke |
+| 7 | Eternal Valor | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - 10 yrs of main (6) vs Eternal Valor (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | stinky ahh fingers |     0.86     | 73.68 |        85.71         |                         92.31                          |          100.00           |                            85.71                            |          75.00           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **10 yrs of main** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| NICKHALDEN         |      21      |             24             |             33             |                 14                 |            0            |              43              |               14                |   12   |              8              |                  0                  |            0             |              67               |             0              |
-| chanpagne          |      13      |             15             |             38             |                 0                  |            0            |              69              |                8                |   16   |             19              |                  0                  |            0             |              75               |             6              |
-| eff-_              |      8       |             38             |             38             |                 0                  |            0            |              50              |               38                |   16   |             13              |                  0                  |            0             |              56               |             0              |
-| BALLSAK-47         |      6       |             17             |             0              |                 33                 |            0            |              50              |                0                |   14   |             29              |                  0                  |            0             |              57               |             7              |
-| davd               |      7       |             29             |             29             |                 0                  |            0            |              57              |                0                |   16   |             19              |                  0                  |            0             |              63               |             25             |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Eternal Valor**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| MaisonTG           |      20      |             20             |             15             |                 35                 |           10            |              75              |               10                |   12   |             50              |                 25                  |            8             |              25               |             25             |
-| ChwE_              |      14      |             29             |             21             |                 43                 |           21            |              71              |                7                |   9    |             33              |                 11                  |            11            |              44               |             11             |
-| Deansturr          |      16      |             19             |             13             |                 25                 |           19            |              44              |                0                |   10   |             10              |                 20                  |            0             |              70               |             10             |
-| bUki_-             |      14      |             29             |             0              |                 43                 |            7            |              64              |               14                |   8    |             25              |                 13                  |            13            |              75               |             0              |
-| stinky ahh fingers |      10      |             0              |             50             |                 40                 |            0            |              60              |               10                |   16   |             31              |                 38                  |            13            |              56               |             13             |
+| **10 yrs of main** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| NICKHALDEN         |      21      |             24             |             33             |                 14                 |            0            |              43              |               14                |                   5                   |         0          |     1     |
+| chanpagne          |      13      |             15             |             38             |                 0                  |            0            |              69              |                8                |                  15                   |         0          |     1     |
+| eff-_              |      8       |             38             |             38             |                 0                  |            0            |              50              |               38                |                   0                   |         0          |     0     |
+| BALLSAK-47         |      6       |             17             |             0              |                 33                 |            0            |              50              |                0                |                   0                   |         0          |     0     |
+| davd               |      7       |             29             |             29             |                 0                  |            0            |              57              |                0                |                   0                   |         5          |     1     |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Eternal Valor**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| MaisonTG           |      20      |             20             |             15             |                 35                 |           10            |              75              |               10                |                   0                   |         0          |     2     |
+| ChwE_              |      14      |             29             |             21             |                 43                 |           21            |              71              |                7                |                   0                   |         0          |     0     |
+| Deansturr          |      16      |             19             |             13             |                 25                 |           19            |              44              |                0                |                   0                   |         0          |     4     |
+| bUki_-             |      14      |             29             |             0              |                 43                 |            7            |              64              |               14                |                   0                   |         4          |     2     |
+| stinky ahh fingers |      10      |             0              |             50             |                 40                 |            0            |              60              |               10                |                   0                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **10 yrs of main** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| NICKHALDEN         |      12      |              8              |                 0                 |            0             |              67               |             0              |             0             |       1       |
+| chanpagne          |      16      |             19              |                 0                 |            0             |              75               |             6              |             0             |       0       |
+| eff-_              |      16      |             13              |                 0                 |            0             |              56               |             0              |             0             |       1       |
+| BALLSAK-47         |      14      |             29              |                 0                 |            0             |              57               |             7              |             0             |       1       |
+| davd               |      16      |             19              |                 0                 |            0             |              63               |             25             |             0             |       1       |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+| **Eternal Valor**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| MaisonTG           |      12      |             50              |                25                 |            8             |              25               |             25             |             8             |       3       |
+| ChwE_              |      9       |             33              |                11                 |            11            |              44               |             11             |            11             |       0       |
+| Deansturr          |      10      |             10              |                20                 |            0             |              70               |             10             |             0             |       1       |
+| bUki_-             |      8       |             25              |                13                 |            13            |              75               |             0              |            13             |       0       |
+| stinky ahh fingers |      16      |             31              |                38                 |            13            |              56               |             13             |             0             |       1       |

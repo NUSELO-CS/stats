@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-25  
 **Teams**: Tribal Chiefs vs 4wb LFO  
 
-## **Map**: de_anubis - Tribal Chiefs (17) vs 4wb LFO (19)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | 4wb LFO | Banned | de_mirage |
+| 2 | Tribal Chiefs | Banned | de_nuke |
+| 3 | Tribal Chiefs | Banned | de_ancient |
+| 4 | 4wb LFO | Banned | de_train |
+| 5 | 4wb LFO | Banned | de_inferno |
+| 6 | Tribal Chiefs | Banned | de_dust2 |
+| 7 | 4wb LFO | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - Tribal Chiefs (17) vs 4wb LFO (19)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | slayer2008RU      |     0.98     | 69.44 |        76.00         |                         100.00                         |           83.33           |                           100.00                            |          69.23           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Tribal Chiefs** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| bungthechung      |      30      |             13             |             7              |                 23                 |           13            |              47              |               10                |   18   |             17              |                 11                  |            6             |              44               |             6              |
-| EB1               |      27      |             22             |             11             |                 15                 |            7            |              74              |                4                |   24   |             21              |                  8                  |            4             |              83               |             4              |
-| donart            |      23      |             13             |             43             |                 17                 |           17            |              70              |                9                |   25   |             36              |                  8                  |            4             |              52               |             8              |
-| Vedal             |      23      |             22             |             13             |                 9                  |            0            |              74              |                4                |   25   |             24              |                  8                  |            4             |              64               |             4              |
-| fress-            |      18      |             22             |             22             |                 22                 |           22            |              44              |                6                |   27   |             19              |                  7                  |            4             |              70               |             4              |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **4wb LFO**       | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Szojson           |      25      |             16             |             28             |                 28                 |           12            |              64              |                4                |   26   |             19              |                  4                  |            4             |              58               |             8              |
-| ZAW0DNIKMDMA      |      26      |             19             |             15             |                 27                 |            4            |              85              |                0                |   21   |             10              |                  0                  |            0             |              81               |             5              |
-| keryu262          |      20      |             35             |             25             |                 10                 |            0            |              50              |               10                |   20   |             15              |                 10                  |            0             |              55               |             10             |
-| happyemotec       |      24      |             21             |             13             |                 0                  |            0            |              54              |               13                |   25   |             16              |                  4                  |            0             |              48               |             0              |
-| slayer2008RU      |      24      |             0              |             38             |                 8                  |            4            |              63              |                0                |   29   |             28              |                 10                  |            3             |              69               |             10             |
+| **Tribal Chiefs** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| bungthechung      |      30      |             13             |             7              |                 23                 |           13            |              47              |               10                |                   7                   |         0          |     1     |
+| EB1               |      27      |             22             |             11             |                 15                 |            7            |              74              |                4                |                   0                   |         20         |     1     |
+| donart            |      23      |             13             |             43             |                 17                 |           17            |              70              |                9                |                  13                   |         0          |     2     |
+| Vedal             |      23      |             22             |             13             |                 9                  |            0            |              74              |                4                |                  17                   |         0          |     3     |
+| fress-            |      18      |             22             |             22             |                 22                 |           22            |              44              |                6                |                   6                   |         0          |     0     |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **4wb LFO**       | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Szojson           |      25      |             16             |             28             |                 28                 |           12            |              64              |                4                |                   8                   |         3          |     0     |
+| ZAW0DNIKMDMA      |      26      |             19             |             15             |                 27                 |            4            |              85              |                0                |                   0                   |         13         |     2     |
+| keryu262          |      20      |             35             |             25             |                 10                 |            0            |              50              |               10                |                  10                   |         0          |     1     |
+| happyemotec       |      24      |             21             |             13             |                 0                  |            0            |              54              |               13                |                   4                   |         2          |     2     |
+| slayer2008RU      |      24      |             0              |             38             |                 8                  |            4            |              63              |                0                |                   0                   |         1          |     3     |
+## Extended Deaths Stats  
+
+| **Tribal Chiefs** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| bungthechung      |      18      |             17              |                11                 |            6             |              44               |             6              |             6             |       1       |
+| EB1               |      24      |             21              |                 8                 |            4             |              83               |             4              |             4             |       7       |
+| donart            |      25      |             36              |                 8                 |            4             |              52               |             8              |             8             |       1       |
+| Vedal             |      25      |             24              |                 8                 |            4             |              64               |             4              |             4             |       5       |
+| fress-            |      27      |             19              |                 7                 |            4             |              70               |             4              |             0             |       5       |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+| **4wb LFO**       | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Szojson           |      26      |             19              |                 4                 |            4             |              58               |             8              |             8             |       6       |
+| ZAW0DNIKMDMA      |      21      |             10              |                 0                 |            0             |              81               |             5              |            14             |       1       |
+| keryu262          |      20      |             15              |                10                 |            0             |              55               |             10             |             5             |       2       |
+| happyemotec       |      25      |             16              |                 4                 |            0             |              48               |             0              |             0             |       4       |
+| slayer2008RU      |      29      |             28              |                10                 |            3             |              69               |             10             |            14             |       7       |

@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-27  
 **Teams**: SissiStatePunks vs Northern Legacy  
 
-## **Map**: de_train - SissiStatePunks (10) vs Northern Legacy (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | SissiStatePunks | Banned | de_ancient |
+| 2 | Northern Legacy | Banned | de_anubis |
+| 3 | Northern Legacy | Banned | de_dust2 |
+| 4 | SissiStatePunks | Banned | de_nuke |
+| 5 | SissiStatePunks | Banned | de_inferno |
+| 6 | Northern Legacy | Banned | de_mirage |
+| 7 | SissiStatePunks | Picked | de_train |
+
+---  
+
+### **Map**: de_train - SissiStatePunks (10) vs Northern Legacy (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | StE4                |     0.79     | 73.91 |        70.59         |                         92.31                          |           75.00           |                           100.00                            |          66.67           |                           85.71                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **SissiStatePunks** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| ULT666              |      17      |             12             |             35             |                 18                 |            6            |              71              |                6                |   16   |              6              |                 13                  |            6             |              81               |             13             |
-| farmaG              |      18      |             11             |             33             |                 17                 |           11            |              67              |                0                |   16   |              6              |                 19                  |            13            |              94               |             0              |
-| HeMan_              |      16      |             6              |             38             |                 25                 |           25            |              50              |                6                |   19   |             11              |                 16                  |            11            |              74               |             0              |
-| sehza               |      13      |             23             |             15             |                 23                 |           23            |              77              |                0                |   17   |             18              |                 18                  |            12            |              71               |             6              |
-| MYS                 |      10      |             0              |             40             |                 10                 |           10            |              60              |               30                |   20   |              5              |                 20                  |            15            |              80               |             5              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Northern Legacy** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| oontoma             |      20      |             10             |             10             |                 25                 |            0            |              75              |                0                |   13   |             31              |                 38                  |            8             |              46               |             15             |
-| yksjupe             |      24      |             29             |             8              |                 50                 |           21            |              79              |                4                |   18   |             50              |                 22                  |            6             |              72               |             0              |
-| JAKE_MUTKA          |      23      |             22             |             9              |                 17                 |           13            |              96              |                0                |   13   |             23              |                 31                  |            8             |              77               |             0              |
-| erkz                |      11      |             36             |             9              |                 64                 |           27            |              55              |               18                |   12   |             17              |                 33                  |            8             |              67               |             0              |
-| StE4                |      10      |             40             |             10             |                 20                 |            0            |              80              |               10                |   18   |             33              |                 33                  |            11            |              61               |             17             |
+| **SissiStatePunks** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| ULT666              |      17      |             12             |             35             |                 18                 |            6            |              71              |                6                |                   0                   |         1          |     2     |
+| farmaG              |      18      |             11             |             33             |                 17                 |           11            |              67              |                0                |                   0                   |         8          |     1     |
+| HeMan_              |      16      |             6              |             38             |                 25                 |           25            |              50              |                6                |                   6                   |         0          |     3     |
+| sehza               |      13      |             23             |             15             |                 23                 |           23            |              77              |                0                |                   0                   |         1          |     0     |
+| MYS                 |      10      |             0              |             40             |                 10                 |           10            |              60              |               30                |                  10                   |         1          |     1     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Northern Legacy** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| oontoma             |      20      |             10             |             10             |                 25                 |            0            |              75              |                0                |                   0                   |         0          |     0     |
+| yksjupe             |      24      |             29             |             8              |                 50                 |           21            |              79              |                4                |                  17                   |         0          |     1     |
+| JAKE_MUTKA          |      23      |             22             |             9              |                 17                 |           13            |              96              |                0                |                   4                   |         11         |     3     |
+| erkz                |      11      |             36             |             9              |                 64                 |           27            |              55              |               18                |                   0                   |         1          |     1     |
+| StE4                |      10      |             40             |             10             |                 20                 |            0            |              80              |               10                |                   0                   |         1          |     1     |
+## Extended Deaths Stats  
+
+| **SissiStatePunks** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| ULT666              |      16      |              6              |                13                 |            6             |              81               |             13             |             6             |       2       |
+| farmaG              |      16      |              6              |                19                 |            13            |              94               |             0              |             6             |       4       |
+| HeMan_              |      19      |             11              |                16                 |            11            |              74               |             0              |             5             |       1       |
+| sehza               |      17      |             18              |                18                 |            12            |              71               |             6              |             0             |       3       |
+| MYS                 |      20      |              5              |                20                 |            15            |              80               |             5              |            10             |       3       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **Northern Legacy** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| oontoma             |      13      |             31              |                38                 |            8             |              46               |             15             |             8             |       0       |
+| yksjupe             |      18      |             50              |                22                 |            6             |              72               |             0              |             0             |       3       |
+| JAKE_MUTKA          |      13      |             23              |                31                 |            8             |              77               |             0              |             0             |       1       |
+| erkz                |      12      |             17              |                33                 |            8             |              67               |             0              |             0             |       5       |
+| StE4                |      18      |             33              |                33                 |            11            |              61               |             17             |             6             |       2       |

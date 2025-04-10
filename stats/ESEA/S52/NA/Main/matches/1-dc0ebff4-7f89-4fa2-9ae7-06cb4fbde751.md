@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-26  
 **Teams**: The Burger People vs jawgoo express  
 
-## **Map**: de_nuke - The Burger People (13) vs jawgoo express (8)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | The Burger People | Banned | de_inferno |
+| 2 | jawgoo express | Banned | de_anubis |
+| 3 | jawgoo express | Banned | de_ancient |
+| 4 | The Burger People | Banned | de_mirage |
+| 5 | The Burger People | Banned | de_dust2 |
+| 6 | jawgoo express | Banned | de_train |
+| 7 | The Burger People | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - The Burger People (13) vs jawgoo express (8)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | craqin                |     0.10     | 47.62 |        70.00         |                         87.50                          |          100.00           |                            80.00                            |          50.00           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **The Burger People** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player                |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Saiyan                |      26      |             35             |             8              |                 38                 |           19            |              81              |                8                |   10   |              0              |                 30                  |            0             |              90               |             0              |
-| RichardR8             |      21      |             5              |             10             |                 29                 |           19            |              62              |                5                |   12   |             25              |                 33                  |            0             |              75               |             0              |
-| Ayohhh                |      12      |             0              |             25             |                 50                 |            0            |              58              |               17                |   13   |             23              |                 15                  |            0             |              69               |             0              |
-| tequeneek             |      11      |             18             |             9              |                 18                 |            9            |              73              |                9                |   11   |             36              |                 18                  |            0             |              82               |             0              |
-| EagleyeFoley          |      12      |             0              |             17             |                 25                 |            8            |              58              |                0                |   12   |             17              |                 25                  |            0             |              58               |             8              |
-|                       |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                       |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                       |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **jawgoo express**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player                |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| jaw                   |      19      |             11             |             32             |                 32                 |           16            |              68              |                5                |   18   |              6              |                 11                  |            0             |              67               |             6              |
-| J13                   |      13      |             23             |             15             |                 31                 |           15            |              77              |                0                |   17   |             18              |                 12                  |            0             |              65               |             24             |
-| goo                   |      12      |             25             |             8              |                 0                  |            0            |              58              |                0                |   15   |              0              |                 13                  |            0             |              73               |             7              |
-| R0cco                 |      11      |             18             |             27             |                 18                 |            0            |              91              |                0                |   15   |              7              |                  7                  |            0             |              67               |             0              |
-| craqin                |      2       |             0              |             0              |                 0                  |            0            |             100              |                0                |   18   |             28              |                 11                  |            6             |              72               |             0              |
+| **The Burger People** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player                |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Saiyan                |      26      |             35             |             8              |                 38                 |           19            |              81              |                8                |                   0                   |         9          |     5     |
+| RichardR8             |      21      |             5              |             10             |                 29                 |           19            |              62              |                5                |                   5                   |         0          |     2     |
+| Ayohhh                |      12      |             0              |             25             |                 50                 |            0            |              58              |               17                |                   0                   |         0          |     2     |
+| tequeneek             |      11      |             18             |             9              |                 18                 |            9            |              73              |                9                |                   9                   |         0          |     0     |
+| EagleyeFoley          |      12      |             0              |             17             |                 25                 |            8            |              58              |                0                |                   0                   |         0          |     1     |
+|                       |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                       |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                       |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **jawgoo express**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player                |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| jaw                   |      19      |             11             |             32             |                 32                 |           16            |              68              |                5                |                   0                   |         0          |     1     |
+| J13                   |      13      |             23             |             15             |                 31                 |           15            |              77              |                0                |                   0                   |         0          |     0     |
+| goo                   |      12      |             25             |             8              |                 0                  |            0            |              58              |                0                |                   8                   |         0          |     0     |
+| R0cco                 |      11      |             18             |             27             |                 18                 |            0            |              91              |                0                |                   0                   |         0          |     1     |
+| craqin                |      2       |             0              |             0              |                 0                  |            0            |             100              |                0                |                  50                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **The Burger People** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player                |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Saiyan                |      10      |              0              |                30                 |            0             |              90               |             0              |             0             |       0       |
+| RichardR8             |      12      |             25              |                33                 |            0             |              75               |             0              |             0             |       0       |
+| Ayohhh                |      13      |             23              |                15                 |            0             |              69               |             0              |             0             |       0       |
+| tequeneek             |      11      |             36              |                18                 |            0             |              82               |             0              |             0             |       0       |
+| EagleyeFoley          |      12      |             17              |                25                 |            0             |              58               |             8              |            17             |       0       |
+|                       |              |                             |                                   |                          |                               |                            |                           |               |
+|                       |              |                             |                                   |                          |                               |                            |                           |               |
+|                       |              |                             |                                   |                          |                               |                            |                           |               |
+| **jawgoo express**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player                |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| jaw                   |      18      |              6              |                11                 |            0             |              67               |             6              |             0             |       2       |
+| J13                   |      17      |             18              |                12                 |            0             |              65               |             24             |             0             |       3       |
+| goo                   |      15      |              0              |                13                 |            0             |              73               |             7              |             0             |       1       |
+| R0cco                 |      15      |              7              |                 7                 |            0             |              67               |             0              |             7             |       3       |
+| craqin                |      18      |             28              |                11                 |            6             |              72               |             0              |             6             |       0       |

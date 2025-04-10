@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-12  
 **Teams**: PeaceMakers vs big water  
 
-## **Map**: de_nuke - PeaceMakers (13) vs big water (8)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | big water | Banned | de_train |
+| 2 | PeaceMakers | Banned | de_ancient |
+| 3 | PeaceMakers | Banned | de_mirage |
+| 4 | big water | Banned | de_inferno |
+| 5 | big water | Banned | de_dust2 |
+| 6 | PeaceMakers | Banned | de_anubis |
+| 7 | big water | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - PeaceMakers (13) vs big water (8)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Failology       |     0.45     | 57.14 |        66.67         |                         100.00                         |           60.00           |                           100.00                            |          71.43           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **PeaceMakers** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| BuellcR         |      21      |             29             |             19             |                 24                 |           10            |              62              |                0                |   14   |             43              |                 29                  |            14            |              79               |             7              |
-| tyrant          |      19      |             26             |             16             |                 32                 |           21            |              58              |                5                |   14   |             50              |                 29                  |            14            |              57               |             0              |
-| Sage            |      17      |             24             |             35             |                 35                 |           12            |              65              |               12                |   13   |             23              |                 31                  |            8             |              69               |             8              |
-| JMZ             |      13      |             23             |             23             |                 54                 |           38            |              54              |                0                |   15   |             27              |                 20                  |            13            |              80               |             0              |
-| PeaseCentral    |      12      |             0              |             0              |                 25                 |           17            |              75              |                0                |   10   |             20              |                 10                  |            0             |              80               |             0              |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **big water**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| sqroobz         |      20      |             20             |             10             |                 10                 |            0            |              70              |                0                |   14   |             14              |                  7                  |            0             |              64               |             7              |
-| Sweau           |      16      |             13             |             31             |                 38                 |           25            |              63              |                0                |   17   |             35              |                  6                  |            0             |              65               |             0              |
-| Hedge           |      12      |             42             |             50             |                 8                  |            8            |              92              |                8                |   18   |              6              |                 11                  |            0             |              67               |             0              |
-| trad            |      13      |             8              |             46             |                 31                 |            0            |              85              |                8                |   17   |             29              |                 12                  |            0             |              59               |             0              |
-| Failology       |      5       |             0              |             60             |                 40                 |            0            |              40              |                0                |   16   |             13              |                  6                  |            0             |              56               |             13             |
+| **PeaceMakers** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| BuellcR         |      21      |             29             |             19             |                 24                 |           10            |              62              |                0                |                   0                   |         0          |     2     |
+| tyrant          |      19      |             26             |             16             |                 32                 |           21            |              58              |                5                |                   0                   |         0          |     2     |
+| Sage            |      17      |             24             |             35             |                 35                 |           12            |              65              |               12                |                   0                   |         0          |     1     |
+| JMZ             |      13      |             23             |             23             |                 54                 |           38            |              54              |                0                |                   0                   |         0          |     3     |
+| PeaseCentral    |      12      |             0              |             0              |                 25                 |           17            |              75              |                0                |                   8                   |         8          |     0     |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **big water**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| sqroobz         |      20      |             20             |             10             |                 10                 |            0            |              70              |                0                |                   0                   |         1          |     6     |
+| Sweau           |      16      |             13             |             31             |                 38                 |           25            |              63              |                0                |                   6                   |         0          |     0     |
+| Hedge           |      12      |             42             |             50             |                 8                  |            8            |              92              |                8                |                   0                   |         0          |     0     |
+| trad            |      13      |             8              |             46             |                 31                 |            0            |              85              |                8                |                   0                   |         10         |     0     |
+| Failology       |      5       |             0              |             60             |                 40                 |            0            |              40              |                0                |                  20                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **PeaceMakers** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| BuellcR         |      14      |             43              |                29                 |            14            |              79               |             7              |             0             |       0       |
+| tyrant          |      14      |             50              |                29                 |            14            |              57               |             0              |             7             |       3       |
+| Sage            |      13      |             23              |                31                 |            8             |              69               |             8              |             0             |       1       |
+| JMZ             |      15      |             27              |                20                 |            13            |              80               |             0              |             7             |       4       |
+| PeaseCentral    |      10      |             20              |                10                 |            0             |              80               |             0              |             0             |       3       |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+| **big water**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| sqroobz         |      14      |             14              |                 7                 |            0             |              64               |             7              |             7             |       3       |
+| Sweau           |      17      |             35              |                 6                 |            0             |              65               |             0              |             0             |       1       |
+| Hedge           |      18      |              6              |                11                 |            0             |              67               |             0              |             0             |       1       |
+| trad            |      17      |             29              |                12                 |            0             |              59               |             0              |             0             |       3       |
+| Failology       |      16      |             13              |                 6                 |            0             |              56               |             13             |             0             |       0       |

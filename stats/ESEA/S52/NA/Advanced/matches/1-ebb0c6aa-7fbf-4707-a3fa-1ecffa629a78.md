@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-22  
 **Teams**: edgebugoffsilo vs F5 Esports  
 
-## **Map**: de_anubis - edgebugoffsilo (13) vs F5 Esports (10)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | edgebugoffsilo | Banned | de_nuke |
+| 2 | F5 Esports | Banned | de_mirage |
+| 3 | F5 Esports | Banned | de_train |
+| 4 | edgebugoffsilo | Banned | de_inferno |
+| 5 | edgebugoffsilo | Banned | de_dust2 |
+| 6 | F5 Esports | Banned | de_ancient |
+| 7 | edgebugoffsilo | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - edgebugoffsilo (13) vs F5 Esports (10)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Blitz1230          |     0.71     | 73.91 |        58.82         |                         100.00                         |           77.78           |                           100.00                            |          37.50           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **edgebugoffsilo** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| conq               |      20      |             20             |             10             |                 35                 |           30            |              70              |                0                |   11   |             18              |                 27                  |            0             |              73               |             0              |
-| Iingo              |      18      |             11             |             39             |                 28                 |           11            |              67              |                0                |   16   |             19              |                 19                  |            0             |              56               |             13             |
-| peppa              |      14      |             14             |             14             |                 14                 |           14            |              43              |               36                |   15   |             27              |                 27                  |            7             |              73               |             13             |
-| jono               |      16      |             13             |             38             |                 19                 |           19            |              75              |               19                |   17   |             24              |                 24                  |            6             |              76               |             0              |
-| MGEGOD69           |      16      |             25             |             44             |                 31                 |           13            |              56              |               13                |   16   |             13              |                 19                  |            0             |              63               |             6              |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **F5 Esports**     | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Gibbyatl           |      21      |             33             |             5              |                 24                 |            0            |              81              |                0                |   16   |             13              |                 13                  |            6             |              69               |             13             |
-| hushw0w            |      14      |             14             |             36             |                 29                 |           14            |              64              |                7                |   17   |             35              |                  6                  |            0             |              59               |             6              |
-| no1nx              |      16      |             38             |             6              |                 25                 |           19            |              50              |                0                |   16   |             19              |                  6                  |            0             |              50               |             13             |
-| FuuuZion           |      15      |             27             |             20             |                 7                  |            0            |              73              |               13                |   17   |             35              |                  6                  |            0             |              76               |             0              |
-| Blitz1230          |      8       |             38             |             50             |                 0                  |            0            |              63              |               25                |   19   |             32              |                  5                  |            0             |              53               |             26             |
+| **edgebugoffsilo** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| conq               |      20      |             20             |             10             |                 35                 |           30            |              70              |                0                |                   0                   |         0          |     1     |
+| Iingo              |      18      |             11             |             39             |                 28                 |           11            |              67              |                0                |                   6                   |         1          |     3     |
+| peppa              |      14      |             14             |             14             |                 14                 |           14            |              43              |               36                |                   7                   |         0          |     3     |
+| jono               |      16      |             13             |             38             |                 19                 |           19            |              75              |               19                |                   0                   |         2          |     0     |
+| MGEGOD69           |      16      |             25             |             44             |                 31                 |           13            |              56              |               13                |                   6                   |         7          |     0     |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **F5 Esports**     | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Gibbyatl           |      21      |             33             |             5              |                 24                 |            0            |              81              |                0                |                   0                   |         0          |     2     |
+| hushw0w            |      14      |             14             |             36             |                 29                 |           14            |              64              |                7                |                   0                   |         0          |     2     |
+| no1nx              |      16      |             38             |             6              |                 25                 |           19            |              50              |                0                |                   6                   |         0          |     1     |
+| FuuuZion           |      15      |             27             |             20             |                 7                  |            0            |              73              |               13                |                   0                   |         6          |     0     |
+| Blitz1230          |      8       |             38             |             50             |                 0                  |            0            |              63              |               25                |                  13                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **edgebugoffsilo** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| conq               |      11      |             18              |                27                 |            0             |              73               |             0              |             0             |       1       |
+| Iingo              |      16      |             19              |                19                 |            0             |              56               |             13             |             6             |       0       |
+| peppa              |      15      |             27              |                27                 |            7             |              73               |             13             |             0             |       1       |
+| jono               |      17      |             24              |                24                 |            6             |              76               |             0              |             6             |       2       |
+| MGEGOD69           |      16      |             13              |                19                 |            0             |              63               |             6              |             0             |       2       |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+| **F5 Esports**     | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Gibbyatl           |      16      |             13              |                13                 |            6             |              69               |             13             |             6             |       0       |
+| hushw0w            |      17      |             35              |                 6                 |            0             |              59               |             6              |             6             |       2       |
+| no1nx              |      16      |             19              |                 6                 |            0             |              50               |             13             |             0             |       3       |
+| FuuuZion           |      17      |             35              |                 6                 |            0             |              76               |             0              |             0             |       3       |
+| Blitz1230          |      19      |             32              |                 5                 |            0             |              53               |             26             |             5             |       2       |

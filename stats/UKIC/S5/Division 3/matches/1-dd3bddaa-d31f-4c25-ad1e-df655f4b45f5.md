@@ -2,7 +2,21 @@
 **Match Date**: 2025-03-11  
 **Teams**: IntoTheBrunk vs Tempest  
 
-## **Map**: de_nuke - IntoTheBrunk (13) vs Tempest (6)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | IntoTheBrunk | Banned | de_anubis |
+| 2 | Tempest | Banned | de_dust2 |
+| 3 | Tempest | Banned | de_train |
+| 4 | IntoTheBrunk | Banned | de_mirage |
+| 5 | IntoTheBrunk | Banned | de_inferno |
+| 6 | Tempest | Banned | de_ancient |
+| 7 | IntoTheBrunk | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - IntoTheBrunk (13) vs Tempest (6)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Bumlehak         |     0.69     | 57.89 |        45.45         |                         83.33                          |           0.00            |                            0.00                             |          100.00          |                           83.33                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **IntoTheBrunk** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| maxkc            |      25      |             12             |             20             |                 48                 |           24            |              72              |               12                |   11   |             27              |                 27                  |            0             |              36               |             9              |
-| BiS64            |      19      |             11             |             5              |                 47                 |            5            |              58              |                5                |   12   |              8              |                 33                  |            8             |              67               |             0              |
-| Brung666         |      14      |             0              |             36             |                 29                 |            7            |             100              |                0                |   11   |             18              |                 27                  |            9             |              64               |             18             |
-| orlando          |      14      |             14             |             29             |                 64                 |            7            |              64              |               14                |   11   |              9              |                 18                  |            9             |              55               |             9              |
-| Dill             |      8       |             13             |             0              |                 25                 |           13            |              75              |                0                |   11   |              9              |                 18                  |            9             |              55               |             9              |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Tempest**      | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| _Airz            |      11      |             45             |             18             |                 9                  |            9            |              73              |                0                |   16   |             13              |                  6                  |            0             |              75               |             0              |
-| mexzyy           |      11      |             9              |             18             |                 18                 |            0            |              45              |                0                |   17   |             29              |                  6                  |            0             |              59               |             18             |
-| Poirs            |      13      |             15             |             8              |                 38                 |           23            |              62              |               23                |   16   |              6              |                  6                  |            0             |              88               |             6              |
-| Lewi3UK          |      9       |             11             |             22             |                 44                 |           11            |              44              |               22                |   16   |             38              |                  6                  |            0             |              69               |             13             |
-| Bumlehak         |      10      |             20             |             10             |                 10                 |            0            |              60              |                0                |   17   |              6              |                 18                  |            6             |              76               |             0              |
+| **IntoTheBrunk** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| maxkc            |      25      |             12             |             20             |                 48                 |           24            |              72              |               12                |                   4                   |         0          |     1     |
+| BiS64            |      19      |             11             |             5              |                 47                 |            5            |              58              |                5                |                  11                   |         0          |     3     |
+| Brung666         |      14      |             0              |             36             |                 29                 |            7            |             100              |                0                |                   0                   |         1          |     4     |
+| orlando          |      14      |             14             |             29             |                 64                 |            7            |              64              |               14                |                   0                   |         0          |     0     |
+| Dill             |      8       |             13             |             0              |                 25                 |           13            |              75              |                0                |                   0                   |         6          |     0     |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                  |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Tempest**      | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| _Airz            |      11      |             45             |             18             |                 9                  |            9            |              73              |                0                |                   0                   |         0          |     1     |
+| mexzyy           |      11      |             9              |             18             |                 18                 |            0            |              45              |                0                |                   0                   |         0          |     4     |
+| Poirs            |      13      |             15             |             8              |                 38                 |           23            |              62              |               23                |                   8                   |         0          |     0     |
+| Lewi3UK          |      9       |             11             |             22             |                 44                 |           11            |              44              |               22                |                   0                   |         0          |     2     |
+| Bumlehak         |      10      |             20             |             10             |                 10                 |            0            |              60              |                0                |                   0                   |         2          |     1     |
+## Extended Deaths Stats  
+
+| **IntoTheBrunk** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| maxkc            |      11      |             27              |                27                 |            0             |              36               |             9              |             0             |       0       |
+| BiS64            |      12      |              8              |                33                 |            8             |              67               |             0              |             0             |       1       |
+| Brung666         |      11      |             18              |                27                 |            9             |              64               |             18             |             9             |       1       |
+| orlando          |      11      |              9              |                18                 |            9             |              55               |             9              |             0             |       1       |
+| Dill             |      11      |              9              |                18                 |            9             |              55               |             9              |             0             |       0       |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+|                  |              |                             |                                   |                          |                               |                            |                           |               |
+| **Tempest**      | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player           |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| _Airz            |      16      |             13              |                 6                 |            0             |              75               |             0              |            13             |       1       |
+| mexzyy           |      17      |             29              |                 6                 |            0             |              59               |             18             |             0             |       1       |
+| Poirs            |      16      |              6              |                 6                 |            0             |              88               |             6              |             0             |       1       |
+| Lewi3UK          |      16      |             38              |                 6                 |            0             |              69               |             13             |             6             |       1       |
+| Bumlehak         |      17      |              6              |                18                 |            6             |              76               |             0              |             0             |       2       |

@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-23  
 **Teams**: Diamant Esports vs w0wClan  
 
-## **Map**: de_dust2 - Diamant Esports (13) vs w0wClan (5)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Diamant Esports | Banned | de_inferno |
+| 2 | w0wClan | Banned | de_ancient |
+| 3 | w0wClan | Banned | de_mirage |
+| 4 | Diamant Esports | Banned | de_train |
+| 5 | Diamant Esports | Banned | de_nuke |
+| 6 | w0wClan | Banned | de_anubis |
+| 7 | Diamant Esports | Picked | de_dust2 |
+
+---  
+
+### **Map**: de_dust2 - Diamant Esports (13) vs w0wClan (5)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Crystalhand         |     0.37     | 50.00 |        44.44         |                         80.00                          |           33.33           |                           100.00                            |          50.00           |                           75.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Diamant Esports** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| _Libraa             |      21      |             14             |             10             |                 48                 |           14            |              67              |                0                |   6    |             33              |                 17                  |            0             |              67               |             0              |
-| jkXy                |      20      |             15             |             10             |                 50                 |           15            |              90              |                0                |   8    |             38              |                 13                  |            13            |              88               |             13             |
-| Jernejj             |      14      |             29             |             7              |                 14                 |            7            |              71              |               29                |   8    |              0              |                 25                  |            13            |              63               |             0              |
-| JuN1                |      10      |             10             |             30             |                 70                 |           20            |              70              |                0                |   12   |             33              |                 25                  |            0             |              42               |             8              |
-| Destro_YD           |      9       |             11             |             33             |                 67                 |           11            |              67              |               11                |   13   |             31              |                 38                  |            8             |              46               |             8              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **w0wClan**         | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| -Swexsy             |      12      |             25             |             25             |                 17                 |           17            |              50              |                8                |   15   |             20              |                 20                  |            7             |              73               |             7              |
-| obyj                |      12      |             0              |             25             |                 17                 |            8            |              67              |                8                |   15   |             13              |                 20                  |            7             |              73               |             7              |
-| Zuedsta             |      9       |             56             |             56             |                 11                 |            0            |              56              |                0                |   15   |             13              |                 20                  |            7             |              73               |             20             |
-| bilzer              |      9       |             0              |             0              |                 11                 |            0            |              67              |               11                |   14   |              7              |                 21                  |            7             |              93               |             0              |
-| Crystalhand         |      5       |             0              |             40             |                 0                  |            0            |              40              |                0                |   15   |             20              |                 20                  |            7             |              60               |             0              |
+| **Diamant Esports** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| _Libraa             |      21      |             14             |             10             |                 48                 |           14            |              67              |                0                |                   0                   |         0          |     1     |
+| jkXy                |      20      |             15             |             10             |                 50                 |           15            |              90              |                0                |                   5                   |         11         |     2     |
+| Jernejj             |      14      |             29             |             7              |                 14                 |            7            |              71              |               29                |                   7                   |         0          |     2     |
+| JuN1                |      10      |             10             |             30             |                 70                 |           20            |              70              |                0                |                   0                   |         0          |     0     |
+| Destro_YD           |      9       |             11             |             33             |                 67                 |           11            |              67              |               11                |                  11                   |         0          |     1     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **w0wClan**         | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| -Swexsy             |      12      |             25             |             25             |                 17                 |           17            |              50              |                8                |                   0                   |         0          |     1     |
+| obyj                |      12      |             0              |             25             |                 17                 |            8            |              67              |                8                |                   0                   |         1          |     1     |
+| Zuedsta             |      9       |             56             |             56             |                 11                 |            0            |              56              |                0                |                  11                   |         0          |     1     |
+| bilzer              |      9       |             0              |             0              |                 11                 |            0            |              67              |               11                |                  11                   |         5          |     2     |
+| Crystalhand         |      5       |             0              |             40             |                 0                  |            0            |              40              |                0                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Diamant Esports** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| _Libraa             |      6       |             33              |                17                 |            0             |              67               |             0              |             0             |       0       |
+| jkXy                |      8       |             38              |                13                 |            13            |              88               |             13             |             0             |       2       |
+| Jernejj             |      8       |              0              |                25                 |            13            |              63               |             0              |             0             |       1       |
+| JuN1                |      12      |             33              |                25                 |            0             |              42               |             8              |            17             |       2       |
+| Destro_YD           |      13      |             31              |                38                 |            8             |              46               |             8              |             0             |       1       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **w0wClan**         | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| -Swexsy             |      15      |             20              |                20                 |            7             |              73               |             7              |             7             |       2       |
+| obyj                |      15      |             13              |                20                 |            7             |              73               |             7              |             7             |       3       |
+| Zuedsta             |      15      |             13              |                20                 |            7             |              73               |             20             |             7             |       1       |
+| bilzer              |      14      |              7              |                21                 |            7             |              93               |             0              |             0             |       4       |
+| Crystalhand         |      15      |             20              |                20                 |            7             |              60               |             0              |             0             |       1       |

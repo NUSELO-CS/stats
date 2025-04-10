@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-16  
 **Teams**: Immigrants peek vs Straight2Killin  
 
-## **Map**: de_train - Immigrants peek (13) vs Straight2Killin (8)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Straight2Killin | Banned | de_ancient |
+| 2 | Immigrants peek | Banned | de_mirage |
+| 3 | Immigrants peek | Banned | de_inferno |
+| 4 | Straight2Killin | Banned | de_anubis |
+| 5 | Straight2Killin | Banned | de_dust2 |
+| 6 | Immigrants peek | Banned | de_nuke |
+| 7 | Straight2Killin | Picked | de_train |
+
+---  
+
+### **Map**: de_train - Immigrants peek (13) vs Straight2Killin (8)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | -X23                |     0.37     | 38.10 |        66.67         |                         75.00                          |           50.00           |                           100.00                            |          80.00           |                           66.67                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Immigrants peek** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Nico1ajus           |      25      |             20             |             20             |                 48                 |           24            |              84              |                0                |   12   |             33              |                 33                  |            8             |              75               |             17             |
-| Bezymeccc           |      22      |             23             |             18             |                 36                 |            9            |              64              |                0                |   11   |             18              |                 45                  |            9             |              36               |             18             |
-| H0NeST              |      21      |             5              |             19             |                 57                 |           29            |              81              |                0                |   14   |             29              |                 29                  |            0             |              57               |             0              |
-| hysssteria          |      11      |             0              |             0              |                 55                 |            9            |              73              |                9                |   11   |              9              |                 36                  |            0             |              73               |             0              |
-| ARTEM_DZYUBA        |      11      |             9              |             18             |                 36                 |            0            |              64              |                0                |   13   |             15              |                 38                  |            8             |              46               |             0              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Straight2Killin** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Elxhin              |      21      |             24             |             29             |                 14                 |            5            |              48              |               10                |   17   |             18              |                 18                  |            6             |              71               |             0              |
-| -VulcaN-            |      16      |             13             |             0              |                 19                 |            6            |              56              |                6                |   17   |             18              |                 18                  |            6             |              76               |             0              |
-| Brashi              |      7       |             57             |             43             |                 29                 |            0            |              43              |                0                |   18   |             33              |                 17                  |            6             |              83               |             0              |
-| zyz                 |      9       |             22             |             33             |                 22                 |           22            |              67              |               11                |   20   |             15              |                 15                  |            0             |              60               |             0              |
-| -X23                |      8       |             25             |             13             |                 13                 |           13            |              88              |                0                |   18   |              0              |                 17                  |            0             |              83               |             6              |
+| **Immigrants peek** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Nico1ajus           |      25      |             20             |             20             |                 48                 |           24            |              84              |                0                |                   4                   |         8          |     0     |
+| Bezymeccc           |      22      |             23             |             18             |                 36                 |            9            |              64              |                0                |                   5                   |         0          |     4     |
+| H0NeST              |      21      |             5              |             19             |                 57                 |           29            |              81              |                0                |                  10                   |         0          |     1     |
+| hysssteria          |      11      |             0              |             0              |                 55                 |            9            |              73              |                9                |                   0                   |         0          |     1     |
+| ARTEM_DZYUBA        |      11      |             9              |             18             |                 36                 |            0            |              64              |                0                |                   0                   |         0          |     2     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Straight2Killin** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Elxhin              |      21      |             24             |             29             |                 14                 |            5            |              48              |               10                |                   0                   |         0          |     3     |
+| -VulcaN-            |      16      |             13             |             0              |                 19                 |            6            |              56              |                6                |                   6                   |         6          |     1     |
+| Brashi              |      7       |             57             |             43             |                 29                 |            0            |              43              |                0                |                   0                   |         0          |     1     |
+| zyz                 |      9       |             22             |             33             |                 22                 |           22            |              67              |               11                |                   0                   |         0          |     1     |
+| -X23                |      8       |             25             |             13             |                 13                 |           13            |              88              |                0                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Immigrants peek** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Nico1ajus           |      12      |             33              |                33                 |            8             |              75               |             17             |             8             |       1       |
+| Bezymeccc           |      11      |             18              |                45                 |            9             |              36               |             18             |             0             |       2       |
+| H0NeST              |      14      |             29              |                29                 |            0             |              57               |             0              |             0             |       1       |
+| hysssteria          |      11      |              9              |                36                 |            0             |              73               |             0              |             0             |       0       |
+| ARTEM_DZYUBA        |      13      |             15              |                38                 |            8             |              46               |             0              |             0             |       2       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **Straight2Killin** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Elxhin              |      17      |             18              |                18                 |            6             |              71               |             0              |             0             |       1       |
+| -VulcaN-            |      17      |             18              |                18                 |            6             |              76               |             0              |             6             |       2       |
+| Brashi              |      18      |             33              |                17                 |            6             |              83               |             0              |            11             |       2       |
+| zyz                 |      20      |             15              |                15                 |            0             |              60               |             0              |             5             |       0       |
+| -X23                |      18      |              0              |                17                 |            0             |              83               |             6              |             0             |       3       |

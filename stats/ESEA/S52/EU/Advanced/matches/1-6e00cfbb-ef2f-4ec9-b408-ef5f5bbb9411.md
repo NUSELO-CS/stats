@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-23  
 **Teams**: XPERION NXT vs Persona Grata  
 
-## **Map**: de_ancient - XPERION NXT (4) vs Persona Grata (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Persona Grata | Banned | de_nuke |
+| 2 | XPERION NXT | Banned | de_inferno |
+| 3 | XPERION NXT | Banned | de_dust2 |
+| 4 | Persona Grata | Banned | de_train |
+| 5 | Persona Grata | Banned | de_mirage |
+| 6 | XPERION NXT | Banned | de_anubis |
+| 7 | Persona Grata | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - XPERION NXT (4) vs Persona Grata (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | --majky           |     1.16     | 58.82  |        90.00         |                         69.23                          |          100.00           |                            75.00                            |          85.71           |                           66.67                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **XPERION NXT**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| jansen            |      10      |             40             |             0              |                 0                  |            0            |              40              |               10                |   12   |             25              |                 17                  |            0             |              67               |             25             |
-| pxsl              |      10      |             20             |             30             |                 0                  |            0            |              80              |               20                |   13   |             31              |                 15                  |            0             |              77               |             8              |
-| Tr1cky999         |      10      |             20             |             40             |                 10                 |            0            |              60              |               20                |   17   |             18              |                 12                  |            0             |              65               |             18             |
-| Rhyzar            |      11      |             27             |             45             |                 9                  |            0            |              55              |                9                |   16   |             25              |                 13                  |            0             |              75               |             6              |
-| sheezy            |      7       |             29             |             29             |                 0                  |            0            |              57              |               14                |   14   |             21              |                 14                  |            0             |              64               |             7              |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Persona Grata** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| byr9-YB-          |      21      |             24             |             19             |                 24                 |            0            |              52              |               14                |   9    |             22              |                 33                  |            11            |              44               |             22             |
-| perkseN           |      14      |             21             |             7              |                 36                 |           36            |              86              |                7                |   8    |             50              |                 38                  |            13            |              75               |             13             |
-| ArroW             |      12      |             25             |             33             |                 17                 |            8            |              50              |               17                |   11   |             18              |                 27                  |            0             |              45               |             18             |
-| afroo-            |      11      |             9              |             27             |                 36                 |            9            |              82              |                9                |   9    |             33              |                 11                  |            0             |              89               |             11             |
-| --majky           |      14      |             7              |             36             |                 86                 |           57            |              86              |               14                |   11   |             27              |                 27                  |            18            |              55               |             9              |
+| **XPERION NXT**   | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| jansen            |      10      |             40             |             0              |                 0                  |            0            |              40              |               10                |                   0                   |         0          |     1     |
+| pxsl              |      10      |             20             |             30             |                 0                  |            0            |              80              |               20                |                  10                   |         2          |     2     |
+| Tr1cky999         |      10      |             20             |             40             |                 10                 |            0            |              60              |               20                |                  20                   |         0          |     3     |
+| Rhyzar            |      11      |             27             |             45             |                 9                  |            0            |              55              |                9                |                   9                   |         0          |     1     |
+| sheezy            |      7       |             29             |             29             |                 0                  |            0            |              57              |               14                |                   0                   |         2          |     1     |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Persona Grata** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| byr9-YB-          |      21      |             24             |             19             |                 24                 |            0            |              52              |               14                |                   0                   |         0          |     1     |
+| perkseN           |      14      |             21             |             7              |                 36                 |           36            |              86              |                7                |                   0                   |         1          |     1     |
+| ArroW             |      12      |             25             |             33             |                 17                 |            8            |              50              |               17                |                   8                   |         0          |     4     |
+| afroo-            |      11      |             9              |             27             |                 36                 |            9            |              82              |                9                |                   0                   |         4          |     0     |
+| --majky           |      14      |             7              |             36             |                 86                 |           57            |              86              |               14                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **XPERION NXT**   | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| jansen            |      12      |             25              |                17                 |            0             |              67               |             25             |             0             |       0       |
+| pxsl              |      13      |             31              |                15                 |            0             |              77               |             8              |             0             |       1       |
+| Tr1cky999         |      17      |             18              |                12                 |            0             |              65               |             18             |             6             |       2       |
+| Rhyzar            |      16      |             25              |                13                 |            0             |              75               |             6              |             0             |       2       |
+| sheezy            |      14      |             21              |                14                 |            0             |              64               |             7              |             0             |       0       |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+| **Persona Grata** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| byr9-YB-          |      9       |             22              |                33                 |            11            |              44               |             22             |             0             |       2       |
+| perkseN           |      8       |             50              |                38                 |            13            |              75               |             13             |            13             |       1       |
+| ArroW             |      11      |             18              |                27                 |            0             |              45               |             18             |             9             |       0       |
+| afroo-            |      9       |             33              |                11                 |            0             |              89               |             11             |            11             |       0       |
+| --majky           |      11      |             27              |                27                 |            18            |              55               |             9              |             9             |       1       |

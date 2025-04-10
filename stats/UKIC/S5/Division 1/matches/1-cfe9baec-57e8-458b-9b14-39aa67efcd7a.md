@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-25  
 **Teams**: ALASKA vs Belfast Storm  
 
-## **Map**: de_train - ALASKA (16) vs Belfast Storm (14)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Belfast Storm | Banned | de_anubis |
+| 2 | ALASKA | Banned | de_ancient |
+| 3 | ALASKA | Banned | de_mirage |
+| 4 | Belfast Storm | Banned | de_nuke |
+| 5 | Belfast Storm | Banned | de_inferno |
+| 6 | ALASKA | Banned | de_dust2 |
+| 7 | Belfast Storm | Picked | de_train |
+
+---  
+
+### **Map**: de_train - ALASKA (16) vs Belfast Storm (14)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Stop_it           |     0.52     | 53.33 |        75.00         |                         85.71                          |           85.71           |                            75.00                            |          66.67           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **ALASKA**        | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| ArTLanM4shad      |      25      |             8              |             24             |                 20                 |           16            |              64              |                0                |   17   |             29              |                 18                  |            6             |              71               |             0              |
-| Girafffe          |      23      |             22             |             13             |                 30                 |            9            |              61              |                4                |   19   |             26              |                 16                  |            5             |              53               |             0              |
-| Tree60            |      21      |             29             |             0              |                 24                 |           10            |              67              |                5                |   14   |             14              |                 29                  |            7             |              71               |             0              |
-| Vacancy           |      20      |             15             |             20             |                 15                 |            5            |              55              |                0                |   23   |             22              |                 17                  |            4             |              39               |             0              |
-| Extinct           |      18      |             11             |             28             |                 28                 |            0            |              72              |                6                |   22   |              9              |                 18                  |            5             |              64               |             5              |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Belfast Storm** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Finuiii           |      24      |             13             |             17             |                 8                  |            0            |              67              |                0                |   21   |             19              |                 14                  |            0             |              57               |             5              |
-| _devi1            |      27      |             22             |             4              |                 26                 |            0            |              56              |                4                |   20   |             20              |                 10                  |            0             |              65               |             0              |
-| Nem               |      18      |             11             |             33             |                 17                 |            0            |              56              |                0                |   23   |             26              |                  9                  |            0             |              57               |             4              |
-| dexie             |      15      |             20             |             20             |                 13                 |            0            |              60              |                0                |   20   |             10              |                 15                  |            0             |              85               |             5              |
-| Stop_it           |      11      |             27             |             45             |                 9                  |            0            |              45              |                0                |   23   |              9              |                  9                  |            0             |              57               |             0              |
+| **ALASKA**        | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| ArTLanM4shad      |      25      |             8              |             24             |                 20                 |           16            |              64              |                0                |                   4                   |         9          |     3     |
+| Girafffe          |      23      |             22             |             13             |                 30                 |            9            |              61              |                4                |                   0                   |         0          |     2     |
+| Tree60            |      21      |             29             |             0              |                 24                 |           10            |              67              |                5                |                   0                   |         1          |     3     |
+| Vacancy           |      20      |             15             |             20             |                 15                 |            5            |              55              |                0                |                  15                   |         1          |     0     |
+| Extinct           |      18      |             11             |             28             |                 28                 |            0            |              72              |                6                |                   6                   |         0          |     1     |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Belfast Storm** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Finuiii           |      24      |             13             |             17             |                 8                  |            0            |              67              |                0                |                   0                   |         0          |     2     |
+| _devi1            |      27      |             22             |             4              |                 26                 |            0            |              56              |                4                |                   0                   |         5          |     0     |
+| Nem               |      18      |             11             |             33             |                 17                 |            0            |              56              |                0                |                  22                   |         0          |     2     |
+| dexie             |      15      |             20             |             20             |                 13                 |            0            |              60              |                0                |                   7                   |         11         |     1     |
+| Stop_it           |      11      |             27             |             45             |                 9                  |            0            |              45              |                0                |                   9                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **ALASKA**        | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| ArTLanM4shad      |      17      |             29              |                18                 |            6             |              71               |             0              |             0             |       4       |
+| Girafffe          |      19      |             26              |                16                 |            5             |              53               |             0              |             5             |       2       |
+| Tree60            |      14      |             14              |                29                 |            7             |              71               |             0              |             7             |       1       |
+| Vacancy           |      23      |             22              |                17                 |            4             |              39               |             0              |             4             |       4       |
+| Extinct           |      22      |              9              |                18                 |            5             |              64               |             5              |            14             |       5       |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+| **Belfast Storm** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Finuiii           |      21      |             19              |                14                 |            0             |              57               |             5              |             0             |       3       |
+| _devi1            |      20      |             20              |                10                 |            0             |              65               |             0              |             5             |       4       |
+| Nem               |      23      |             26              |                 9                 |            0             |              57               |             4              |             4             |       1       |
+| dexie             |      20      |             10              |                15                 |            0             |              85               |             5              |             5             |       0       |
+| Stop_it           |      23      |              9              |                 9                 |            0             |              57               |             0              |             9             |       3       |

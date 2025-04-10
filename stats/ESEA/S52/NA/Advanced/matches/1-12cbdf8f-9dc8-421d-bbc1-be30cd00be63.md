@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-27  
 **Teams**: RedactedSociety vs GrannysKnockers  
 
-## **Map**: de_nuke - RedactedSociety (10) vs GrannysKnockers (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | GrannysKnockers | Banned | de_mirage |
+| 2 | RedactedSociety | Banned | de_dust2 |
+| 3 | RedactedSociety | Banned | de_ancient |
+| 4 | GrannysKnockers | Banned | de_anubis |
+| 5 | GrannysKnockers | Banned | de_train |
+| 6 | RedactedSociety | Banned | de_inferno |
+| 7 | GrannysKnockers | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - RedactedSociety (10) vs GrannysKnockers (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | SeRCE_              |     0.82     | 65.22 |        73.33         |                         84.62                          |           66.67           |                            85.71                            |          83.33           |                           83.33                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **RedactedSociety** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| xxera               |      24      |             13             |             0              |                 33                 |           21            |              54              |               13                |   15   |              7              |                  7                  |            7             |              67               |             0              |
-| Signal              |      20      |             0              |             25             |                 40                 |           20            |              55              |               10                |   17   |             12              |                 12                  |            12            |              41               |             0              |
-| dirtydan            |      17      |             24             |             6              |                 29                 |           29            |              47              |               12                |   14   |             14              |                  7                  |            0             |              79               |             0              |
-| Tr1ck               |      10      |             40             |             40             |                 30                 |           10            |              80              |                0                |   19   |             16              |                 16                  |            5             |              74               |             0              |
-| -_Maru_-            |      5       |             20             |             0              |                 20                 |            0            |              40              |               20                |   16   |             25              |                  0                  |            0             |              75               |             6              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **GrannysKnockers** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| fatguy              |      21      |             5              |             29             |                 43                 |           14            |              52              |                0                |   18   |             17              |                 28                  |            6             |              56               |             6              |
-| Hebizera            |      18      |             17             |             6              |                 22                 |            6            |              78              |                0                |   15   |             27              |                 27                  |            0             |              60               |             13             |
-| 0wenCS              |      16      |             6              |             6              |                 31                 |            6            |              44              |                6                |   13   |             15              |                 23                  |            0             |              38               |             8              |
-| squidward_2         |      15      |             7              |             13             |                 27                 |            7            |              80              |                0                |   14   |              0              |                 29                  |            0             |              79               |             7              |
-| SeRCE_              |      11      |             18             |             18             |                 27                 |            9            |              73              |                0                |   16   |              6              |                 25                  |            0             |              44               |             19             |
+| **RedactedSociety** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| xxera               |      24      |             13             |             0              |                 33                 |           21            |              54              |               13                |                   0                   |         0          |     2     |
+| Signal              |      20      |             0              |             25             |                 40                 |           20            |              55              |               10                |                   0                   |         0          |     1     |
+| dirtydan            |      17      |             24             |             6              |                 29                 |           29            |              47              |               12                |                   6                   |         2          |     3     |
+| Tr1ck               |      10      |             40             |             40             |                 30                 |           10            |              80              |                0                |                   0                   |         0          |     0     |
+| -_Maru_-            |      5       |             20             |             0              |                 20                 |            0            |              40              |               20                |                   0                   |         0          |     0     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **GrannysKnockers** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| fatguy              |      21      |             5              |             29             |                 43                 |           14            |              52              |                0                |                   0                   |         0          |     2     |
+| Hebizera            |      18      |             17             |             6              |                 22                 |            6            |              78              |                0                |                   6                   |         0          |     3     |
+| 0wenCS              |      16      |             6              |             6              |                 31                 |            6            |              44              |                6                |                   0                   |         0          |     0     |
+| squidward_2         |      15      |             7              |             13             |                 27                 |            7            |              80              |                0                |                   0                   |         7          |     1     |
+| SeRCE_              |      11      |             18             |             18             |                 27                 |            9            |              73              |                0                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **RedactedSociety** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| xxera               |      15      |              7              |                 7                 |            7             |              67               |             0              |             0             |       2       |
+| Signal              |      17      |             12              |                12                 |            12            |              41               |             0              |             0             |       0       |
+| dirtydan            |      14      |             14              |                 7                 |            0             |              79               |             0              |             0             |       2       |
+| Tr1ck               |      19      |             16              |                16                 |            5             |              74               |             0              |             5             |       2       |
+| -_Maru_-            |      16      |             25              |                 0                 |            0             |              75               |             6              |             0             |       1       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **GrannysKnockers** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| fatguy              |      18      |             17              |                28                 |            6             |              56               |             6              |             0             |       1       |
+| Hebizera            |      15      |             27              |                27                 |            0             |              60               |             13             |             7             |       1       |
+| 0wenCS              |      13      |             15              |                23                 |            0             |              38               |             8              |             0             |       0       |
+| squidward_2         |      14      |              0              |                29                 |            0             |              79               |             7              |             0             |       0       |
+| SeRCE_              |      16      |              6              |                25                 |            0             |              44               |             19             |             0             |       0       |

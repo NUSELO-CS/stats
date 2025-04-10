@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-27  
 **Teams**: Kooking Esports vs VireoPro  
 
-## **Map**: de_nuke - Kooking Esports (13) vs VireoPro (11)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Kooking Esports | Banned | de_anubis |
+| 2 | VireoPro | Banned | de_inferno |
+| 3 | VireoPro | Banned | de_dust2 |
+| 4 | Kooking Esports | Banned | de_train |
+| 5 | Kooking Esports | Banned | de_ancient |
+| 6 | VireoPro | Banned | de_mirage |
+| 7 | Kooking Esports | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - Kooking Esports (13) vs VireoPro (11)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Beaniehut           |     0.46     | 58.33 |        64.29         |                         81.82                          |           42.86           |                           100.00                            |          85.71           |                           75.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Kooking Esports** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| SarkasM             |      23      |             17             |             13             |                 26                 |            9            |              70              |                9                |   15   |             27              |                  7                  |            0             |              73               |             0              |
-| kicking             |      21      |             19             |             14             |                 29                 |            0            |              62              |               10                |   17   |             18              |                 18                  |            12            |              65               |             6              |
-| CRN-                |      18      |             44             |             6              |                 11                 |            0            |              89              |                0                |   12   |             17              |                  8                  |            0             |              67               |             0              |
-| -Jord-              |      13      |             8              |             54             |                 38                 |           31            |              38              |               15                |   20   |             40              |                 25                  |            10            |              60               |             0              |
-| NaRo                |      11      |             18             |             9              |                 55                 |           36            |              64              |                0                |   15   |             27              |                  7                  |            0             |              73               |             0              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **VireoPro**        | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| luckyx              |      23      |             17             |             22             |                 22                 |            4            |              70              |                0                |   16   |              6              |                 31                  |            0             |              50               |             0              |
-| enfohip             |      17      |             6              |             12             |                 47                 |            6            |              53              |                0                |   16   |             25              |                 31                  |            0             |              56               |             13             |
-| kiss                |      17      |             24             |             35             |                 12                 |            0            |              82              |                0                |   17   |             12              |                 29                  |            0             |              76               |             12             |
-| celery              |      15      |             13             |             33             |                 33                 |            7            |              67              |                0                |   17   |             18              |                 29                  |            0             |              71               |             12             |
-| Beaniehut           |      7       |             14             |             43             |                 71                 |           29            |              57              |               14                |   20   |             25              |                 30                  |            5             |              75               |             0              |
+| **Kooking Esports** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| SarkasM             |      23      |             17             |             13             |                 26                 |            9            |              70              |                9                |                   4                   |         0          |     2     |
+| kicking             |      21      |             19             |             14             |                 29                 |            0            |              62              |               10                |                   0                   |         0          |     0     |
+| CRN-                |      18      |             44             |             6              |                 11                 |            0            |              89              |                0                |                  11                   |         7          |     2     |
+| -Jord-              |      13      |             8              |             54             |                 38                 |           31            |              38              |               15                |                   0                   |         0          |     3     |
+| NaRo                |      11      |             18             |             9              |                 55                 |           36            |              64              |                0                |                   0                   |         0          |     1     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **VireoPro**        | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| luckyx              |      23      |             17             |             22             |                 22                 |            4            |              70              |                0                |                   4                   |         0          |     2     |
+| enfohip             |      17      |             6              |             12             |                 47                 |            6            |              53              |                0                |                   0                   |         0          |     0     |
+| kiss                |      17      |             24             |             35             |                 12                 |            0            |              82              |                0                |                   6                   |         0          |     2     |
+| celery              |      15      |             13             |             33             |                 33                 |            7            |              67              |                0                |                   0                   |         0          |     2     |
+| Beaniehut           |      7       |             14             |             43             |                 71                 |           29            |              57              |               14                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Kooking Esports** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| SarkasM             |      15      |             27              |                 7                 |            0             |              73               |             0              |             0             |       0       |
+| kicking             |      17      |             18              |                18                 |            12            |              65               |             6              |             0             |       0       |
+| CRN-                |      12      |             17              |                 8                 |            0             |              67               |             0              |             8             |       0       |
+| -Jord-              |      20      |             40              |                25                 |            10            |              60               |             0              |             0             |       0       |
+| NaRo                |      15      |             27              |                 7                 |            0             |              73               |             0              |             7             |       0       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **VireoPro**        | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| luckyx              |      16      |              6              |                31                 |            0             |              50               |             0              |             0             |       1       |
+| enfohip             |      16      |             25              |                31                 |            0             |              56               |             13             |             0             |       3       |
+| kiss                |      17      |             12              |                29                 |            0             |              76               |             12             |             6             |       0       |
+| celery              |      17      |             18              |                29                 |            0             |              71               |             12             |             0             |       2       |
+| Beaniehut           |      20      |             25              |                30                 |            5             |              75               |             0              |            10             |       1       |

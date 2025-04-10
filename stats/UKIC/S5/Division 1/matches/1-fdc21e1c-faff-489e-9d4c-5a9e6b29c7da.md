@@ -2,7 +2,21 @@
 **Match Date**: 2025-03-03  
 **Teams**: ViperioAcademy vs CTRL ALT DEFEAT  
 
-## **Map**: de_dust2 - ViperioAcademy (13) vs CTRL ALT DEFEAT (9)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | ViperioAcademy | Banned | de_train |
+| 2 | CTRL ALT DEFEAT | Banned | de_nuke |
+| 3 | CTRL ALT DEFEAT | Banned | de_inferno |
+| 4 | ViperioAcademy | Banned | de_ancient |
+| 5 | ViperioAcademy | Banned | de_anubis |
+| 6 | CTRL ALT DEFEAT | Banned | de_mirage |
+| 7 | ViperioAcademy | Picked | de_dust2 |
+
+---  
+
+### **Map**: de_dust2 - ViperioAcademy (13) vs CTRL ALT DEFEAT (9)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | BENJYMIN            |     0.50     | 45.45 |        70.00         |                         77.78                          |           75.00           |                           100.00                            |          66.67           |                           66.67                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **ViperioAcademy**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| management          |      21      |             19             |             5              |                 57                 |           19            |              86              |                5                |   13   |             15              |                 38                  |            8             |              77               |             0              |
-| Zuuphler            |      19      |             16             |             11             |                 32                 |            0            |              79              |                5                |   12   |              8              |                 33                  |            17            |              58               |             17             |
-| -Shane_             |      18      |             11             |             11             |                 67                 |           11            |              67              |               17                |   15   |             47              |                 40                  |            7             |              73               |             7              |
-| -Lakee-             |      13      |             8              |             23             |                 31                 |           15            |              85              |                8                |   12   |             33              |                 33                  |            0             |              67               |             0              |
-| M1n1maL             |      13      |             38             |             31             |                 31                 |            8            |              62              |                0                |   13   |             23              |                 38                  |            15            |              69               |             15             |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **CTRL ALT DEFEAT** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| onder888            |      16      |             19             |             25             |                 0                  |            0            |              50              |                6                |   16   |             13              |                 13                  |            6             |              69               |             13             |
-| z_nan               |      15      |             0              |             40             |                 20                 |            0            |              67              |                7                |   18   |             22              |                 11                  |            0             |              78               |             6              |
-| f0cuss              |      14      |             43             |             29             |                 29                 |            7            |              64              |               21                |   16   |             13              |                 13                  |            6             |              81               |             0              |
-| szkvrtl             |      11      |             27             |             27             |                 9                  |            9            |              82              |                0                |   16   |              6              |                  6                  |            6             |              81               |             6              |
-| BENJYMIN            |      9       |             0              |             0              |                 11                 |           11            |              89              |                0                |   18   |             17              |                 11                  |            6             |              78               |             11             |
+| **ViperioAcademy**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| management          |      21      |             19             |             5              |                 57                 |           19            |              86              |                5                |                   0                   |         15         |     1     |
+| Zuuphler            |      19      |             16             |             11             |                 32                 |            0            |              79              |                5                |                  11                   |         1          |     4     |
+| -Shane_             |      18      |             11             |             11             |                 67                 |           11            |              67              |               17                |                  11                   |         0          |     1     |
+| -Lakee-             |      13      |             8              |             23             |                 31                 |           15            |              85              |                8                |                   8                   |         0          |     2     |
+| M1n1maL             |      13      |             38             |             31             |                 31                 |            8            |              62              |                0                |                  15                   |         0          |     2     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **CTRL ALT DEFEAT** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| onder888            |      16      |             19             |             25             |                 0                  |            0            |              50              |                6                |                   0                   |         0          |     4     |
+| z_nan               |      15      |             0              |             40             |                 20                 |            0            |              67              |                7                |                   0                   |         0          |     0     |
+| f0cuss              |      14      |             43             |             29             |                 29                 |            7            |              64              |               21                |                   0                   |         2          |     0     |
+| szkvrtl             |      11      |             27             |             27             |                 9                  |            9            |              82              |                0                |                   0                   |         0          |     0     |
+| BENJYMIN            |      9       |             0              |             0              |                 11                 |           11            |              89              |                0                |                   0                   |         6          |     0     |
+## Extended Deaths Stats  
+
+| **ViperioAcademy**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| management          |      13      |             15              |                38                 |            8             |              77               |             0              |             0             |       2       |
+| Zuuphler            |      12      |              8              |                33                 |            17            |              58               |             17             |             0             |       1       |
+| -Shane_             |      15      |             47              |                40                 |            7             |              73               |             7              |             0             |       2       |
+| -Lakee-             |      12      |             33              |                33                 |            0             |              67               |             0              |             0             |       1       |
+| M1n1maL             |      13      |             23              |                38                 |            15            |              69               |             15             |             0             |       2       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **CTRL ALT DEFEAT** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| onder888            |      16      |             13              |                13                 |            6             |              69               |             13             |             6             |       3       |
+| z_nan               |      18      |             22              |                11                 |            0             |              78               |             6              |            11             |       5       |
+| f0cuss              |      16      |             13              |                13                 |            6             |              81               |             0              |            13             |       3       |
+| szkvrtl             |      16      |              6              |                 6                 |            6             |              81               |             6              |             6             |       1       |
+| BENJYMIN            |      18      |             17              |                11                 |            6             |              78               |             11             |             6             |       4       |

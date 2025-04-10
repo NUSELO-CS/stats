@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-30  
 **Teams**: Aether vs Team Hyper  
 
-## **Map**: de_dust2 - Aether (13) vs Team Hyper (10)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Team Hyper | Banned | de_ancient |
+| 2 | Aether | Banned | de_inferno |
+| 3 | Aether | Banned | de_train |
+| 4 | Team Hyper | Banned | de_mirage |
+| 5 | Team Hyper | Banned | de_anubis |
+| 6 | Aether | Banned | de_nuke |
+| 7 | Team Hyper | Picked | de_dust2 |
+
+---  
+
+### **Map**: de_dust2 - Aether (13) vs Team Hyper (10)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | intox_         |     0.51     | 47.83 |        81.82         |                         90.00                          |           80.00           |                           100.00                            |          83.33           |                           83.33                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Aether**     | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Pr0misee       |      30      |             13             |             10             |                 37                 |           20            |              67              |                0                |   12   |             17              |                  8                  |            0             |              67               |             8              |
-| AtomiK         |      22      |             18             |             9              |                 36                 |           18            |              64              |                9                |   14   |             36              |                 21                  |            0             |              64               |             0              |
-| SolGoat        |      16      |             25             |             31             |                 25                 |            0            |              63              |                0                |   18   |             17              |                 28                  |            11            |              67               |             6              |
-| -MJB           |      12      |             8              |             33             |                 17                 |            0            |              75              |               17                |   16   |             19              |                 25                  |            6             |              75               |             0              |
-| Equalizer      |      4       |             0              |             0              |                 25                 |            0            |              50              |               25                |   16   |             25              |                 25                  |            6             |              88               |             13             |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Team Hyper** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| hipposaver     |      21      |             10             |             24             |                 24                 |            0            |              67              |               10                |   17   |             29              |                 18                  |            0             |              71               |             0              |
-| waterfallez    |      18      |             22             |             22             |                 33                 |            6            |              78              |                0                |   17   |              6              |                 12                  |            6             |              53               |             6              |
-| Mustang_TV     |      15      |             20             |             27             |                 20                 |            7            |              73              |                0                |   15   |             13              |                 13                  |            7             |              73               |             7              |
-| Daemos         |      13      |             8              |             23             |                 8                  |            0            |              77              |                0                |   16   |             13              |                 13                  |            6             |              75               |             6              |
-| intox_         |      9       |             22             |             11             |                 67                 |           33            |              67              |               22                |   19   |             21              |                 16                  |            0             |              58               |             11             |
+| **Aether**     | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Pr0misee       |      30      |             13             |             10             |                 37                 |           20            |              67              |                0                |                   3                   |         0          |     3     |
+| AtomiK         |      22      |             18             |             9              |                 36                 |           18            |              64              |                9                |                   5                   |         16         |     0     |
+| SolGoat        |      16      |             25             |             31             |                 25                 |            0            |              63              |                0                |                   6                   |         1          |     3     |
+| -MJB           |      12      |             8              |             33             |                 17                 |            0            |              75              |               17                |                  17                   |         0          |     0     |
+| Equalizer      |      4       |             0              |             0              |                 25                 |            0            |              50              |               25                |                  25                   |         0          |     1     |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Team Hyper** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| hipposaver     |      21      |             10             |             24             |                 24                 |            0            |              67              |               10                |                   5                   |         0          |     2     |
+| waterfallez    |      18      |             22             |             22             |                 33                 |            6            |              78              |                0                |                   6                   |         0          |     2     |
+| Mustang_TV     |      15      |             20             |             27             |                 20                 |            7            |              73              |                0                |                   7                   |         0          |     0     |
+| Daemos         |      13      |             8              |             23             |                 8                  |            0            |              77              |                0                |                   0                   |         5          |     2     |
+| intox_         |      9       |             22             |             11             |                 67                 |           33            |              67              |               22                |                  11                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Aether**     | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Pr0misee       |      12      |             17              |                 8                 |            0             |              67               |             8              |             8             |       0       |
+| AtomiK         |      14      |             36              |                21                 |            0             |              64               |             0              |             0             |       0       |
+| SolGoat        |      18      |             17              |                28                 |            11            |              67               |             6              |             0             |       1       |
+| -MJB           |      16      |             19              |                25                 |            6             |              75               |             0              |             6             |       2       |
+| Equalizer      |      16      |             25              |                25                 |            6             |              88               |             13             |            13             |       2       |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+| **Team Hyper** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| hipposaver     |      17      |             29              |                18                 |            0             |              71               |             0              |            12             |       3       |
+| waterfallez    |      17      |              6              |                12                 |            6             |              53               |             6              |             0             |       3       |
+| Mustang_TV     |      15      |             13              |                13                 |            7             |              73               |             7              |             7             |       4       |
+| Daemos         |      16      |             13              |                13                 |            6             |              75               |             6              |            13             |       4       |
+| intox_         |      19      |             21              |                16                 |            0             |              58               |             11             |             5             |       3       |

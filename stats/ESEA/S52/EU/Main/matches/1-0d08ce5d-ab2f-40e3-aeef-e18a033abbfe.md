@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-18  
 **Teams**: VIVID UTD vs mXm  
 
-## **Map**: de_mirage - VIVID UTD (10) vs mXm (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | VIVID UTD | Banned | de_dust2 |
+| 2 | mXm | Banned | de_anubis |
+| 3 | mXm | Banned | de_train |
+| 4 | VIVID UTD | Banned | de_nuke |
+| 5 | VIVID UTD | Banned | de_ancient |
+| 6 | mXm | Banned | de_inferno |
+| 7 | VIVID UTD | Picked | de_mirage |
+
+---  
+
+### **Map**: de_mirage - VIVID UTD (10) vs mXm (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Khogi         |     0.91     | 82.61 |        68.42         |                         100.00                         |           72.73           |                           100.00                            |          62.50           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **VIVID UTD** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| jessedinho    |      21      |             29             |             33             |                 19                 |            5            |              67              |               10                |   16   |             38              |                  6                  |            0             |              81               |             0              |
-| Ties          |      16      |             19             |             31             |                 50                 |           25            |              50              |                6                |   16   |             31              |                 13                  |            13            |              69               |             13             |
-| Daniel2706    |      10      |             0              |             40             |                 30                 |           10            |              50              |                0                |   19   |             32              |                 11                  |            5             |              63               |             16             |
-| RhyzaFan2706  |      10      |             40             |             10             |                 40                 |           30            |              70              |               10                |   16   |              6              |                  6                  |            0             |              75               |             6              |
-| ArchithoN     |      9       |             56             |             33             |                 11                 |           11            |              44              |                0                |   18   |             22              |                 11                  |            6             |              72               |             11             |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|               |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **mXm**       | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| xp3ct3d       |      25      |             8              |             28             |                 44                 |           16            |              88              |                4                |   15   |             20              |                  7                  |            0             |              67               |             0              |
-| besi_-        |      18      |             17             |             22             |                 33                 |            6            |              67              |               11                |   10   |             30              |                  0                  |            0             |              60               |             10             |
-| Darcsi        |      17      |             29             |             18             |                 0                  |            0            |              76              |               12                |   11   |             18              |                 18                  |            0             |              55               |             9              |
-| Polaor        |      15      |             13             |             20             |                 33                 |           20            |              60              |                0                |   16   |             50              |                  0                  |            0             |              50               |             6              |
-| Khogi         |      10      |             30             |             50             |                 30                 |           20            |              50              |               30                |   14   |             29              |                 14                  |            7             |              57               |             7              |
+| **VIVID UTD** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| jessedinho    |      21      |             29             |             33             |                 19                 |            5            |              67              |               10                |                   5                   |         0          |     5     |
+| Ties          |      16      |             19             |             31             |                 50                 |           25            |              50              |                6                |                   0                   |         0          |     1     |
+| Daniel2706    |      10      |             0              |             40             |                 30                 |           10            |              50              |                0                |                   0                   |         0          |     1     |
+| RhyzaFan2706  |      10      |             40             |             10             |                 40                 |           30            |              70              |               10                |                   0                   |         3          |     1     |
+| ArchithoN     |      9       |             56             |             33             |                 11                 |           11            |              44              |                0                |                   0                   |         0          |     2     |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|               |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **mXm**       | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player        |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| xp3ct3d       |      25      |             8              |             28             |                 44                 |           16            |              88              |                4                |                   8                   |         0          |     1     |
+| besi_-        |      18      |             17             |             22             |                 33                 |            6            |              67              |               11                |                   6                   |         0          |     1     |
+| Darcsi        |      17      |             29             |             18             |                 0                  |            0            |              76              |               12                |                   6                   |         8          |     2     |
+| Polaor        |      15      |             13             |             20             |                 33                 |           20            |              60              |                0                |                   0                   |         0          |     0     |
+| Khogi         |      10      |             30             |             50             |                 30                 |           20            |              50              |               30                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **VIVID UTD** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player        |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| jessedinho    |      16      |             38              |                 6                 |            0             |              81               |             0              |             0             |       2       |
+| Ties          |      16      |             31              |                13                 |            13            |              69               |             13             |             6             |       2       |
+| Daniel2706    |      19      |             32              |                11                 |            5             |              63               |             16             |             0             |       1       |
+| RhyzaFan2706  |      16      |              6              |                 6                 |            0             |              75               |             6              |             0             |       2       |
+| ArchithoN     |      18      |             22              |                11                 |            6             |              72               |             11             |            17             |       1       |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+|               |              |                             |                                   |                          |                               |                            |                           |               |
+| **mXm**       | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player        |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| xp3ct3d       |      15      |             20              |                 7                 |            0             |              67               |             0              |             0             |       2       |
+| besi_-        |      10      |             30              |                 0                 |            0             |              60               |             10             |             0             |       0       |
+| Darcsi        |      11      |             18              |                18                 |            0             |              55               |             9              |             0             |       1       |
+| Polaor        |      16      |             50              |                 0                 |            0             |              50               |             6              |             0             |       0       |
+| Khogi         |      14      |             29              |                14                 |            7             |              57               |             7              |             7             |       0       |

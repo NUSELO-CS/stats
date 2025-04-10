@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-17  
 **Teams**: RaspBerryBobery vs MANA  
 
-## **Map**: de_train - RaspBerryBobery (4) vs MANA (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | MANA | Banned | de_anubis |
+| 2 | RaspBerryBobery | Banned | de_inferno |
+| 3 | RaspBerryBobery | Banned | de_ancient |
+| 4 | MANA | Banned | de_nuke |
+| 5 | MANA | Banned | de_mirage |
+| 6 | RaspBerryBobery | Banned | de_dust2 |
+| 7 | MANA | Picked | de_train |
+
+---  
+
+### **Map**: de_train - RaspBerryBobery (4) vs MANA (13)  
 ---  
 
 ## Box Stats  
@@ -47,22 +61,41 @@
 | HENZIE              |     0.97     | 82.35 |        85.71         |                         92.31                          |           75.00           |                           100.00                            |          90.00           |                           90.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **RaspBerryBobery** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Ki3lo               |      13      |             15             |             31             |                 23                 |           23            |              85              |                0                |   15   |             33              |                  7                  |            7             |              53               |             20             |
-| lILuckyIl           |      13      |             23             |             15             |                 23                 |           23            |              77              |                0                |   15   |             13              |                  7                  |            7             |              53               |             7              |
-| merdi--             |      12      |             33             |             33             |                 8                  |            8            |              83              |                0                |   16   |             19              |                  6                  |            6             |              88               |             6              |
-| d1etrying_          |      8       |             25             |             38             |                 38                 |           38            |              88              |                0                |   14   |              7              |                  7                  |            7             |              57               |             0              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **MANA**            | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| TIGRIalb            |      16      |             13             |             19             |                 44                 |            0            |              56              |               13                |   9    |             44              |                 33                  |            0             |              89               |             0              |
-| arv                 |      12      |             25             |             8              |                 50                 |           17            |              67              |                8                |   7    |              0              |                 29                  |            0             |              86               |             0              |
-| Dope--              |      15      |             33             |             27             |                 80                 |           13            |              67              |                7                |   12   |             25              |                 33                  |            0             |              75               |             0              |
-| __Chama__           |      9       |             22             |             22             |                 56                 |            0            |              67              |               11                |   9    |             33              |                 44                  |            11            |              78               |             0              |
-| HENZIE              |      8       |             13             |             13             |                 25                 |            0            |              63              |                0                |   9    |             33              |                 33                  |            0             |              89               |             0              |
+| **RaspBerryBobery** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Ki3lo               |      13      |             15             |             31             |                 23                 |           23            |              85              |                0                |                   0                   |         1          |     3     |
+| lILuckyIl           |      13      |             23             |             15             |                 23                 |           23            |              77              |                0                |                   0                   |         2          |     5     |
+| merdi--             |      12      |             33             |             33             |                 8                  |            8            |              83              |                0                |                   0                   |         1          |     1     |
+| d1etrying_          |      8       |             25             |             38             |                 38                 |           38            |              88              |                0                |                   0                   |         0          |     1     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **MANA**            | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| TIGRIalb            |      16      |             13             |             19             |                 44                 |            0            |              56              |               13                |                   6                   |         4          |     1     |
+| arv                 |      12      |             25             |             8              |                 50                 |           17            |              67              |                8                |                  17                   |         0          |     0     |
+| Dope--              |      15      |             33             |             27             |                 80                 |           13            |              67              |                7                |                   7                   |         0          |     0     |
+| __Chama__           |      9       |             22             |             22             |                 56                 |            0            |              67              |               11                |                  11                   |         0          |     1     |
+| HENZIE              |      8       |             13             |             13             |                 25                 |            0            |              63              |                0                |                  13                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **RaspBerryBobery** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Ki3lo               |      15      |             33              |                 7                 |            7             |              53               |             20             |            13             |       0       |
+| lILuckyIl           |      15      |             13              |                 7                 |            7             |              53               |             7              |             7             |       1       |
+| merdi--             |      16      |             19              |                 6                 |            6             |              88               |             6              |             6             |       1       |
+| d1etrying_          |      14      |              7              |                 7                 |            7             |              57               |             0              |            14             |       2       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **MANA**            | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| TIGRIalb            |      9       |             44              |                33                 |            0             |              89               |             0              |             0             |       0       |
+| arv                 |      7       |              0              |                29                 |            0             |              86               |             0              |             0             |       0       |
+| Dope--              |      12      |             25              |                33                 |            0             |              75               |             0              |             0             |       2       |
+| __Chama__           |      9       |             33              |                44                 |            11            |              78               |             0              |             0             |       0       |
+| HENZIE              |      9       |             33              |                33                 |            0             |              89               |             0              |             0             |       2       |

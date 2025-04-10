@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-19  
 **Teams**: Shortbus Bosses vs KnownAlcoholics  
 
-## **Map**: de_ancient - Shortbus Bosses (13) vs KnownAlcoholics (11)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | KnownAlcoholics | Banned | de_mirage |
+| 2 | Shortbus Bosses | Banned | de_anubis |
+| 3 | Shortbus Bosses | Banned | de_dust2 |
+| 4 | KnownAlcoholics | Banned | de_nuke |
+| 5 | KnownAlcoholics | Banned | de_inferno |
+| 6 | Shortbus Bosses | Banned | de_train |
+| 7 | KnownAlcoholics | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - Shortbus Bosses (13) vs KnownAlcoholics (11)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | -abj-               |     0.73     | 62.50 |        58.82         |                         90.91                          |           44.44           |                           100.00                            |          75.00           |                           85.71                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Shortbus Bosses** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Lvrky               |      29      |             28             |             7              |                 34                 |            0            |              62              |               10                |   12   |             17              |                 33                  |            0             |              42               |             0              |
-| Expp                |      22      |             23             |             32             |                 36                 |            0            |              68              |                0                |   17   |             35              |                 35                  |            0             |              59               |             6              |
-| Do_Worrk            |      17      |             12             |             41             |                 29                 |            0            |              94              |                6                |   17   |             35              |                 35                  |            0             |              76               |             0              |
-| FatherSkinny        |      12      |             8              |             17             |                 25                 |            0            |              42              |                0                |   14   |             36              |                 29                  |            0             |              50               |             0              |
-| kajohnray           |      9       |             22             |             33             |                 33                 |            0            |              44              |               11                |   15   |             13              |                 27                  |            0             |              53               |             7              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **KnownAlcoholics** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Andy_Mango          |      17      |             35             |             35             |                 6                  |            0            |              47              |               12                |   18   |             33              |                 11                  |            6             |              61               |             11             |
-| Raunny              |      16      |             19             |             25             |                 25                 |           19            |              63              |                0                |   20   |             20              |                 10                  |            5             |              65               |             5              |
-| collob              |      15      |             40             |             13             |                 47                 |           27            |              60              |                0                |   17   |             12              |                  0                  |            0             |              71               |             0              |
-| BrandonFubar        |      13      |             31             |             62             |                 15                 |            8            |              38              |                0                |   20   |             15              |                 20                  |            5             |              65               |             0              |
-| -abj-               |      11      |             9              |             0              |                 27                 |            9            |             100              |                0                |   17   |             29              |                 12                  |            6             |              71               |             12             |
+| **Shortbus Bosses** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Lvrky               |      29      |             28             |             7              |                 34                 |            0            |              62              |               10                |                   3                   |         0          |     4     |
+| Expp                |      22      |             23             |             32             |                 36                 |            0            |              68              |                0                |                   9                   |         0          |     3     |
+| Do_Worrk            |      17      |             12             |             41             |                 29                 |            0            |              94              |                6                |                   6                   |         11         |     0     |
+| FatherSkinny        |      12      |             8              |             17             |                 25                 |            0            |              42              |                0                |                   8                   |         0          |     2     |
+| kajohnray           |      9       |             22             |             33             |                 33                 |            0            |              44              |               11                |                   0                   |         0          |     0     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **KnownAlcoholics** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Andy_Mango          |      17      |             35             |             35             |                 6                  |            0            |              47              |               12                |                   0                   |         0          |     0     |
+| Raunny              |      16      |             19             |             25             |                 25                 |           19            |              63              |                0                |                   0                   |         1          |     3     |
+| collob              |      15      |             40             |             13             |                 47                 |           27            |              60              |                0                |                   7                   |         0          |     0     |
+| BrandonFubar        |      13      |             31             |             62             |                 15                 |            8            |              38              |                0                |                   8                   |         1          |     1     |
+| -abj-               |      11      |             9              |             0              |                 27                 |            9            |             100              |                0                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Shortbus Bosses** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Lvrky               |      12      |             17              |                33                 |            0             |              42               |             0              |             0             |       0       |
+| Expp                |      17      |             35              |                35                 |            0             |              59               |             6              |             0             |       0       |
+| Do_Worrk            |      17      |             35              |                35                 |            0             |              76               |             0              |             6             |       1       |
+| FatherSkinny        |      14      |             36              |                29                 |            0             |              50               |             0              |             7             |       1       |
+| kajohnray           |      15      |             13              |                27                 |            0             |              53               |             7              |             0             |       0       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **KnownAlcoholics** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Andy_Mango          |      18      |             33              |                11                 |            6             |              61               |             11             |            11             |       3       |
+| Raunny              |      20      |             20              |                10                 |            5             |              65               |             5              |             0             |       1       |
+| collob              |      17      |             12              |                 0                 |            0             |              71               |             0              |            18             |       2       |
+| BrandonFubar        |      20      |             15              |                20                 |            5             |              65               |             0              |             0             |       2       |
+| -abj-               |      17      |             29              |                12                 |            6             |              71               |             12             |             0             |       3       |

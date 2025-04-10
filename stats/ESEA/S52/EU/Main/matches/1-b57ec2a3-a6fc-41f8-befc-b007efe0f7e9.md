@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-13  
 **Teams**: ENRAGE vs SuperiorEsports  
 
-## **Map**: de_ancient - ENRAGE (13) vs SuperiorEsports (6)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | ENRAGE | Banned | de_anubis |
+| 2 | SuperiorEsports | Banned | de_dust2 |
+| 3 | SuperiorEsports | Banned | de_nuke |
+| 4 | ENRAGE | Banned | de_train |
+| 5 | ENRAGE | Banned | de_inferno |
+| 6 | SuperiorEsports | Banned | de_mirage |
+| 7 | ENRAGE | Picked | de_ancient |
+
+---  
+
+### **Map**: de_ancient - ENRAGE (13) vs SuperiorEsports (6)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | l3o--               |     0.36     | 57.89 |        45.45         |                         83.33                          |           50.00           |                            50.00                            |          44.44           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **ENRAGE**          | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| hazza-_-            |      20      |             30             |             15             |                 40                 |           15            |              60              |                0                |   10   |             50              |                 30                  |            0             |              50               |             0              |
-| miteww              |      20      |             30             |             5              |                 40                 |            0            |              55              |                0                |   11   |             55              |                 36                  |            9             |              55               |             27             |
-| siwigoose           |      20      |             30             |             35             |                 50                 |            5            |              65              |                0                |   11   |             36              |                  9                  |            0             |              64               |             9              |
-| blocker             |      7       |             43             |             43             |                 57                 |           14            |              71              |                0                |   15   |             27              |                 27                  |            0             |              53               |             20             |
-| niki1needDOC        |      9       |             22             |             33             |                 56                 |            0            |              67              |                0                |   16   |             38              |                 25                  |            6             |              50               |             0              |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **SuperiorEsports** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| DotlA               |      22      |             36             |             32             |                 23                 |           14            |              50              |                9                |   13   |             38              |                 23                  |            15            |              85               |             0              |
-| PRoZZoR             |      19      |             26             |             47             |                 47                 |           26            |              47              |                5                |   16   |             19              |                 19                  |            13            |              69               |             0              |
-| dyrod               |      12      |             0              |             17             |                 25                 |            0            |              75              |               17                |   16   |             25              |                 19                  |            6             |              69               |             0              |
-| miksen              |      6       |             17             |             67             |                 17                 |            0            |              33              |               33                |   15   |             13              |                 20                  |            7             |              73               |             0              |
-| l3o--               |      4       |             25             |             75             |                 50                 |           25            |              50              |                0                |   16   |             19              |                 19                  |            6             |              38               |             0              |
+| **ENRAGE**          | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| hazza-_-            |      20      |             30             |             15             |                 40                 |           15            |              60              |                0                |                   0                   |         0          |     1     |
+| miteww              |      20      |             30             |             5              |                 40                 |            0            |              55              |                0                |                   5                   |         0          |     1     |
+| siwigoose           |      20      |             30             |             35             |                 50                 |            5            |              65              |                0                |                  10                   |         0          |     2     |
+| blocker             |      7       |             43             |             43             |                 57                 |           14            |              71              |                0                |                  14                   |         0          |     0     |
+| niki1needDOC        |      9       |             22             |             33             |                 56                 |            0            |              67              |                0                |                   0                   |         0          |     1     |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                     |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **SuperiorEsports** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| DotlA               |      22      |             36             |             32             |                 23                 |           14            |              50              |                9                |                  23                   |         0          |     4     |
+| PRoZZoR             |      19      |             26             |             47             |                 47                 |           26            |              47              |                5                |                   0                   |         0          |     2     |
+| dyrod               |      12      |             0              |             17             |                 25                 |            0            |              75              |               17                |                   0                   |         0          |     2     |
+| miksen              |      6       |             17             |             67             |                 17                 |            0            |              33              |               33                |                  17                   |         0          |     2     |
+| l3o--               |      4       |             25             |             75             |                 50                 |           25            |              50              |                0                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **ENRAGE**          | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| hazza-_-            |      10      |             50              |                30                 |            0             |              50               |             0              |            20             |       0       |
+| miteww              |      11      |             55              |                36                 |            9             |              55               |             27             |             9             |       0       |
+| siwigoose           |      11      |             36              |                 9                 |            0             |              64               |             9              |             9             |       0       |
+| blocker             |      15      |             27              |                27                 |            0             |              53               |             20             |             7             |       0       |
+| niki1needDOC        |      16      |             38              |                25                 |            6             |              50               |             0              |             6             |       0       |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+|                     |              |                             |                                   |                          |                               |                            |                           |               |
+| **SuperiorEsports** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player              |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| DotlA               |      13      |             38              |                23                 |            15            |              85               |             0              |             0             |       0       |
+| PRoZZoR             |      16      |             19              |                19                 |            13            |              69               |             0              |             0             |       0       |
+| dyrod               |      16      |             25              |                19                 |            6             |              69               |             0              |            13             |       0       |
+| miksen              |      15      |             13              |                20                 |            7             |              73               |             0              |             7             |       0       |
+| l3o--               |      16      |             19              |                19                 |            6             |              38               |             0              |             6             |       0       |

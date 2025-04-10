@@ -2,7 +2,21 @@
 **Match Date**: 2025-01-20  
 **Teams**: Need ORG - LFO vs XPERION NXT  
 
-## **Map**: de_train - Need ORG - LFO (11) vs XPERION NXT (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | XPERION NXT | Banned | de_nuke |
+| 2 | Need ORG - LFO | Banned | de_anubis |
+| 3 | Need ORG - LFO | Banned | de_mirage |
+| 4 | XPERION NXT | Banned | de_inferno |
+| 5 | XPERION NXT | Banned | de_dust2 |
+| 6 | Need ORG - LFO | Banned | de_ancient |
+| 7 | XPERION NXT | Picked | de_train |
+
+---  
+
+### **Map**: de_train - Need ORG - LFO (11) vs XPERION NXT (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Rhyzar             |     0.97     | 66.67 |        62.50         |                         76.92                          |           62.50           |                            62.50                            |          62.50           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Need ORG - LFO** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| w1dow-             |      18      |             11             |             28             |                 33                 |           22            |              83              |                6                |   19   |             16              |                 11                  |            5             |              79               |             0              |
-| stesso             |      15      |             20             |             13             |                 27                 |           13            |              80              |                7                |   18   |             11              |                 11                  |            0             |              56               |             0              |
-| gim44              |      17      |             18             |             47             |                 18                 |           18            |              65              |               12                |   22   |             23              |                 18                  |            9             |              86               |             0              |
-| BehinDx            |      8       |             25             |             25             |                 38                 |            0            |              50              |                0                |   17   |             41              |                  6                  |            0             |              41               |             12             |
-| awpdotcom          |      13      |             38             |             31             |                 8                  |            8            |              77              |                8                |   17   |              0              |                 12                  |            6             |              88               |             0              |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **XPERION NXT**    | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| pxsl               |      24      |             17             |             8              |                 38                 |            8            |              79              |                8                |   13   |             31              |                 23                  |            8             |              85               |             8              |
-| Tr1cky999          |      18      |             39             |             17             |                 28                 |            6            |              72              |                0                |   11   |             36              |                 18                  |            0             |              73               |             0              |
-| sheezy             |      21      |             5              |             5              |                 52                 |           33            |              67              |                0                |   14   |             29              |                 29                  |            0             |              71               |             7              |
-| jansen             |      15      |             27             |             27             |                 40                 |           20            |              67              |                0                |   17   |             47              |                 24                  |            0             |              76               |             6              |
-| Rhyzar             |      15      |             27             |             47             |                 33                 |           13            |              67              |                0                |   16   |              6              |                 19                  |            0             |              69               |             13             |
+| **Need ORG - LFO** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| w1dow-             |      18      |             11             |             28             |                 33                 |           22            |              83              |                6                |                   0                   |         0          |     3     |
+| stesso             |      15      |             20             |             13             |                 27                 |           13            |              80              |                7                |                   7                   |         0          |     1     |
+| gim44              |      17      |             18             |             47             |                 18                 |           18            |              65              |               12                |                   0                   |         0          |     0     |
+| BehinDx            |      8       |             25             |             25             |                 38                 |            0            |              50              |                0                |                   0                   |         0          |     0     |
+| awpdotcom          |      13      |             38             |             31             |                 8                  |            8            |              77              |                8                |                   8                   |         3          |     1     |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **XPERION NXT**    | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| pxsl               |      24      |             17             |             8              |                 38                 |            8            |              79              |                8                |                   0                   |         9          |     0     |
+| Tr1cky999          |      18      |             39             |             17             |                 28                 |            6            |              72              |                0                |                   6                   |         0          |     2     |
+| sheezy             |      21      |             5              |             5              |                 52                 |           33            |              67              |                0                |                   0                   |         0          |     3     |
+| jansen             |      15      |             27             |             27             |                 40                 |           20            |              67              |                0                |                   0                   |         0          |     1     |
+| Rhyzar             |      15      |             27             |             47             |                 33                 |           13            |              67              |                0                |                   7                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Need ORG - LFO** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| w1dow-             |      19      |             16              |                11                 |            5             |              79               |             0              |             0             |       2       |
+| stesso             |      18      |             11              |                11                 |            0             |              56               |             0              |             0             |       3       |
+| gim44              |      22      |             23              |                18                 |            9             |              86               |             0              |             9             |       1       |
+| BehinDx            |      17      |             41              |                 6                 |            0             |              41               |             12             |             0             |       1       |
+| awpdotcom          |      17      |              0              |                12                 |            6             |              88               |             0              |             0             |       2       |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+| **XPERION NXT**    | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| pxsl               |      13      |             31              |                23                 |            8             |              85               |             8              |             0             |       0       |
+| Tr1cky999          |      11      |             36              |                18                 |            0             |              73               |             0              |             9             |       2       |
+| sheezy             |      14      |             29              |                29                 |            0             |              71               |             7              |             7             |       1       |
+| jansen             |      17      |             47              |                24                 |            0             |              76               |             6              |             0             |       0       |
+| Rhyzar             |      16      |              6              |                19                 |            0             |              69               |             13             |             0             |       0       |

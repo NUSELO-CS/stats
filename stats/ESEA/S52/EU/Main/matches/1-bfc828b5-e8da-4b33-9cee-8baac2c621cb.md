@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-25  
 **Teams**: Metizport X vs KulmaSlotti  
 
-## **Map**: de_nuke - Metizport X (14) vs KulmaSlotti (16)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | KulmaSlotti | Banned | de_anubis |
+| 2 | Metizport X | Banned | de_train |
+| 3 | Metizport X | Banned | de_dust2 |
+| 4 | KulmaSlotti | Banned | de_inferno |
+| 5 | KulmaSlotti | Banned | de_ancient |
+| 6 | Metizport X | Banned | de_mirage |
+| 7 | KulmaSlotti | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - Metizport X (14) vs KulmaSlotti (16)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | minidog7858     |     0.91     | 86.67 |        55.56         |                         93.75                          |           60.00           |                           100.00                            |          50.00           |                           85.71                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Metizport X** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| zame            |      25      |             24             |             12             |                 24                 |            0            |              84              |                0                |   23   |             26              |                 13                  |            0             |              83               |             9              |
-| Straxy          |      20      |             20             |             45             |                 5                  |            0            |              50              |               10                |   25   |             40              |                  8                  |            0             |              72               |             4              |
-| macke           |      16      |             44             |             50             |                 0                  |            0            |              94              |                6                |   22   |             23              |                  5                  |            0             |              50               |             5              |
-| ZapR            |      18      |             28             |             28             |                 33                 |            0            |              56              |               11                |   24   |             25              |                  8                  |            0             |              75               |             4              |
-| Kronkzz         |      18      |             28             |             17             |                 22                 |            0            |              61              |                6                |   23   |             26              |                  9                  |            4             |              70               |             4              |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **KulmaSlotti** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Kossu72         |      26      |             23             |             31             |                 19                 |            4            |              62              |                4                |   19   |             26              |                 21                  |            11            |              37               |             11             |
-| spargo-         |      22      |             18             |             27             |                 23                 |            9            |              77              |                0                |   19   |             16              |                 11                  |            0             |              84               |             5              |
-| Mikko-TNT-      |      27      |             33             |             33             |                 30                 |           15            |              56              |                7                |   23   |             30              |                 17                  |            9             |              74               |             4              |
-| Juho-TNT-       |      23      |             4              |             13             |                 39                 |           22            |              87              |                4                |   22   |             27              |                 14                  |            5             |              68               |             5              |
-| minidog7858     |      14      |             21             |             57             |                 21                 |            7            |              93              |               14                |   19   |             42              |                 16                  |            5             |              63               |             5              |
+| **Metizport X** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| zame            |      25      |             24             |             12             |                 24                 |            0            |              84              |                0                |                   4                   |         16         |     4     |
+| Straxy          |      20      |             20             |             45             |                 5                  |            0            |              50              |               10                |                  10                   |         0          |     2     |
+| macke           |      16      |             44             |             50             |                 0                  |            0            |              94              |                6                |                  13                   |         0          |     2     |
+| ZapR            |      18      |             28             |             28             |                 33                 |            0            |              56              |               11                |                  11                   |         0          |     0     |
+| Kronkzz         |      18      |             28             |             17             |                 22                 |            0            |              61              |                6                |                   0                   |         0          |     0     |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                 |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **KulmaSlotti** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Kossu72         |      26      |             23             |             31             |                 19                 |            4            |              62              |                4                |                   4                   |         0          |     3     |
+| spargo-         |      22      |             18             |             27             |                 23                 |            9            |              77              |                0                |                   0                   |         16         |     1     |
+| Mikko-TNT-      |      27      |             33             |             33             |                 30                 |           15            |              56              |                7                |                   0                   |         0          |     1     |
+| Juho-TNT-       |      23      |             4              |             13             |                 39                 |           22            |              87              |                4                |                   4                   |         0          |     2     |
+| minidog7858     |      14      |             21             |             57             |                 21                 |            7            |              93              |               14                |                   0                   |         0          |     2     |
+## Extended Deaths Stats  
+
+| **Metizport X** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| zame            |      23      |             26              |                13                 |            0             |              83               |             9              |             4             |       5       |
+| Straxy          |      25      |             40              |                 8                 |            0             |              72               |             4              |             0             |       4       |
+| macke           |      22      |             23              |                 5                 |            0             |              50               |             5              |             0             |       3       |
+| ZapR            |      24      |             25              |                 8                 |            0             |              75               |             4              |             0             |       1       |
+| Kronkzz         |      23      |             26              |                 9                 |            4             |              70               |             4              |             4             |       3       |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+|                 |              |                             |                                   |                          |                               |                            |                           |               |
+| **KulmaSlotti** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player          |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Kossu72         |      19      |             26              |                21                 |            11            |              37               |             11             |            16             |       3       |
+| spargo-         |      19      |             16              |                11                 |            0             |              84               |             5              |             0             |       3       |
+| Mikko-TNT-      |      23      |             30              |                17                 |            9             |              74               |             4              |             4             |       4       |
+| Juho-TNT-       |      22      |             27              |                14                 |            5             |              68               |             5              |             9             |       3       |
+| minidog7858     |      19      |             42              |                16                 |            5             |              63               |             5              |             5             |       3       |

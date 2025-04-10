@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-20  
 **Teams**: Yamato Esports vs M33 x NEIMARK  
 
-## **Map**: de_anubis - Yamato Esports (5) vs M33 x NEIMARK (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | M33 x NEIMARK | Banned | de_dust2 |
+| 2 | Yamato Esports | Banned | de_inferno |
+| 3 | Yamato Esports | Banned | de_train |
+| 4 | M33 x NEIMARK | Banned | de_mirage |
+| 5 | M33 x NEIMARK | Banned | de_ancient |
+| 6 | Yamato Esports | Banned | de_nuke |
+| 7 | M33 x NEIMARK | Picked | de_anubis |
+
+---  
+
+### **Map**: de_anubis - Yamato Esports (5) vs M33 x NEIMARK (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | ASHERJO            |     1.40     | 94.44 |        76.47         |                         100.00                         |          100.00           |                           100.00                            |          66.67           |                           100.00                           |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Yamato Esports** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| -milfhunt3r        |      13      |             23             |             46             |                 23                 |            0            |              54              |                8                |   15   |              0              |                 20                  |            0             |              60               |             7              |
-| -t0mmyyy           |      9       |             22             |             33             |                 11                 |            0            |              56              |               11                |   13   |             15              |                 23                  |            0             |              77               |             0              |
-| deffeys            |      8       |             25             |             63             |                 25                 |            0            |              63              |                0                |   16   |             19              |                 19                  |            0             |              56               |             6              |
-| -rainy666          |      7       |             0              |             71             |                 29                 |            0            |              43              |                0                |   15   |             13              |                 20                  |            0             |              67               |             0              |
-| singulier-         |      2       |             50             |             0              |                 0                  |            0            |              50              |               50                |   15   |             13              |                 20                  |            0             |              67               |             13             |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **M33 x NEIMARK**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| rockStyX           |      18      |             28             |             11             |                 44                 |           11            |              56              |               17                |   6    |             50              |                 33                  |            0             |              67               |             0              |
-| N4Tsu              |      15      |             13             |             7              |                 47                 |            0            |              53              |                0                |   6    |             50              |                 33                  |            0             |              83               |             0              |
-| NEVERMIDNIT3       |      14      |             21             |             7              |                 43                 |            0            |              71              |                7                |   8    |             25              |                 50                  |            0             |              13               |             38             |
-| solb666            |      13      |             0              |             8              |                 69                 |            8            |              62              |                0                |   10   |             70              |                 30                  |            0             |              50               |             0              |
-| ASHERJO            |      14      |             43             |             29             |                 36                 |            0            |              86              |                0                |   9    |             44              |                 33                  |            0             |              67               |             0              |
+| **Yamato Esports** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| -milfhunt3r        |      13      |             23             |             46             |                 23                 |            0            |              54              |                8                |                   0                   |         0          |     3     |
+| -t0mmyyy           |      9       |             22             |             33             |                 11                 |            0            |              56              |               11                |                   0                   |         0          |     1     |
+| deffeys            |      8       |             25             |             63             |                 25                 |            0            |              63              |                0                |                   0                   |         2          |     0     |
+| -rainy666          |      7       |             0              |             71             |                 29                 |            0            |              43              |                0                |                  14                   |         0          |     1     |
+| singulier-         |      2       |             50             |             0              |                 0                  |            0            |              50              |               50                |                   0                   |         0          |     0     |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                    |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **M33 x NEIMARK**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| rockStyX           |      18      |             28             |             11             |                 44                 |           11            |              56              |               17                |                   0                   |         0          |     1     |
+| N4Tsu              |      15      |             13             |             7              |                 47                 |            0            |              53              |                0                |                   0                   |         6          |     1     |
+| NEVERMIDNIT3       |      14      |             21             |             7              |                 43                 |            0            |              71              |                7                |                   0                   |         0          |     3     |
+| solb666            |      13      |             0              |             8              |                 69                 |            8            |              62              |                0                |                   8                   |         0          |     3     |
+| ASHERJO            |      14      |             43             |             29             |                 36                 |            0            |              86              |                0                |                   0                   |         0          |     1     |
+## Extended Deaths Stats  
+
+| **Yamato Esports** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| -milfhunt3r        |      15      |              0              |                20                 |            0             |              60               |             7              |             0             |       2       |
+| -t0mmyyy           |      13      |             15              |                23                 |            0             |              77               |             0              |             8             |       1       |
+| deffeys            |      16      |             19              |                19                 |            0             |              56               |             6              |             0             |       1       |
+| -rainy666          |      15      |             13              |                20                 |            0             |              67               |             0              |             0             |       0       |
+| singulier-         |      15      |             13              |                20                 |            0             |              67               |             13             |             0             |       2       |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+|                    |              |                             |                                   |                          |                               |                            |                           |               |
+| **M33 x NEIMARK**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player             |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| rockStyX           |      6       |             50              |                33                 |            0             |              67               |             0              |             0             |       1       |
+| N4Tsu              |      6       |             50              |                33                 |            0             |              83               |             0              |             0             |       0       |
+| NEVERMIDNIT3       |      8       |             25              |                50                 |            0             |              13               |             38             |             0             |       0       |
+| solb666            |      10      |             70              |                30                 |            0             |              50               |             0              |             0             |       0       |
+| ASHERJO            |      9       |             44              |                33                 |            0             |              67               |             0              |            11             |       1       |

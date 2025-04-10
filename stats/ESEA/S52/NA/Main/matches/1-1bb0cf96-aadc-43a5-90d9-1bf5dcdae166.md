@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-14  
 **Teams**: Outreach-Tech vs Flowsta  
 
-## **Map**: de_nuke - Outreach-Tech (11) vs Flowsta (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Outreach-Tech | Banned | de_ancient |
+| 2 | Flowsta | Banned | de_inferno |
+| 3 | Flowsta | Banned | de_anubis |
+| 4 | Outreach-Tech | Banned | de_dust2 |
+| 5 | Outreach-Tech | Banned | de_train |
+| 6 | Flowsta | Banned | de_mirage |
+| 7 | Outreach-Tech | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - Outreach-Tech (11) vs Flowsta (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Steaux            |     1.03     | 75.00 |        61.11         |                         84.62                          |           55.56           |                           100.00                            |          66.67           |                           75.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Outreach-Tech** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| bean-DIP          |      22      |             9              |             18             |                 18                 |           14            |              64              |                5                |   19   |             26              |                 11                  |            5             |              37               |             11             |
-| deso1ation        |      19      |             21             |             37             |                 11                 |            5            |              63              |                5                |   17   |             24              |                 12                  |            6             |              94               |             0              |
-| cubed             |      12      |             33             |             33             |                 8                  |            8            |              42              |                8                |   18   |             17              |                 11                  |            6             |              94               |             0              |
-| Squ1d_4k          |      13      |             15             |             31             |                 15                 |            8            |              69              |                0                |   18   |             11              |                  6                  |            0             |              67               |             6              |
-| hyena             |      10      |             40             |             0              |                 20                 |           20            |              70              |                0                |   16   |             19              |                  6                  |            0             |              63               |             6              |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                   |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **Flowsta**       | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| XVIIII-           |      22      |             23             |             9              |                 41                 |            0            |              68              |                5                |   15   |             20              |                 20                  |            0             |              67               |             0              |
-| Huron             |      18      |             22             |             22             |                 33                 |            0            |              56              |                0                |   15   |             20              |                 13                  |            0             |              40               |             7              |
-| -Ramen_           |      16      |             19             |             0              |                 31                 |            0            |              81              |               13                |   12   |             17              |                 25                  |            0             |              92               |             0              |
-| noize             |      16      |             19             |             25             |                 44                 |            0            |              56              |                6                |   16   |             31              |                 13                  |            0             |              75               |             6              |
-| Steaux            |      15      |             13             |             47             |                 13                 |            0            |              73              |                0                |   19   |             32              |                 26                  |            0             |              47               |             5              |
+| **Outreach-Tech** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| bean-DIP          |      22      |             9              |             18             |                 18                 |           14            |              64              |                5                |                   0                   |         0          |     6     |
+| deso1ation        |      19      |             21             |             37             |                 11                 |            5            |              63              |                5                |                   0                   |         5          |     2     |
+| cubed             |      12      |             33             |             33             |                 8                  |            8            |              42              |                8                |                   0                   |         0          |     0     |
+| Squ1d_4k          |      13      |             15             |             31             |                 15                 |            8            |              69              |                0                |                   0                   |         0          |     0     |
+| hyena             |      10      |             40             |             0              |                 20                 |           20            |              70              |                0                |                  10                   |         0          |     2     |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                   |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **Flowsta**       | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player            |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| XVIIII-           |      22      |             23             |             9              |                 41                 |            0            |              68              |                5                |                   5                   |         0          |     2     |
+| Huron             |      18      |             22             |             22             |                 33                 |            0            |              56              |                0                |                   0                   |         0          |     0     |
+| -Ramen_           |      16      |             19             |             0              |                 31                 |            0            |              81              |               13                |                   0                   |         6          |     0     |
+| noize             |      16      |             19             |             25             |                 44                 |            0            |              56              |                6                |                   6                   |         0          |     1     |
+| Steaux            |      15      |             13             |             47             |                 13                 |            0            |              73              |                0                |                   7                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **Outreach-Tech** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| bean-DIP          |      19      |             26              |                11                 |            5             |              37               |             11             |             5             |       0       |
+| deso1ation        |      17      |             24              |                12                 |            6             |              94               |             0              |             6             |       1       |
+| cubed             |      18      |             17              |                11                 |            6             |              94               |             0              |             0             |       2       |
+| Squ1d_4k          |      18      |             11              |                 6                 |            0             |              67               |             6              |             6             |       3       |
+| hyena             |      16      |             19              |                 6                 |            0             |              63               |             6              |             0             |       0       |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+|                   |              |                             |                                   |                          |                               |                            |                           |               |
+| **Flowsta**       | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player            |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| XVIIII-           |      15      |             20              |                20                 |            0             |              67               |             0              |             0             |       1       |
+| Huron             |      15      |             20              |                13                 |            0             |              40               |             7              |             0             |       2       |
+| -Ramen_           |      12      |             17              |                25                 |            0             |              92               |             0              |             0             |       0       |
+| noize             |      16      |             31              |                13                 |            0             |              75               |             6              |             0             |       2       |
+| Steaux            |      19      |             32              |                26                 |            0             |              47               |             5              |             5             |       0       |

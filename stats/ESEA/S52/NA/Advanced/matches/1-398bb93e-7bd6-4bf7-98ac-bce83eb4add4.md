@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-27  
 **Teams**: Aether vs HOMYNO  
 
-## **Map**: de_dust2 - Aether (2) vs HOMYNO (13)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | Aether | Banned | de_inferno |
+| 2 | HOMYNO | Banned | de_ancient |
+| 3 | HOMYNO | Banned | de_anubis |
+| 4 | Aether | Banned | de_mirage |
+| 5 | Aether | Banned | de_nuke |
+| 6 | HOMYNO | Banned | de_train |
+| 7 | Aether | Picked | de_dust2 |
+
+---  
+
+### **Map**: de_dust2 - Aether (2) vs HOMYNO (13)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Melio      |     0.94     | 66.67 |        100.00        |                         76.92                          |          100.00           |                            66.67                            |          100.00          |                           80.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **Aether** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player     |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| Pr0misee   |      13      |             8              |             23             |                 23                 |           23            |              46              |                8                |   13   |              8              |                  0                  |            0             |              69               |             0              |
-| Lethality_ |      10      |             40             |             40             |                 10                 |           10            |              70              |                0                |   13   |             15              |                  8                  |            8             |              77               |             0              |
-| -MJB       |      8       |             13             |             0              |                 0                  |            0            |              63              |               13                |   13   |              8              |                  8                  |            8             |              54               |             15             |
-| Equalizer  |      7       |             29             |             14             |                 0                  |            0            |              86              |                0                |   14   |              7              |                  7                  |            7             |              64               |             0              |
-| SolGoat    |      3       |             33             |             33             |                 0                  |            0            |              0               |                0                |   14   |             43              |                  7                  |            7             |              43               |             0              |
-|            |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|            |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|            |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **HOMYNO** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player     |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| J0LZ       |      17      |             12             |             6              |                 53                 |           24            |              59              |                0                |   8    |             25              |                 38                  |            13            |              38               |             0              |
-| Gabie      |      14      |             14             |             14             |                 86                 |           14            |              71              |                0                |   10   |             30              |                 50                  |            10            |              70               |             0              |
-| sup3rant   |      15      |             27             |             40             |                 67                 |           13            |              53              |                0                |   9    |             11              |                 56                  |            11            |              67               |             11             |
-| YuZ        |      11      |             0              |             9              |                 55                 |            0            |              82              |                9                |   7    |             14              |                 86                  |            14            |              43               |             14             |
-| Melio      |      8       |             0              |             13             |                 63                 |           25            |              63              |               13                |   9    |             22              |                 56                  |            0             |              67               |             0              |
+| **Aether** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player     |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| Pr0misee   |      13      |             8              |             23             |                 23                 |           23            |              46              |                8                |                   0                   |         0          |     3     |
+| Lethality_ |      10      |             40             |             40             |                 10                 |           10            |              70              |                0                |                   0                   |         2          |     2     |
+| -MJB       |      8       |             13             |             0              |                 0                  |            0            |              63              |               13                |                  13                   |         0          |     1     |
+| Equalizer  |      7       |             29             |             14             |                 0                  |            0            |              86              |                0                |                   0                   |         1          |     0     |
+| SolGoat    |      3       |             33             |             33             |                 0                  |            0            |              0               |                0                |                   0                   |         0          |     0     |
+|            |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|            |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|            |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **HOMYNO** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player     |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| J0LZ       |      17      |             12             |             6              |                 53                 |           24            |              59              |                0                |                   0                   |         1          |     3     |
+| Gabie      |      14      |             14             |             14             |                 86                 |           14            |              71              |                0                |                   0                   |         0          |     1     |
+| sup3rant   |      15      |             27             |             40             |                 67                 |           13            |              53              |                0                |                  27                   |         0          |     1     |
+| YuZ        |      11      |             0              |             9              |                 55                 |            0            |              82              |                9                |                   0                   |         2          |     2     |
+| Melio      |      8       |             0              |             13             |                 63                 |           25            |              63              |               13                |                   0                   |         2          |     0     |
+## Extended Deaths Stats  
+
+| **Aether** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player     |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| Pr0misee   |      13      |              8              |                 0                 |            0             |              69               |             0              |             0             |       1       |
+| Lethality_ |      13      |             15              |                 8                 |            8             |              77               |             0              |            15             |       0       |
+| -MJB       |      13      |              8              |                 8                 |            8             |              54               |             15             |             0             |       1       |
+| Equalizer  |      14      |              7              |                 7                 |            7             |              64               |             0              |             7             |       1       |
+| SolGoat    |      14      |             43              |                 7                 |            7             |              43               |             0              |             7             |       2       |
+|            |              |                             |                                   |                          |                               |                            |                           |               |
+|            |              |                             |                                   |                          |                               |                            |                           |               |
+|            |              |                             |                                   |                          |                               |                            |                           |               |
+| **HOMYNO** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player     |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| J0LZ       |      8       |             25              |                38                 |            13            |              38               |             0              |             0             |       0       |
+| Gabie      |      10      |             30              |                50                 |            10            |              70               |             0              |             0             |       0       |
+| sup3rant   |      9       |             11              |                56                 |            11            |              67               |             11             |             0             |       1       |
+| YuZ        |      7       |             14              |                86                 |            14            |              43               |             14             |            14             |       1       |
+| Melio      |      9       |             22              |                56                 |            0             |              67               |             0              |             0             |       1       |

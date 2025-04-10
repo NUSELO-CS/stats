@@ -2,7 +2,21 @@
 **Match Date**: 2025-02-27  
 **Teams**: TryHearts vs CBUMP TEAM  
 
-## **Map**: de_nuke - TryHearts (13) vs CBUMP TEAM (5)  
+## Vetos  
+
+| Order | Team | Action | Map |
+| :---: | :--: | :----: | --- |
+| 1 | CBUMP TEAM | Banned | de_mirage |
+| 2 | TryHearts | Banned | de_anubis |
+| 3 | TryHearts | Banned | de_dust2 |
+| 4 | CBUMP TEAM | Banned | de_ancient |
+| 5 | CBUMP TEAM | Banned | de_train |
+| 6 | TryHearts | Banned | de_inferno |
+| 7 | CBUMP TEAM | Picked | de_nuke |
+
+---  
+
+### **Map**: de_nuke - TryHearts (13) vs CBUMP TEAM (5)  
 ---  
 
 ## Box Stats  
@@ -49,23 +63,43 @@
 | Founder56      |     0.17     | 44.44 |        37.50         |                         60.00                          |           0.00            |                            0.00                             |          60.00           |                           75.00                            |
 ---  
 
-## Extended Box Stats  
+## Extended Kills Stats  
 
-| **TryHearts**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| indig0-        |      20      |             5              |             5              |                 30                 |            5            |              75              |                0                |   11   |             27              |                 36                  |            9             |              55               |             9              |
-| AffAm0N        |      17      |             6              |             18             |                 53                 |           24            |              71              |                6                |   9    |             22              |                 33                  |            11            |              33               |             11             |
-| -RAGEMASHINE   |      15      |             33             |             7              |                 33                 |           20            |              67              |                7                |   6    |              0              |                 33                  |            0             |              67               |             0              |
-| Helpe3r        |      14      |             14             |             14             |                 36                 |            7            |              79              |                0                |   9    |             22              |                 56                  |            11            |              44               |             0              |
-| D3SHV1C70R     |      8       |             13             |             38             |                 38                 |           13            |              63              |                0                |   11   |             27              |                 36                  |            9             |              55               |             0              |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-|                |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| **CBUMP TEAM** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
-| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
-| d1esFf         |      17      |             12             |             29             |                 18                 |           12            |              53              |                0                |   14   |              7              |                 14                  |            0             |              93               |             0              |
-| idzu           |      12      |             25             |             17             |                 17                 |           17            |              58              |                8                |   14   |             21              |                 14                  |            0             |              71               |             7              |
-| -auxaa         |      10      |             30             |             0              |                 30                 |            0            |              40              |               10                |   15   |              7              |                 20                  |            7             |              73               |             0              |
-| smO_oki        |      4       |             0              |             25             |                 50                 |           25            |              50              |                0                |   15   |              7              |                 13                  |            0             |              47               |             0              |
-| Founder56      |      3       |             33             |             67             |                 0                  |            0            |              33              |                0                |   16   |             25              |                 13                  |            0             |              75               |             6              |
+| **TryHearts**  | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| indig0-        |      20      |             5              |             5              |                 30                 |            5            |              75              |                0                |                   0                   |         10         |     2     |
+| AffAm0N        |      17      |             6              |             18             |                 53                 |           24            |              71              |                6                |                   0                   |         0          |     3     |
+| -RAGEMASHINE   |      15      |             33             |             7              |                 33                 |           20            |              67              |                7                |                   0                   |         0          |     1     |
+| Helpe3r        |      14      |             14             |             14             |                 36                 |            7            |              79              |                0                |                   0                   |         0          |     2     |
+| D3SHV1C70R     |      8       |             13             |             38             |                 38                 |           13            |              63              |                0                |                   0                   |         0          |     2     |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+|                |              |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| **CBUMP TEAM** | Player Stats |                            |                            |                                    |                         |                              |                                 |                                       |                    |           |
+| Player         |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | % of Kills that are assisted by flash | Pistol Round Kills | AWP Kills |
+| d1esFf         |      17      |             12             |             29             |                 18                 |           12            |              53              |                0                |                   6                   |         0          |     1     |
+| idzu           |      12      |             25             |             17             |                 17                 |           17            |              58              |                8                |                   8                   |         0          |     2     |
+| -auxaa         |      10      |             30             |             0              |                 30                 |            0            |              40              |               10                |                   0                   |         0          |     0     |
+| smO_oki        |      4       |             0              |             25             |                 50                 |           25            |              50              |                0                |                   0                   |         0          |     1     |
+| Founder56      |      3       |             33             |             67             |                 0                  |            0            |              33              |                0                |                   0                   |         0          |     0     |
+## Extended Deaths Stats  
+
+| **TryHearts**  | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| indig0-        |      11      |             27              |                36                 |            9             |              55               |             9              |             0             |       0       |
+| AffAm0N        |      9       |             22              |                33                 |            11            |              33               |             11             |            11             |       0       |
+| -RAGEMASHINE   |      6       |              0              |                33                 |            0             |              67               |             0              |             0             |       0       |
+| Helpe3r        |      9       |             22              |                56                 |            11            |              44               |             0              |             0             |       0       |
+| D3SHV1C70R     |      11      |             27              |                36                 |            9             |              55               |             0              |             9             |       0       |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+|                |              |                             |                                   |                          |                               |                            |                           |               |
+| **CBUMP TEAM** | Player Stats |                             |                                   |                          |                               |                            |                           |               |
+| Player         |    Deaths    | % of Deaths that get traded | % of Deaths against lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close | % of Deaths while blinded | Deaths to AWP |
+| d1esFf         |      14      |              7              |                14                 |            0             |              93               |             0              |             0             |       2       |
+| idzu           |      14      |             21              |                14                 |            0             |              71               |             7              |             0             |       2       |
+| -auxaa         |      15      |              7              |                20                 |            7             |              73               |             0              |             0             |       2       |
+| smO_oki        |      15      |              7              |                13                 |            0             |              47               |             0              |             0             |       1       |
+| Founder56      |      16      |             25              |                13                 |            0             |              75               |             6              |             0             |       3       |
