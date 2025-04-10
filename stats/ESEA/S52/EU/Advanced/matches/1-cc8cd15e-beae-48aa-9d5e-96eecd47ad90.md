@@ -1,0 +1,71 @@
+### Match ID: 1-cc8cd15e-beae-48aa-9d5e-96eecd47ad90  
+**Map**: de_anubis  
+**Match Date**: 2025-03-05  
+**Teams**: Orgless 5 (13) vs Wildcard AC (5)  
+
+---  
+
+## Box Stats  
+
+| **Orgless 5**   | Player Stats      |        |           |          |       |       |       |         |        |      |     |
+| :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          | SteamID           | Rating | CT Rating | T Rating | KAST  |  ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| OxyK1437        | 76561198801912797 |  1.60  |   1.470   |  2.204   | 83.33 | 118.3 |  19   |    9    |   14   | 1.36 | 57  |
+| for2na          | 76561199154437466 |  1.44  |   1.159   |  2.192   | 77.78 | 99.8  |  16   |    4    |   10   | 1.60 | 31  |
+| -ElayDzha-      | 76561199105876225 |  1.34  |   1.357   |  1.485   | 77.78 | 77.7  |  15   |    1    |   9    | 1.67 | 66  |
+| rinn1608        | 76561199244575291 |  1.27  |   1.348   |  1.579   | 72.22 | 83.2  |  15   |    3    |   11   | 1.36 | 40  |
+| dosikzz-        | 76561199108853586 |  0.94  |   1.045   |  1.192   | 72.22 | 67.6  |  10   |    8    |   13   | 0.77 | 50  |
+|                 |                   |        |           |          |       |       |       |         |        |      |     |
+|                 |                   |        |           |          |       |       |       |         |        |      |     |
+|                 |                   |        |           |          |       |       |       |         |        |      |     |
+| **Wildcard AC** | Player Stats      |        |           |          |       |       |       |         |        |      |     |
+| Player          | SteamID           | Rating | CT Rating | T Rating | KAST  |  ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| fr33nd          | 76561198138034396 |  1.30  |   0.580   |  1.703   | 72.22 | 104.7 |  16   |    4    |   14   | 1.14 | 50  |
+| sSen            | 76561198343056868 |  1.00  |   1.338   |  0.895   | 66.67 | 67.7  |  13   |    5    |   14   | 0.93 | 30  |
+| T4gg3D_         | 76561198256799794 |  0.78  |   0.397   |  0.986   | 55.56 | 65.6  |  12   |    1    |   16   | 0.75 | 58  |
+| TMKj            | 76561198798935520 |  0.71  |   0.917   |  0.869   | 66.67 | 67.3  |   8   |    6    |   16   | 0.50 | 62  |
+| Wonder          | 76561199004328083 |  0.58  |   0.230   |  1.032   | 66.67 | 48.9  |   7   |    3    |   16   | 0.44 | 71  |
+---  
+
+## Contribution Stats  
+
+| **Orgless 5**   | Player Stats |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Rating    | KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| OxyK1437        |     1.60     | 83.33 |        73.33         |                         84.62                          |           66.67           |                            75.00                            |          83.33           |                           100.00                           |
+| for2na          |     1.44     | 77.78 |        85.71         |                         92.31                          |           87.50           |                            87.50                            |          83.33           |                           100.00                           |
+| -ElayDzha-      |     1.34     | 77.78 |        92.86         |                         100.00                         |          100.00           |                           100.00                            |          83.33           |                           100.00                           |
+| rinn1608        |     1.27     | 72.22 |        76.92         |                         76.92                          |           75.00           |                            75.00                            |          80.00           |                           80.00                            |
+| dosikzz-        |     0.94     | 72.22 |        92.31         |                         92.31                          |          100.00           |                           100.00                            |          80.00           |                           80.00                            |
+|                 |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+|                 |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+|                 |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| **Wildcard AC** | Player Stats |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| Player          |    Rating    | KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| fr33nd          |     1.30     | 72.22 |        38.46         |                         100.00                         |           33.33           |                           100.00                            |          40.00           |                           100.00                           |
+| sSen            |     1.00     | 66.67 |        38.46         |                         100.00                         |           25.00           |                           100.00                            |          44.44           |                           100.00                           |
+| T4gg3D_         |     0.78     | 55.56 |        40.00         |                         80.00                          |           0.00            |                            0.00                             |          50.00           |                           100.00                           |
+| TMKj            |     0.71     | 66.67 |        41.67         |                         100.00                         |           25.00           |                           100.00                            |          50.00           |                           100.00                           |
+| Wonder          |     0.58     | 66.67 |        33.33         |                         80.00                          |           33.33           |                           100.00                            |          33.33           |                           75.00                            |
+---  
+
+## Extended Box Stats  
+
+| **Orgless 5**   | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| OxyK1437        |      19      |             26             |             21             |                 37                 |           11            |              63              |               11                |   14   |             29              |                 36                  |            7             |              50               |             7              |
+| for2na          |      16      |             19             |             25             |                 44                 |            6            |              75              |                0                |   10   |             20              |                 30                  |            10            |              50               |             20             |
+| -ElayDzha-      |      15      |             33             |             13             |                 33                 |           13            |              87              |                0                |   9    |             22              |                 44                  |            0             |              56               |             11             |
+| rinn1608        |      15      |             0              |             13             |                 80                 |            0            |              60              |               13                |   11   |             18              |                 27                  |            9             |              55               |             0              |
+| dosikzz-        |      10      |             10             |             10             |                 10                 |            0            |              60              |                0                |   13   |             38              |                 38                  |            8             |              62               |             8              |
+|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                 |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| **Wildcard AC** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| Player          |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| fr33nd          |      16      |             19             |             31             |                 56                 |           13            |              50              |                6                |   14   |              7              |                 21                  |            0             |              71               |             7              |
+| sSen            |      13      |             23             |             31             |                 38                 |           15            |              62              |                8                |   14   |              0              |                 29                  |            0             |              64               |             7              |
+| T4gg3D_         |      12      |             25             |             25             |                 42                 |            8            |              33              |                8                |   16   |              0              |                 25                  |            0             |              75               |             0              |
+| TMKj            |      8       |             13             |             13             |                 0                  |            0            |              50              |               25                |   16   |             38              |                 31                  |            6             |              63               |             6              |
+| Wonder          |      7       |             14             |             29             |                 0                  |            0            |              86              |                0                |   16   |             38              |                 25                  |            0             |              63               |             6              |
