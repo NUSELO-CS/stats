@@ -1,8 +1,8 @@
 ### Match ID: 1-fc3d4fca-ede3-41cc-b4d8-850b4fbe807d  
-**Map**: de_ancient  
 **Match Date**: 2025-02-26  
-**Teams**: Money Men (16) vs Lotus (13)  
+**Teams**: Money Men vs Lotus  
 
+## **Map**: de_ancient - Money Men (16) vs Lotus (13)  
 ---  
 
 ## Box Stats  

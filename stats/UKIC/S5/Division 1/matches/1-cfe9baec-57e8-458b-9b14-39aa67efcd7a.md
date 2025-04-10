@@ -1,8 +1,8 @@
 ### Match ID: 1-cfe9baec-57e8-458b-9b14-39aa67efcd7a  
-**Map**: de_train  
 **Match Date**: 2025-02-25  
-**Teams**: ALASKA (16) vs Belfast Storm (14)  
+**Teams**: ALASKA vs Belfast Storm  
 
+## **Map**: de_train - ALASKA (16) vs Belfast Storm (14)  
 ---  
 
 ## Box Stats  

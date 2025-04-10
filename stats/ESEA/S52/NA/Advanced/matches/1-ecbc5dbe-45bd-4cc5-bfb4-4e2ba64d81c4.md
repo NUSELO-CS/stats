@@ -1,8 +1,8 @@
 ### Match ID: 1-ecbc5dbe-45bd-4cc5-bfb4-4e2ba64d81c4  
-**Map**: de_dust2  
 **Match Date**: 2025-01-21  
-**Teams**: Flourish Gaming (11) vs Luigis Mansion (13)  
+**Teams**: Flourish Gaming vs Luigis Mansion  
 
+## **Map**: de_dust2 - Flourish Gaming (11) vs Luigis Mansion (13)  
 ---  
 
 ## Box Stats  

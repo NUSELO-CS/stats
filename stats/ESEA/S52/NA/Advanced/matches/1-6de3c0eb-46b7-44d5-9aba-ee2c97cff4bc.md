@@ -1,8 +1,8 @@
 ### Match ID: 1-6de3c0eb-46b7-44d5-9aba-ee2c97cff4bc  
-**Map**: de_mirage  
 **Match Date**: 2025-02-20  
-**Teams**: Zomblers (6) vs HoleSmokers (13)  
+**Teams**: Zomblers vs HoleSmokers  
 
+## **Map**: de_mirage - Zomblers (6) vs HoleSmokers (13)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-2971a61b-a77b-47e1-bdaf-9be7efb9dcf4  
-**Map**: de_nuke  
 **Match Date**: 2025-01-29  
-**Teams**: Uno Mille (6) vs Fluxo (13)  
+**Teams**: Uno Mille vs Fluxo  
 
+## **Map**: de_nuke - Uno Mille (6) vs Fluxo (13)  
 ---  
 
 ## Box Stats  

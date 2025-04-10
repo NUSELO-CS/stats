@@ -1,8 +1,8 @@
 ### Match ID: 1-f8bf4b2c-5623-420d-bbbe-6b27ece3adbd  
-**Map**: de_anubis  
 **Match Date**: 2025-02-14  
-**Teams**: Sacred (8) vs antigrind (13)  
+**Teams**: Sacred vs antigrind  
 
+## **Map**: de_anubis - Sacred (8) vs antigrind (13)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-b191eded-ecb5-4e55-bc1d-a022cf6bdf4a  
-**Map**: de_anubis  
 **Match Date**: 2025-02-10  
-**Teams**: BluRoze CS (13) vs team_SpecterUK (11)  
+**Teams**: BluRoze CS vs team_SpecterUK  
 
+## **Map**: de_anubis - BluRoze CS (13) vs team_SpecterUK (11)  
 ---  
 
 ## Box Stats  

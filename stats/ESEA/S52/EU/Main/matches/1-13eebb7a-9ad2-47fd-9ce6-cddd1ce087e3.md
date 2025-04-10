@@ -1,8 +1,8 @@
 ### Match ID: 1-13eebb7a-9ad2-47fd-9ce6-cddd1ce087e3  
-**Map**: de_nuke  
 **Match Date**: 2025-02-27  
-**Teams**: hypewrld (13) vs 8morts 6blesses (6)  
+**Teams**: hypewrld vs 8morts 6blesses  
 
+## **Map**: de_nuke - hypewrld (13) vs 8morts 6blesses (6)  
 ---  
 
 ## Box Stats  

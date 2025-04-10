@@ -1,8 +1,8 @@
 ### Match ID: 1-ecf0876e-aee3-4d36-a1da-9e6ecc47c4bb  
-**Map**: de_ancient  
 **Match Date**: 2025-04-02  
-**Teams**: Yawara E-Sports (13) vs Floripa Stars (16)  
+**Teams**: Yawara E-Sports vs Floripa Stars  
 
+## **Map**: de_ancient - Yawara E-Sports (13) vs Floripa Stars (16)  
 ---  
 
 ## Box Stats  

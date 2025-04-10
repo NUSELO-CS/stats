@@ -1,8 +1,8 @@
 ### Match ID: 1-94e3ddc0-0f9f-40ff-a01d-fff6a88f2a6d  
-**Map**: de_mirage  
 **Match Date**: 2025-01-24  
-**Teams**: Party Astronauts (13) vs Aetheris (11)  
+**Teams**: Party Astronauts vs Aetheris  
 
+## **Map**: de_mirage - Party Astronauts (13) vs Aetheris (11)  
 ---  
 
 ## Box Stats  

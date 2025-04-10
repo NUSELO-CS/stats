@@ -1,8 +1,8 @@
 ### Match ID: 1-99ebe484-e5bb-430b-b033-cd59d4cbdcec  
-**Map**: de_dust2  
 **Match Date**: 2025-03-18  
-**Teams**: harizma (8) vs -72c (13)  
+**Teams**: harizma vs -72c  
 
+## **Map**: de_dust2 - harizma (8) vs -72c (13)  
 ---  
 
 ## Box Stats  

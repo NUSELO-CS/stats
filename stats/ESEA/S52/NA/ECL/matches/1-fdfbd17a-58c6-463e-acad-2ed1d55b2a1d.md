@@ -1,8 +1,8 @@
 ### Match ID: 1-fdfbd17a-58c6-463e-acad-2ed1d55b2a1d  
-**Map**: de_mirage  
 **Match Date**: 2025-03-26  
-**Teams**: NRG (13) vs InControl (9)  
+**Teams**: NRG vs InControl  
 
+## **Map**: de_mirage - NRG (13) vs InControl (9)  
 ---  
 
 ## Box Stats  

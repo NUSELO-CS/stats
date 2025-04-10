@@ -1,8 +1,8 @@
 ### Match ID: 1-2aa0ba0f-1c2e-4cb9-a93c-0c5ca588dc1c  
-**Map**: de_ancient  
 **Match Date**: 2025-02-14  
-**Teams**: Quebon (9) vs iLLustrious (13)  
+**Teams**: Quebon vs iLLustrious  
 
+## **Map**: de_ancient - Quebon (9) vs iLLustrious (13)  
 ---  
 
 ## Box Stats  

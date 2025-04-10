@@ -1,8 +1,8 @@
 ### Match ID: 1-de241554-c65a-4fed-ab1c-a0ca6fe2f5de  
-**Map**: de_ancient  
 **Match Date**: 2025-02-06  
-**Teams**: Royal (19) vs Wanted Goons (17)  
+**Teams**: Royal vs Wanted Goons  
 
+## **Map**: de_ancient - Royal (19) vs Wanted Goons (17)  
 ---  
 
 ## Box Stats  

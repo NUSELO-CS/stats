@@ -1,8 +1,8 @@
 ### Match ID: 1-ccaba9cc-f5c0-4bca-a084-bd80f51c7be4  
-**Map**: de_mirage  
 **Match Date**: 2025-01-21  
-**Teams**: benched (16) vs TGM (13)  
+**Teams**: benched vs TGM  
 
+## **Map**: de_mirage - benched (16) vs TGM (13)  
 ---  
 
 ## Box Stats  

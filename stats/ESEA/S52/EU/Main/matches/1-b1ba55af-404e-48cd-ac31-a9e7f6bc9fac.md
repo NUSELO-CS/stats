@@ -1,8 +1,8 @@
 ### Match ID: 1-b1ba55af-404e-48cd-ac31-a9e7f6bc9fac  
-**Map**: de_train  
 **Match Date**: 2025-02-17  
-**Teams**: RaspBerryBobery (4) vs MANA (13)  
+**Teams**: RaspBerryBobery vs MANA  
 
+## **Map**: de_train - RaspBerryBobery (4) vs MANA (13)  
 ---  
 
 ## Box Stats  

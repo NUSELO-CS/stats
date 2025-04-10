@@ -1,8 +1,8 @@
 ### Match ID: 1-fedfad3f-139d-4aa8-bcf2-2d7eb265f939  
-**Map**: de_mirage  
 **Match Date**: 2025-01-25  
-**Teams**: Boss (14) vs BadNewsCapybara (16)  
+**Teams**: Boss vs BadNewsCapybara  
 
+## **Map**: de_mirage - Boss (14) vs BadNewsCapybara (16)  
 ---  
 
 ## Box Stats  

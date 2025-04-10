@@ -1,8 +1,76 @@
 ### Match ID: 1-6f0ca93c-d6ae-4e8f-bbb3-dfb02a23e838  
-**Map**: de_nuke  
 **Match Date**: 2025-03-07  
-**Teams**: Aura (1) vs Fisher College (13)  
+**Teams**: Aura vs Fisher College  
 
+## **Map**: de_anubis - Aura (0) vs Fisher College (13)  
+---  
+
+## Box Stats  
+
+| **Aura**           | Player Stats      |        |           |          |        |       |       |         |        |      |     |
+| :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             | SteamID           | Rating | CT Rating | T Rating |  KAST  |  ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| kermi              | 76561198212207660 |  0.71  |   0.799   |  0.791   | 76.92  | 63.4  |   6   |    3    |   13   | 0.46 | 50  |
+| vin33              | 76561197975639841 |  0.58  |   0.663   |  -0.395  | 46.15  | 55.0  |   8   |    1    |   13   | 0.62 | 50  |
+| neight             | 76561198997404820 |  0.18  |   0.120   |  1.443   | 38.46  | 49.0  |   3   |    2    |   13   | 0.23 | 66  |
+| clx                | 76561198065418118 |  0.17  |   0.152   |  0.358   | 38.46  | 21.0  |   3   |    1    |   11   | 0.27 |  0  |
+| v0lcaN             | 76561198291412561 |  0.05  |   0.138   |  -0.471  | 30.77  | 25.5  |   2   |    0    |   11   | 0.18 |  0  |
+|                    |                   |        |           |          |        |       |       |         |        |      |     |
+|                    |                   |        |           |          |        |       |       |         |        |      |     |
+|                    |                   |        |           |          |        |       |       |         |        |      |     |
+| **Fisher College** | Player Stats      |        |           |          |        |       |       |         |        |      |     |
+| Player             | SteamID           | Rating | CT Rating | T Rating |  KAST  |  ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| corn               | 76561198087858058 |  2.13  |   1.976   |  2.244   | 100.00 | 125.2 |  16   |    5    |   4    | 4.00 | 56  |
+| AAlekSS            | 76561198176501275 |  1.76  |   3.308   |  1.633   | 92.31  | 82.8  |  12   |    6    |   2    | 6.00 | 33  |
+| nilsje             | 76561198298534255 |  1.61  |   0.791   |  1.769   | 92.31  | 90.4  |  12   |    4    |   6    | 2.00 | 58  |
+| CrePoW             | 76561198196974277 |  1.57  |   3.211   |  1.476   | 92.31  | 91.7  |  10   |    5    |   4    | 2.50 | 60  |
+| tatm               | 76561198273434890 |  1.43  |   0.791   |  1.581   | 84.62  | 81.8  |  11   |    1    |   6    | 1.83 | 27  |
+---  
+
+## Contribution Stats  
+
+| **Aura**           | Player Stats |        |                      |                                                        |                           |                                                             |                          |                                                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Rating    |  KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| kermi              |     0.71     | 76.92  |         0.00         |                          0.00                          |           0.00            |                            0.00                             |           0.00           |                            0.00                            |
+| vin33              |     0.58     | 46.15  |         0.00         |                          0.00                          |           0.00            |                            0.00                             |           0.00           |                            0.00                            |
+| neight             |     0.18     | 38.46  |         0.00         |                          0.00                          |           0.00            |                            0.00                             |           0.00           |                            0.00                            |
+| clx                |     0.17     | 38.46  |         0.00         |                          0.00                          |           0.00            |                            0.00                             |           0.00           |                            0.00                            |
+| v0lcaN             |     0.05     | 30.77  |         0.00         |                          0.00                          |           0.00            |                            0.00                             |           0.00           |                            0.00                            |
+|                    |              |        |                      |                                                        |                           |                                                             |                          |                                                            |
+|                    |              |        |                      |                                                        |                           |                                                             |                          |                                                            |
+|                    |              |        |                      |                                                        |                           |                                                             |                          |                                                            |
+| **Fisher College** | Player Stats |        |                      |                                                        |                           |                                                             |                          |                                                            |
+| Player             |    Rating    |  KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| corn               |     2.13     | 100.00 |        100.00        |                         100.00                         |          100.00           |                           100.00                            |          100.00          |                           100.00                           |
+| AAlekSS            |     1.76     | 92.31  |        100.00        |                         92.31                          |          100.00           |                           100.00                            |          100.00          |                           91.67                            |
+| nilsje             |     1.61     | 92.31  |        100.00        |                         92.31                          |          100.00           |                           100.00                            |          100.00          |                           91.67                            |
+| CrePoW             |     1.57     | 92.31  |        100.00        |                         92.31                          |          100.00           |                           100.00                            |          100.00          |                           91.67                            |
+| tatm               |     1.43     | 84.62  |        100.00        |                         84.62                          |          100.00           |                           100.00                            |          100.00          |                           83.33                            |
+---  
+
+## Extended Box Stats  
+
+| **Aura**           | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| kermi              |      6       |             0              |             67             |                 17                 |            0            |              17              |                0                |   13   |             15              |                  8                  |            0             |              69               |             8              |
+| vin33              |      8       |             13             |             13             |                 0                  |            0            |              25              |                0                |   13   |              0              |                  8                  |            0             |              69               |             0              |
+| neight             |      3       |             67             |            100             |                 0                  |            0            |             100              |                0                |   13   |              8              |                  8                  |            0             |              69               |             15             |
+| clx                |      3       |             0              |             0              |                 33                 |            0            |              67              |                0                |   11   |              0              |                  0                  |            0             |              91               |             0              |
+| v0lcaN             |      2       |             50             |             0              |                 0                  |            0            |             100              |                0                |   11   |              9              |                  9                  |            0             |              64               |             0              |
+|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| **Fisher College** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| corn               |      16      |             19             |             13             |                 38                 |            0            |              75              |                6                |   4    |             50              |                 50                  |            0             |              50               |             0              |
+| AAlekSS            |      12      |             17             |             0              |                 42                 |            8            |              83              |                0                |   2    |             50              |                 50                  |            0             |              100              |             0              |
+| nilsje             |      12      |             0              |             0              |                 75                 |           33            |              50              |               17                |   6    |             33              |                 50                  |            0             |              17               |             0              |
+| CrePoW             |      10      |             20             |             10             |                 40                 |            0            |              70              |                0                |   4    |             25              |                 50                  |            0             |              50               |             0              |
+| tatm               |      11      |             0              |             9              |                 73                 |            0            |              82              |                0                |   6    |             33              |                 50                  |            0             |              67               |             0              |
+
+## **Map**: de_nuke - Aura (1) vs Fisher College (13)  
 ---  
 
 ## Box Stats  

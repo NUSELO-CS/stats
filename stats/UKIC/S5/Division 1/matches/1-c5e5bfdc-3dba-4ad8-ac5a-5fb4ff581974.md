@@ -1,8 +1,8 @@
 ### Match ID: 1-c5e5bfdc-3dba-4ad8-ac5a-5fb4ff581974  
-**Map**: de_anubis  
 **Match Date**: 2025-03-03  
-**Teams**: ReasonGaming (13) vs ANTARCTICA (10)  
+**Teams**: ReasonGaming vs ANTARCTICA  
 
+## **Map**: de_anubis - ReasonGaming (13) vs ANTARCTICA (10)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-d5bb57b0-233c-4b2c-aa6d-79f8addcd96a  
-**Map**: de_dust2  
 **Match Date**: 2025-02-23  
-**Teams**: Diamant Esports (13) vs w0wClan (5)  
+**Teams**: Diamant Esports vs w0wClan  
 
+## **Map**: de_dust2 - Diamant Esports (13) vs w0wClan (5)  
 ---  
 
 ## Box Stats  

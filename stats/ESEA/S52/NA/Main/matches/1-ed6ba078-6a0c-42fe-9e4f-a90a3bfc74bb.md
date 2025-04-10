@@ -1,8 +1,8 @@
 ### Match ID: 1-ed6ba078-6a0c-42fe-9e4f-a90a3bfc74bb  
-**Map**: de_inferno  
 **Match Date**: 2025-03-03  
-**Teams**: jawgoo express (9) vs Ghost Gaming (13)  
+**Teams**: jawgoo express vs Ghost Gaming  
 
+## **Map**: de_inferno - jawgoo express (9) vs Ghost Gaming (13)  
 ---  
 
 ## Box Stats  

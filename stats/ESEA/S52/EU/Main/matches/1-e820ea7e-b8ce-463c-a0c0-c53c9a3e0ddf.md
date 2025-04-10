@@ -1,8 +1,8 @@
 ### Match ID: 1-e820ea7e-b8ce-463c-a0c0-c53c9a3e0ddf  
-**Map**: de_ancient  
 **Match Date**: 2025-02-20  
-**Teams**: BAKS ESPORTS (5) vs POOHANK (13)  
+**Teams**: BAKS ESPORTS vs POOHANK  
 
+## **Map**: de_ancient - BAKS ESPORTS (5) vs POOHANK (13)  
 ---  
 
 ## Box Stats  

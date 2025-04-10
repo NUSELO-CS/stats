@@ -1,8 +1,8 @@
 ### Match ID: 1-fdebc9b0-9bea-4d0d-b02f-41e89abe8425  
-**Map**: de_dust2  
 **Match Date**: 2025-02-18  
-**Teams**: NewBALLS (11) vs Insilio (13)  
+**Teams**: NewBALLS vs Insilio  
 
+## **Map**: de_dust2 - NewBALLS (11) vs Insilio (13)  
 ---  
 
 ## Box Stats  

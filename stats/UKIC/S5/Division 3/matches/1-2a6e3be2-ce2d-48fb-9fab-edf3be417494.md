@@ -1,8 +1,8 @@
 ### Match ID: 1-2a6e3be2-ce2d-48fb-9fab-edf3be417494  
-**Map**: de_ancient  
 **Match Date**: 2025-02-04  
-**Teams**: REDACTED (13) vs Team HeavyGods (10)  
+**Teams**: REDACTED vs Team HeavyGods  
 
+## **Map**: de_ancient - REDACTED (13) vs Team HeavyGods (10)  
 ---  
 
 ## Box Stats  

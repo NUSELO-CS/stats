@@ -1,8 +1,8 @@
 ### Match ID: 1-b6abf4ec-b54f-4fb8-a51f-a6d4ff5a479a  
-**Map**: de_ancient  
 **Match Date**: 2025-02-26  
-**Teams**: Omen 1800 Gang (13) vs Glizzy Gobblers (11)  
+**Teams**: Omen 1800 Gang vs Glizzy Gobblers  
 
+## **Map**: de_ancient - Omen 1800 Gang (13) vs Glizzy Gobblers (11)  
 ---  
 
 ## Box Stats  

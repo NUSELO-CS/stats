@@ -1,8 +1,8 @@
 ### Match ID: 1-a525d5fc-af0a-419a-a55b-5d4ed0b8ccba  
-**Map**: de_anubis  
 **Match Date**: 2025-02-25  
-**Teams**: Rush3D (11) vs BWC (13)  
+**Teams**: Rush3D vs BWC  
 
+## **Map**: de_anubis - Rush3D (11) vs BWC (13)  
 ---  
 
 ## Box Stats  

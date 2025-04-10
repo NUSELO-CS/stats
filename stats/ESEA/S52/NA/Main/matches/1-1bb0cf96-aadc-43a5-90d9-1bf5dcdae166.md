@@ -1,8 +1,8 @@
 ### Match ID: 1-1bb0cf96-aadc-43a5-90d9-1bf5dcdae166  
-**Map**: de_nuke  
 **Match Date**: 2025-02-14  
-**Teams**: Outreach-Tech (11) vs Flowsta (13)  
+**Teams**: Outreach-Tech vs Flowsta  
 
+## **Map**: de_nuke - Outreach-Tech (11) vs Flowsta (13)  
 ---  
 
 ## Box Stats  

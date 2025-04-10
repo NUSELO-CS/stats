@@ -1,8 +1,8 @@
 ### Match ID: 1-0a2ae7db-8bfd-4048-bdc0-eb5ab3b3ad39  
-**Map**: de_train  
 **Match Date**: 2025-01-20  
-**Teams**: Need ORG - LFO (11) vs XPERION NXT (13)  
+**Teams**: Need ORG - LFO vs XPERION NXT  
 
+## **Map**: de_train - Need ORG - LFO (11) vs XPERION NXT (13)  
 ---  
 
 ## Box Stats  

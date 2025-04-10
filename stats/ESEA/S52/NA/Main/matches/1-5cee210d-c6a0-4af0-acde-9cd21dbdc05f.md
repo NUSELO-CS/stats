@@ -1,8 +1,8 @@
 ### Match ID: 1-5cee210d-c6a0-4af0-acde-9cd21dbdc05f  
-**Map**: de_mirage  
 **Match Date**: 2025-02-28  
-**Teams**: Hot Loaders (7) vs clowncar (13)  
+**Teams**: Hot Loaders vs clowncar  
 
+## **Map**: de_mirage - Hot Loaders (7) vs clowncar (13)  
 ---  
 
 ## Box Stats  

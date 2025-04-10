@@ -1,8 +1,76 @@
 ### Match ID: 1-de6848b6-2c4c-4be2-acfa-e5e5bde875b3  
-**Map**: de_mirage  
 **Match Date**: 2025-03-08  
-**Teams**: Virtual Cottage (3) vs K27 (13)  
+**Teams**: K27 vs Virtual Cottage  
 
+## **Map**: de_ancient - K27 (13) vs Virtual Cottage (11)  
+---  
+
+## Box Stats  
+
+| **K27**             | Player Stats      |        |           |          |       |      |       |         |        |      |     |
+| :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              | SteamID           | Rating | CT Rating | T Rating | KAST  | ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| xeedo               | 76561199164920397 |  1.48  |   1.687   |  1.471   | 87.50 | 96.7 |  22   |    7    |   16   | 1.38 | 54  |
+| deadstar472         | 76561198197951546 |  1.25  |   1.018   |  1.610   | 79.17 | 93.2 |  19   |    6    |   18   | 1.06 | 73  |
+| qw1nk1              | 76561199439990007 |  1.05  |   0.575   |  1.609   | 66.67 | 77.8 |  15   |    5    |   14   | 1.07 | 66  |
+| kashl1d             | 76561199167176654 |  0.94  |   0.818   |  1.194   | 66.67 | 57.9 |  14   |    3    |   14   | 1.00 | 42  |
+| relaxxie            | 76561199384986887 |  0.83  |   0.533   |  1.184   | 58.33 | 60.8 |  13   |    4    |   15   | 0.87 | 76  |
+|                     |                   |        |           |          |       |      |       |         |        |      |     |
+|                     |                   |        |           |          |       |      |       |         |        |      |     |
+|                     |                   |        |           |          |       |      |       |         |        |      |     |
+| **Virtual Cottage** | Player Stats      |        |           |          |       |      |       |         |        |      |     |
+| Player              | SteamID           | Rating | CT Rating | T Rating | KAST  | ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| EspiranTo           | 76561198045037774 |  1.11  |   0.955   |  1.401   | 70.83 | 85.3 |  17   |    6    |   17   | 1.00 | 70  |
+| aidKiT              | 76561198201921879 |  1.11  |   1.408   |  0.942   | 66.67 | 70.7 |  19   |    6    |   17   | 1.12 | 31  |
+| amanek              | 76561198068944951 |  1.00  |   0.744   |  1.384   | 75.00 | 62.6 |  14   |    4    |   15   | 0.93 | 57  |
+| SungJinwooXO        | 76561197987468443 |  0.96  |   0.650   |  1.266   | 62.50 | 76.1 |  14   |    6    |   15   | 0.93 | 64  |
+| spardasosa          | 76561198258369646 |  0.79  |   0.763   |  0.999   | 62.50 | 67.1 |  13   |    3    |   19   | 0.68 | 61  |
+---  
+
+## Contribution Stats  
+
+| **K27**             | Player Stats |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Rating    | KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| xeedo               |     1.48     | 87.50 |        61.90         |                         100.00                         |           44.44           |                           100.00                            |          75.00           |                           100.00                           |
+| deadstar472         |     1.25     | 79.17 |        57.89         |                         84.62                          |           33.33           |                            75.00                            |          80.00           |                           88.89                            |
+| qw1nk1              |     1.05     | 66.67 |        75.00         |                         92.31                          |           50.00           |                            75.00                            |          90.00           |                           100.00                           |
+| kashl1d             |     0.94     | 66.67 |        75.00         |                         92.31                          |           57.14           |                           100.00                            |          88.89           |                           88.89                            |
+| relaxxie            |     0.83     | 58.33 |        71.43         |                         76.92                          |           60.00           |                            75.00                            |          77.78           |                           77.78                            |
+|                     |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+|                     |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+|                     |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| **Virtual Cottage** | Player Stats |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| Player              |    Rating    | KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| EspiranTo           |     1.11     | 70.83 |        58.82         |                         90.91                          |           37.50           |                           100.00                            |          77.78           |                           87.50                            |
+| aidKiT              |     1.11     | 66.67 |        56.25         |                         81.82                          |           30.00           |                           100.00                            |          100.00          |                           75.00                            |
+| amanek              |     1.00     | 75.00 |        50.00         |                         81.82                          |           28.57           |                            66.67                            |          63.64           |                           87.50                            |
+| SungJinwooXO        |     0.96     | 62.50 |        60.00         |                         81.82                          |           28.57           |                            66.67                            |          87.50           |                           87.50                            |
+| spardasosa          |     0.79     | 62.50 |        60.00         |                         81.82                          |           42.86           |                           100.00                            |          75.00           |                           75.00                            |
+---  
+
+## Extended Box Stats  
+
+| **K27**             | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| xeedo               |      22      |             9              |             41             |                 50                 |           27            |              50              |                0                |   16   |             31              |                 25                  |            13            |              63               |             13             |
+| deadstar472         |      19      |             26             |             16             |                 21                 |            0            |              53              |               16                |   18   |             17              |                 22                  |            6             |              50               |             6              |
+| qw1nk1              |      15      |             27             |             0              |                 47                 |           20            |              73              |               20                |   14   |             21              |                 14                  |            0             |              64               |             0              |
+| kashl1d             |      14      |             21             |             7              |                 21                 |            0            |              71              |                0                |   14   |             21              |                 21                  |            0             |              50               |             0              |
+| relaxxie            |      13      |             15             |             8              |                 54                 |            8            |              69              |               23                |   15   |             13              |                 13                  |            0             |              67               |             0              |
+|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| **Virtual Cottage** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| EspiranTo           |      17      |             12             |             24             |                 35                 |            0            |              41              |                6                |   17   |             18              |                 29                  |            0             |              65               |             6              |
+| aidKiT              |      19      |             11             |             16             |                 47                 |           11            |              79              |                0                |   17   |             18              |                 18                  |            0             |              76               |             6              |
+| amanek              |      14      |             7              |             36             |                 21                 |            7            |              43              |                0                |   15   |             20              |                 20                  |            0             |              60               |             0              |
+| SungJinwooXO        |      14      |             14             |             14             |                 43                 |           14            |              36              |                0                |   15   |              7              |                 20                  |            0             |              60               |             27             |
+| spardasosa          |      13      |             23             |             15             |                 54                 |            0            |              69              |               15                |   19   |             21              |                 32                  |            0             |              53               |             16             |
+
+## **Map**: de_mirage - Virtual Cottage (3) vs K27 (13)  
 ---  
 
 ## Box Stats  

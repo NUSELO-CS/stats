@@ -1,8 +1,8 @@
 ### Match ID: 1-ed15e1bc-c99c-49e8-92fe-f3aeda69b1ca  
-**Map**: de_anubis  
 **Match Date**: 2025-02-28  
-**Teams**: SoulsHeart (7) vs XPERION NXT (13)  
+**Teams**: SoulsHeart vs XPERION NXT  
 
+## **Map**: de_anubis - SoulsHeart (7) vs XPERION NXT (13)  
 ---  
 
 ## Box Stats  

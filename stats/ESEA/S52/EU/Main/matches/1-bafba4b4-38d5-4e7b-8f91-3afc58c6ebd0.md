@@ -1,8 +1,8 @@
 ### Match ID: 1-bafba4b4-38d5-4e7b-8f91-3afc58c6ebd0  
-**Map**: de_dust2  
 **Match Date**: 2025-02-25  
-**Teams**: ProCamp UA (13) vs XGod Arena (9)  
+**Teams**: ProCamp UA vs XGod Arena  
 
+## **Map**: de_dust2 - ProCamp UA (13) vs XGod Arena (9)  
 ---  
 
 ## Box Stats  

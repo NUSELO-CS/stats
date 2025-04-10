@@ -1,8 +1,8 @@
 ### Match ID: 1-deb618ff-bdb1-4c82-8b30-bbacb5311ba5  
-**Map**: de_dust2  
 **Match Date**: 2025-01-29  
-**Teams**: BadNewsCapybara (8) vs Marsborne (13)  
+**Teams**: BadNewsCapybara vs Marsborne  
 
+## **Map**: de_dust2 - BadNewsCapybara (8) vs Marsborne (13)  
 ---  
 
 ## Box Stats  

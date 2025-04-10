@@ -1,8 +1,8 @@
 ### Match ID: 1-a0a3b1c3-aa80-4ab8-bec6-bee7949e2fb8  
-**Map**: de_ancient  
 **Match Date**: 2025-02-14  
-**Teams**: Millennium 7 (13) vs SuperDink (6)  
+**Teams**: Millennium 7 vs SuperDink  
 
+## **Map**: de_ancient - Millennium 7 (13) vs SuperDink (6)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-dd3bddaa-d31f-4c25-ad1e-df655f4b45f5  
-**Map**: de_nuke  
 **Match Date**: 2025-03-11  
-**Teams**: IntoTheBrunk (13) vs Tempest (6)  
+**Teams**: IntoTheBrunk vs Tempest  
 
+## **Map**: de_nuke - IntoTheBrunk (13) vs Tempest (6)  
 ---  
 
 ## Box Stats  

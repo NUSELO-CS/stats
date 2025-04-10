@@ -1,8 +1,8 @@
 ### Match ID: 1-0536cbcb-5af6-43bf-913d-cafde8bc33b4  
-**Map**: de_inferno  
 **Match Date**: 2025-01-22  
-**Teams**: NEVERMORE (13) vs QUAZAR x 44 (4)  
+**Teams**: NEVERMORE vs QUAZAR x 44  
 
+## **Map**: de_inferno - NEVERMORE (13) vs QUAZAR x 44 (4)  
 ---  
 
 ## Box Stats  

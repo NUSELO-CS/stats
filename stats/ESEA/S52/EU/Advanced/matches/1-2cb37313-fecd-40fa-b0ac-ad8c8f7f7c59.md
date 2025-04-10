@@ -1,8 +1,8 @@
 ### Match ID: 1-2cb37313-fecd-40fa-b0ac-ad8c8f7f7c59  
-**Map**: de_mirage  
 **Match Date**: 2025-02-27  
-**Teams**: ZennoX (6) vs Heimo (13)  
+**Teams**: ZennoX vs Heimo  
 
+## **Map**: de_mirage - ZennoX (6) vs Heimo (13)  
 ---  
 
 ## Box Stats  

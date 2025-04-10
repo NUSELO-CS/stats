@@ -1,8 +1,8 @@
 ### Match ID: 1-04f00bda-ceb0-4249-9fce-ec51bcb13ccf  
-**Map**: de_dust2  
 **Match Date**: 2025-02-13  
-**Teams**: Junga (14) vs HOMYNO (16)  
+**Teams**: Junga vs HOMYNO  
 
+## **Map**: de_dust2 - Junga (14) vs HOMYNO (16)  
 ---  
 
 ## Box Stats  

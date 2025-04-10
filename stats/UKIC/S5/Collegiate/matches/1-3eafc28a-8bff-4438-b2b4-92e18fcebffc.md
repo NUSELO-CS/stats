@@ -1,8 +1,8 @@
 ### Match ID: 1-3eafc28a-8bff-4438-b2b4-92e18fcebffc  
-**Map**: de_anubis  
 **Match Date**: 2025-02-03  
-**Teams**: Imperial M3tric (10) vs Soton Strikers (13)  
+**Teams**: Imperial M3tric vs Soton Strikers  
 
+## **Map**: de_anubis - Imperial M3tric (10) vs Soton Strikers (13)  
 ---  
 
 ## Box Stats  

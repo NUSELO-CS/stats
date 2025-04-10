@@ -1,8 +1,8 @@
 ### Match ID: 1-b62831ac-0c99-4bac-8fc7-d8bd1ad5beac  
-**Map**: de_ancient  
 **Match Date**: 2025-02-25  
-**Teams**: Wily Ninjas (8) vs James Bond Bois (13)  
+**Teams**: Wily Ninjas vs James Bond Bois  
 
+## **Map**: de_ancient - Wily Ninjas (8) vs James Bond Bois (13)  
 ---  
 
 ## Box Stats  

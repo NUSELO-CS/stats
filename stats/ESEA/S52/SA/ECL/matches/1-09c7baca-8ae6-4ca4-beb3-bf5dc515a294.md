@@ -1,8 +1,8 @@
 ### Match ID: 1-09c7baca-8ae6-4ca4-beb3-bf5dc515a294  
-**Map**: de_mirage  
 **Match Date**: 2025-02-18  
-**Teams**: Game Hunters (10) vs TROPA DO VSM (13)  
+**Teams**: Game Hunters vs TROPA DO VSM  
 
+## **Map**: de_mirage - Game Hunters (10) vs TROPA DO VSM (13)  
 ---  
 
 ## Box Stats  

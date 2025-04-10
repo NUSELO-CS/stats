@@ -1,8 +1,8 @@
 ### Match ID: 1-599f1fa1-e1bc-4ccc-a22b-ae23ff0502ba  
-**Map**: de_mirage  
 **Match Date**: 2025-02-04  
-**Teams**: Viseria (8) vs TheWashedSquad (13)  
+**Teams**: Viseria vs TheWashedSquad  
 
+## **Map**: de_mirage - Viseria (8) vs TheWashedSquad (13)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-01503ac5-8a4d-41ce-a2da-f2f09dcacef4  
-**Map**: de_train  
 **Match Date**: 2025-02-27  
-**Teams**: All Or Nothing (11) vs RoundsGG (13)  
+**Teams**: All Or Nothing vs RoundsGG  
 
+## **Map**: de_train - All Or Nothing (11) vs RoundsGG (13)  
 ---  
 
 ## Box Stats  

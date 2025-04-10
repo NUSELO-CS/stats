@@ -1,8 +1,8 @@
 ### Match ID: 1-b57ec2a3-a6fc-41f8-befc-b007efe0f7e9  
-**Map**: de_ancient  
 **Match Date**: 2025-02-13  
-**Teams**: ENRAGE (13) vs SuperiorEsports (6)  
+**Teams**: ENRAGE vs SuperiorEsports  
 
+## **Map**: de_ancient - ENRAGE (13) vs SuperiorEsports (6)  
 ---  
 
 ## Box Stats  

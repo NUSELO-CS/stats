@@ -1,8 +1,8 @@
 ### Match ID: 1-91c92202-ad5f-43ee-acbc-d5d9ed8fdfbd  
-**Map**: de_anubis  
 **Match Date**: 2025-02-13  
-**Teams**: Anatolian Foxes (13) vs San Marino Team (16)  
+**Teams**: Anatolian Foxes vs San Marino Team  
 
+## **Map**: de_anubis - Anatolian Foxes (13) vs San Marino Team (16)  
 ---  
 
 ## Box Stats  

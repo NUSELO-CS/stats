@@ -1,8 +1,8 @@
 ### Match ID: 1-1a5efd8b-45d0-412c-adef-13cd5b5fed4e  
-**Map**: de_anubis  
 **Match Date**: 2025-02-26  
-**Teams**: Amped Red (13) vs Pigsty (16)  
+**Teams**: Amped Red vs Pigsty  
 
+## **Map**: de_anubis - Amped Red (13) vs Pigsty (16)  
 ---  
 
 ## Box Stats  

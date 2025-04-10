@@ -1,8 +1,8 @@
 ### Match ID: 1-db4dedbf-e85e-4d11-904d-b2f3cfc0ed9a  
-**Map**: de_mirage  
 **Match Date**: 2025-02-27  
-**Teams**: AnnexEsports (13) vs LODIS AC (6)  
+**Teams**: AnnexEsports vs LODIS AC  
 
+## **Map**: de_mirage - AnnexEsports (13) vs LODIS AC (6)  
 ---  
 
 ## Box Stats  

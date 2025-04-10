@@ -1,8 +1,8 @@
 ### Match ID: 1-f9d76f00-5eee-43d6-bee2-affde6b98bfa  
-**Map**: de_ancient  
 **Match Date**: 2025-02-12  
-**Teams**: Virtual Cottage (12) vs NEVERMORE (16)  
+**Teams**: Virtual Cottage vs NEVERMORE  
 
+## **Map**: de_ancient - Virtual Cottage (12) vs NEVERMORE (16)  
 ---  
 
 ## Box Stats  

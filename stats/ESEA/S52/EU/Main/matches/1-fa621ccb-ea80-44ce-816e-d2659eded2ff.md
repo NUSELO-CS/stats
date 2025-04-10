@@ -1,8 +1,8 @@
 ### Match ID: 1-fa621ccb-ea80-44ce-816e-d2659eded2ff  
-**Map**: de_anubis  
 **Match Date**: 2025-02-17  
-**Teams**: LODIS AC (13) vs Diamant Esports (9)  
+**Teams**: LODIS AC vs Diamant Esports  
 
+## **Map**: de_anubis - LODIS AC (13) vs Diamant Esports (9)  
 ---  
 
 ## Box Stats  

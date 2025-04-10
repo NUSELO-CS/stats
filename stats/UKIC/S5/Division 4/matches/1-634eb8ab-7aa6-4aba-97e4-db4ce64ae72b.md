@@ -1,8 +1,8 @@
 ### Match ID: 1-634eb8ab-7aa6-4aba-97e4-db4ce64ae72b  
-**Map**: de_anubis  
 **Match Date**: 2025-02-03  
-**Teams**: team_KWB7 (8) vs BluRoze CS (13)  
+**Teams**: team_KWB7 vs BluRoze CS  
 
+## **Map**: de_anubis - team_KWB7 (8) vs BluRoze CS (13)  
 ---  
 
 ## Box Stats  

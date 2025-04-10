@@ -1,8 +1,8 @@
 ### Match ID: 1-2fd69d7e-c4bb-4cd2-b28b-26ef4eed77f8  
-**Map**: de_ancient  
 **Match Date**: 2025-01-22  
-**Teams**: Akimbo (8) vs Party Astronauts (13)  
+**Teams**: Akimbo vs Party Astronauts  
 
+## **Map**: de_ancient - Akimbo (8) vs Party Astronauts (13)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-ac6a03f0-08ca-467a-ab01-a1fad9acded4  
-**Map**: de_mirage  
 **Match Date**: 2025-02-13  
-**Teams**: REDACTED (5) vs Team Lemon (13)  
+**Teams**: REDACTED vs Team Lemon  
 
+## **Map**: de_mirage - REDACTED (5) vs Team Lemon (13)  
 ---  
 
 ## Box Stats  

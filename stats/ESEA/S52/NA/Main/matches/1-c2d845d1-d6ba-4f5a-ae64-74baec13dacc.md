@@ -1,8 +1,8 @@
 ### Match ID: 1-c2d845d1-d6ba-4f5a-ae64-74baec13dacc  
-**Map**: de_nuke  
 **Match Date**: 2025-02-28  
-**Teams**: Instant Crush (13) vs PROJECT D (10)  
+**Teams**: Instant Crush vs PROJECT D  
 
+## **Map**: de_nuke - Instant Crush (13) vs PROJECT D (10)  
 ---  
 
 ## Box Stats  

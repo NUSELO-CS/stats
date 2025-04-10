@@ -1,8 +1,8 @@
 ### Match ID: 1-c4edab8d-31d6-48fb-a54f-e39bed0af717  
-**Map**: de_train  
 **Match Date**: 2025-02-14  
-**Teams**: Dogs (13) vs MF (10)  
+**Teams**: Dogs vs MF  
 
+## **Map**: de_train - Dogs (13) vs MF (10)  
 ---  
 
 ## Box Stats  

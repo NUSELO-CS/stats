@@ -1,8 +1,8 @@
 ### Match ID: 1-36de5a9c-f2c8-4bae-86a1-3fef746cafe0  
-**Map**: de_anubis  
 **Match Date**: 2025-01-24  
-**Teams**: MarcaRegistrada (6) vs Tsunami (13)  
+**Teams**: MarcaRegistrada vs Tsunami  
 
+## **Map**: de_anubis - MarcaRegistrada (6) vs Tsunami (13)  
 ---  
 
 ## Box Stats  

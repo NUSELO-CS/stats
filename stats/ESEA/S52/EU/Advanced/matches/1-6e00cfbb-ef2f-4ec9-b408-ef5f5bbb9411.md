@@ -1,8 +1,8 @@
 ### Match ID: 1-6e00cfbb-ef2f-4ec9-b408-ef5f5bbb9411  
-**Map**: de_ancient  
 **Match Date**: 2025-01-23  
-**Teams**: XPERION NXT (4) vs Persona Grata (13)  
+**Teams**: XPERION NXT vs Persona Grata  
 
+## **Map**: de_ancient - XPERION NXT (4) vs Persona Grata (13)  
 ---  
 
 ## Box Stats  

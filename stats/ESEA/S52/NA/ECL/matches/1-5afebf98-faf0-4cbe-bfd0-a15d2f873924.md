@@ -1,8 +1,8 @@
 ### Match ID: 1-5afebf98-faf0-4cbe-bfd0-a15d2f873924  
-**Map**: de_ancient  
 **Match Date**: 2025-01-29  
-**Teams**: Nouns Esports (13) vs Aetheris (2)  
+**Teams**: Nouns Esports vs Aetheris  
 
+## **Map**: de_ancient - Nouns Esports (13) vs Aetheris (2)  
 ---  
 
 ## Box Stats  

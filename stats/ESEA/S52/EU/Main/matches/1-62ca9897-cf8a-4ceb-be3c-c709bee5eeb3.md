@@ -1,8 +1,8 @@
 ### Match ID: 1-62ca9897-cf8a-4ceb-be3c-c709bee5eeb3  
-**Map**: de_inferno  
 **Match Date**: 2025-02-04  
-**Teams**: ZOTIX (13) vs Roots Gaming (7)  
+**Teams**: ZOTIX vs Roots Gaming  
 
+## **Map**: de_inferno - ZOTIX (13) vs Roots Gaming (7)  
 ---  
 
 ## Box Stats  

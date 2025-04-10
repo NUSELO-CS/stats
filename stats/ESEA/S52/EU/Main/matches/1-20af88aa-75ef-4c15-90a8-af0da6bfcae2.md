@@ -1,8 +1,8 @@
 ### Match ID: 1-20af88aa-75ef-4c15-90a8-af0da6bfcae2  
-**Map**: de_train  
 **Match Date**: 2025-02-27  
-**Teams**: SissiStatePunks (10) vs Northern Legacy (13)  
+**Teams**: SissiStatePunks vs Northern Legacy  
 
+## **Map**: de_train - SissiStatePunks (10) vs Northern Legacy (13)  
 ---  
 
 ## Box Stats  

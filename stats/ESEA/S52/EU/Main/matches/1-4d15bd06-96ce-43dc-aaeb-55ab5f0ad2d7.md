@@ -1,8 +1,8 @@
 ### Match ID: 1-4d15bd06-96ce-43dc-aaeb-55ab5f0ad2d7  
-**Map**: de_ancient  
 **Match Date**: 2025-02-20  
-**Teams**: LithuanianWolfs (16) vs MySkill (19)  
+**Teams**: LithuanianWolfs vs MySkill  
 
+## **Map**: de_ancient - LithuanianWolfs (16) vs MySkill (19)  
 ---  
 
 ## Box Stats  

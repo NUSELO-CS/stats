@@ -1,8 +1,8 @@
 ### Match ID: 1-aa20049b-1c7f-4ead-b0f9-a76efba52fa7  
-**Map**: de_ancient  
 **Match Date**: 2025-02-27  
-**Teams**: vibe (13) vs MCS Gaming (9)  
+**Teams**: vibe vs MCS Gaming  
 
+## **Map**: de_ancient - vibe (13) vs MCS Gaming (9)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-9dd203eb-284d-4055-acec-3fe1ef67dcce  
-**Map**: de_inferno  
 **Match Date**: 2025-01-23  
-**Teams**: Roots Gaming (11) vs Rush3D (13)  
+**Teams**: Roots Gaming vs Rush3D  
 
+## **Map**: de_inferno - Roots Gaming (11) vs Rush3D (13)  
 ---  
 
 ## Box Stats  

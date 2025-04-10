@@ -1,8 +1,8 @@
 ### Match ID: 1-cbd242e1-0bd3-4563-acd7-e8acadafe3a4  
-**Map**: de_mirage  
 **Match Date**: 2025-02-03  
-**Teams**: PCIFIC ESPOR (9) vs Need ORG - LFO (13)  
+**Teams**: PCIFIC ESPOR vs Need ORG - LFO  
 
+## **Map**: de_mirage - PCIFIC ESPOR (9) vs Need ORG - LFO (13)  
 ---  
 
 ## Box Stats  

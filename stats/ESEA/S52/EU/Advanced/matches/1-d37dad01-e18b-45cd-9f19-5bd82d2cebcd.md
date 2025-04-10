@@ -1,8 +1,8 @@
 ### Match ID: 1-d37dad01-e18b-45cd-9f19-5bd82d2cebcd  
-**Map**: de_ancient  
 **Match Date**: 2025-01-15  
-**Teams**: Need ORG - LFO (13) vs ex-ihg (4)  
+**Teams**: Need ORG - LFO vs ex-ihg  
 
+## **Map**: de_ancient - Need ORG - LFO (13) vs ex-ihg (4)  
 ---  
 
 ## Box Stats  

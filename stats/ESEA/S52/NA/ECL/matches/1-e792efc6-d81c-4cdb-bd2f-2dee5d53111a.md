@@ -1,8 +1,8 @@
 ### Match ID: 1-e792efc6-d81c-4cdb-bd2f-2dee5d53111a  
-**Map**: de_dust2  
 **Match Date**: 2025-01-25  
-**Teams**: NRG (10) vs getting info (13)  
+**Teams**: NRG vs getting info  
 
+## **Map**: de_dust2 - NRG (10) vs getting info (13)  
 ---  
 
 ## Box Stats  

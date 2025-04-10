@@ -1,8 +1,8 @@
 ### Match ID: 1-fdc21e1c-faff-489e-9d4c-5a9e6b29c7da  
-**Map**: de_dust2  
 **Match Date**: 2025-03-03  
-**Teams**: ViperioAcademy (13) vs CTRL ALT DEFEAT (9)  
+**Teams**: ViperioAcademy vs CTRL ALT DEFEAT  
 
+## **Map**: de_dust2 - ViperioAcademy (13) vs CTRL ALT DEFEAT (9)  
 ---  
 
 ## Box Stats  

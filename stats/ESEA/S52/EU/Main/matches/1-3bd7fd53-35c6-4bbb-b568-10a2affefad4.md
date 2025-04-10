@@ -1,8 +1,8 @@
 ### Match ID: 1-3bd7fd53-35c6-4bbb-b568-10a2affefad4  
-**Map**: de_anubis  
 **Match Date**: 2025-02-20  
-**Teams**: Yamato Esports (5) vs M33 x NEIMARK (13)  
+**Teams**: Yamato Esports vs M33 x NEIMARK  
 
+## **Map**: de_anubis - Yamato Esports (5) vs M33 x NEIMARK (13)  
 ---  
 
 ## Box Stats  

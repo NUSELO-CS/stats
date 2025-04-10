@@ -1,8 +1,8 @@
 ### Match ID: 1-9d82f55f-3ab5-4cdd-afb7-b957cbfff96c  
-**Map**: de_dust2  
 **Match Date**: 2025-01-23  
-**Teams**: Solid (11) vs Yawara E-Sports (13)  
+**Teams**: Solid vs Yawara E-Sports  
 
+## **Map**: de_dust2 - Solid (11) vs Yawara E-Sports (13)  
 ---  
 
 ## Box Stats  

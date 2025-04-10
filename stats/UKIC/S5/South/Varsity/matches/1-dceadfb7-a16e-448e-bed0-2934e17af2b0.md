@@ -1,8 +1,8 @@
 ### Match ID: 1-dceadfb7-a16e-448e-bed0-2934e17af2b0  
-**Map**: de_nuke  
 **Match Date**: 2025-02-18  
-**Teams**: Aegis (8) vs IntoTheBrunk (13)  
+**Teams**: Aegis vs IntoTheBrunk  
 
+## **Map**: de_nuke - Aegis (8) vs IntoTheBrunk (13)  
 ---  
 
 ## Box Stats  

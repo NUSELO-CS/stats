@@ -1,8 +1,8 @@
 ### Match ID: 1-a0c5f6bf-c35d-4db9-b3ba-dd9cd866b800  
-**Map**: de_ancient  
 **Match Date**: 2025-03-18  
-**Teams**: Solid (13) vs Floripa Stars (11)  
+**Teams**: Solid vs Floripa Stars  
 
+## **Map**: de_ancient - Solid (13) vs Floripa Stars (11)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-dcecceae-e83e-4f67-9e27-8a2fb528a5fe  
-**Map**: de_nuke  
 **Match Date**: 2025-03-19  
-**Teams**: NRG (13) vs Nouns Esports (2)  
+**Teams**: NRG vs Nouns Esports  
 
+## **Map**: de_nuke - NRG (13) vs Nouns Esports (2)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-3bb48db7-8f05-4a4d-aee9-fb31407febbb  
-**Map**: de_mirage  
 **Match Date**: 2025-01-21  
-**Teams**: straykids (3) vs KrakenSeasGG (13)  
+**Teams**: straykids vs KrakenSeasGG  
 
+## **Map**: de_mirage - straykids (3) vs KrakenSeasGG (13)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-ffc0da8d-d770-47e6-92a3-6b3f6dcdcd9e  
-**Map**: de_anubis  
 **Match Date**: 2025-02-27  
-**Teams**: 1WIN (10) vs LEON (13)  
+**Teams**: 1WIN vs LEON  
 
+## **Map**: de_anubis - 1WIN (10) vs LEON (13)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-5a0fbe9a-87c3-4ea0-afa3-c1b4b489aebb  
-**Map**: de_anubis  
 **Match Date**: 2025-02-07  
-**Teams**: Rush3D (5) vs Dire (13)  
+**Teams**: Rush3D vs Dire  
 
+## **Map**: de_anubis - Rush3D (5) vs Dire (13)  
 ---  
 
 ## Box Stats  

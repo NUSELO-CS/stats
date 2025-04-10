@@ -1,8 +1,8 @@
 ### Match ID: 1-cae2aca1-afad-4cf8-951f-6200d9cb6ce8  
-**Map**: de_anubis  
 **Match Date**: 2025-02-25  
-**Teams**: Tribal Chiefs (17) vs 4wb LFO (19)  
+**Teams**: Tribal Chiefs vs 4wb LFO  
 
+## **Map**: de_anubis - Tribal Chiefs (17) vs 4wb LFO (19)  
 ---  
 
 ## Box Stats  

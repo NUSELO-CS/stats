@@ -1,8 +1,8 @@
 ### Match ID: 1-db812acc-cb2e-4f12-b30b-07a2c1c8c4cf  
-**Map**: de_anubis  
 **Match Date**: 2025-02-21  
-**Teams**: Peekers Adv (16) vs Insiders (13)  
+**Teams**: Peekers Adv vs Insiders  
 
+## **Map**: de_anubis - Peekers Adv (16) vs Insiders (13)  
 ---  
 
 ## Box Stats  

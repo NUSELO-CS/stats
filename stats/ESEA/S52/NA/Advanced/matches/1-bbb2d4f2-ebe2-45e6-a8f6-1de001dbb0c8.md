@@ -1,8 +1,76 @@
 ### Match ID: 1-bbb2d4f2-ebe2-45e6-a8f6-1de001dbb0c8  
-**Map**: de_ancient  
 **Match Date**: 2025-03-09  
-**Teams**: Straight2Killin (13) vs NuTorious (9)  
+**Teams**: NuTorious vs Straight2Killin  
 
+## **Map**: de_nuke - NuTorious (5) vs Straight2Killin (13)  
+---  
+
+## Box Stats  
+
+| **NuTorious**       | Player Stats      |        |           |          |       |      |       |         |        |      |     |
+| :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              | SteamID           | Rating | CT Rating | T Rating | KAST  | ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| looke               | 76561198158186387 |  1.24  |   1.880   |  0.240   | 77.78 | 81.3 |  16   |    0    |   14   | 1.14 | 43  |
+| jr24racing          | 76561198063907749 |  1.00  |   1.242   |  1.131   | 66.67 | 86.0 |  13   |    4    |   16   | 0.81 | 30  |
+| Msaia-btw           | 76561198143458644 |  0.97  |   1.045   |  0.813   | 66.67 | 77.4 |  11   |    5    |   13   | 0.85 | 63  |
+| 1icarus             | 76561198227130000 |  0.89  |   1.377   |  0.277   | 72.22 | 72.2 |  10   |    6    |   15   | 0.67 | 90  |
+| Sham                | 76561198092338666 |  0.45  |   0.815   |  -0.116  | 50.00 | 40.2 |   6   |    3    |   14   | 0.43 | 16  |
+|                     |                   |        |           |          |       |      |       |         |        |      |     |
+|                     |                   |        |           |          |       |      |       |         |        |      |     |
+|                     |                   |        |           |          |       |      |       |         |        |      |     |
+| **Straight2Killin** | Player Stats      |        |           |          |       |      |       |         |        |      |     |
+| Player              | SteamID           | Rating | CT Rating | T Rating | KAST  | ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| -VulcaN-            | 76561198241032908 |  1.56  |   1.926   |  1.554   | 83.33 | 97.7 |  18   |    7    |   11   | 1.64 | 50  |
+| Brashi              | 76561198950618781 |  1.44  |   2.345   |  1.166   | 88.89 | 84.7 |  16   |    3    |   11   | 1.45 | 31  |
+| Elxhin              | 76561198844590032 |  1.23  |   1.333   |  1.371   | 83.33 | 70.2 |  13   |    2    |   10   | 1.30 | 76  |
+| den1eds             | 76561198202694584 |  1.16  |   2.252   |  0.839   | 72.22 | 84.0 |  14   |    3    |   13   | 1.08 | 42  |
+| HorizoN             | 76561198101124279 |  1.04  |   1.686   |  0.811   | 72.22 | 70.4 |  11   |    4    |   11   | 1.00 | 36  |
+---  
+
+## Contribution Stats  
+
+| **NuTorious**       | Player Stats |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Rating    | KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| looke               |     1.24     | 77.78 |        35.71         |                         100.00                         |           45.45           |                           100.00                            |           0.00           |                            0.00                            |
+| jr24racing          |     1.00     | 66.67 |        41.67         |                         100.00                         |           62.50           |                           100.00                            |           0.00           |                            0.00                            |
+| Msaia-btw           |     0.97     | 66.67 |        33.33         |                         80.00                          |           50.00           |                            80.00                            |           0.00           |                            0.00                            |
+| 1icarus             |     0.89     | 72.22 |        38.46         |                         100.00                         |           45.45           |                           100.00                            |           0.00           |                            0.00                            |
+| Sham                |     0.45     | 50.00 |        44.44         |                         80.00                          |           50.00           |                            80.00                            |           0.00           |                            0.00                            |
+|                     |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+|                     |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+|                     |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| **Straight2Killin** | Player Stats |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| Player              |    Rating    | KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| -VulcaN-            |     1.56     | 83.33 |        80.00         |                         92.31                          |          100.00           |                           100.00                            |          66.67           |                           85.71                            |
+| Brashi              |     1.44     | 88.89 |        81.25         |                         100.00                         |          100.00           |                           100.00                            |          70.00           |                           100.00                           |
+| Elxhin              |     1.23     | 83.33 |        86.67         |                         100.00                         |          100.00           |                           100.00                            |          77.78           |                           100.00                           |
+| den1eds             |     1.16     | 72.22 |        92.31         |                         92.31                          |          100.00           |                           100.00                            |          85.71           |                           85.71                            |
+| HorizoN             |     1.04     | 72.22 |        84.62         |                         84.62                          |          100.00           |                           100.00                            |          71.43           |                           71.43                            |
+---  
+
+## Extended Box Stats  
+
+| **NuTorious**       | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| looke               |      16      |             25             |             19             |                 0                  |            0            |              63              |               13                |   14   |             21              |                  0                  |            0             |              71               |             0              |
+| jr24racing          |      13      |             23             |             46             |                 23                 |           23            |              77              |                0                |   16   |             44              |                  6                  |            6             |              50               |             31             |
+| Msaia-btw           |      11      |             36             |             18             |                 9                  |            9            |              64              |                0                |   13   |              8              |                  0                  |            0             |              77               |             0              |
+| 1icarus             |      10      |             40             |             50             |                 10                 |           10            |              60              |                0                |   15   |             27              |                  0                  |            0             |              27               |             7              |
+| Sham                |      6       |             17             |             50             |                 0                  |            0            |              67              |               17                |   14   |             14              |                  0                  |            0             |              71               |             0              |
+|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                     |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| **Straight2Killin** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| Player              |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| -VulcaN-            |      18      |             17             |             17             |                 50                 |           11            |              72              |                0                |   11   |             36              |                 18                  |            18            |              45               |             0              |
+| Brashi              |      16      |             25             |             31             |                 38                 |            6            |              50              |               19                |   11   |             36              |                 36                  |            18            |              91               |             9              |
+| Elxhin              |      13      |             23             |             15             |                 46                 |           15            |              54              |                8                |   10   |             40              |                 20                  |            10            |              60               |             0              |
+| den1eds             |      14      |             36             |             29             |                 71                 |           29            |              57              |                0                |   13   |             38              |                 31                  |            8             |              69               |             8              |
+| HorizoN             |      11      |             36             |             27             |                 27                 |            0            |              45              |               18                |   11   |             18              |                 27                  |            9             |              64               |             9              |
+
+## **Map**: de_ancient - Straight2Killin (13) vs NuTorious (9)  
 ---  
 
 ## Box Stats  

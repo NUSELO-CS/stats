@@ -1,8 +1,8 @@
 ### Match ID: 1-5f3dab44-3bc3-4cf2-a6b8-fb9fa3cff273  
-**Map**: de_anubis  
 **Match Date**: 2025-02-07  
-**Teams**: Millennium 7 (8) vs big water (13)  
+**Teams**: Millennium 7 vs big water  
 
+## **Map**: de_anubis - Millennium 7 (8) vs big water (13)  
 ---  
 
 ## Box Stats  

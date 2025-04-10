@@ -1,8 +1,8 @@
 ### Match ID: 1-afe0b38b-fafb-40c3-bb3b-2ebd36632c21  
-**Map**: de_nuke  
 **Match Date**: 2025-02-27  
-**Teams**: Kooking Esports (13) vs VireoPro (11)  
+**Teams**: Kooking Esports vs VireoPro  
 
+## **Map**: de_nuke - Kooking Esports (13) vs VireoPro (11)  
 ---  
 
 ## Box Stats  

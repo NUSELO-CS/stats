@@ -1,8 +1,8 @@
 ### Match ID: 1-dfa8cd9f-38af-4f65-ae86-a10eb4ac8b21  
-**Map**: de_mirage  
 **Match Date**: 2025-02-11  
-**Teams**: straykids (13) vs OutGoingeSports (1)  
+**Teams**: straykids vs OutGoingeSports  
 
+## **Map**: de_mirage - straykids (13) vs OutGoingeSports (1)  
 ---  
 
 ## Box Stats  

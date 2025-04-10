@@ -1,8 +1,8 @@
 ### Match ID: 1-ebb0c6aa-7fbf-4707-a3fa-1ecffa629a78  
-**Map**: de_anubis  
 **Match Date**: 2025-01-22  
-**Teams**: edgebugoffsilo (13) vs F5 Esports (10)  
+**Teams**: edgebugoffsilo vs F5 Esports  
 
+## **Map**: de_anubis - edgebugoffsilo (13) vs F5 Esports (10)  
 ---  
 
 ## Box Stats  

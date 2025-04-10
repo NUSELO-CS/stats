@@ -1,8 +1,8 @@
 ### Match ID: 1-d24fade2-4cf9-4d6a-afd5-f2bdd05dd0e8  
-**Map**: de_mirage  
 **Match Date**: 2025-01-28  
-**Teams**: HOMYNO (13) vs OutGoingeSports (10)  
+**Teams**: HOMYNO vs OutGoingeSports  
 
+## **Map**: de_mirage - HOMYNO (13) vs OutGoingeSports (10)  
 ---  
 
 ## Box Stats  

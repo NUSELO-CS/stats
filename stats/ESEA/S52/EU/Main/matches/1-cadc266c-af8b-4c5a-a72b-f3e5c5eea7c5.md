@@ -1,8 +1,8 @@
 ### Match ID: 1-cadc266c-af8b-4c5a-a72b-f3e5c5eea7c5  
-**Map**: de_dust2  
 **Match Date**: 2025-02-23  
-**Teams**: VPProdigy (13) vs ENRAGE (4)  
+**Teams**: VPProdigy vs ENRAGE  
 
+## **Map**: de_dust2 - VPProdigy (13) vs ENRAGE (4)  
 ---  
 
 ## Box Stats  

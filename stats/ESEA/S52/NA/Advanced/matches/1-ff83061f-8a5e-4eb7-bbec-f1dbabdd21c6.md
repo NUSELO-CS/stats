@@ -1,8 +1,8 @@
 ### Match ID: 1-ff83061f-8a5e-4eb7-bbec-f1dbabdd21c6  
-**Map**: de_anubis  
 **Match Date**: 2025-01-23  
-**Teams**: Flourish Gaming (6) vs regain (13)  
+**Teams**: Flourish Gaming vs regain  
 
+## **Map**: de_anubis - Flourish Gaming (6) vs regain (13)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-ad0dccd8-560e-4bec-aa26-52bb9baf6215  
-**Map**: de_inferno  
 **Match Date**: 2025-02-21  
-**Teams**: Zealous (11) vs cash cows (13)  
+**Teams**: Zealous vs cash cows  
 
+## **Map**: de_inferno - Zealous (11) vs cash cows (13)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-dfe4f883-00be-42a9-bdbd-cdf26e36d3eb  
-**Map**: de_nuke  
 **Match Date**: 2025-02-26  
-**Teams**: straykids (13) vs Shadow Wizard Money Gang (16)  
+**Teams**: straykids vs Shadow Wizard Money Gang  
 
+## **Map**: de_nuke - straykids (13) vs Shadow Wizard Money Gang (16)  
 ---  
 
 ## Box Stats  

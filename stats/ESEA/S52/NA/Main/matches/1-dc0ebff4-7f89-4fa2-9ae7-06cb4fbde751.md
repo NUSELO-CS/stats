@@ -1,8 +1,8 @@
 ### Match ID: 1-dc0ebff4-7f89-4fa2-9ae7-06cb4fbde751  
-**Map**: de_nuke  
 **Match Date**: 2025-02-26  
-**Teams**: The Burger People (13) vs jawgoo express (8)  
+**Teams**: The Burger People vs jawgoo express  
 
+## **Map**: de_nuke - The Burger People (13) vs jawgoo express (8)  
 ---  
 
 ## Box Stats  

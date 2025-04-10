@@ -1,8 +1,8 @@
 ### Match ID: 1-e1b3bdea-481c-4b5e-9cee-e2452fd9f84d  
-**Map**: de_anubis  
 **Match Date**: 2025-03-26  
-**Teams**: Lynn Vision Gaming (13) vs harizma (7)  
+**Teams**: Lynn Vision Gaming vs harizma  
 
+## **Map**: de_anubis - Lynn Vision Gaming (13) vs harizma (7)  
 ---  
 
 ## Box Stats  

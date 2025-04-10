@@ -1,8 +1,8 @@
 ### Match ID: 1-805e7deb-131f-4ae9-aafe-46ec48edf4da  
-**Map**: de_anubis  
 **Match Date**: 2025-01-28  
-**Teams**: Okay Synergy (3) vs Holly Molly (13)  
+**Teams**: Okay Synergy vs Holly Molly  
 
+## **Map**: de_anubis - Okay Synergy (3) vs Holly Molly (13)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-398bb93e-7bd6-4bf7-98ac-bce83eb4add4  
-**Map**: de_dust2  
 **Match Date**: 2025-02-27  
-**Teams**: Aether (2) vs HOMYNO (13)  
+**Teams**: Aether vs HOMYNO  
 
+## **Map**: de_dust2 - Aether (2) vs HOMYNO (13)  
 ---  
 
 ## Box Stats  

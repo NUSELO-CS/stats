@@ -1,8 +1,8 @@
 ### Match ID: 1-d7dffaba-63c6-4f02-a6bf-c9a5eadd3b1d  
-**Map**: de_nuke  
 **Match Date**: 2025-02-27  
-**Teams**: TGM (13) vs Haspers LFO (6)  
+**Teams**: TGM vs Haspers LFO  
 
+## **Map**: de_nuke - TGM (13) vs Haspers LFO (6)  
 ---  
 
 ## Box Stats  

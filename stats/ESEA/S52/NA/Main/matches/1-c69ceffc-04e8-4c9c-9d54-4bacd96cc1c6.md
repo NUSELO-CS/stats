@@ -1,8 +1,8 @@
 ### Match ID: 1-c69ceffc-04e8-4c9c-9d54-4bacd96cc1c6  
-**Map**: de_anubis  
 **Match Date**: 2025-02-12  
-**Teams**: deluxe (1) vs N w G (13)  
+**Teams**: deluxe vs N w G  
 
+## **Map**: de_anubis - deluxe (1) vs N w G (13)  
 ---  
 
 ## Box Stats  

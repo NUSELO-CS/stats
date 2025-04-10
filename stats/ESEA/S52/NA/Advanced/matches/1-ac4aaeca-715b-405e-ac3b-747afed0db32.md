@@ -1,8 +1,8 @@
 ### Match ID: 1-ac4aaeca-715b-405e-ac3b-747afed0db32  
-**Map**: de_train  
 **Match Date**: 2025-01-16  
-**Teams**: Immigrants peek (13) vs Straight2Killin (8)  
+**Teams**: Immigrants peek vs Straight2Killin  
 
+## **Map**: de_train - Immigrants peek (13) vs Straight2Killin (8)  
 ---  
 
 ## Box Stats  

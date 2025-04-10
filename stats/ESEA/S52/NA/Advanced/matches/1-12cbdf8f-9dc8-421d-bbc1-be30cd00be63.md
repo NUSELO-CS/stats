@@ -1,8 +1,8 @@
 ### Match ID: 1-12cbdf8f-9dc8-421d-bbc1-be30cd00be63  
-**Map**: de_nuke  
 **Match Date**: 2025-02-27  
-**Teams**: RedactedSociety (10) vs GrannysKnockers (13)  
+**Teams**: RedactedSociety vs GrannysKnockers  
 
+## **Map**: de_nuke - RedactedSociety (10) vs GrannysKnockers (13)  
 ---  
 
 ## Box Stats  

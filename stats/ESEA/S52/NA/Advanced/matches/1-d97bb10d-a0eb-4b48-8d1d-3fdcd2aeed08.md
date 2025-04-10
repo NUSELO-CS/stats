@@ -1,8 +1,8 @@
 ### Match ID: 1-d97bb10d-a0eb-4b48-8d1d-3fdcd2aeed08  
-**Map**: de_dust2  
 **Match Date**: 2025-01-30  
-**Teams**: Aether (13) vs Team Hyper (10)  
+**Teams**: Aether vs Team Hyper  
 
+## **Map**: de_dust2 - Aether (13) vs Team Hyper (10)  
 ---  
 
 ## Box Stats  

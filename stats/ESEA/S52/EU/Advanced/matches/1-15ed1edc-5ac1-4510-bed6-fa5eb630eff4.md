@@ -1,8 +1,8 @@
 ### Match ID: 1-15ed1edc-5ac1-4510-bed6-fa5eb630eff4  
-**Map**: de_ancient  
 **Match Date**: 2025-02-17  
-**Teams**: ZennoX (13) vs 777 Esport (11)  
+**Teams**: ZennoX vs 777 Esport  
 
+## **Map**: de_ancient - ZennoX (13) vs 777 Esport (11)  
 ---  
 
 ## Box Stats  

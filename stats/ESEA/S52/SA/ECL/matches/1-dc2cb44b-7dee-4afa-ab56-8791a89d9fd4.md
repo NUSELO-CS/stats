@@ -1,8 +1,8 @@
 ### Match ID: 1-dc2cb44b-7dee-4afa-ab56-8791a89d9fd4  
-**Map**: de_dust2  
 **Match Date**: 2025-02-25  
-**Teams**: adalYamigos 2 (10) vs TROPA DO VSM (13)  
+**Teams**: adalYamigos 2 vs TROPA DO VSM  
 
+## **Map**: de_dust2 - adalYamigos 2 (10) vs TROPA DO VSM (13)  
 ---  
 
 ## Box Stats  

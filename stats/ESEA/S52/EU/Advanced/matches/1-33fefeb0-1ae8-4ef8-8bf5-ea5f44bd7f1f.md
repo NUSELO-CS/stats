@@ -1,8 +1,8 @@
 ### Match ID: 1-33fefeb0-1ae8-4ef8-8bf5-ea5f44bd7f1f  
-**Map**: de_mirage  
 **Match Date**: 2025-02-12  
-**Teams**: Virtual Cottage (1) vs Lazer Cats (13)  
+**Teams**: Virtual Cottage vs Lazer Cats  
 
+## **Map**: de_mirage - Virtual Cottage (1) vs Lazer Cats (13)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-bfc828b5-e8da-4b33-9cee-8baac2c621cb  
-**Map**: de_nuke  
 **Match Date**: 2025-02-25  
-**Teams**: Metizport X (14) vs KulmaSlotti (16)  
+**Teams**: Metizport X vs KulmaSlotti  
 
+## **Map**: de_nuke - Metizport X (14) vs KulmaSlotti (16)  
 ---  
 
 ## Box Stats  

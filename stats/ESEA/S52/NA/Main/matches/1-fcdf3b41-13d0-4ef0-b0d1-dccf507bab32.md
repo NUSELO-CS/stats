@@ -1,8 +1,8 @@
 ### Match ID: 1-fcdf3b41-13d0-4ef0-b0d1-dccf507bab32  
-**Map**: de_ancient  
 **Match Date**: 2025-02-14  
-**Teams**: Fredding4Frag (13) vs Velox eSports (9)  
+**Teams**: Fredding4Frag vs Velox eSports  
 
+## **Map**: de_ancient - Fredding4Frag (13) vs Velox eSports (9)  
 ---  
 
 ## Box Stats  

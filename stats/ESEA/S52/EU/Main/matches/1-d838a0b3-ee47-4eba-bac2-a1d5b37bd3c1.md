@@ -1,8 +1,8 @@
 ### Match ID: 1-d838a0b3-ee47-4eba-bac2-a1d5b37bd3c1  
-**Map**: de_nuke  
 **Match Date**: 2025-02-12  
-**Teams**: MASONIC (13) vs LithuanianWolfs (3)  
+**Teams**: MASONIC vs LithuanianWolfs  
 
+## **Map**: de_nuke - MASONIC (13) vs LithuanianWolfs (3)  
 ---  
 
 ## Box Stats  

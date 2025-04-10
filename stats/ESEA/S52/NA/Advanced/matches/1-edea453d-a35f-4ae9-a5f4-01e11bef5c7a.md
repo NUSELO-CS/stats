@@ -1,8 +1,8 @@
 ### Match ID: 1-edea453d-a35f-4ae9-a5f4-01e11bef5c7a  
-**Map**: de_anubis  
 **Match Date**: 2025-02-11  
-**Teams**: vibe (6) vs Fisher College (13)  
+**Teams**: vibe vs Fisher College  
 
+## **Map**: de_anubis - vibe (6) vs Fisher College (13)  
 ---  
 
 ## Box Stats  

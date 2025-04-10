@@ -1,8 +1,8 @@
 ### Match ID: 1-fe45fc2c-05fe-4bca-bbfb-a60fd78219f6  
-**Map**: de_dust2  
 **Match Date**: 2025-02-18  
-**Teams**: 1337 (9) vs Project HW (13)  
+**Teams**: 1337 vs Project HW  
 
+## **Map**: de_dust2 - 1337 (9) vs Project HW (13)  
 ---  
 
 ## Box Stats  

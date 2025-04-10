@@ -1,8 +1,8 @@
 ### Match ID: 1-511d99b0-8eda-4c4f-bd29-fd69b1ef2cfc  
-**Map**: de_dust2  
 **Match Date**: 2025-01-23  
-**Teams**: Shimmer (13) vs Team Hyper (7)  
+**Teams**: Shimmer vs Team Hyper  
 
+## **Map**: de_dust2 - Shimmer (13) vs Team Hyper (7)  
 ---  
 
 ## Box Stats  

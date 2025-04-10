@@ -1,8 +1,8 @@
 ### Match ID: 1-c80be120-cbbb-4ad3-b25d-aabcf2d0b136  
-**Map**: de_ancient  
 **Match Date**: 2025-02-19  
-**Teams**: Shortbus Bosses (13) vs KnownAlcoholics (11)  
+**Teams**: Shortbus Bosses vs KnownAlcoholics  
 
+## **Map**: de_ancient - Shortbus Bosses (13) vs KnownAlcoholics (11)  
 ---  
 
 ## Box Stats  

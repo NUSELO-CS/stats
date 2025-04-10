@@ -1,8 +1,8 @@
 ### Match ID: 1-f5a2b71a-9f2f-4efd-a3b6-efbe362eb04a  
-**Map**: de_ancient  
 **Match Date**: 2025-02-18  
-**Teams**: ALASKA (13) vs NoOrg (11)  
+**Teams**: ALASKA vs NoOrg  
 
+## **Map**: de_ancient - ALASKA (13) vs NoOrg (11)  
 ---  
 
 ## Box Stats  

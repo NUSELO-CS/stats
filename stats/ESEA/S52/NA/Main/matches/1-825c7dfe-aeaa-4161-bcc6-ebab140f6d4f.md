@@ -1,8 +1,8 @@
 ### Match ID: 1-825c7dfe-aeaa-4161-bcc6-ebab140f6d4f  
-**Map**: de_ancient  
 **Match Date**: 2025-02-21  
-**Teams**: 10 yrs of main (6) vs Eternal Valor (13)  
+**Teams**: 10 yrs of main vs Eternal Valor  
 
+## **Map**: de_ancient - 10 yrs of main (6) vs Eternal Valor (13)  
 ---  
 
 ## Box Stats  

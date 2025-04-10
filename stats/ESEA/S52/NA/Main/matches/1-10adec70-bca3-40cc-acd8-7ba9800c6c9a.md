@@ -1,8 +1,8 @@
 ### Match ID: 1-10adec70-bca3-40cc-acd8-7ba9800c6c9a  
-**Map**: de_inferno  
 **Match Date**: 2025-02-21  
-**Teams**: Kahoot Squad (13) vs James Bond Bois (11)  
+**Teams**: Kahoot Squad vs James Bond Bois  
 
+## **Map**: de_inferno - Kahoot Squad (13) vs James Bond Bois (11)  
 ---  
 
 ## Box Stats  

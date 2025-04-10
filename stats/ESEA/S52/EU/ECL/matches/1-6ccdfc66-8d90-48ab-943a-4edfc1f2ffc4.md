@@ -1,8 +1,144 @@
 ### Match ID: 1-6ccdfc66-8d90-48ab-943a-4edfc1f2ffc4  
-**Map**: de_nuke  
 **Match Date**: 2025-01-24  
-**Teams**: Zero Tenacity (13) vs Spirit Academy (8)  
+**Teams**: Spirit Academy vs Zero Tenacity  
 
+## **Map**: de_anubis - Spirit Academy (13) vs Zero Tenacity (7)  
+---  
+
+## Box Stats  
+
+| **Spirit Academy** | Player Stats      |        |           |          |       |      |       |         |        |      |     |
+| :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             | SteamID           | Rating | CT Rating | T Rating | KAST  | ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| --Mokuj1n          | 76561199038958787 |  1.50  |   1.057   |  2.310   | 85.00 | 86.5 |  17   |    4    |   8    | 2.13 | 52  |
+| -SYPH0             | 76561198409543515 |  1.44  |   1.565   |  1.333   | 90.00 | 81.9 |  16   |    2    |   9    | 1.78 | 62  |
+| alkarenn56         | 76561199079856901 |  1.41  |   1.655   |  1.176   | 70.00 | 88.4 |  19   |    0    |   10   | 1.90 | 31  |
+| CEMEN_BAKIN        | 76561199032006224 |  1.35  |   1.234   |  1.734   | 90.00 | 81.6 |  14   |    7    |   10   | 1.40 | 42  |
+| robo--             | 76561199120712009 |  1.19  |   1.338   |  1.159   | 80.00 | 75.1 |  14   |    3    |   12   | 1.17 | 57  |
+|                    |                   |        |           |          |       |      |       |         |        |      |     |
+|                    |                   |        |           |          |       |      |       |         |        |      |     |
+|                    |                   |        |           |          |       |      |       |         |        |      |     |
+| **Zero Tenacity**  | Player Stats      |        |           |          |       |      |       |         |        |      |     |
+| Player             | SteamID           | Rating | CT Rating | T Rating | KAST  | ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| nemanha            | 76561197982341849 |  1.10  |   0.877   |  1.342   | 70.00 | 94.2 |  15   |    6    |   17   | 0.88 | 46  |
+| simke--            | 76561198335534043 |  0.98  |   0.810   |  1.320   | 65.00 | 64.0 |  15   |    4    |   16   | 0.94 | 73  |
+| aVN-               | 76561198191567453 |  0.62  |   0.946   |  0.673   | 70.00 | 44.4 |   8   |    3    |   17   | 0.47 | 37  |
+| cjoffo             | 76561198283118254 |  0.58  |   0.923   |  0.450   | 55.00 | 53.4 |   7   |    4    |   14   | 0.50 | 42  |
+| brutmonster        | 76561198258996278 |  0.28  |  -0.020   |  0.632   | 50.00 | 30.5 |   4   |    2    |   16   | 0.25 | 50  |
+---  
+
+## Contribution Stats  
+
+| **Spirit Academy** | Player Stats |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Rating    | KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| --Mokuj1n          |     1.50     | 85.00 |        76.47         |                         100.00                         |           80.00           |                           100.00                            |          71.43           |                           100.00                           |
+| -SYPH0             |     1.44     | 90.00 |        66.67         |                         92.31                          |           70.00           |                            87.50                            |          62.50           |                           100.00                           |
+| alkarenn56         |     1.41     | 70.00 |        85.71         |                         92.31                          |           87.50           |                            87.50                            |          83.33           |                           100.00                           |
+| CEMEN_BAKIN        |     1.35     | 90.00 |        72.22         |                         100.00                         |           72.73           |                           100.00                            |          71.43           |                           100.00                           |
+| robo--             |     1.19     | 80.00 |        81.25         |                         100.00                         |          100.00           |                           100.00                            |          62.50           |                           100.00                           |
+|                    |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+|                    |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+|                    |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| **Zero Tenacity**  | Player Stats |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| Player             |    Rating    | KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| nemanha            |     1.10     | 70.00 |        42.86         |                         85.71                          |           40.00           |                            66.67                            |          44.44           |                           100.00                           |
+| simke--            |     0.98     | 65.00 |        53.85         |                         100.00                         |           75.00           |                           100.00                            |          44.44           |                           100.00                           |
+| aVN-               |     0.62     | 70.00 |        42.86         |                         85.71                          |           50.00           |                           100.00                            |          37.50           |                           75.00                            |
+| cjoffo             |     0.58     | 55.00 |        63.64         |                         100.00                         |           75.00           |                           100.00                            |          57.14           |                           100.00                           |
+| brutmonster        |     0.28     | 50.00 |        60.00         |                         85.71                          |          100.00           |                            66.67                            |          50.00           |                           100.00                           |
+---  
+
+## Extended Box Stats  
+
+| **Spirit Academy** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| --Mokuj1n          |      17      |             0              |             18             |                 47                 |           12            |              59              |               12                |   8    |             25              |                 25                  |            0             |              38               |             0              |
+| -SYPH0             |      16      |             25             |             13             |                 56                 |           19            |              63              |                6                |   9    |             11              |                 11                  |            0             |              44               |             11             |
+| alkarenn56         |      19      |             11             |             11             |                 26                 |            5            |              84              |                0                |   10   |             20              |                 30                  |            0             |              80               |             0              |
+| CEMEN_BAKIN        |      14      |             14             |             50             |                 36                 |            7            |              57              |                7                |   10   |             30              |                 30                  |            10            |              50               |             10             |
+| robo--             |      14      |             14             |             29             |                 29                 |           21            |              71              |                0                |   12   |             25              |                 25                  |            8             |              67               |             0              |
+|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| **Zero Tenacity**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| nemanha            |      15      |             47             |             40             |                 0                  |            0            |              60              |                7                |   17   |             12              |                 18                  |            12            |              53               |             18             |
+| simke--            |      15      |             27             |             20             |                 7                  |            7            |              60              |                7                |   16   |             31              |                 19                  |            13            |              75               |             6              |
+| aVN-               |      8       |             38             |             13             |                 38                 |           38            |              50              |                0                |   17   |             35              |                 18                  |            12            |              65               |             0              |
+| cjoffo             |      7       |             0              |             14             |                 71                 |           43            |              43              |                0                |   14   |             14              |                 14                  |            7             |              50               |             0              |
+| brutmonster        |      4       |             0              |             0              |                 25                 |           25            |              75              |                0                |   16   |             19              |                 19                  |            13            |              94               |             0              |
+
+## **Map**: de_mirage - Zero Tenacity (16) vs Spirit Academy (12)  
+---  
+
+## Box Stats  
+
+| **Zero Tenacity**  | Player Stats      |        |           |          |       |       |       |         |        |      |     |
+| :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             | SteamID           | Rating | CT Rating | T Rating | KAST  |  ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| cjoffo             | 76561198283118254 |  1.52  |   2.492   |  0.795   | 78.57 | 103.1 |  27   |    3    |   15   | 1.80 | 70  |
+| simke--            | 76561198335534043 |  1.31  |   1.511   |  1.346   | 75.00 | 75.6  |  24   |    6    |   16   | 1.50 | 54  |
+| brutmonster        | 76561198258996278 |  1.20  |   1.410   |  1.212   | 78.57 | 73.6  |  20   |    6    |   16   | 1.25 | 35  |
+| nemanha            | 76561197982341849 |  0.89  |   1.416   |  0.578   | 71.43 | 67.5  |  15   |   13    |   22   | 0.68 | 73  |
+| aVN-               | 76561198191567453 |  0.67  |   1.129   |  0.381   | 67.86 | 43.2  |  10   |    8    |   19   | 0.53 | 60  |
+|                    |                   |        |           |          |       |       |       |         |        |      |     |
+|                    |                   |        |           |          |       |       |       |         |        |      |     |
+|                    |                   |        |           |          |       |       |       |         |        |      |     |
+| **Spirit Academy** | Player Stats      |        |           |          |       |       |       |         |        |      |     |
+| Player             | SteamID           | Rating | CT Rating | T Rating | KAST  |  ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| --Mokuj1n          | 76561199038958787 |  1.11  |   1.641   |  0.612   | 67.86 | 80.2  |  20   |    5    |   18   | 1.11 | 55  |
+| alkarenn56         | 76561199079856901 |  1.06  |   1.637   |  0.579   | 67.86 | 85.4  |  21   |    6    |   23   | 0.91 | 19  |
+| CEMEN_BAKIN        | 76561199032006224 |  1.02  |   1.393   |  0.694   | 64.29 | 71.0  |  19   |    5    |   18   | 1.06 | 47  |
+| robo--             | 76561199120712009 |  0.90  |   1.352   |  0.502   | 67.86 | 64.3  |  15   |    5    |   18   | 0.83 | 53  |
+| -SYPH0             | 76561198409543515 |  0.74  |   1.105   |  0.415   | 60.71 | 58.0  |  13   |    4    |   19   | 0.68 | 76  |
+---  
+
+## Contribution Stats  
+
+| **Zero Tenacity**  | Player Stats |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Rating    | KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| cjoffo             |     1.52     | 78.57 |        72.73         |                         100.00                         |           76.92           |                           100.00                            |          66.67           |                           100.00                           |
+| simke--            |     1.31     | 75.00 |        71.43         |                         93.75                          |           81.82           |                            90.00                            |          60.00           |                           100.00                           |
+| brutmonster        |     1.20     | 78.57 |        63.64         |                         87.50                          |           80.00           |                            80.00                            |          50.00           |                           100.00                           |
+| nemanha            |     0.89     | 71.43 |        70.00         |                         87.50                          |           90.00           |                            90.00                            |          50.00           |                           83.33                            |
+| aVN-               |     0.67     | 67.86 |        73.68         |                         87.50                          |           83.33           |                           100.00                            |          57.14           |                           66.67                            |
+|                    |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+|                    |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+|                    |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| **Spirit Academy** | Player Stats |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| Player             |    Rating    | KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| --Mokuj1n          |     1.11     | 67.86 |        63.16         |                         100.00                         |           75.00           |                           100.00                            |          42.86           |                           100.00                           |
+| alkarenn56         |     1.06     | 67.86 |        57.89         |                         91.67                          |           69.23           |                           100.00                            |          33.33           |                           66.67                            |
+| CEMEN_BAKIN        |     1.02     | 64.29 |        61.11         |                         91.67                          |           75.00           |                           100.00                            |          33.33           |                           66.67                            |
+| robo--             |     0.90     | 67.86 |        63.16         |                         100.00                         |           69.23           |                           100.00                            |          50.00           |                           100.00                           |
+| -SYPH0             |     0.74     | 60.71 |        64.71         |                         91.67                          |           69.23           |                           100.00                            |          50.00           |                           66.67                            |
+---  
+
+## Extended Box Stats  
+
+| **Zero Tenacity**  | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| cjoffo             |      27      |             15             |             7              |                 19                 |            0            |              59              |               11                |   15   |             20              |                  0                  |            0             |              40               |             13             |
+| simke--            |      24      |             21             |             4              |                 17                 |           13            |              54              |                4                |   16   |             38              |                  0                  |            0             |              75               |             0              |
+| brutmonster        |      20      |             20             |             10             |                 20                 |            0            |              80              |               10                |   16   |             31              |                  6                  |            0             |              75               |             0              |
+| nemanha            |      15      |             27             |             40             |                 33                 |            7            |              73              |                0                |   22   |             18              |                  5                  |            0             |              68               |             0              |
+| aVN-               |      10      |             20             |             30             |                 20                 |           10            |             100              |                0                |   19   |             16              |                  5                  |            0             |              63               |             0              |
+|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                    |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| **Spirit Academy** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| Player             |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| --Mokuj1n          |      20      |             10             |             20             |                 35                 |           15            |              55              |                5                |   18   |             17              |                 11                  |            11            |              61               |             22             |
+| alkarenn56         |      21      |             19             |             43             |                 29                 |           14            |              90              |                0                |   23   |             17              |                 13                  |            9             |              87               |             4              |
+| CEMEN_BAKIN        |      19      |             26             |             5              |                 26                 |           21            |              74              |                5                |   18   |             11              |                  0                  |            0             |              56               |             6              |
+| robo--             |      15      |             13             |             27             |                 20                 |            7            |              40              |                0                |   18   |             17              |                 11                  |            6             |              78               |             0              |
+| -SYPH0             |      13      |             8              |             23             |                 31                 |           31            |              54              |                0                |   19   |             11              |                  0                  |            0             |              58               |             0              |
+
+## **Map**: de_nuke - Zero Tenacity (13) vs Spirit Academy (8)  
 ---  
 
 ## Box Stats  

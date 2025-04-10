@@ -1,8 +1,8 @@
 ### Match ID: 1-ab13d4e9-a57b-45a5-badd-addc7f4b55c2  
-**Map**: de_inferno  
 **Match Date**: 2025-02-14  
-**Teams**: PROJECT-1 (13) vs Ghost Gaming (11)  
+**Teams**: PROJECT-1 vs Ghost Gaming  
 
+## **Map**: de_inferno - PROJECT-1 (13) vs Ghost Gaming (11)  
 ---  
 
 ## Box Stats  

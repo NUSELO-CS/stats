@@ -1,8 +1,8 @@
 ### Match ID: 1-8b3f669a-b1bc-4dfd-b8a3-0eb2ae0e226e  
-**Map**: de_nuke  
 **Match Date**: 2025-01-29  
-**Teams**: Dogs (13) vs WongDong Dragon (4)  
+**Teams**: Dogs vs WongDong Dragon  
 
+## **Map**: de_nuke - Dogs (13) vs WongDong Dragon (4)  
 ---  
 
 ## Box Stats  

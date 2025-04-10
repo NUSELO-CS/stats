@@ -1,8 +1,8 @@
 ### Match ID: 1-0d08ce5d-ab2f-40e3-aeef-e18a033abbfe  
-**Map**: de_mirage  
 **Match Date**: 2025-02-18  
-**Teams**: VIVID UTD (10) vs mXm (13)  
+**Teams**: VIVID UTD vs mXm  
 
+## **Map**: de_mirage - VIVID UTD (10) vs mXm (13)  
 ---  
 
 ## Box Stats  

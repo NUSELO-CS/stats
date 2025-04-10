@@ -1,8 +1,8 @@
 ### Match ID: 1-edda88db-ec88-48ac-8f2d-4ebe4f1a3d2e  
-**Map**: de_ancient  
 **Match Date**: 2025-03-02  
-**Teams**: CTRL ALT DEFEAT (13) vs Glitchtech (4)  
+**Teams**: CTRL ALT DEFEAT vs Glitchtech  
 
+## **Map**: de_ancient - CTRL ALT DEFEAT (13) vs Glitchtech (4)  
 ---  
 
 ## Box Stats  

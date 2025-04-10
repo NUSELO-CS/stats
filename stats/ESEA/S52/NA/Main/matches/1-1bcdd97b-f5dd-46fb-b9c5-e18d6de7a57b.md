@@ -1,8 +1,8 @@
 ### Match ID: 1-1bcdd97b-f5dd-46fb-b9c5-e18d6de7a57b  
-**Map**: de_dust2  
 **Match Date**: 2025-02-19  
-**Teams**: Hot Loaders (7) vs N w G (13)  
+**Teams**: Hot Loaders vs N w G  
 
+## **Map**: de_dust2 - Hot Loaders (7) vs N w G (13)  
 ---  
 
 ## Box Stats  

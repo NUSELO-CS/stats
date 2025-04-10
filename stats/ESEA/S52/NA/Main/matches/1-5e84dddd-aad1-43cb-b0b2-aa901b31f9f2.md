@@ -1,8 +1,8 @@
 ### Match ID: 1-5e84dddd-aad1-43cb-b0b2-aa901b31f9f2  
-**Map**: de_ancient  
 **Match Date**: 2025-02-19  
-**Teams**: RadiantKeysUS (13) vs Priority (1)  
+**Teams**: RadiantKeysUS vs Priority  
 
+## **Map**: de_ancient - RadiantKeysUS (13) vs Priority (1)  
 ---  
 
 ## Box Stats  

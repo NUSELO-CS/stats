@@ -1,8 +1,8 @@
 ### Match ID: 1-be9ca7d9-cc97-4469-9faa-fe26cf669aeb  
-**Map**: de_inferno  
 **Match Date**: 2025-02-28  
-**Teams**: PARTIZAN (13) vs Haspers LFO (7)  
+**Teams**: PARTIZAN vs Haspers LFO  
 
+## **Map**: de_inferno - PARTIZAN (13) vs Haspers LFO (7)  
 ---  
 
 ## Box Stats  

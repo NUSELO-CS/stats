@@ -1,8 +1,8 @@
 ### Match ID: 1-ccafc24d-bc8f-4ab7-a029-691c8b27ae3b  
-**Map**: de_nuke  
 **Match Date**: 2025-01-14  
-**Teams**: Holly Molly (13) vs BigBrain No Aim (11)  
+**Teams**: Holly Molly vs BigBrain No Aim  
 
+## **Map**: de_nuke - Holly Molly (13) vs BigBrain No Aim (11)  
 ---  
 
 ## Box Stats  

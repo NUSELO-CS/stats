@@ -1,8 +1,8 @@
 ### Match ID: 1-f2d23a91-dde8-4dec-8baa-a3dd6940d0c0  
-**Map**: de_nuke  
 **Match Date**: 2025-02-27  
-**Teams**: TryHearts (13) vs CBUMP TEAM (5)  
+**Teams**: TryHearts vs CBUMP TEAM  
 
+## **Map**: de_nuke - TryHearts (13) vs CBUMP TEAM (5)  
 ---  
 
 ## Box Stats  

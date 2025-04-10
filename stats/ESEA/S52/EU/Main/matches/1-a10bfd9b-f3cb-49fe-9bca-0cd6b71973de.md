@@ -1,8 +1,8 @@
 ### Match ID: 1-a10bfd9b-f3cb-49fe-9bca-0cd6b71973de  
-**Map**: de_anubis  
 **Match Date**: 2025-02-20  
-**Teams**: ruvious (13) vs GENESIS (4)  
+**Teams**: ruvious vs GENESIS  
 
+## **Map**: de_anubis - ruvious (13) vs GENESIS (4)  
 ---  
 
 ## Box Stats  

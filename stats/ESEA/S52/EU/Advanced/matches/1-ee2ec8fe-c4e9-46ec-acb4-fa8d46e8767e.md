@@ -1,8 +1,8 @@
 ### Match ID: 1-ee2ec8fe-c4e9-46ec-acb4-fa8d46e8767e  
-**Map**: de_mirage  
 **Match Date**: 2025-02-26  
-**Teams**: PCIFIC ESPOR (13) vs 777 Esport (3)  
+**Teams**: PCIFIC ESPOR vs 777 Esport  
 
+## **Map**: de_mirage - PCIFIC ESPOR (13) vs 777 Esport (3)  
 ---  
 
 ## Box Stats  

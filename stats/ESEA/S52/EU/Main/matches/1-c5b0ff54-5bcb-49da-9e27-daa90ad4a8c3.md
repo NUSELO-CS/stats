@@ -1,8 +1,8 @@
 ### Match ID: 1-c5b0ff54-5bcb-49da-9e27-daa90ad4a8c3  
-**Map**: de_ancient  
 **Match Date**: 2025-02-11  
-**Teams**: GOLIRA (7) vs Impulse GW (13)  
+**Teams**: GOLIRA vs Impulse GW  
 
+## **Map**: de_ancient - GOLIRA (7) vs Impulse GW (13)  
 ---  
 
 ## Box Stats  

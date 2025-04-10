@@ -1,8 +1,76 @@
 ### Match ID: 1-37c9bdb2-e6bd-42d0-ba9a-dd870f6ed0b4  
-**Map**: de_mirage  
 **Match Date**: 2025-03-26  
-**Teams**: 8Sins (13) vs ReasonGaming (9)  
+**Teams**: ReasonGaming vs 8Sins  
 
+## **Map**: de_inferno - ReasonGaming (9) vs 8Sins (13)  
+---  
+
+## Box Stats  
+
+| **ReasonGaming** | Player Stats      |        |           |          |       |      |       |         |        |      |     |
+| :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           | SteamID           | Rating | CT Rating | T Rating | KAST  | ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| FincHY-          | 76561198135939348 |  1.10  |   1.765   |  0.455   | 68.18 | 86.5 |  13   |    9    |   12   | 1.08 | 84  |
+| cJeCS            | 76561198160615851 |  1.05  |   1.741   |  0.478   | 72.73 | 63.8 |  14   |    3    |   13   | 1.08 | 78  |
+| m1she4ka         | 76561198922568025 |  0.92  |   1.210   |  0.679   | 72.73 | 59.7 |  13   |    3    |   16   | 0.81 | 53  |
+| Flicky           | 76561199131857801 |  0.78  |   1.204   |  0.442   | 72.73 | 51.7 |   8   |    4    |   13   | 0.62 | 25  |
+| v1ze666          | 76561198868453747 |  0.76  |   1.023   |  0.602   | 63.64 | 47.4 |   9   |    4    |   12   | 0.75 | 77  |
+|                  |                   |        |           |          |       |      |       |         |        |      |     |
+|                  |                   |        |           |          |       |      |       |         |        |      |     |
+|                  |                   |        |           |          |       |      |       |         |        |      |     |
+| **8Sins**        | Player Stats      |        |           |          |       |      |       |         |        |      |     |
+| Player           | SteamID           | Rating | CT Rating | T Rating | KAST  | ADR  | Kills | Assists | Deaths | K/D  | HS% |
+| Wolfie           | 76561198179278254 |  1.22  |   1.558   |  1.010   | 77.27 | 85.7 |  13   |    7    |   9    | 1.44 | 76  |
+| wfn              | 76561198154854774 |  1.20  |   1.892   |  0.712   | 72.73 | 83.4 |  16   |    6    |   13   | 1.23 | 43  |
+| moz              | 76561198154605739 |  1.17  |   1.693   |  0.731   | 72.73 | 61.7 |  15   |    1    |   9    | 1.67 | 40  |
+| Prime            | 76561198049733350 |  1.11  |   1.643   |  0.869   | 77.27 | 61.1 |  14   |    7    |   12   | 1.17 | 42  |
+| Dutchy03         | 76561198204052613 |  0.71  |   1.185   |  0.402   | 68.18 | 49.0 |   8   |    4    |   14   | 0.57 | 12  |
+---  
+
+## Contribution Stats  
+
+| **ReasonGaming** | Player Stats |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Rating    | KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| FincHY-          |     1.10     | 68.18 |        60.00         |                         100.00                         |           70.00           |                           100.00                            |          40.00           |                           100.00                           |
+| cJeCS            |     1.05     | 72.73 |        56.25         |                         100.00                         |           63.64           |                           100.00                            |          40.00           |                           100.00                           |
+| m1she4ka         |     0.92     | 72.73 |        50.00         |                         88.89                          |           70.00           |                           100.00                            |          16.67           |                           50.00                            |
+| Flicky           |     0.78     | 72.73 |        56.25         |                         100.00                         |           70.00           |                           100.00                            |          33.33           |                           100.00                           |
+| v1ze666          |     0.76     | 63.64 |        64.29         |                         100.00                         |           87.50           |                           100.00                            |          33.33           |                           100.00                           |
+|                  |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+|                  |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+|                  |              |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| **8Sins**        | Player Stats |       |                      |                                                        |                           |                                                             |                          |                                                            |
+| Player           |    Rating    | KAST  | KAST leading to win% | % of times you achieve a KAST in your teams won rounds | CT - KAST leading to win% | CT - % of times you achieve a KAST in your teams won rounds | T - KAST leading to win% | T - % of times you achieve a KAST in your teams won rounds |
+| Wolfie           |     1.22     | 77.27 |        70.59         |                         92.31                          |           80.00           |                           100.00                            |          57.14           |                           80.00                            |
+| wfn              |     1.20     | 72.73 |        81.25         |                         100.00                         |           80.00           |                           100.00                            |          83.33           |                           100.00                           |
+| moz              |     1.17     | 72.73 |        75.00         |                         92.31                          |           87.50           |                            87.50                            |          62.50           |                           100.00                           |
+| Prime            |     1.11     | 77.27 |        70.59         |                         92.31                          |           87.50           |                            87.50                            |          55.56           |                           100.00                           |
+| Dutchy03         |     0.71     | 68.18 |        80.00         |                         92.31                          |           88.89           |                           100.00                            |          66.67           |                           80.00                            |
+---  
+
+## Extended Box Stats  
+
+| **ReasonGaming** | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| FincHY-          |      13      |             23             |             15             |                 0                  |            0            |              85              |                0                |   12   |             25              |                 17                  |            0             |              50               |             8              |
+| cJeCS            |      14      |             21             |             14             |                 36                 |            0            |              71              |                7                |   13   |             38              |                  8                  |            0             |              77               |             0              |
+| m1she4ka         |      13      |             38             |             38             |                 15                 |            0            |              46              |               23                |   16   |             13              |                 13                  |            0             |              75               |             0              |
+| Flicky           |      8       |             25             |             13             |                 25                 |            0            |             100              |                0                |   13   |             23              |                  8                  |            0             |              69               |             0              |
+| v1ze666          |      9       |             22             |             11             |                 22                 |            0            |              78              |               22                |   12   |             25              |                  8                  |            0             |              58               |             0              |
+|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+|                  |              |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| **8Sins**        | Player Stats |                            |                            |                                    |                         |                              |                                 |        |                             |                                     |                          |                               |                            |
+| Player           |    Kills     | % of Kills that are trades | % of Kills that got traded | % of Kills against a lower economy | % of Kills against ecos | % of Kills that are flawless | % of Kills that are close duels | Deaths | % of Deaths that get traded | % of Deaths against a lower economy | % of Deaths against ecos | % of Deaths that are flawless | % of Deaths that are close |
+| Wolfie           |      13      |             31             |             15             |                 23                 |            0            |              46              |                8                |   9    |             22              |                 22                  |            0             |              78               |             33             |
+| wfn              |      16      |             0              |             19             |                 25                 |           13            |              81              |                0                |   13   |             15              |                 15                  |            0             |              85               |             8              |
+| moz              |      15      |             7              |             13             |                 53                 |           13            |              67              |                0                |   9    |              0              |                 11                  |            0             |              89               |             0              |
+| Prime            |      14      |             14             |             36             |                 36                 |            7            |              64              |                0                |   12   |             33              |                 33                  |            0             |              58               |             0              |
+| Dutchy03         |      8       |             25             |             50             |                 13                 |            0            |              75              |                0                |   14   |             21              |                 21                  |            0             |              79               |             14             |
+
+## **Map**: de_mirage - 8Sins (13) vs ReasonGaming (9)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-5be5ddaf-833d-4c1a-afd2-308c249ccbdb  
-**Map**: de_ancient  
 **Match Date**: 2025-01-23  
-**Teams**: Aetheris (3) vs getting info (13)  
+**Teams**: Aetheris vs getting info  
 
+## **Map**: de_ancient - Aetheris (3) vs getting info (13)  
 ---  
 
 ## Box Stats  

@@ -1,8 +1,8 @@
 ### Match ID: 1-7af61ac0-cced-446d-b6fb-3a4fc955d29f  
-**Map**: de_anubis  
 **Match Date**: 2025-03-19  
-**Teams**: BESTIA (13) vs KRU ESPORTS (10)  
+**Teams**: BESTIA vs KRU ESPORTS  
 
+## **Map**: de_anubis - BESTIA (13) vs KRU ESPORTS (10)  
 ---  
 
 ## Box Stats  

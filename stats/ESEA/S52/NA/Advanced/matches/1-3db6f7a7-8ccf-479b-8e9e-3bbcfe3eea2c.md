@@ -1,8 +1,8 @@
 ### Match ID: 1-3db6f7a7-8ccf-479b-8e9e-3bbcfe3eea2c  
-**Map**: de_mirage  
 **Match Date**: 2025-01-21  
-**Teams**: Wanted Goons (8) vs Straight2Killin (13)  
+**Teams**: Wanted Goons vs Straight2Killin  
 
+## **Map**: de_mirage - Wanted Goons (8) vs Straight2Killin (13)  
 ---  
 
 ## Box Stats  

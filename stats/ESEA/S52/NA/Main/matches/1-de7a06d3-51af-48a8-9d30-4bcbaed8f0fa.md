@@ -1,8 +1,8 @@
 ### Match ID: 1-de7a06d3-51af-48a8-9d30-4bcbaed8f0fa  
-**Map**: de_nuke  
 **Match Date**: 2025-02-12  
-**Teams**: PeaceMakers (13) vs big water (8)  
+**Teams**: PeaceMakers vs big water  
 
+## **Map**: de_nuke - PeaceMakers (13) vs big water (8)  
 ---  
 
 ## Box Stats  
